@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-04T22:50:31.584Z",
+  "updatedAt": "2026-09-04T23:23:24.616Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -17,7 +17,7 @@
       "value": "",
       "url": "https://www.appinn.com/radicle/",
       "expiresAt": null,
-      "publishedAt": "2026-09-03T14:25:01.000Z",
+      "publishedAt": "2026-09-03T14:25:04.000Z",
       "hot": 154,
       "tags": [
         "RSS",
@@ -111,23 +111,6 @@
       "_score": 4
     },
     {
-      "id": "rss-eh6zzp",
-      "title": "泰坦军团 P276MV ULTRA 显示器开售：27 英寸 QD-Mini LED 4K 双模，政府补贴价 2999 元",
-      "desc": "<p data-vmark=\"3d58\">IT之家 9 月 4 日消息，泰坦军团 P276MV ULTRA 显示器现已开售，定价 3332 元，<strong>政府补贴价 2999 元</strong>。</p><p data-vmark=\"94d0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bab35116-c3be-4035-bd0c-fb973fe95917.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"60",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/538.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T09:32:15.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-ljqlwz",
       "title": "Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复",
       "desc": "",
@@ -160,6 +143,23 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-eh6zzp",
+      "title": "泰坦军团 P276MV ULTRA 显示器开售：27 英寸 QD-Mini LED 4K 双模，政府补贴价 2999 元",
+      "desc": "<p data-vmark=\"3d58\">IT之家 9 月 4 日消息，泰坦军团 P276MV ULTRA 显示器现已开售，定价 3332 元，<strong>政府补贴价 2999 元</strong>。</p><p data-vmark=\"94d0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bab35116-c3be-4035-bd0c-fb973fe95917.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"60",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/538.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-04T09:32:15.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "seed-001",
@@ -702,32 +702,6 @@
           "购买中秋限定套餐（26.9 元起）获抽奖资格",
           "大奖为王者荣耀联名投影灯（实物快递发货）+ 游戏礼包",
           "开售前几天蹲点，联名实物限量、抽完即止"
-        ]
-      }
-    },
-    {
-      "id": "seed-026",
-      "title": "美团/饿了么「霸王餐」超级满返·满 20 返 10",
-      "desc": "美团、饿了么部分商家「霸王餐」返现活动：下单满 20 返 10、满 10 返 6/5 元，最高返现比例可达 50.4%，返现直接回到支付账户",
-      "channel": "美团",
-      "category": "外卖",
-      "value": "最高返 50.4%",
-      "url": "https://waimai.meituan.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T12:00:00+08:00",
-      "hot": 8120,
-      "tags": [
-        "霸王餐",
-        "返现",
-        "长期"
-      ],
-      "guide": {
-        "title": "霸王餐满返薅法",
-        "steps": [
-          "美团/饿了么商家页找带「霸王餐」「满返」标识的店铺",
-          "下单满 20 返 10（或满 10 返 6/5），最高返现 50.4%",
-          "返现一般 1-3 天到账支付账户/零钱，记得核销",
-          "叠加店铺满减 + 红包下单，实际到手价更低"
         ]
       }
     }
