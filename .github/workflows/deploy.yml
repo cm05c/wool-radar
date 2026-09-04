@@ -1,0 +1,69 @@
+name: Fetch & Deploy
+
+on:
+  schedule:
+    - cron: "13,43 * * * *"   # 每小时的第 13/43 分各抓取一次（错峰，约每 30 分钟一轮）
+  workflow_dispatch: {}         # 支持手动触发
+  push:
+    branches: [main]            # 代码变更也自动部署
+
+permissions:
+  contents: write       # 允许抓取脚本回写 data/deals.json
+  pages: write          # 允许部署 GitHub Pages
+  id-token: write       # Pages 部署所需的 OIDC 令牌
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch deals
+        run: node fetcher/fetch.mjs
+
+      # 数据有变化才提交，避免仓库产生无意义提交
+      - name: Commit updated data
+        run: |
+          git config user.name "wool-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/deals.json
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore(data): auto fetch $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages（自动开启 Pages，无需手动设置）
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
