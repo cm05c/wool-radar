@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:26:41.558Z",
+  "updatedAt": "2026-09-05T01:23:45.748Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,23 +94,6 @@
       "_score": 4
     },
     {
-      "id": "rss-bqrts2",
-      "title": "仅为原价的 1.3-8%，Meta 为 Muse Spark AI 模型推出数据共享折扣计划",
-      "desc": "<p data-vmark=\"821a\">IT之家 9 月 4 日消息，据 TechCrunch 报道，大多数 AI 工具都允许用户选择退出数据共享，防止自己的使用记录被模型提供商用于迭代后续版本。而 Meta 却反其道而行之，直接为这项选择明码标价。</p><p data-vmark=\"73f8\">针对新款 Muse Spark 模型（Muse Spark 1.2、1.3），Meta 推出了一项力度极大的折扣策略：<strong>只要用户同意共享自己的提示词（Prompt）和模型生成结果，为后续模型开发“作出贡献”，即可享受极大的价格优惠</strong>：</p><ul class=\"me",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/591.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T12:31:48.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-ljqlwz",
       "title": "Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复",
       "desc": "",
@@ -143,6 +126,41 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-1lsctk",
+      "title": "7999 元戴尔最轻 XPS 13 Air 开售：酷睿 5 320 处理器 + 16GB 内存，重约 1kg",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 5 日消息，戴尔新款 XPS 13 Air 轻薄本已在京东独家开售，日常定价为 8499 元，首发提供 500 元优惠券，叠加国补后到手价 6799.15 元，支持 3 期免息，提供 2 年上门服务。</p><p data-vmark=\"cad4\">这款机型是戴尔目前最轻薄的 XPS 笔记本，机身最厚处 12.7mm，重量约 1kg。；机身采用 CNC 一体成型工艺，材质为铝材。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xGqhIJH\" target=\"_bl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/0/998/667.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T01:18:55.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-bqrts2",
+      "title": "仅为原价的 1.3-8%，Meta 为 Muse Spark AI 模型推出数据共享折扣计划",
+      "desc": "<p data-vmark=\"821a\">IT之家 9 月 4 日消息，据 TechCrunch 报道，大多数 AI 工具都允许用户选择退出数据共享，防止自己的使用记录被模型提供商用于迭代后续版本。而 Meta 却反其道而行之，直接为这项选择明码标价。</p><p data-vmark=\"73f8\">针对新款 Muse Spark 模型（Muse Spark 1.2、1.3），Meta 推出了一项力度极大的折扣策略：<strong>只要用户同意共享自己的提示词（Prompt）和模型生成结果，为后续模型开发“作出贡献”，即可享受极大的价格优惠</strong>：</p><ul class=\"me",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/591.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-04T12:31:48.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-eh6zzp",
