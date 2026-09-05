@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:48:55.406Z",
+  "updatedAt": "2026-09-05T19:01:16.245Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,23 @@
       "_score": 2
     },
     {
+      "id": "rss-tgp348",
+      "title": "奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等",
+      "desc": "<p data-vmark=\"ecd2\">IT之家 9 月 5 日消息，奇瑞旗下风云 T11 今日开启第二次 OTA 全域推送，带来 9 项全新功能、4 项深度优化。</p><p data-vmark=\"251f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1604e784-14ff-4751-9a05-c24733212630.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"0\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/832.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T14:27:17.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-vz31f7",
       "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
       "desc": "",
@@ -126,24 +143,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-tgp348",
-      "title": "奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等",
-      "desc": "<p data-vmark=\"ecd2\">IT之家 9 月 5 日消息，奇瑞旗下风云 T11 今日开启第二次 OTA 全域推送，带来 9 项全新功能、4 项深度优化。</p><p data-vmark=\"251f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1604e784-14ff-4751-9a05-c24733212630.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"0\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/832.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T14:27:17.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-30dfes",
