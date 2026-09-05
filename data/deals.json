@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-05T01:23:45.748Z",
+  "updatedAt": "2026-09-05T06:18:42.083Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -77,21 +77,21 @@
       "_score": 2
     },
     {
-      "id": "rss-19kyqc",
-      "title": "戴森推出 W1 PencilWash 洗地机：支持 180° 真躺平，到手价 1997 元",
-      "desc": "<p data-vmark=\"5314\">IT之家 9 月 4 日消息，戴森现已推出 W1 PencilWash 洗地机，将于 9 月 8 日开售，售价 2499 元，领券立减 150 元叠加焕新补贴 85 折最终<strong>到手价 1997 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fb93\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0fc4e031-6411-4d97-8858-ee242f066db9.jpg?x-bce-process=i",
+      "id": "rss-1lsctk",
+      "title": "7999 元戴尔最轻 XPS 13 Air 开售：酷睿 5 320 处理器 + 16GB 内存，重约 1kg",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 5 日消息，戴尔新款 XPS 13 Air 轻薄本已在京东独家开售，日常定价为 8499 元，首发提供 500 元优惠券，叠加国补后到手价 6799.15 元，支持 3 期免息，提供 2 年上门服务。</p><p data-vmark=\"cad4\">这款机型是戴尔目前最轻薄的 XPS 笔记本，机身最厚处 12.7mm，重量约 1kg。；机身采用 CNC 一体成型工艺，材质为铝材。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xGqhIJH\" target=\"_bl",
       "channel": "IT之家",
       "category": "资讯",
       "value": "5 折",
-      "url": "https://www.ithome.com/0/998/605.htm",
+      "url": "https://www.ithome.com/0/998/667.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-04T14:04:01.000Z",
+      "publishedAt": "2026-09-05T01:18:55.000Z",
       "hot": 149,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4
+      "_score": 3
     },
     {
       "id": "rss-ljqlwz",
@@ -128,22 +128,75 @@
       "_score": 2
     },
     {
-      "id": "rss-1lsctk",
-      "title": "7999 元戴尔最轻 XPS 13 Air 开售：酷睿 5 320 处理器 + 16GB 内存，重约 1kg",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 5 日消息，戴尔新款 XPS 13 Air 轻薄本已在京东独家开售，日常定价为 8499 元，首发提供 500 元优惠券，叠加国补后到手价 6799.15 元，支持 3 期免息，提供 2 年上门服务。</p><p data-vmark=\"cad4\">这款机型是戴尔目前最轻薄的 XPS 笔记本，机身最厚处 12.7mm，重量约 1kg。；机身采用 CNC 一体成型工艺，材质为铝材。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xGqhIJH\" target=\"_bl",
+      "id": "rss-30dfes",
+      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
+      "desc": "<p data-vmark=\"f84b\">IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。</p><p style=\"text-align: center;\" data-vmark=\"234f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/40e6e911-9963-4218-921e-acf865b78eff.png",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/0/998/667.htm",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/696.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-05T01:18:55.000Z",
-      "hot": 149,
+      "publishedAt": "2026-09-05T03:08:45.000Z",
+      "hot": 151,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-2jvlly",
+      "title": "掌阅 Tango2S 墨水屏电纸书上架预约：5.84 英寸 Carta 1300 面板、9 月 8 日上市",
+      "desc": "<p data-vmark=\"628f\">IT之家 9 月 5 日消息，掌阅旗下 Tango2S 黑白墨水屏手机造型电纸书现已在京东上架并开启预约，该机主要在 Tango2 的基础上进一步缩小尺寸，号称首度为 5.84 英寸机型引入 300PPI Carta 1300 面板，主打清晰度体验，<strong>将于 9 月 8 日发布</strong>，商品页面显示该机定价预计为 1699 元，同时首发可享限时 100 元优惠。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xgzagd9\" target=\"_blank\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/687.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T02:39:48.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-vz31f7",
+      "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126688.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T04:16:44.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-19kyqc",
+      "title": "戴森推出 W1 PencilWash 洗地机：支持 180° 真躺平，到手价 1997 元",
+      "desc": "<p data-vmark=\"5314\">IT之家 9 月 4 日消息，戴森现已推出 W1 PencilWash 洗地机，将于 9 月 8 日开售，售价 2499 元，领券立减 150 元叠加焕新补贴 85 折最终<strong>到手价 1997 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fb93\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0fc4e031-6411-4d97-8858-ee242f066db9.jpg?x-bce-process=i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/0/998/605.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-04T14:04:01.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-bqrts2",
