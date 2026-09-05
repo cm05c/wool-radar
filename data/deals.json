@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-05T10:55:03.792Z",
+  "updatedAt": "2026-09-05T13:51:32.904Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
@@ -77,23 +77,6 @@
       "_score": 2
     },
     {
-      "id": "rss-30dfes",
-      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
-      "desc": "<p data-vmark=\"f84b\">IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。</p><p style=\"text-align: center;\" data-vmark=\"234f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/40e6e911-9963-4218-921e-acf865b78eff.png",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/696.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T03:08:45.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-vz31f7",
       "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
       "desc": "",
@@ -143,6 +126,23 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-30dfes",
+      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
+      "desc": "<p data-vmark=\"f84b\">IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。</p><p style=\"text-align: center;\" data-vmark=\"234f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/40e6e911-9963-4218-921e-acf865b78eff.png",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/696.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T03:08:45.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-1lsctk",
