@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:55:16.020Z",
+  "updatedAt": "2026-09-06T10:52:00.938Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,40 @@
       "_score": 2
     },
     {
+      "id": "rss-s8ydg0",
+      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
+      "desc": "<p data-vmark=\"fede\">IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"1890\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7598a5d-cbac-4f32-8be7-96f5fac35c41.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"13",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/906.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T03:12:26.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-wetdmx",
+      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
+      "desc": "<p data-vmark=\"60d7\">IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。</p><p data-vmark=\"f796\">据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。</p><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/899.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T02:54:21.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-vz31f7",
       "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
       "desc": "",
@@ -128,34 +162,34 @@
       "_score": 2
     },
     {
-      "id": "rss-s8ydg0",
-      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
-      "desc": "<p data-vmark=\"fede\">IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"1890\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7598a5d-cbac-4f32-8be7-96f5fac35c41.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"13",
+      "id": "rss-qux3g5",
+      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
+      "desc": "<p data-vmark=\"508e\">IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p da",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/0/998/906.htm",
+      "url": "https://www.ithome.com/0/998/934.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T03:12:26.000Z",
-      "hot": 215,
+      "publishedAt": "2026-09-06T07:10:22.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 4,
       "verified": true
     },
     {
-      "id": "rss-wetdmx",
-      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
-      "desc": "<p data-vmark=\"60d7\">IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。</p><p data-vmark=\"f796\">据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。</p><p data",
+      "id": "rss-qvgw1i",
+      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
+      "desc": "<p data-vmark=\"29de\">IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\" data-vmark=\"04ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc03958e-371f-433b-b829-b0d0b52cd036.jpg?x-bce-process=image/format,f_auto\" w=\"134",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/0/998/899.htm",
+      "url": "https://www.ithome.com/0/998/933.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T02:54:21.000Z",
-      "hot": 219,
+      "publishedAt": "2026-09-06T07:08:53.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
