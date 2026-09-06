@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T00:54:18.086Z",
+  "updatedAt": "2026-09-06T05:55:16.020Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -77,23 +77,6 @@
       "_score": 2
     },
     {
-      "id": "rss-tgp348",
-      "title": "奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等",
-      "desc": "<p data-vmark=\"ecd2\">IT之家 9 月 5 日消息，奇瑞旗下风云 T11 今日开启第二次 OTA 全域推送，带来 9 项全新功能、4 项深度优化。</p><p data-vmark=\"251f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1604e784-14ff-4751-9a05-c24733212630.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"0\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/832.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T14:27:17.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-vz31f7",
       "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
       "desc": "",
@@ -143,6 +126,95 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-s8ydg0",
+      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
+      "desc": "<p data-vmark=\"fede\">IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"1890\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7598a5d-cbac-4f32-8be7-96f5fac35c41.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"13",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/906.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T03:12:26.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-wetdmx",
+      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
+      "desc": "<p data-vmark=\"60d7\">IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。</p><p data-vmark=\"f796\">据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。</p><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/899.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T02:54:21.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-vx7ynd",
+      "title": "策略游戏《席德 · 梅尔的文明 VII》在 Steam 平台开启限时免费试玩活动，持续至 9 月 11 日",
+      "desc": "<p data-vmark=\"1eeb\">IT之家 9 月 6 日消息，策略游戏《席德 · 梅尔的文明 VII（文明 7，Sid Meier's Civilization VII）》现已在 Steam 开启限时免费试玩活动，玩家无需购买即可体验完整游戏内容，活动将持续至北京时间 9 月 11 日凌晨 1 点，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/?l=tchinese\" target=\"_blank\"><span class=\"link-text-st",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "半价",
+      "url": "https://www.ithome.com/0/998/888.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T01:59:04.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-vwo620",
+      "title": "微星推出 PRO COREFROZR AR15 风冷散热器：配备 5 根 6 mm 热管，160 元",
+      "desc": "<p data-vmark=\"2df2\">IT之家 9 月 6 日消息，微星现已在京东上架 PRO COREFROZR AR15 风冷散热器，将于 9 月 13 日开启首销，首发价 160 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xg6j8qA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xr6xqIR\" data-iosurl=\"https://u.jd.com/x66Xe7F\" data-androidurl=\"https://u.jd.com/xg6oGC9",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/887.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T01:54:33.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-tgp348",
+      "title": "奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等",
+      "desc": "<p data-vmark=\"ecd2\">IT之家 9 月 5 日消息，奇瑞旗下风云 T11 今日开启第二次 OTA 全域推送，带来 9 项全新功能、4 项深度优化。</p><p data-vmark=\"251f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1604e784-14ff-4751-9a05-c24733212630.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"0\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/832.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T14:27:17.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-u11h2l",
