@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T21:19:07.465Z",
+  "updatedAt": "2026-09-06T23:09:33.420Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -128,40 +128,6 @@
       "_score": 3
     },
     {
-      "id": "rss-qux3g5",
-      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
-      "desc": "<p data-vmark=\"508e\">IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/998/934.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-06T07:10:22.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-qvgw1i",
-      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
-      "desc": "<p data-vmark=\"29de\">IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\" data-vmark=\"04ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc03958e-371f-433b-b829-b0d0b52cd036.jpg?x-bce-process=image/format,f_auto\" w=\"134",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/933.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-06T07:08:53.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-vz31f7",
       "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
       "desc": "",
@@ -211,6 +177,40 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-qux3g5",
+      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
+      "desc": "<p data-vmark=\"508e\">IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/934.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T07:10:22.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-qvgw1i",
+      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
+      "desc": "<p data-vmark=\"29de\">IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\" data-vmark=\"04ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc03958e-371f-433b-b829-b0d0b52cd036.jpg?x-bce-process=image/format,f_auto\" w=\"134",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/933.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T07:08:53.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-s8ydg0",
