@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T10:52:00.938Z",
+  "updatedAt": "2026-09-06T14:08:49.686Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -77,33 +77,33 @@
       "_score": 2
     },
     {
-      "id": "rss-s8ydg0",
-      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
-      "desc": "<p data-vmark=\"fede\">IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"1890\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7598a5d-cbac-4f32-8be7-96f5fac35c41.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"13",
+      "id": "rss-qux3g5",
+      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
+      "desc": "<p data-vmark=\"508e\">IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p da",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/0/998/906.htm",
+      "url": "https://www.ithome.com/0/998/934.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T03:12:26.000Z",
-      "hot": 215,
+      "publishedAt": "2026-09-06T07:10:22.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2
+      "_score": 4
     },
     {
-      "id": "rss-wetdmx",
-      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
-      "desc": "<p data-vmark=\"60d7\">IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。</p><p data-vmark=\"f796\">据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。</p><p data",
+      "id": "rss-qvgw1i",
+      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
+      "desc": "<p data-vmark=\"29de\">IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\" data-vmark=\"04ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc03958e-371f-433b-b829-b0d0b52cd036.jpg?x-bce-process=image/format,f_auto\" w=\"134",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/0/998/899.htm",
+      "url": "https://www.ithome.com/0/998/933.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T02:54:21.000Z",
-      "hot": 219,
+      "publishedAt": "2026-09-06T07:08:53.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -162,40 +162,92 @@
       "_score": 2
     },
     {
-      "id": "rss-qux3g5",
-      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
-      "desc": "<p data-vmark=\"508e\">IT之家 9 月 6 日消息，雷鸟今日宣布推出鹤 6 Ultra 竞技款电视，现已在京东开启预售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p da",
+      "id": "rss-oadvgm",
+      "title": "AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元",
+      "desc": "<p data-vmark=\"c032\">IT之家 9 月 6 日消息，据央视财经报道，随着 AI 短剧、数字广告产业快速扩张，<strong>数字人脸素材采购需求持续高涨</strong>。</p><p data-vmark=\"1687\">一门特殊的生意 ——“人脸授权”也因此火了起来。不用出镜拍戏、无需线下试镜，<strong>依靠自己的面部形象就能赚取收益</strong>。</p><p data-vmark=\"c104\">IT之家从报道获悉，平台工作人员表示，根据授权人不同，AI 数字形象分为普通人和专业演员两大类：</p><ul class=\" list-paddingleft-2\"",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/0/998/934.htm",
+      "url": "https://www.ithome.com/0/999/037.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T07:10:22.000Z",
-      "hot": 213,
+      "publishedAt": "2026-09-06T14:06:14.000Z",
+      "hot": 211,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
+      "_score": 2,
       "verified": true
     },
     {
-      "id": "rss-qvgw1i",
-      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
-      "desc": "<p data-vmark=\"29de\">IT之家 9 月 6 日消息，特斯拉已开始逐步推送 FSD v14.3.9（监督版），新版本加入了一层主动安全机制，即使车辆当前由驾驶员手动驾驶，该功能也可以在必要时接管车辆。</p><p style=\"text-align: center;\" data-vmark=\"04ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc03958e-371f-433b-b829-b0d0b52cd036.jpg?x-bce-process=image/format,f_auto\" w=\"134",
+      "id": "rss-o86p36",
+      "title": "《文明 7》公布更新计划：2027 年推免费大更新 + 首个付费 DLC",
+      "desc": "<p data-vmark=\"8d85\">IT之家 9 月 6 日消息，在 PAX West 游戏展上，为庆祝《文明》系列迎来 35 周年，2K 与 Firaxis Games 今日公布了《席德 · 梅尔的文明 VII》（Sid Meier's Civilization VII）的后续更新计划。</p><p style=\"text-align: center;\" data-vmark=\"5e99\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0de50b13-391f-4597-8fca-ea4e88ecc0a5.jpg?x-",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/0/998/933.htm",
+      "url": "https://www.ithome.com/0/999/033.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-06T07:08:53.000Z",
-      "hot": 213,
+      "publishedAt": "2026-09-06T13:21:58.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-nbqu2v",
+      "title": "首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座轻松洗",
+      "desc": "<p data-vmark=\"0000\">小米新一代米家破壁机 3 现已开启预售，主打可拆洗刀座设计与多重降噪结构，京东售价 389 元，叠加国补后到手价 330.65 元起。</p><p data-vmark=\"c0ab\">晒单返 20 元京豆，折合仅需 310.65 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xOa1MsK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/x1a1hZH\" data-iosurl=\"https://u.jd.com/xOayPQn\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/999/016.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T11:23:10.000Z",
+      "hot": 210,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-s8ydg0",
+      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
+      "desc": "<p data-vmark=\"fede\">IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。</p><p style=\"text-align: center;\" data-vmark=\"1890\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b7598a5d-cbac-4f32-8be7-96f5fac35c41.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"13",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/998/906.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T03:12:26.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-wetdmx",
+      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
+      "desc": "<p data-vmark=\"60d7\">IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。</p><p data-vmark=\"f796\">据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。</p><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/899.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-06T02:54:21.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-vx7ynd",
