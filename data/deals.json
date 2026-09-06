@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-05T22:55:54.395Z",
+  "updatedAt": "2026-09-06T00:54:18.086Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -143,6 +143,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-u11h2l",
+      "title": "reMarkable 为旗下墨水屏电纸书推送 3.28 版系统更新：全新 Capture 工具、支持从网盘快速导入图片",
+      "desc": "<p data-vmark=\"c201\">IT之家 9 月 6 日消息，reMarkable 现已为旗下墨水屏电纸书推送 3.28 版系统更新，带来全新的 Capture 工具、更多颜色选项以及改进后的 EPUB 阅读体验，同时优化文件管理和分享功能，并修复了一些已知问题。</p><p data-vmark=\"d8f8\">IT之家获悉，此次更新最大的亮点是新增 Capture 工具，旨在简化用户复制屏幕视觉内容的操作。用户可以通过 Selection Tool 选择 Capture 功能，然后在屏幕上以任意形状圈选内容，被选中的区域会转换为图片，之后可以在当前笔记中移动，也可以直接复制到其他笔",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/998/848.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T23:09:57.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-tze3ai",
+      "title": "Epic 喜加一：原价 31 元二战题材射击游戏《Beach Invasion 1944》免费领",
+      "desc": "<p data-vmark=\"55fd\">IT之家 9 月 6 日消息，由独立游戏团队 AIx2 Games 开发的二战题材射击游戏《Beach Invasion 1944》目前正在 Epic Games Store 开启限时免费“喜加一”活动，<strong>本作在国区定价为 31 元</strong>，玩家可以在 9 月 7 日前免费领取。</p><p data-vmark=\"40d7\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/beach-invas",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/0/998/845.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-05T22:59:29.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7,
+      "verified": true
     },
     {
       "id": "rss-30dfes",
