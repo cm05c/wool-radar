@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-07T21:29:06.363Z",
+  "updatedAt": "2026-09-07T23:45:28.451Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-p4tluw",
+      "title": "拯救者云游戏掌机 C700 开售：支持云游戏 +PC 串流，1799 元起",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 8 日消息，联想拯救者云游戏掌机 C700 今日正式开售，建议零售价 2199 元，首发 1799 元，叠加教育优惠后 1599 元，叠加复购券 1699 元，双重叠加 1499 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xa3gh7b\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xD3SgG9\" data-iosurl=\"https://u.jd.com/xD3BtCA\" data-androidurl=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/0/999/501.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T23:18:56.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-oadvgm",
