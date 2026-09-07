@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-07T01:00:58.493Z",
+  "updatedAt": "2026-09-07T06:04:13.192Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 14,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-4j1g3l",
+      "title": "[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/download/126726.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T04:57:56.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-vi1f10",
+      "title": "赛博善人！Cloudflare Workers放宽代码体积限制 免费和付费套餐均提高至64MiB",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126689.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T02:48:46.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-oadvgm",
