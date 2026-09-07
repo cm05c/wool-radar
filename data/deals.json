@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-07T12:25:42.094Z",
+  "updatedAt": "2026-09-07T17:54:38.475Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -24,6 +24,23 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-inq5qc",
+      "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
+      "desc": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "0元",
+      "url": "https://www.iplaysoft.com/opencut.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T11:06:27.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-pkmouo",
@@ -75,6 +92,23 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ch05yj",
+      "title": "首发支持国补：小米手环 11 NFC 版折后 288 元，立享 50 元补贴",
+      "desc": "<p data-vmark=\"f685\">全新小米手环 11 将在今天开售，售价如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"e49e\">小米手环 11：建议零售价 299 元起、首销到手价 289 元，国补后 245.65 元。</p></li><li><p data-vmark=\"c23b\">小米手环 11 NFC 版：建议零售价 349 元起、首销到手价 339 元，<strong>国补后 288.15 元</strong>。</p></li><li><p data-vmark=\"0cb3\">小米",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/999/449.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T12:05:40.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-4j1g3l",
@@ -162,39 +196,39 @@
       "_score": 2
     },
     {
-      "id": "rss-inq5qc",
-      "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
-      "desc": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "0元",
-      "url": "https://www.iplaysoft.com/opencut.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T11:06:27.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ch05yj",
-      "title": "首发支持国补：小米手环 11 NFC 版折后 288 元，立享 50 元补贴",
-      "desc": "<p data-vmark=\"f685\">全新小米手环 11 将在今天开售，售价如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"e49e\">小米手环 11：建议零售价 299 元起、首销到手价 289 元，国补后 245.65 元。</p></li><li><p data-vmark=\"c23b\">小米手环 11 NFC 版：建议零售价 349 元起、首销到手价 339 元，<strong>国补后 288.15 元</strong>。</p></li><li><p data-vmark=\"0cb3\">小米",
+      "id": "rss-cweekn",
+      "title": "20.99 万元，小米澎程 N70 Pro 中大型五座增程 SUV 发布",
+      "desc": "<p data-vmark=\"81fd\">IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会中，小米澎程 N70 Pro 中大型五座增程 SUV 正式发布，<strong>定价为 20.99 万元</strong>，首销期间赠前排免费旋转座椅、8000 元轮毂选装券和 3000 元车漆选装券。</p><p data-vmark=\"4fe2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/44e06918-f5bb-4f50-8f79-63012a6fabea.jp",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/0/999/449.htm",
+      "url": "https://www.ithome.com/0/999/456.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-07T12:05:40.000Z",
+      "publishedAt": "2026-09-07T12:35:27.000Z",
       "hot": 199,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ecmuxy",
+      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "desc": "<p data-vmark=\"991f\">IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\" data-vmark=\"4b70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/000ffaa5-ecac-4378-a13a-d4bd462f636f.jpg?x-bce-process=image/format,f_auto\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/488.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T14:40:44.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
