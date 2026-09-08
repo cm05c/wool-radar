@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T09:05:33.031Z",
+  "updatedAt": "2026-09-08T13:35:50.087Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -160,6 +160,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ebchh",
+      "title": "《女神异闻录》携手 GRAPHT，推出系列三十周年纪念联名周边",
+      "desc": "<p data-vmark=\"dbc0\">IT之家 9 月 8 日消息，世嘉 ATLUS 旗下《女神异闻录》(Persona) IP 官方当地时间本月 7 日宣布与 MSY 旗下 GRAPHT 品牌展开合作，<strong>推出《女神异闻录》系列三十周年纪念联名周边</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fc4f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2eadf2a0-63eb-44e0-b104-2401657ae41a.jpg?x-bce-p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/834.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-08T09:27:50.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-1busoi",
