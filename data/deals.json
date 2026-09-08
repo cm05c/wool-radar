@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-07T23:45:28.451Z",
+  "updatedAt": "2026-09-08T04:30:58.291Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -94,57 +94,6 @@
       "_score": 2
     },
     {
-      "id": "rss-ecmuxy",
-      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-      "desc": "<p data-vmark=\"991f\">IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\" data-vmark=\"4b70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/000ffaa5-ecac-4378-a13a-d4bd462f636f.jpg?x-bce-process=image/format,f_auto\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/488.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T14:40:44.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-cweekn",
-      "title": "20.99 万元，小米澎程 N70 Pro 中大型五座增程 SUV 发布",
-      "desc": "<p data-vmark=\"81fd\">IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会中，小米澎程 N70 Pro 中大型五座增程 SUV 正式发布，<strong>定价为 20.99 万元</strong>，首销期间赠前排免费旋转座椅、8000 元轮毂选装券和 3000 元车漆选装券。</p><p data-vmark=\"4fe2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/44e06918-f5bb-4f50-8f79-63012a6fabea.jp",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/999/456.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T12:35:27.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-ch05yj",
-      "title": "首发支持国补：小米手环 11 NFC 版折后 288 元，立享 50 元补贴",
-      "desc": "<p data-vmark=\"f685\">全新小米手环 11 将在今天开售，售价如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"e49e\">小米手环 11：建议零售价 299 元起、首销到手价 289 元，国补后 245.65 元。</p></li><li><p data-vmark=\"c23b\">小米手环 11 NFC 版：建议零售价 349 元起、首销到手价 339 元，<strong>国补后 288.15 元</strong>。</p></li><li><p data-vmark=\"0cb3\">小米",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/999/449.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T12:05:40.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-4j1g3l",
       "title": "[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题",
       "desc": "",
@@ -228,6 +177,93 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-tr3wxj",
+      "title": "小米推出 2899 元米家智能燃气热水器 2 静音一级能效 16L：内置 TSI 增压大水泵，热效率高达 107% 超国标一级能效",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 8 日消息，小米今日宣布推出米家智能燃气热水器 2 静音一级能效 16L，建议零售价 2999 元，首发价 2899 元，参与预售者尾款立减 200 元，叠加国补后 2294.15 元，9 月 15 日正式开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/x1y2GZt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/x6yvmsL\" data-iosurl=\"https://u.jd.com/xgyBQgv\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/0/999/634.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-08T03:48:32.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-qnt170",
+      "title": "部分 Win10/Win11 用户反馈微软 Bing 壁纸推送《哈利 · 波特》11 部电影合集广告",
+      "desc": "<p data-vmark=\"f691\">IT之家 9 月 8 日消息，科技媒体 Windows Latest 今天（9 月 8 日）发布博文，报道称微软通过 Windows 10、Windows 11 平台的 Bing Wallpaper 壁纸应用，<strong>推送《哈利 · 波特》11 部电影合集广告。</strong></p><p data-vmark=\"8931\">该媒体指出基于社区用户反馈，在装有 Bing Wallpaper 应用的部分 Windows 10、Windows 11 设备上，看到电影合集推广内容，其中涵盖《哈利 · 波特》系列 8 部电影，以及《神奇动物》系列 3",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/538.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-08T01:35:40.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ecmuxy",
+      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "desc": "<p data-vmark=\"991f\">IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\" data-vmark=\"4b70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/000ffaa5-ecac-4378-a13a-d4bd462f636f.jpg?x-bce-process=image/format,f_auto\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/488.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T14:40:44.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-cweekn",
+      "title": "20.99 万元，小米澎程 N70 Pro 中大型五座增程 SUV 发布",
+      "desc": "<p data-vmark=\"81fd\">IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会中，小米澎程 N70 Pro 中大型五座增程 SUV 正式发布，<strong>定价为 20.99 万元</strong>，首销期间赠前排免费旋转座椅、8000 元轮毂选装券和 3000 元车漆选装券。</p><p data-vmark=\"4fe2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/44e06918-f5bb-4f50-8f79-63012a6fabea.jp",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/999/456.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T12:35:27.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-ch05yj",
+      "title": "首发支持国补：小米手环 11 NFC 版折后 288 元，立享 50 元补贴",
+      "desc": "<p data-vmark=\"f685\">全新小米手环 11 将在今天开售，售价如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"e49e\">小米手环 11：建议零售价 299 元起、首销到手价 289 元，国补后 245.65 元。</p></li><li><p data-vmark=\"c23b\">小米手环 11 NFC 版：建议零售价 349 元起、首销到手价 339 元，<strong>国补后 288.15 元</strong>。</p></li><li><p data-vmark=\"0cb3\">小米",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/0/999/449.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-07T12:05:40.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-p4tluw",
