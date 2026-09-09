@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-09T01:14:15.551Z",
+  "updatedAt": "2026-09-09T06:41:06.830Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-xwe8s5",
+      "title": "WPS 挣钱京东花：WPS 京东 PLUS 联合会员补贴加码，低至 62 元 / 年",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年。</p><p data-vmark=\"6d9f\">联合会员含：<strong>京东 PLUS</strong> / 喜马拉雅 / 优酷视频 / 网易云音乐等。</p><p data-vmark=\"4b01\">今日可用 800 店铺积分兑换 40 元京东 E 卡，折合仅需 248 元即可入手。</p><blockquote><p data-vmark=\"aa0b\">800 店铺积分</p><ul class=\" list-paddingleft-2\"><li><p data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/182.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T06:25:16.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-xfwezb",
+      "title": "现货直降次日达：大疆 Osmo Pocket 4 云台相机 2949 元，搭 1 英寸传感器",
+      "desc": "<p data-vmark=\"4d73\">大疆今年 4 月发布 Osmo Pocket 4，该机搭载一英寸 CMOS，拥有 14 级宽广动态范围，并支持 10‑bit D‑Log 专业色彩模式，定价为 2999 元。</p><p data-vmark=\"25fa\">今日京东直降至 2949 元（每天限量 8000 台），支持包邮次日达：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c4fb\">先领 30 元加码券：<a href=\"https://coupon.m.jd.com/coupons/show.action?linkKe",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/173.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T06:03:48.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-wh9dlk",
+      "title": "2026 最大累积更新：微软推送 Win11 26x00.9445，任务栏首次正式支持 4 边停靠",
+      "desc": "<p data-vmark=\"a213\">IT之家 9 月 9 日消息，科技媒体 Windows Latest 今天（9 月 9 日）发布博文，测试了适用于 Windows 11 的 9 月累积更新 KB5124008，<strong>并认为是 2026 年微软推送的最大 Windows 11 累积更新。</strong></p><p data-vmark=\"afb2\">Windows 11 24H2 安装 KB5124008 之后，版本号升至 Build 26100.9445；而 Windows 11 25H2 安装该更新后，版本号升至 Build 26200.9445。</p><p dat",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/152.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T04:19:20.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-w0rjsq",
+      "title": "微软 Win10 推送 9 月 ESU 更新：扩大安全启动证书部署",
+      "desc": "<p data-vmark=\"0feb\">IT之家 9 月 9 日消息，在本月（2026 年 9 月）补丁星期二活动日（9 月 8 日）中，微软通过扩展安全更新 (ESU) 计划，面向 Windows 10 系统推送 KB5122878 累积更新，<strong>22H2 安装后版本号升至 Build 19045.7725；21H2 安装后版本号升至 Build 19044.7725。</strong></p><p style=\"text-align: center;\" data-vmark=\"393a\"><img src=\"https://img.ithome.com/newsuploadf",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/143.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T03:58:27.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-f866iy",
