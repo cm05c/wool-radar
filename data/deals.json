@@ -1,13 +1,47 @@
 {
-  "updatedAt": "2026-09-09T16:35:40.031Z",
+  "updatedAt": "2026-09-09T19:29:19.319Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-wgcu2p",
+      "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "8 折",
+      "url": "https://www.appinn.com/qiewenpaper-codex-2/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T08:31:15.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-5xcngn",
+      "title": "豆包输入法 - 免费清爽无广告的手机电脑 AI 语音输入法 (识别准确/中英混输/双拼)",
+      "desc": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/doubao-shurufa.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T12:38:14.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-inq5qc",
       "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
@@ -77,42 +111,6 @@
       "_score": 2
     },
     {
-      "id": "rss-wgcu2p",
-      "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "8 折",
-      "url": "https://www.appinn.com/qiewenpaper-codex-2/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T08:31:15.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-5xcngn",
-      "title": "豆包输入法 - 免费清爽无广告的手机电脑 AI 语音输入法 (识别准确/中英混输/双拼)",
-      "desc": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/doubao-shurufa.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T12:38:14.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-6vx8vr",
       "title": "《马力欧卡丁车世界》今日推送免费更新，新增 10 条 SNES 经典赛道",
       "desc": "<p data-vmark=\"b7b0\">IT之家 9 月 9 日消息，任天堂宣布，《马力欧卡丁车世界》将于今日晚些时候推送更新，加入经典 SNES 赛道、淘汰赛赛道以及更多内容。</p><p style=\"text-align: center;\" data-vmark=\"b1c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/505fa285-b49f-4d9f-933c-5dba1c8bee8e.jpg?x-bce-process=image/format,f_auto\" w=\"638\" h=\"480\" data-weib",
@@ -127,7 +125,78 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 5,
+      "_score": 5
+    },
+    {
+      "id": "rss-is8z42",
+      "title": "稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送",
+      "desc": "<p data-vmark=\"086e\">IT之家 9 月 10 日消息，<strong>苹果公司今日正式推送了 iOS / iPadOS 27 RC</strong>，这意味着新系统的稳定版发布已进入最后倒计时。</p><p data-vmark=\"ef20\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/525.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T19:03:46.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-hu5qbo",
+      "title": "苹果 iOS 27 系统 AirDrop 升级，隔空投送速度提升 80%",
+      "desc": "<p data-vmark=\"8a3a\">IT之家 9 月 10 日消息，在今天的 2026 苹果秋季新品发布会上，苹果宣布，在 iOS 27 系统上，AirDrop 迎来升级。</p><p style=\"text-align: center;\" data-vmark=\"cd80\"><a href=\"https://weibo.com/2575008657/RhnhlCFKd?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploa",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/505.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T17:57:22.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ipi059",
+      "title": "苹果 iPhone 17 涨价 800 元，现起售价 6799 元",
+      "desc": "<p data-vmark=\"cc48\">IT之家 9 月 10 日消息，在发布 iPhone 18 Pro 系列和 iPhone Duo 后，苹果官网显示 iPhone 17 手机起售价上调至 <strong>6,799 元起</strong>。</p><p data-vmark=\"a772\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4889f2e6-977c-4fdd-8182-1ccc3ceb221d.jpg\" w=\"513\" h=\"631\" data-mpos",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/520.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T18:38:35.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-irp6ip",
+      "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
+      "desc": "<p data-vmark=\"e923\">IT之家 9 月 10 日消息，在苹果 iPhone 18 Pro 系列发布后，苹果官网按照常规下架了 iPhone 17 Pro 系列。</p><p data-vmark=\"2b47\">与此同时，<strong>iPhone Air、iPhone 17、iPhone 17e、iPhone 16</strong> 四款老机型迎来同步涨价，看来苹果也没能顶得住压力。</p><p data-vmark=\"acf4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/524.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T18:55:08.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
