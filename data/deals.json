@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T22:58:04.593Z",
+  "updatedAt": "2026-09-09T01:14:15.551Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,23 @@
       "_score": 2
     },
     {
+      "id": "rss-f866iy",
+      "title": "产品尚未发布，苹果已为 Beats 360 耳机推送新固件",
+      "desc": "<p data-vmark=\"ce3c\">IT之家 9 月 9 日消息，除了 iOS / iPadOS 26.6.2 正式版更新之外，苹果同时还为其即将推出的 Beats 360 头戴式耳机推送了固件更新（版本号 4A203）。这意味着产品发布已临近。</p><p style=\"text-align: center;\" data-vmark=\"d391\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e39fe24d-2635-465f-9b8e-7798fc5b37a4.jpg?x-bce-process=image/form",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/954.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-08T22:41:24.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-4j1g3l",
       "title": "[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题",
       "desc": "",
@@ -162,21 +179,39 @@
       "_score": 2
     },
     {
-      "id": "rss-f866iy",
-      "title": "产品尚未发布，苹果已为 Beats 360 耳机推送新固件",
-      "desc": "<p data-vmark=\"ce3c\">IT之家 9 月 9 日消息，除了 iOS / iPadOS 26.6.2 正式版更新之外，苹果同时还为其即将推出的 Beats 360 头戴式耳机推送了固件更新（版本号 4A203）。这意味着产品发布已临近。</p><p style=\"text-align: center;\" data-vmark=\"d391\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e39fe24d-2635-465f-9b8e-7798fc5b37a4.jpg?x-bce-process=image/form",
+      "id": "rss-fryrvy",
+      "title": "iPhone 18 Pro 发布会前夕，苹果推送 140W USB-C 适配器固件更新",
+      "desc": "<p data-vmark=\"cfcb\">IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在 iPhone 18 Pro 系列发布会前夕，苹果向 140W USB-C 电源适配器（<a target=\"_blank\" href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f%2fwww.apple.com.cn%2fshop%2fproduct%2fmhy14ch%2fa\">点此前往苹果官网选购，售价 729 元</a>）推送固件更新，<strong>从 v1.4.84 升",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/0/999/954.htm",
+      "url": "https://www.ithome.com/0/999/969.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-08T22:41:24.000Z",
+      "publishedAt": "2026-09-08T23:54:48.000Z",
       "hot": 202,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-fqbe3v",
+      "title": "Sonos 27 音频系统更新：配对增强环绕声道、预览外部 AI 接入等",
+      "desc": "<p data-vmark=\"36e2\">IT之家 9 月 9 日消息，Sonos 昨日（9 月 8 日）发布新闻稿，宣布通过苹果 App Store 应用商店渠道，更新 Sonos 27 音频系统，并向 Sonos S2 系列产品免费推送。</p><p data-vmark=\"bcfe\">产品命名方面，伴随着 Sonos Beam Ultra 回音壁、Sonos Ace Ultra 头戴式耳机两款新品，<a href=\"https://www.ithome.com/0/997/168.htm\" target=\"_blank\">Sonos 于 9 月 1 日发布全新音频操作系统 Sonos 2",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/0/999/966.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-08T23:44:47.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
