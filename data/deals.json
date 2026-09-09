@@ -1,30 +1,13 @@
 {
-  "updatedAt": "2026-09-09T06:41:06.830Z",
+  "updatedAt": "2026-09-09T16:35:40.031Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-6p0s7p",
-      "title": "Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/radicle/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-03T14:25:04.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-inq5qc",
       "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
@@ -90,6 +73,95 @@
       "tags": [
         "RSS",
         "异次元软件·限免羊毛"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-wgcu2p",
+      "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "8 折",
+      "url": "https://www.appinn.com/qiewenpaper-codex-2/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T08:31:15.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-5xcngn",
+      "title": "豆包输入法 - 免费清爽无广告的手机电脑 AI 语音输入法 (识别准确/中英混输/双拼)",
+      "desc": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/doubao-shurufa.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T12:38:14.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-6vx8vr",
+      "title": "《马力欧卡丁车世界》今日推送免费更新，新增 10 条 SNES 经典赛道",
+      "desc": "<p data-vmark=\"b7b0\">IT之家 9 月 9 日消息，任天堂宣布，《马力欧卡丁车世界》将于今日晚些时候推送更新，加入经典 SNES 赛道、淘汰赛赛道以及更多内容。</p><p style=\"text-align: center;\" data-vmark=\"b1c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/505fa285-b49f-4d9f-933c-5dba1c8bee8e.jpg?x-bce-process=image/format,f_auto\" w=\"638\" h=\"480\" data-weib",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/481.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T15:14:08.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-5ifrh9",
+      "title": "腾讯 WorkBuddy 调整混元 Hy4 preview AI 模型限免权益",
+      "desc": "<p data-vmark=\"8694\">IT之家 9 月 9 日消息，腾讯 WorkBuddy 今日宣布，Hy4 preview 限免临近尾声，将于 2026 年 9 月 10 日 23:59 结束后，在 9 月 11 日至 10 月 10 日作出调整。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"992c\">对于 Hy4 preview 的新用户：包括 9 月 11 日及此后注册 WorkBuddy 的新用户，以及此前还没体验过 Hy4 preview 的老用户，只要在 10 月 10 日 23:59 前首次开启 Hy4 pr",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/000/454.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T13:50:19.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-6p0s7p",
+      "title": "Radicle – 免费去中心化代码托管，GitHub、GitLab 的替代品",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/radicle/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-03T14:25:04.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
       ],
       "_score": 2
     },
