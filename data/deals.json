@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-10T04:45:21.939Z",
+  "updatedAt": "2026-09-10T09:40:34.920Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 14,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-61vm0b",
+      "title": "支持 iPhone Duo 与 18 Pro 快充：苹果 40W AVS 充电头京东 329 → 255 元直降",
+      "desc": "<p data-vmark=\"fff4\">苹果 2025 年 9 月推出了“40W 动态电源适配器（至高 60W）”，官方定价 329 元。</p><p data-vmark=\"fe3c\">今日京东折后仅需 255 元，算自营好价啦，且无需担心售假等问题：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"860f\">先领 10 元配件券：<a href=\"https://u.jd.com/xGpDcz8\" target=\"_blank\" data-wapurl=\"https://u.jd.com/x6pg2Tx\" data-iosur",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/919.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T09:33:05.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-608888",
+      "title": "达音科新品 PRS 6 公布：品牌首款圈铁 MEMS 混合耳机，9 月 16 日开售、1680 元",
+      "desc": "<p data-vmark=\"d5ae\">IT之家 9 月 10 日消息，达音科今日在微博公布旗下耳机新品 PRS 6，新品将于 9 月 16 日 10:00 开售，<strong>定价 1680 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9c21\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4ba99c70-7b61-4620-b17f-3131cc8b7764.jpg?x-bce-process=image/format,f_auto\" w=\"14",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/916.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T09:27:40.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-43jt5e",
+      "title": "Brave Search API改为预付费(先充值)机制 不再提供独立免费套餐 但仍然可以免费用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126786.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T05:59:49.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-95plw2",
+      "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126793.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T07:10:44.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-yse8nb",
