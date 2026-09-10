@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T17:41:24.516Z",
+  "updatedAt": "2026-09-10T20:02:10.576Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -92,6 +92,40 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-d08l0k",
+      "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 10 日消息，Epic 本周送出的游戏是《天空奇兵》《星界战士》，下周送出的游戏是《心灵警探》《Shogun Showdown》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/luftrausers-51e5e9\">《天空奇兵》</a> 、<a href=\"https://store.epicgames.com/zh-CN/p/astral-ascent-b33bc2\">《星界战士》</a></p><p data-vmark=\"00",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/001/034.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T15:05:26.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-dxs17l",
+      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
+      "desc": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联邦工作人员使用该 AI 技术，可以享受标准售价五折优惠。</p><p data-vmark=\"f038\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsup",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/015.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T14:25:54.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-9qe10c",
@@ -228,42 +262,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-d08l0k",
-      "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 10 日消息，Epic 本周送出的游戏是《天空奇兵》《星界战士》，下周送出的游戏是《心灵警探》《Shogun Showdown》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/luftrausers-51e5e9\">《天空奇兵》</a> 、<a href=\"https://store.epicgames.com/zh-CN/p/astral-ascent-b33bc2\">《星界战士》</a></p><p data-vmark=\"00",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/001/034.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T15:05:26.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-dxs17l",
-      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-      "desc": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联邦工作人员使用该 AI 技术，可以享受标准售价五折优惠。</p><p data-vmark=\"f038\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsup",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/015.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T14:25:54.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-61vm0b",
