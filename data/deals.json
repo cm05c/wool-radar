@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:56:43.110Z",
+  "updatedAt": "2026-09-10T00:12:31.198Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -111,6 +111,23 @@
       "_score": 2
     },
     {
+      "id": "rss-joou4d",
+      "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
+      "desc": "<p data-vmark=\"fbc2\">IT之家 9 月 10 日消息，苹果 iPhone 18 Pro 系列手机今日正式发布，官方没有提到新机的内存容量，不过据 MacRumors 今日报道，在最新版本的 Xcode 27 中，苹果已透露了这一信息。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0ebf\">iPhone 18 Pro：<strong>12GB</strong></p></li><li><p data-vmark=\"a2d6\">iPhone 18 Pro Max：<strong>12GB</strong></p>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/000/542.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T20:49:11.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-is8z42",
       "title": "稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送",
       "desc": "<p data-vmark=\"086e\">IT之家 9 月 10 日消息，<strong>苹果公司今日正式推送了 iOS / iPadOS 27 RC</strong>，这意味着新系统的稳定版发布已进入最后倒计时。</p><p data-vmark=\"ef20\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4/415e6b6f-de4b-468d-be0e-b92e95688ee8.jpg?x-bce-process=image/watermark,image_aW1nL3d",
@@ -177,24 +194,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-joou4d",
-      "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
-      "desc": "<p data-vmark=\"fbc2\">IT之家 9 月 10 日消息，苹果 iPhone 18 Pro 系列手机今日正式发布，官方没有提到新机的内存容量，不过据 MacRumors 今日报道，在最新版本的 Xcode 27 中，苹果已透露了这一信息。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0ebf\">iPhone 18 Pro：<strong>12GB</strong></p></li><li><p data-vmark=\"a2d6\">iPhone 18 Pro Max：<strong>12GB</strong></p>",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/000/542.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T20:49:11.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-6vx8vr",
