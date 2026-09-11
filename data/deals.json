@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-11T05:15:07.690Z",
+  "updatedAt": "2026-09-11T09:59:57.722Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,60 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-i8qh0a",
+      "title": "小米米家石墨烯暖风机 C 预售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
+      "desc": "<p data-vmark=\"bbad\">IT之家 9 月 11 日消息，小米官方今日宣布，米家石墨烯暖风机 C 开启预售，建议零售价 249 元。新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"effe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/745d6671-73e5-4336-b7a1-f71f71cdee25.jpg?x-bce-process=image/format,f_auto\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/274.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T07:31:17.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-i6jamu",
+      "title": "蔚来乐道 L80“星光设计套装”发售：星瀚蓝车身色、21 英寸多辐玄晖轮圈，限时惊喜价 10080 元",
+      "desc": "<p data-vmark=\"d815\">IT之家 9 月 11 日消息，蔚来乐道汽车今日宣布，乐道 L80「星光设计套装」正式发售，官方售价 16,800 元，<strong>限时惊喜价 10,080 元</strong>。</p><p data-vmark=\"fdbe\">星光设计套装包含价值 8,000 元的全新“星瀚蓝”车身色以及价值 10,000 元的专属 21 英寸多辐玄晖轮圈。</p><p style=\"text-align: center;\" data-vmark=\"7ea5\"><img src=\"https://img.ithome.com/newsuploadfiles/20",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/270.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T07:22:03.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-vqc1du",
+      "title": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/5kplayer-iphone-manager/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T09:20:05.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4,
+      "verified": true
     },
     {
       "id": "rss-2nwbry",
