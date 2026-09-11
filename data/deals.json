@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-10T22:33:47.997Z",
+  "updatedAt": "2026-09-11T00:32:48.979Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -128,6 +128,76 @@
       "_score": 3
     },
     {
+      "id": "rss-95plw2",
+      "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126793.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T07:10:44.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-43jt5e",
+      "title": "Brave Search API改为预付费(先充值)机制 不再提供独立免费套餐 但仍然可以免费用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126786.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T05:59:49.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-an0h1l",
+      "title": "Steam 喜加一：复古弹幕射击游戏《Witchcraft：Candy Hunt》下架前免费领",
+      "desc": "<p data-vmark=\"a85d\">IT之家 9 月 11 日消息，由独立开发者 PixelCrown Games 制作的复古弹幕射击游戏《Witchcraft：Candy Hunt》将于近期从 Steam 商店下架，玩家可以在游戏下架前限时将其加入 Steam 游戏库，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2373360/Witchcraft_Candy_Hunt/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.stea",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/001/084.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T00:07:50.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-b4lw15",
+      "title": "200 → 400 元：苹果调整 42mm/46mm 规格 Apple Watch Series 12 差价",
+      "desc": "<p data-vmark=\"1d66\">IT之家 9 月 11 日消息，科技媒体 MacRumors 昨日（9 月 10 日）发布博文，报道称苹果美国商店调整 Apple Watch Series 12 智能手表定价，<strong>进一步拉开 42mm 和 46mm 规格之间的差价。</strong></p><p data-vmark=\"a1f2\">消息源指出 42mm 表壳的 Apple Watch Series 12 起售价仍为 399 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2,683 元人民币）</span>，而 46mm 表壳的",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/073.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T23:33:11.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-9qe10c",
       "title": "上汽 MG 07 上市 20 天大定锁单突破 4.2 万台，限时补贴价 10.59 万元起",
       "desc": "<p data-vmark=\"dd0d\">IT之家 9 月 10 日消息，上汽名爵 MG 07 上市 20 天大定超过 4.2 万台，限时补贴价 10.59 万元起。该车于 8 月 21 日成都车展上市，<strong>1 分 57 秒大定破万</strong>，远超去年 MG4 万纪录（39 分 37 秒）。</p><p style=\"text-align: center;\" data-vmark=\"bf3e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3cbf19dc-e113-40e7-acf9-1be5259732d",
@@ -228,40 +298,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-95plw2",
-      "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126793.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T07:10:44.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-43jt5e",
-      "title": "Brave Search API改为预付费(先充值)机制 不再提供独立免费套餐 但仍然可以免费用",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126786.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T05:59:49.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-61vm0b",
