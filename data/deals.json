@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:59:57.722Z",
+  "updatedAt": "2026-09-11T14:24:11.602Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-vqc1du",
+      "title": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/5kplayer-iphone-manager/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T09:20:05.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
+    },
     {
       "id": "rss-wgcu2p",
       "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
@@ -128,6 +145,42 @@
       "_score": 2
     },
     {
+      "id": "rss-orywqk",
+      "title": "上汽大众推出 ID. ERA 5S 安心交付承诺：超期 1 天可获 100 元等值 V 豆补偿，累计补偿最多 30 天",
+      "desc": "<p data-vmark=\"e711\">IT之家 9 月 11 日消息，上汽大众今日宣布，ID. ERA 5S 上市以来，市场反响热烈，订单远远超过了月均产能预估。上汽大众正加快推进各环节的协同联动，全力保障新车供应与交付，<strong>并推出“ID. ERA 5S 安心交付承诺”</strong>。</p><blockquote><p data-vmark=\"9723\">自大定锁单之日起，如实际交付时间超过 App 端显示的交付日期，用户每超期 1 天可获得 100 元等值 V 豆补偿，累计补偿最多 30 天，最高可获得 3,000 元等值 V 豆。</p></blockquote><p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/449.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T12:55:33.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-pv0av7",
+      "title": "长安马自达 EZ-60 激光版将于 9 月 26 日上市，梁家辉为产品代言人",
+      "desc": "<p data-vmark=\"a686\">IT之家 9 月 11 日消息，据汽车之家消息，长安马自达 EZ-60 激光版将于 9 月 26 日上市。</p><p data-vmark=\"5ef0\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/992/571.htm\">新车已在成都车展上公布预售权益</a>，10 元下订每日膨胀 100 元，至高膨胀 3600 元，新车上市可直接抵扣车款（具体价格未公布）。海报显示，<strong>梁家辉为产品代言人</strong>。</p><p data-vmark=\"3978\" s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/420.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T10:43:35.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-i8qh0a",
       "title": "小米米家石墨烯暖风机 C 预售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
       "desc": "<p data-vmark=\"bbad\">IT之家 9 月 11 日消息，小米官方今日宣布，米家石墨烯暖风机 C 开启预售，建议零售价 249 元。新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"effe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/745d6671-73e5-4336-b7a1-f71f71cdee25.jpg?x-bce-process=image/format,f_auto\" ",
@@ -161,24 +214,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-vqc1du",
-      "title": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/5kplayer-iphone-manager/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T09:20:05.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4,
       "verified": true
     },
     {
