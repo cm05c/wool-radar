@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-11T00:32:48.979Z",
+  "updatedAt": "2026-09-11T05:15:07.690Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -94,40 +94,6 @@
       "_score": 8
     },
     {
-      "id": "rss-d08l0k",
-      "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 10 日消息，Epic 本周送出的游戏是《天空奇兵》《星界战士》，下周送出的游戏是《心灵警探》《Shogun Showdown》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/luftrausers-51e5e9\">《天空奇兵》</a> 、<a href=\"https://store.epicgames.com/zh-CN/p/astral-ascent-b33bc2\">《星界战士》</a></p><p data-vmark=\"00",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/001/034.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T15:05:26.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-dxs17l",
-      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-      "desc": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联邦工作人员使用该 AI 技术，可以享受标准售价五折优惠。</p><p data-vmark=\"f038\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsup",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/015.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T14:25:54.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -160,6 +126,148 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-2nwbry",
+      "title": "理想汽车 OTA 9.1.1 版本开启推送：新增体感驾舱，优化多项体验",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 11 日消息，理想汽车昨日发布 OTA 9.1.1 版本，带来多项新增功能、体验优化，<strong>推送车型包含全新理想 L9 Livis、全新理想 L8 Livis、全新理想 L9 Ultra、全新理想 L8 Ultra、新一代理想 L6 Ultra</strong>，版本于昨日开启正式推送，预计开始后一周内分批完成推送。</p><p style=\"text-align: center;\" data-vmark=\"33d3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/157.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T05:02:55.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-fuykfy",
+      "title": "319.15 元起 ATK 烈空 ZERO+ 系列鼠标发布：PAW3955MASTER 传感器 + 300mAh 电池，39g 轻量化雾透设计",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 11 日消息，ATK 烈空 ZERO+ 于今日正式发布并开售，京东售价 379.15 元，首发立减 40 元，叠加券后 319.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/x6ZTJdI\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xDZPh8b\" data-iosurl=\"https://u.jd.com/xgZjJzT\" data-androidurl=\"https://u.jd.com/xrZWg",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/223.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T04:49:04.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ff0j8h",
+      "title": "机械革命 2026 款翼龙 15 Air 笔记本 R7 H 449 版本发售：搭 24G + 1T + RTX5060 售 13999 元（国补后 9999 元）",
+      "desc": "<p data-vmark=\"2fa8\">IT之家 9 月 11 日消息，机械革命旗下 2026 款翼龙 15 Air 笔记本新增的 AMD 锐龙 7 H 449 处理器版本目前已在京东发售，该机搭载 24GB RAM 和 1TB SSD，匹配 RTX5060 Laptop 显卡，定价为 13999 元，首销期间限时优惠 2500 元，到手价 11499 元，部分地区国补后低至 9999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xrZYO24\" target=\"_blank\" data-wapurl=\"https",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/215.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T03:59:02.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-1n240r",
+      "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
+      "desc": "<p data-vmark=\"f062\">IT之家 9 月 11 日消息，“国产 GPU 四小龙”之一燧原科技今日（9 月 11 日）正式在上海证券交易所科创板上市，<strong>开盘股价最高涨到 460 元 / 股，涨幅超 220%</strong>。</p><p data-vmark=\"3d5e\">截至IT之家发文，燧原科技股价涨超 190%，总市值 1,777 亿元。</p><p data-vmark=\"f788\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ab",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/132.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T02:34:04.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-q2gf3",
+      "title": "微软 Win11 24H2/25H2 推送 26x00.9539 预览版更新：文件资源管理器和触控板获改进，新增 Emoji 17.0 支持",
+      "desc": "<p data-vmark=\"1b79\">IT之家 9 月 11 日消息，微软于当地时间 9 月 10 日面向 Release Preview 频道的 Windows 11 24H2 和 25H2 用户推送更新，版本号分别为 26100.9539 和 26200.9539。</p><p style=\"text-align: center;\" data-vmark=\"b56b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/45e895b1-a03c-4855-ae5b-c60869e3b4b9.jpg?x-bce-process",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/114.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T01:36:08.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-19v1s3",
+      "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
+      "desc": "<p data-vmark=\"5483\">IT之家 9 月 11 日消息，二手交易平台出现大量低价 AI 工具积分，8.8 元可买官方售价 250 元的 5000 积分，9.9 元可买 1 万积分，号称“源头充值”“内部渠道”。</p><p data-vmark=\"2950\">据央视今日报道，低价积分实为第三方 API 中转站篡改本地配置，用户文档、代码、会议纪要存在被截留、倒卖风险。</p><p data-vmark=\"c320\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/129.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T02:24:59.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-d08l0k",
+      "title": "Epic 喜加二：《天空奇兵》《星界战士》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 10 日消息，Epic 本周送出的游戏是《天空奇兵》《星界战士》，下周送出的游戏是《心灵警探》《Shogun Showdown》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/luftrausers-51e5e9\">《天空奇兵》</a> 、<a href=\"https://store.epicgames.com/zh-CN/p/astral-ascent-b33bc2\">《星界战士》</a></p><p data-vmark=\"00",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/001/034.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T15:05:26.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-dxs17l",
+      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
+      "desc": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联邦工作人员使用该 AI 技术，可以享受标准售价五折优惠。</p><p data-vmark=\"f038\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsup",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/015.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T14:25:54.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-an0h1l",
