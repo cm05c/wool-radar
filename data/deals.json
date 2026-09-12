@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:22:04.365Z",
+  "updatedAt": "2026-09-12T17:26:06.242Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -111,6 +111,23 @@
       "_score": 8
     },
     {
+      "id": "rss-4gfaym",
+      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
+      "desc": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成作品，随后发布并 @NVIDIAGeForce，同时添加 RTXPoster 标签。</p><p data-vmark=\"d1e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/641.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T13:05:13.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-3ivurl",
       "title": "8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版",
       "desc": "<p data-vmark=\"c327\">IT之家 9 月 12 日消息，新大洲本田今日推出 NS125FX 摩托车，可选自由高达联名限量版，<strong>售价 8080 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2dd4\">碟刹版：8080 元</p></li><li><p data-vmark=\"9f42\">碟刹尾箱版：8380 元</p></li><li><p data-vmark=\"16f7\">ABS 版：8980 元</p></li><li><p data-vmark=",
@@ -177,24 +194,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-4gfaym",
-      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
-      "desc": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成作品，随后发布并 @NVIDIAGeForce，同时添加 RTXPoster 标签。</p><p data-vmark=\"d1e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/641.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T13:05:13.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-9o6dwf",
