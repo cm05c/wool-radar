@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-12T11:14:56.673Z",
+  "updatedAt": "2026-09-12T14:22:04.365Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -111,38 +111,38 @@
       "_score": 8
     },
     {
-      "id": "rss-9o6dwf",
-      "title": "京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务",
-      "desc": "<p data-vmark=\"d3ba\">IT之家 9 月 12 日消息，苹果在 2026 年秋季发布会上<a href=\"https://www.ithome.com/1/000/535.htm\" target=\"_blank\">发布了 iPhone 18 Pro 系列手机</a>，其中 iPhone 18 Pro 起售价 9999 元，iPhone 18 Pro Max 起售价 10999 元，系列手机将于今晚 8 点接受预购，9 月 18 日发售。</p><h3 data-vmark=\"84c2\"><span class=\"hot-topic\" data-topic-logo=\"//pi",
+      "id": "rss-3ivurl",
+      "title": "8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版",
+      "desc": "<p data-vmark=\"c327\">IT之家 9 月 12 日消息，新大洲本田今日推出 NS125FX 摩托车，可选自由高达联名限量版，<strong>售价 8080 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2dd4\">碟刹版：8080 元</p></li><li><p data-vmark=\"9f42\">碟刹尾箱版：8380 元</p></li><li><p data-vmark=\"16f7\">ABS 版：8980 元</p></li><li><p data-vmark=",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/1/001/556.htm",
+      "url": "https://www.ithome.com/1/001/622.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-12T05:05:55.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-and7vj",
-      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
-      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。</p><p data-vmark=\"8888\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4ec45d33-c035-40bd-8f97-42f087e5197e.png\" w=\"1030\" h=\"1474\" data-weibo=\"0\" data-vmark=\"0acd\" class",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/534.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T03:30:50.000Z",
-      "hot": 197,
+      "publishedAt": "2026-09-12T10:15:32.000Z",
+      "hot": 151,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-7t3hid",
+      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
+      "desc": "<p data-vmark=\"0b7f\">IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p data-vmark=\"b551\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2186d9fa-513e-4cf3-bb4e-b753ed2c33d9.png?",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/594.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T08:43:30.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-95plw2",
@@ -179,40 +179,56 @@
       "_score": 2
     },
     {
-      "id": "rss-3ivurl",
-      "title": "8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版",
-      "desc": "<p data-vmark=\"c327\">IT之家 9 月 12 日消息，新大洲本田今日推出 NS125FX 摩托车，可选自由高达联名限量版，<strong>售价 8080 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"2dd4\">碟刹版：8080 元</p></li><li><p data-vmark=\"9f42\">碟刹尾箱版：8380 元</p></li><li><p data-vmark=\"16f7\">ABS 版：8980 元</p></li><li><p data-vmark=",
+      "id": "rss-4gfaym",
+      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
+      "desc": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成作品，随后发布并 @NVIDIAGeForce，同时添加 RTXPoster 标签。</p><p data-vmark=\"d1e",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/622.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/641.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-12T10:15:32.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7t3hid",
-      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
-      "desc": "<p data-vmark=\"0b7f\">IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p data-vmark=\"b551\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2186d9fa-513e-4cf3-bb4e-b753ed2c33d9.png?",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/594.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T08:43:30.000Z",
-      "hot": 155,
+      "publishedAt": "2026-09-12T13:05:13.000Z",
+      "hot": 152,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
+    },
+    {
+      "id": "rss-9o6dwf",
+      "title": "京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务",
+      "desc": "<p data-vmark=\"d3ba\">IT之家 9 月 12 日消息，苹果在 2026 年秋季发布会上<a href=\"https://www.ithome.com/1/000/535.htm\" target=\"_blank\">发布了 iPhone 18 Pro 系列手机</a>，其中 iPhone 18 Pro 起售价 9999 元，iPhone 18 Pro Max 起售价 10999 元，系列手机将于今晚 8 点接受预购，9 月 18 日发售。</p><h3 data-vmark=\"84c2\"><span class=\"hot-topic\" data-topic-logo=\"//pi",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/556.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T05:05:55.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-and7vj",
+      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
+      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。</p><p data-vmark=\"8888\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4ec45d33-c035-40bd-8f97-42f087e5197e.png\" w=\"1030\" h=\"1474\" data-weibo=\"0\" data-vmark=\"0acd\" class",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/534.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T03:30:50.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-blggnx",
