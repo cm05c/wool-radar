@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-12T01:33:11.509Z",
+  "updatedAt": "2026-09-12T06:30:46.064Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -111,21 +111,72 @@
       "_score": 8
     },
     {
-      "id": "rss-orywqk",
-      "title": "上汽大众推出 ID. ERA 5S 安心交付承诺：超期 1 天可获 100 元等值 V 豆补偿，累计补偿最多 30 天",
-      "desc": "<p data-vmark=\"e711\">IT之家 9 月 11 日消息，上汽大众今日宣布，ID. ERA 5S 上市以来，市场反响热烈，订单远远超过了月均产能预估。上汽大众正加快推进各环节的协同联动，全力保障新车供应与交付，<strong>并推出“ID. ERA 5S 安心交付承诺”</strong>。</p><blockquote><p data-vmark=\"9723\">自大定锁单之日起，如实际交付时间超过 App 端显示的交付日期，用户每超期 1 天可获得 100 元等值 V 豆补偿，累计补偿最多 30 天，最高可获得 3,000 元等值 V 豆。</p></blockquote><p",
+      "id": "rss-blggnx",
+      "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
+      "desc": "<p data-vmark=\"2057\">IT之家 9 月 12 日消息，自小微 AI 灰度上线后，微信中涌现出了一大批新的 AI 功能。有多个用户反馈微信发送图片界面中新增“AI 处理”功能。如图所示，用户在聊天窗口点击图片后，底部编辑工具栏会出现该按钮。</p><p data-vmark=\"5f02\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/dcae7f88-65b1-4496-9ff3-9a2814ffc611.jpg?x-bce-process=image/f",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/449.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/514.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-11T12:55:33.000Z",
-      "hot": 211,
+      "publishedAt": "2026-09-12T01:28:27.000Z",
+      "hot": 198,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-c3lo8u",
+      "title": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
+      "desc": "<p data-vmark=\"09fd\">IT之家 9 月 12 日消息，英伟达近日为 G-Sync Pulsar 显示器推送 1.1.10 版固件更新，进一步提升动态画面清晰度。</p><p data-vmark=\"4e4b\">具体来看，G-Sync Pulsar 1.1.10 固件在 240Hz 模式、Pulse Width 设置为 50 时，可将 MPRT 响应速度降低至 0.97ms，首次低于 1ms。英伟达表示，这一表现能够带来相当于 1000Hz 显示器的动态清晰度。</p><p data-vmark=\"a0b4\">在最高 480 尼特亮度下，支持 G-Sync Pulsar 的显",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/502.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T00:40:56.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-mgxz51",
+      "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
+      "desc": "<p data-vmark=\"015e\">“IT早报”时间，大家好，现在是 2026 年 9 月 12 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"e964\">1. 8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖</h2><p data-vmark=\"6bee\">央视曝光二手平台大量低价 AI 工具积分实为第三方 API 中转站篡改本地配置，用户办公文档、代码等敏感信息存在被截留、倒卖风险，官方表示会严打这类违规行为。>> <a href=\"https://www.ithome.com/1/001/129.htm\" target",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/495.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T23:50:16.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-mvsf5s",
+      "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
+      "desc": "<p data-vmark=\"a3ec\">IT之家 9 月 12 日消息，近几个月以来，RAM 内存价格几乎一路上涨，不过 Framework 却在此次涨价潮中“逆势降价”。该公司声称近期以更低的采购价格购入了一批美光（Micron）LPCAMM2 内存模块，因此下调相关产品售价，而且这一降价并不仅面向新订单，部分已经发货的订单也可以获得差价退款。</p><p data-vmark=\"a9f0\">IT之家注意到，此次价格变动主要针对搭载 32GB 或 64GB LPCAMM2 RAM 内存的 Framework Laptop 13 Pro。Framework 在最新发布的内存价格变化说明中表示",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/489.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T23:23:59.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-95plw2",
@@ -162,76 +213,57 @@
       "_score": 2
     },
     {
-      "id": "rss-blggnx",
-      "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
-      "desc": "<p data-vmark=\"2057\">IT之家 9 月 12 日消息，自 9 月以来，有多个用户反馈微信发送图片界面中新增“AI 处理”功能（“小微”目前处于灰度测试阶段）。</p><p data-vmark=\"0779\">如图所示，用户在聊天窗口点击图片后，底部编辑工具栏会出现该按钮。</p><p data-vmark=\"5f02\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/dcae7f88-65b1-4496-9ff3-9a2814ffc611.jpg?x-bc",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/514.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T01:28:27.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-c3lo8u",
-      "title": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
-      "desc": "<p data-vmark=\"09fd\">IT之家 9 月 12 日消息，英伟达近日为 G-Sync Pulsar 显示器推送 1.1.10 版固件更新，进一步提升动态画面清晰度。</p><p data-vmark=\"4e4b\">具体来看，G-Sync Pulsar 1.1.10 固件在 240Hz 模式、Pulse Width 设置为 50 时，可将 MPRT 响应速度降低至 0.97ms，首次低于 1ms。英伟达表示，这一表现能够带来相当于 1000Hz 显示器的动态清晰度。</p><p data-vmark=\"a0b4\">在最高 480 尼特亮度下，支持 G-Sync Pulsar 的显",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/502.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T00:40:56.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mgxz51",
-      "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
-      "desc": "<p data-vmark=\"015e\">“IT早报”时间，大家好，现在是 2026 年 9 月 12 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"e964\">1. 8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖</h2><p data-vmark=\"6bee\">央视曝光二手平台大量低价 AI 工具积分实为第三方 API 中转站篡改本地配置，用户办公文档、代码等敏感信息存在被截留、倒卖风险，官方表示会严打这类违规行为。>> <a href=\"https://www.ithome.com/1/001/129.htm\" target",
+      "id": "rss-9o6dwf",
+      "title": "京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务",
+      "desc": "<p data-vmark=\"d3ba\">IT之家 9 月 12 日消息，苹果在 2026 年秋季发布会上<a href=\"https://www.ithome.com/1/000/535.htm\" target=\"_blank\">发布了 iPhone 18 Pro 系列手机</a>，其中 iPhone 18 Pro 起售价 9999 元，iPhone 18 Pro Max 起售价 10999 元，系列手机将于今晚 8 点接受预购，9 月 18 日发售。</p><h3 data-vmark=\"84c2\"><span class=\"hot-topic\" data-topic-logo=\"//pi",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/1/001/495.htm",
+      "url": "https://www.ithome.com/1/001/556.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-11T23:50:16.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mvsf5s",
-      "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
-      "desc": "<p data-vmark=\"a3ec\">IT之家 9 月 12 日消息，近几个月以来，RAM 内存价格几乎一路上涨，不过 Framework 却在此次涨价潮中“逆势降价”。该公司声称近期以更低的采购价格购入了一批美光（Micron）LPCAMM2 内存模块，因此下调相关产品售价，而且这一降价并不仅面向新订单，部分已经发货的订单也可以获得差价退款。</p><p data-vmark=\"a9f0\">IT之家注意到，此次价格变动主要针对搭载 32GB 或 64GB LPCAMM2 RAM 内存的 Framework Laptop 13 Pro。Framework 在最新发布的内存价格变化说明中表示",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/489.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T23:23:59.000Z",
-      "hot": 209,
+      "publishedAt": "2026-09-12T05:05:55.000Z",
+      "hot": 157,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
+    },
+    {
+      "id": "rss-and7vj",
+      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
+      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。</p><p data-vmark=\"8888\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4ec45d33-c035-40bd-8f97-42f087e5197e.png\" w=\"1030\" h=\"1474\" data-weibo=\"0\" data-vmark=\"0acd\" class",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/534.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T03:30:50.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-orywqk",
+      "title": "上汽大众推出 ID. ERA 5S 安心交付承诺：超期 1 天可获 100 元等值 V 豆补偿，累计补偿最多 30 天",
+      "desc": "<p data-vmark=\"e711\">IT之家 9 月 11 日消息，上汽大众今日宣布，ID. ERA 5S 上市以来，市场反响热烈，订单远远超过了月均产能预估。上汽大众正加快推进各环节的协同联动，全力保障新车供应与交付，<strong>并推出“ID. ERA 5S 安心交付承诺”</strong>。</p><blockquote><p data-vmark=\"9723\">自大定锁单之日起，如实际交付时间超过 App 端显示的交付日期，用户每超期 1 天可获得 100 元等值 V 豆补偿，累计补偿最多 30 天，最高可获得 3,000 元等值 V 豆。</p></blockquote><p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/449.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-11T12:55:33.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-pv0av7",
