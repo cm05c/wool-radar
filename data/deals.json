@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:38:56.454Z",
+  "updatedAt": "2026-09-12T23:22:19.149Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -145,23 +145,6 @@
       "_score": 3
     },
     {
-      "id": "rss-7t3hid",
-      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
-      "desc": "<p data-vmark=\"0b7f\">IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p data-vmark=\"b551\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2186d9fa-513e-4cf3-bb4e-b753ed2c33d9.png?",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/594.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T08:43:30.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -192,6 +175,41 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5yb540",
+      "title": "海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求",
+      "desc": "<p data-vmark=\"2e66\">IT之家 9 月 13 日消息，海外金融巨头 Revolut 今日确认，公司发生一起数据泄露事故。</p><p data-vmark=\"0823\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/76394678-a491-45ff-8c46-acb0e2b53790.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"645\" data-weibo=\"0\" data-mpos=\"2,",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/676.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T23:14:23.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-7t3hid",
+      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
+      "desc": "<p data-vmark=\"0b7f\">IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p data-vmark=\"b551\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2186d9fa-513e-4cf3-bb4e-b753ed2c33d9.png?",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/001/594.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T08:43:30.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
