@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:24:39.040Z",
+  "updatedAt": "2026-09-13T06:45:42.482Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -111,40 +111,6 @@
       "_score": 8
     },
     {
-      "id": "rss-5yb540",
-      "title": "海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求",
-      "desc": "<p data-vmark=\"2e66\">IT之家 9 月 13 日消息，海外金融巨头 Revolut 今日确认，公司发生一起数据泄露事故。</p><p data-vmark=\"0823\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/76394678-a491-45ff-8c46-acb0e2b53790.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"645\" data-weibo=\"0\" data-mpos=\"2,",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/676.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T23:14:23.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-4gfaym",
-      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
-      "desc": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成作品，随后发布并 @NVIDIAGeForce，同时添加 RTXPoster 标签。</p><p data-vmark=\"d1e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/641.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T13:05:13.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -175,6 +141,76 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-i8xirp",
+      "title": "时隔近一年华为 Mate 40 系列手机再获系统更新，HarmonyOS 4.2.0.196/210 版本推送",
+      "desc": "<p data-vmark=\"d2cc\">IT之家 9 月 13 日消息，据华为官方团队 @MateP手机软件维护 分享，HUAWEI Mate 40 系列手机已开启 <strong>HarmonyOS 4.2.0.196/210</strong> 版本推送，本次更新优化了部分应用场景的显示效果和使用体验，并提升了系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"17df\"><img src=\"https://img.ithome.com/newsuploadfiles/2020/10/20201030_161309_869.jpeg?x",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/725.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T02:25:28.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-hqsb6s",
+      "title": "V社为 SteamVR 推送界面更新，引入 Steam Deck 风格 UI",
+      "desc": "<p data-vmark=\"f8a9\">IT之家 9 月 13 日消息，V社现已为 SteamVR 推送 Beta 版更新，主要进一步优化 Dashboard 仪表盘界面，带来类似 Steam Deck 风格的 UI。</p><p style=\"text-align: center;\" data-vmark=\"5046\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/85ca6224-eb52-4613-b56f-1376a4618ed9.png?x-bce-process=image/format,f_auto\" w=\"14",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/713.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T01:54:55.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5yb540",
+      "title": "海外金融巨头 Revolut 确认发生数据泄露，黑客伪装执法机构发送欺诈请求",
+      "desc": "<p data-vmark=\"2e66\">IT之家 9 月 13 日消息，海外金融巨头 Revolut 今日确认，公司发生一起数据泄露事故。</p><p data-vmark=\"0823\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/76394678-a491-45ff-8c46-acb0e2b53790.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"645\" data-weibo=\"0\" data-mpos=\"2,",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/676.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T23:14:23.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-4gfaym",
+      "title": "英伟达发起《NBA 2K27》DLSS 5 截图挑战，将送出 4 张 RTX 5090 显卡",
+      "desc": "<p data-vmark=\"ba2b\">IT之家 9 月 12 日消息，英伟达宣布推出《NBA 2K27》DLSS 5“海报挑战赛”，奖品是 4 张定制 RTX 5090 显卡。</p><p data-vmark=\"df33\">参赛者可以使用 RTX 50 系列显卡开启 DLSS 5，在《NBA 2K27》中<strong>截取游戏画面或视频</strong>，也可以通过由 RTX 5080 服务器提供算力的 GeForce NOW Ultimate 云游戏服务完成作品，随后发布并 @NVIDIAGeForce，同时添加 RTXPoster 标签。</p><p data-vmark=\"d1e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/641.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-12T13:05:13.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
@@ -1828,22 +1864,6 @@
       "tags": [
         "视频会员",
         "新用户"
-      ]
-    },
-    {
-      "id": "seed-015",
-      "title": "Apple 官方教育优惠返校季·送 AirPods",
-      "desc": "高校师生验证后购 Mac/iPad 享教育价，返校季部分机型加送 AirPods 4，叠加官网分期免息",
-      "channel": "Apple",
-      "category": "教育",
-      "value": "教育价+送耳机",
-      "url": "https://www.apple.com.cn/store-edu",
-      "expiresAt": "2026-09-20T23:59:59+08:00",
-      "publishedAt": "2026-08-30T10:00:00+08:00",
-      "hot": 9870,
-      "tags": [
-        "教育优惠",
-        "返校季"
       ]
     },
     {
