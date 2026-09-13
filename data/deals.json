@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-13T06:45:42.482Z",
+  "updatedAt": "2026-09-13T12:42:50.753Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -94,23 +94,6 @@
       "_score": 4
     },
     {
-      "id": "rss-8isux7",
-      "title": "白嫖 68 元 Token 额度！OpenSquilla 开源 Agent 送羊毛，多款模型随便调",
-      "desc": "玩过 AI Agent 的朋友应该都有同一个感受：这玩意儿好玩好用，但一个稍微复杂点的任务跑下来，多步规划、工具调用、长记忆加载，每一步都在疯狂吃 token，最要命的是很多人图省事，不管任务简单还是复杂，一股脑全都选旗舰贵模型，结果就是账单爆炸。明明一个摘要、格式整理这种轻量活儿，交…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "白嫖",
-      "url": "https://www.iplaysoft.com/p/opensquilla",
-      "expiresAt": null,
-      "publishedAt": "2026-08-30T12:11:22.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 8
-    },
-    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -143,6 +126,60 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-xso2tb",
+      "title": "Hori 推出《塞尔达传说》40 周年 Switch 2 周边配件，11 月日本发售",
+      "desc": "<p data-vmark=\"c559\">IT之家 9 月 13 日消息，为纪念《塞尔达传说》诞生 40 周年，任天堂推出了 Switch 2 特别版主机、Switch 2 Pro 手柄以及 Switch 2 收纳包。不过并非只有任天堂在推出限定产品来庆祝这一里程碑。</p><p data-vmark=\"99aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c05df9a6-554e-49e5-a8dd-4af8d34648aa.jpg\" w=\"1440\" h=\"108",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/840.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T12:05:25.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-kllu5b",
+      "title": "苹果 iPhone 18 Pro 系列新机发布后，英国低价套路诈骗网站数量激增",
+      "desc": "<p data-vmark=\"3ea8\">IT之家 9 月 13 日消息，苹果本周推出 iPhone 18 Pro 系列、iPhone Duo 等手机新品。据《卫报》报道，许多英国消费者看到新机发布便希望收入囊中，但 1,199 英镑<span class=\"exch-money-value\">（IT之家注：现汇率约合 10,898 元人民币）</span>的起售价未免让人有些犹豫。</p><p data-vmark=\"b0dc\">于是，有些“慌不择路”的人便开始在网上搜索“iPhone ”“优惠”等关键词，希望找到更低的价格。但不幸的是，搜索出来的网站几乎全都是一个套路的诈骗，它们通常都要求",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/774.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T07:11:31.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ww87t0",
+      "title": "荣耀MagicOS 11 新增“专属省电建议”：结合近期使用习惯，给出针对性优化建议",
+      "desc": "<p data-vmark=\"6479\">IT之家 9 月 13 日消息，荣耀产品维护与升级 @荣耀小芳哥 于 9 月 11 日发布称，MagicOS11 在省电上加了个小“彩蛋”——「你的专属省电建议」，升级后，系统会结合近期使用习惯，<strong>识别出一些“耗电较高、但又很少使用”的功能</strong>，给出针对性的优化建议。</p><p data-vmark=\"273f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9bff9d38-8ece-4218-99e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/823.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T09:46:06.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-i8xirp",
