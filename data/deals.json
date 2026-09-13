@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-13T12:42:50.753Z",
+  "updatedAt": "2026-09-13T16:38:41.843Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,40 @@
       "_score": 4
     },
     {
+      "id": "rss-xso2tb",
+      "title": "Hori 推出《塞尔达传说》40 周年 Switch 2 周边配件，11 月日本发售",
+      "desc": "<p data-vmark=\"c559\">IT之家 9 月 13 日消息，为纪念《塞尔达传说》诞生 40 周年，任天堂推出了 Switch 2 特别版主机、Switch 2 Pro 手柄以及 Switch 2 收纳包。不过并非只有任天堂在推出限定产品来庆祝这一里程碑。</p><p data-vmark=\"99aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c05df9a6-554e-49e5-a8dd-4af8d34648aa.jpg\" w=\"1440\" h=\"108",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/840.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T12:05:25.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ww87t0",
+      "title": "荣耀MagicOS 11 新增“专属省电建议”：结合近期使用习惯，给出针对性优化建议",
+      "desc": "<p data-vmark=\"6479\">IT之家 9 月 13 日消息，荣耀产品维护与升级 @荣耀小芳哥 于 9 月 11 日发布称，MagicOS11 在省电上加了个小“彩蛋”——「你的专属省电建议」，升级后，系统会结合近期使用习惯，<strong>识别出一些“耗电较高、但又很少使用”的功能</strong>，给出针对性的优化建议。</p><p data-vmark=\"273f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9bff9d38-8ece-4218-99e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/823.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T09:46:06.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -128,21 +162,39 @@
       "_score": 2
     },
     {
-      "id": "rss-xso2tb",
-      "title": "Hori 推出《塞尔达传说》40 周年 Switch 2 周边配件，11 月日本发售",
-      "desc": "<p data-vmark=\"c559\">IT之家 9 月 13 日消息，为纪念《塞尔达传说》诞生 40 周年，任天堂推出了 Switch 2 特别版主机、Switch 2 Pro 手柄以及 Switch 2 收纳包。不过并非只有任天堂在推出限定产品来庆祝这一里程碑。</p><p data-vmark=\"99aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c05df9a6-554e-49e5-a8dd-4af8d34648aa.jpg\" w=\"1440\" h=\"108",
+      "id": "rss-usbcom",
+      "title": "正版应用 9 月打折：MarginNote 4、CareUEyes、Zipic、XYPlorer 等…",
+      "desc": "九月开学季，也是学习、办公装备集中焕新的时候。除了电脑硬件，一套趁手的软件，同样能让接下来的学习和工作事半功倍。\n\n前往 9 月优惠会场\n即日起至 9 月 22 日，这些软件开启「九月焕新季」激活码促销活动。本次活动以办公效率、学习辅助、系统优化等实用工具为主，精选软件低至 6 折。\n特…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "6 折",
+      "url": "https://www.iplaysoft.com/news/6609",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T13:08:14.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ysyhz5",
+      "title": "小米手表 5 推送 OS 3.0.196.0 固件更新，优化微信消息接收",
+      "desc": "<p data-vmark=\"94ba\">IT之家 9 月 13 日消息，今日，小米手表 5 推送新版系统更新，固件版本号为 OS 3.0.196.0，主要针对微信消息提醒、系统稳定性以及已知问题进行优化。</p><p data-vmark=\"39f3\"><strong>IT之家整理更新日志如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6dc4\">优化微信消息接收，消息提醒更稳定；</p></li><li><p data-vmark=\"1002\">提升系统运行稳定性，修复卡包卡片显示异常等问题，日常使用更流",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/001/840.htm",
+      "url": "https://www.ithome.com/1/001/864.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-13T12:05:25.000Z",
-      "hot": 220,
+      "publishedAt": "2026-09-13T14:36:32.000Z",
+      "hot": 221,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 3,
       "verified": true
     },
     {
@@ -156,24 +208,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-13T07:11:31.000Z",
       "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ww87t0",
-      "title": "荣耀MagicOS 11 新增“专属省电建议”：结合近期使用习惯，给出针对性优化建议",
-      "desc": "<p data-vmark=\"6479\">IT之家 9 月 13 日消息，荣耀产品维护与升级 @荣耀小芳哥 于 9 月 11 日发布称，MagicOS11 在省电上加了个小“彩蛋”——「你的专属省电建议」，升级后，系统会结合近期使用习惯，<strong>识别出一些“耗电较高、但又很少使用”的功能</strong>，给出针对性的优化建议。</p><p data-vmark=\"273f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9bff9d38-8ece-4218-99e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/823.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T09:46:06.000Z",
-      "hot": 219,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -1768,31 +1802,6 @@
           "999 积分兑 5 元话费券，充值满 50 可用，每月限一次",
           "配合「消费券」频道领充值立减券叠加",
           "云闪付充话费满 50 随机立减 1~6.2 元，可与运营商折扣同享"
-        ]
-      }
-    },
-    {
-      "id": "seed-007",
-      "title": "哔哩哔哩大会员 1 分钱购月卡",
-      "desc": "限新用户，手机端活动页面 1 分钱开 1 个月大会员，支持 1080P 高码率与专属番剧",
-      "channel": "哔哩哔哩",
-      "category": "会员",
-      "value": "1 分钱月卡",
-      "url": "https://www.bilibili.com",
-      "expiresAt": "2026-09-10T23:59:59+08:00",
-      "publishedAt": "2026-09-03T20:00:00+08:00",
-      "hot": 8990,
-      "tags": [
-        "视频会员",
-        "新用户"
-      ],
-      "guide": {
-        "title": "B 站大会员低价路径",
-        "steps": [
-          "新用户：手机端活动页 1 分钱开 1 个月",
-          "老用户：换新设备 / 卸载重装常能再触发新人价",
-          "关注「哔哩哔哩会员购」不定期发 5 折券",
-          "电信 / 联通话费积分也能兑换大会员月卡"
         ]
       }
     },
