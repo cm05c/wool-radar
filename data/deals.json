@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T13:59:54.637Z",
+  "updatedAt": "2026-09-14T19:20:02.979Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,40 @@
       "_score": 4
     },
     {
+      "id": "rss-bl6dep",
+      "title": "雷鸟鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视首销，券后国补价 3999 元起",
+      "desc": "<p data-vmark=\"508e\">IT之家 9 月 14 日消息，雷鸟鹤 6 Ultra 竞技款电视今日 20:00 开售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p data-v",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/278.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T11:49:05.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-d3m05g",
+      "title": "长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款",
+      "desc": "<p data-vmark=\"2f1e\">IT之家 9 月 14 日消息，魏牌旗下高山 8/9 智慧版 MPV 今日正式开启下订，消费者下订即可尊享 5000 元订金抵扣 8000 元购车尾款的限时权益。与此同时，官方确认魏牌高山 8/9 智慧版即将于中秋节前上市，同时高山 8 HEV 版将于四季度登场，高山家族新成员将与现款高山车型并行销售。</p><p data-vmark=\"db4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a786d1a-3f81-4348",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/242.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T10:19:06.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-m5dx4g",
       "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
       "desc": "",
@@ -128,34 +162,16 @@
       "_score": 2
     },
     {
-      "id": "rss-bl6dep",
-      "title": "雷鸟鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视首销，券后国补价 3999 元起",
-      "desc": "<p data-vmark=\"508e\">IT之家 9 月 14 日消息，雷鸟鹤 6 Ultra 竞技款电视今日 20:00 开售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p data-v",
+      "id": "rss-53man",
+      "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
+      "desc": "<p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东自营今日 4499 元 + 系统自动发放 200 元限时补贴，大部分地区支持 500 元国补，实付 3799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">先领 200 元惊喜红包：<a href=\"https://u.jd.com/x69BxOA\" target=\"_blank\" data-wapurl=\"htt",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/1/002/278.htm",
+      "url": "https://www.ithome.com/1/002/311.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-14T11:49:05.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-d3m05g",
-      "title": "长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款",
-      "desc": "<p data-vmark=\"2f1e\">IT之家 9 月 14 日消息，魏牌旗下高山 8/9 智慧版 MPV 今日正式开启下订，消费者下订即可尊享 5000 元订金抵扣 8000 元购车尾款的限时权益。与此同时，官方确认魏牌高山 8/9 智慧版即将于中秋节前上市，同时高山 8 HEV 版将于四季度登场，高山家族新成员将与现款高山车型并行销售。</p><p data-vmark=\"db4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a786d1a-3f81-4348",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/242.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T10:19:06.000Z",
-      "hot": 200,
+      "publishedAt": "2026-09-14T15:01:35.000Z",
+      "hot": 153,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -1957,32 +1973,6 @@
         "现金",
         "砍价"
       ]
-    },
-    {
-      "id": "seed-011",
-      "title": "建设银行生活频道·餐饮 5 折券",
-      "desc": "建行 App 生活频道每周四上午 10 点抢餐饮 5 折券（麦当劳/星巴克/肯德基轮换）",
-      "channel": "建设银行",
-      "category": "金融",
-      "value": "餐饮 5 折",
-      "url": "https://www.ccb.com",
-      "expiresAt": "2026-09-11T23:59:59+08:00",
-      "publishedAt": "2026-09-04T10:05:00+08:00",
-      "hot": 8320,
-      "tags": [
-        "餐饮",
-        "每周四",
-        "限时抢"
-      ],
-      "guide": {
-        "title": "建行生活餐饮 5 折攻略",
-        "steps": [
-          "每周四上午 10 点准点进「建行生活」App 抢券",
-          "麦当劳 / 星巴克 / 肯德基轮换，手慢 2 分钟即空",
-          "叠加「龙支付」再享笔笔随机减",
-          "有数币试点城市用数字人民币支付，额外立减 5~10 元"
-        ]
-      }
     },
     {
       "id": "seed-013",
