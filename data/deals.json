@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T07:05:45.998Z",
+  "updatedAt": "2026-09-14T13:59:54.637Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,6 +94,23 @@
       "_score": 4
     },
     {
+      "id": "rss-m5dx4g",
+      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126850.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T03:36:29.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -109,6 +126,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-bl6dep",
+      "title": "雷鸟鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视首销，券后国补价 3999 元起",
+      "desc": "<p data-vmark=\"508e\">IT之家 9 月 14 日消息，雷鸟鹤 6 Ultra 竞技款电视今日 20:00 开售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p data-v",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/278.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T11:49:05.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-d3m05g",
+      "title": "长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款",
+      "desc": "<p data-vmark=\"2f1e\">IT之家 9 月 14 日消息，魏牌旗下高山 8/9 智慧版 MPV 今日正式开启下订，消费者下订即可尊享 5000 元订金抵扣 8000 元购车尾款的限时权益。与此同时，官方确认魏牌高山 8/9 智慧版即将于中秋节前上市，同时高山 8 HEV 版将于四季度登场，高山家族新成员将与现款高山车型并行销售。</p><p data-vmark=\"db4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a786d1a-3f81-4348",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/242.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T10:19:06.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-43jt5e",
@@ -143,24 +196,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-m5dx4g",
-      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126850.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T03:36:29.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
