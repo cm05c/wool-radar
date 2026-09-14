@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T01:38:49.641Z",
+  "updatedAt": "2026-09-14T07:05:45.998Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -19,23 +19,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-11T09:20:05.000Z",
       "hot": 218,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-wgcu2p",
-      "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "8 折",
-      "url": "https://www.appinn.com/qiewenpaper-codex-2/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T08:31:15.000Z",
-      "hot": 219,
       "tags": [
         "RSS",
         "小众软件·限免频道"
@@ -111,40 +94,6 @@
       "_score": 4
     },
     {
-      "id": "rss-za04dc",
-      "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
-      "desc": "<p data-vmark=\"f854\">IT之家 9 月 14 日消息，据外媒 electrek 报道，苏黎世机场联合中国自动驾驶企业文远知行（WeRide），在机场部署了两辆全自动驾驶电动摆渡车。</p><p data-vmark=\"5984\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fee66730-86bf-4c9b-bf1b-f4a53e348a26.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"699",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/874.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T22:54:33.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ysyhz5",
-      "title": "小米手表 5 推送 OS 3.0.196.0 固件更新，优化微信消息接收",
-      "desc": "<p data-vmark=\"94ba\">IT之家 9 月 13 日消息，今日，小米手表 5 推送新版系统更新，固件版本号为 OS 3.0.196.0，主要针对微信消息提醒、系统稳定性以及已知问题进行优化。</p><p data-vmark=\"39f3\"><strong>IT之家整理更新日志如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6dc4\">优化微信消息接收，消息提醒更稳定；</p></li><li><p data-vmark=\"1002\">提升系统运行稳定性，修复卡包卡片显示异常等问题，日常使用更流",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/864.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T14:36:32.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-95plw2",
       "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
       "desc": "",
@@ -177,6 +126,93 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-qq6dkx",
+      "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
+      "desc": "<p data-vmark=\"4168\">IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，<strong>最新案例是为 6 年老笔记本电脑（仍在 AppleCare 保修期内）免费升级到 M5 MacBook Air。</strong></p><p data-vmark=\"1f6f\">网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。</p><p da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/005.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T03:42:12.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-m5dx4g",
+      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126850.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T03:36:29.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-wgcu2p",
+      "title": "福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "8 折",
+      "url": "https://www.appinn.com/qiewenpaper-codex-2/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-09T08:31:15.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-za04dc",
+      "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
+      "desc": "<p data-vmark=\"f854\">IT之家 9 月 14 日消息，据外媒 electrek 报道，苏黎世机场联合中国自动驾驶企业文远知行（WeRide），在机场部署了两辆全自动驾驶电动摆渡车。</p><p data-vmark=\"5984\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fee66730-86bf-4c9b-bf1b-f4a53e348a26.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"699",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/874.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T22:54:33.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ysyhz5",
+      "title": "小米手表 5 推送 OS 3.0.196.0 固件更新，优化微信消息接收",
+      "desc": "<p data-vmark=\"94ba\">IT之家 9 月 13 日消息，今日，小米手表 5 推送新版系统更新，固件版本号为 OS 3.0.196.0，主要针对微信消息提醒、系统稳定性以及已知问题进行优化。</p><p data-vmark=\"39f3\"><strong>IT之家整理更新日志如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6dc4\">优化微信消息接收，消息提醒更稳定；</p></li><li><p data-vmark=\"1002\">提升系统运行稳定性，修复卡包卡片显示异常等问题，日常使用更流",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/001/864.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-13T14:36:32.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-nhl54t",
