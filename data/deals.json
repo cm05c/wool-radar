@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T19:20:02.979Z",
+  "updatedAt": "2026-09-14T22:44:28.422Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,23 @@
       "_score": 4
     },
     {
+      "id": "rss-53man",
+      "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
+      "desc": "<p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东自营今日 4499 元 + 系统自动发放 200 元限时补贴，大部分地区支持 500 元国补，实付 3799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">先领 200 元惊喜红包：<a href=\"https://u.jd.com/x69BxOA\" target=\"_blank\" data-wapurl=\"htt",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/311.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T15:01:35.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-bl6dep",
       "title": "雷鸟鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视首销，券后国补价 3999 元起",
       "desc": "<p data-vmark=\"508e\">IT之家 9 月 14 日消息，雷鸟鹤 6 Ultra 竞技款电视今日 20:00 开售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p data-v",
@@ -162,16 +179,52 @@
       "_score": 2
     },
     {
-      "id": "rss-53man",
-      "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-      "desc": "<p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东自营今日 4499 元 + 系统自动发放 200 元限时补贴，大部分地区支持 500 元国补，实付 3799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">先领 200 元惊喜红包：<a href=\"https://u.jd.com/x69BxOA\" target=\"_blank\" data-wapurl=\"htt",
+      "id": "rss-15xu1u",
+      "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
+      "desc": "<p data-vmark=\"c629\">IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。</p><p data-vmark=\"f433\">适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"f694\">AirPods Pro 3</p></li><li>",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/311.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/336.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-14T15:01:35.000Z",
-      "hot": 153,
+      "publishedAt": "2026-09-14T22:18:48.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-13qnoe",
+      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。</p><p style=\"text-align: center;\" data-vmark=\"08a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/332.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T18:26:12.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-15e1gh",
+      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。</p><p data-vmark=\"0003\"><strong>通用更新</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0004\">修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平</p></li>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/335.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T22:00:33.000Z",
+      "hot": 149,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
