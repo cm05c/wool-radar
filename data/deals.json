@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-14T22:44:28.422Z",
+  "updatedAt": "2026-09-15T01:25:46.544Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,199 @@
       "_score": 4
     },
     {
+      "id": "rss-15xu1u",
+      "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
+      "desc": "<p data-vmark=\"c629\">IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。</p><p data-vmark=\"f433\">适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"f694\">AirPods Pro 3</p></li><li>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/336.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T22:18:48.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-15e1gh",
+      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。</p><p data-vmark=\"0003\"><strong>通用更新</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0004\">修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平</p></li>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/335.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T22:00:33.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-13qnoe",
+      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。</p><p style=\"text-align: center;\" data-vmark=\"08a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/332.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T18:26:12.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-m5dx4g",
+      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126850.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T03:36:29.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-95plw2",
+      "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126793.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-10T07:10:44.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-3gez20",
+      "title": "Stellantis 与加拿大工会 Unifor 谈判陷入僵局，安大略省 Brampton 工厂前途未定",
+      "desc": "<p data-vmark=\"50ea\">IT之家 9 月 15 日消息，据外媒 Carscoops 报道，Stellantis 与加拿大工会 Unifor 的合同谈判目前已陷入“僵局”。双方原本预计在 9 月 11 日前达成临时协议，但最终未能取得进展，谈判目前暂停，Unifor 总谈判委员会将讨论下一步行动。</p><p data-vmark=\"6301\">此次谈判破裂的核心问题之一，是位于加拿大安大略省的 Brampton Assembly 工厂未来安排。该工厂原计划生产重新设计后的 Jeep Compass 车型，但受加拿大与美国之间贸易争端影响，Stellantis 随后决定将相关车",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/381.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T01:05:35.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-2ytk2g",
+      "title": "微软推送 9 月 Win10/Win11 紧急更新，修复远程桌面问题",
+      "desc": "<p data-vmark=\"7775\">IT之家 9 月 15 日消息，微软昨日（9 月 14 日）发布公告，宣布面向 Windows 11 26H1 推送 KB5129194 紧急带外更新（Out-of-band），用户安装后版本号升至 Build 28000.2956。</p><p data-vmark=\"ddf3\">此外微软还针对以下版本推送紧急更新：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"37fd\">Windows 10 22H2 和 21H2 推送 <span class=\"notransl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/370.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T00:22:35.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-2412u8",
+      "title": "V 社推送 SteamOS 3.9.1 预览版更新：修复《极限竞速：地平线 6》启动崩溃问题等",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，V 社今日向 Steam Deck 预览通道推送了 SteamOS 3.9.1 预览版更新，修复了多个系统问题，同时整合了 SteamOS 3.9 版本的多项新功能。</p><p data-vmark=\"2fa0\">官方提醒，该版本属于早期预览构建，可能存在未预期的 Bug 或稳定性问题，遇到问题可在 GitHub 的 SteamOS 问题跟踪页反馈。预览通道用户可通过“设置 > 系统 > 系统更新通道”切换至预览通道获取更新。</p><p data-vmark=\"0002\" style=\"text-align: cen",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/356.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T23:30:35.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-1lc2ny",
+      "title": "Epic 喜加一：原价 15 元文字冒险游戏《Vanakan》免费领",
+      "desc": "<p data-vmark=\"c693\">IT之家 9 月 15 日消息，由独立游戏开发者 Erik Khachatryan 与 Hayk Khachatryan 打造的文字冒险游戏《Vanakan》目前正在 Epic 游戏商店开启限时免费“喜加一”活动，本作在国区定价为 15 元，玩家可以在在 9 月 29 日免费领取。</p><p data-vmark=\"f14d\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/vanakan-0ec386\" target",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/002/343.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T22:51:42.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-1ksa2l",
+      "title": "Steam 喜加一：原价 70 元方块消除对战游戏《Crystal Crisis》免费领",
+      "desc": "<p data-vmark=\"2b31\">IT之家 9 月 15 日消息，由 Nicalis 开发的方块消除益智对战游戏《Crystal Crisis》目前正在 Steam 平台开启限时免费“喜加一”活动，本作在国区定价为 70 元，限免活动截止至 9 月 22 日 14:59，IT之家附游戏 Steam 商品页（<a href=\"https://store.steampowered.com/app/447700/Crystal_Crisis/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.stea",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/342.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T22:48:14.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7,
+      "verified": true
+    },
+    {
+      "id": "rss-2ibq9m",
+      "title": "酷态科 × 鹰角网络 MAF 2026 中秋礼盒亮相：机甲风涂装充电器，附《明日方舟：终末地》等游戏周边",
+      "desc": "<p data-vmark=\"3814\">IT之家 9 月 15 日消息，鹰角网络昨日公布了该公司与酷态科联合定制的 MAF 2026 中秋联名礼盒。</p><p data-vmark=\"60ed\">礼盒内含定制酷态科 10 号 Mini 氮化镓充电器、编织磁吸数据线 CP、蛋月烧月饼、魔术贴理线带，以及《明日方舟：终末地》等多个游戏项目的主题周边产品。</p><p data-vmark=\"9d54\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/52a78cf4-429c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/361.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T23:48:05.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-53man",
       "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
       "desc": "<p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东自营今日 4499 元 + 系统自动发放 200 元限时补贴，大部分地区支持 500 元国补，实付 3799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">先领 200 元惊喜红包：<a href=\"https://u.jd.com/x69BxOA\" target=\"_blank\" data-wapurl=\"htt",
@@ -143,94 +336,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-m5dx4g",
-      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126850.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T03:36:29.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-95plw2",
-      "title": "智谱联合杭州市政府推出Coding Plan普惠行动 购买年卡享受51%政府补贴",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126793.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T07:10:44.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-15xu1u",
-      "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
-      "desc": "<p data-vmark=\"c629\">IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。</p><p data-vmark=\"f433\">适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"f694\">AirPods Pro 3</p></li><li>",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/336.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T22:18:48.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-13qnoe",
-      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。</p><p style=\"text-align: center;\" data-vmark=\"08a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/332.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T18:26:12.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-15e1gh",
-      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。</p><p data-vmark=\"0003\"><strong>通用更新</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0004\">修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平</p></li>",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/335.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T22:00:33.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-43jt5e",
@@ -1995,23 +2100,6 @@
       ]
     },
     {
-      "id": "seed-009",
-      "title": "中国银行 App 缴费立减 5~20 元",
-      "desc": "中行 App 生活缴费（水电燃气话费）随机立减，部分省份叠加数币红包，月限额一次",
-      "channel": "中国银行",
-      "category": "金融",
-      "value": "立减最高 20 元",
-      "url": "https://www.boc.cn",
-      "expiresAt": "2026-09-30T23:59:59+08:00",
-      "publishedAt": "2026-09-01T08:30:00+08:00",
-      "hot": 7640,
-      "tags": [
-        "缴费",
-        "立减",
-        "数币"
-      ]
-    },
-    {
       "id": "seed-010",
       "title": "拼多多天天领现金·砍价免费拿",
       "desc": "每日签到领现金可提现，砍价免费拿活动选低价商品成功率更高",
@@ -2025,22 +2113,6 @@
       "tags": [
         "现金",
         "砍价"
-      ]
-    },
-    {
-      "id": "seed-013",
-      "title": "顺丰速运会员寄件 8 折券包",
-      "desc": "顺丰速运小程序月度会员可领寄件 8 折券包 3 张，生鲜与贵重物品寄送更划算",
-      "channel": "顺丰",
-      "category": "出行",
-      "value": "寄件 8 折×3",
-      "url": "https://www.sf-express.com",
-      "expiresAt": "2026-09-28T23:59:59+08:00",
-      "publishedAt": "2026-09-01T09:00:00+08:00",
-      "hot": 3120,
-      "tags": [
-        "寄件",
-        "券包"
       ]
     },
     {
