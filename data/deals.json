@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-15T20:14:02.268Z",
+  "updatedAt": "2026-09-15T23:10:25.658Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -162,23 +162,6 @@
       "_score": 3
     },
     {
-      "id": "rss-a8lffi",
-      "title": "荣耀MagicOS 11 操作系统正式发布：全新流光通透设计，最高省 60GB 存储空间",
-      "desc": "<p data-vmark=\"4b97\">IT之家 9 月 15 日消息，荣耀MagicOS 11 操作系统今日正式发布，新系统主打全新液态玻璃材质，拥有流光通透美学设计，即日起启动正式版不限量尝鲜，适配多款机型。</p><p style=\"text-align: center;\" data-vmark=\"9d13\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0abc0e86-9165-46ba-9498-6f86a6aa3b07.jpg?x-bce-process=image/format,f_auto\" w=\"1080\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/754.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T12:09:26.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-m5dx4g",
       "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
       "desc": "",
@@ -192,6 +175,59 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-3fifmp",
+      "title": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
+      "desc": "<p data-vmark=\"bbad\">IT之家 9 月 16 日消息，小米米家石墨烯暖风机 C 现已开售，建议零售价 249 元，新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7132\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d2ec76c2-2f25-4f49-b282-f3b0377b4de5.jpg?x-bce-process=image/format,f_auto\" w=\"1080",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/830.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T22:53:10.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-30470l",
+      "title": "《模拟火车世界 7》登陆 Steam：国区 170 元起，支持简体中文",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 16 日消息，Dovetail Games 旗下知名火车模拟系列新作《模拟火车世界 7》今日正式登陆 Steam 平台，支持简体中文界面与字幕。</p><p data-vmark=\"4b1b\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4678800/Train_Sim_World_7/\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4678800/Train_S",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/823.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T17:12:49.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-a8lffi",
+      "title": "荣耀MagicOS 11 操作系统正式发布：全新流光通透设计，最高省 60GB 存储空间",
+      "desc": "<p data-vmark=\"4b97\">IT之家 9 月 15 日消息，荣耀MagicOS 11 操作系统今日正式发布，新系统主打全新液态玻璃材质，拥有流光通透美学设计，即日起启动正式版不限量尝鲜，适配多款机型。</p><p style=\"text-align: center;\" data-vmark=\"9d13\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0abc0e86-9165-46ba-9498-6f86a6aa3b07.jpg?x-bce-process=image/format,f_auto\" w=\"1080\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/754.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T12:09:26.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
