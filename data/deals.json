@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-15T06:41:48.307Z",
+  "updatedAt": "2026-09-15T12:10:05.569Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
     {
       "id": "rss-vqc1du",
-      "title": "告别iCloud月费，更赢免费注册码！这款神器让iPhone数据管理既省心又省钱",
+      "title": "限免：DearMob iPhone Manager – iPhone/iPad 照片、视频传输，应用安装、整机备份恢复、换机工具[Win/macOS]",
       "desc": "",
       "channel": "小众软件",
       "category": "白嫖",
       "value": "",
       "url": "https://www.appinn.com/5kplayer-iphone-manager/",
       "expiresAt": null,
-      "publishedAt": "2026-09-11T09:20:05.000Z",
+      "publishedAt": "2026-09-15T07:38:29.000Z",
       "hot": 218,
       "tags": [
         "RSS",
         "小众软件·限免频道"
       ],
-      "_score": 4
+      "_score": 2
     },
     {
       "id": "rss-usbcom",
@@ -92,6 +92,60 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-mpamm",
+      "title": "iOS 27 正式版新功能汇总视频：流畅度暴涨，老机型狂喜！国行 AI 难崩…",
+      "desc": "经过漫长等待，苹果终于把 iOS 27 正式版推给所有用户了。从 6 月首个测试版到后面的 8 轮测试加 1 个 RC 版，折腾了三个多月，正式版总算落地。这次版本号为 iOS 27.0，内部版本号 24A437，所有用户都能直接升到正式版。\n\n入手 iPhone 优惠\n下载 iOS 27 / iPadOS 正式固件\n而且这次不是 iPhone 单打独斗，macOS 27…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/ios27-features",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T12:00:20.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-c484ex",
+      "title": "小米米家智能燃气热水器 2 静音一级能效 16L 发售，2899 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，小米旗下米家智能燃气热水器 2 静音一级能效 16L 将于今晚 8 点开启首销，建议零售价 2999 元，<strong>首发价 2899 元</strong>，首销前可享尾款立减 200 元优惠，叠加国补后 2294.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xOxIdrp\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xDkhBoW\" data-iosurl=\"https://u.jd",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/715.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T10:23:02.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-a8lffi",
+      "title": "荣耀MagicOS 11 操作系统正式发布：全新流光通透设计，最高省 60GB 存储空间",
+      "desc": "<p data-vmark=\"4b97\">IT之家 9 月 15 日消息，荣耀MagicOS 11 操作系统今日正式发布，新系统主打全新液态玻璃材质，拥有流光通透美学设计，即日起启动正式版不限量尝鲜，适配多款机型。</p><p style=\"text-align: center;\" data-vmark=\"9d13\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0abc0e86-9165-46ba-9498-6f86a6aa3b07.jpg?x-bce-process=image/format,f_auto\" w=\"1080\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/754.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T12:09:26.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-m5dx4g",
@@ -2225,22 +2279,6 @@
       "tags": [
         "模板",
         "每周"
-      ]
-    },
-    {
-      "id": "seed-018",
-      "title": "网易云课堂/腾讯课堂限时免费公开课",
-      "desc": "两大平台每周更新限时免费课程，覆盖编程、剪辑、AI 工具，结课可申领学习证书",
-      "channel": "网易",
-      "category": "教育",
-      "value": "免费课程",
-      "url": "https://study.163.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-01T15:00:00+08:00",
-      "hot": 2650,
-      "tags": [
-        "课程",
-        "免费"
       ]
     },
     {
