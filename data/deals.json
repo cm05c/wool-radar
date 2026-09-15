@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-15T01:25:46.544Z",
+  "updatedAt": "2026-09-15T06:41:48.307Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,113 @@
       "_score": 4
     },
     {
+      "id": "rss-m5dx4g",
+      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126850.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-14T03:36:29.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ugj84g",
+      "title": "网易《无限大》不设任何角色卡池：纯外观付费，2027 年 1 月 15 日免费登陆 PC、PS5 和移动端",
+      "desc": "<p data-vmark=\"5daa\">IT之家 9 月 15 日消息，网易都市开放世界 RPG《无限大》已经官宣于 2027 年 1 月 15 日全球同步上线，免费游玩，登陆 PC、PS5 和移动端，国内外版本完全统一。</p><p style=\"text-align: center;\" data-vmark=\"dd2d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/235e0853-5dca-4966-9694-43e85857532c.png?x-bce-process=image/format,f_auto\" w=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/532.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T05:55:34.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-t1ecxv",
+      "title": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
+      "desc": "<p data-vmark=\"a7b6\">IT之家 9 月 15 日消息，<a href=\"https://www.ithome.com/1/002/329.htm\" target=\"_blank\">苹果今日（9 月 15 日）凌晨推送了 iOS 27.0 正式版更新</a>，迎来多项性能优化，还从底层重构聚焦、照片和邮件 App 中的搜索功能。</p><p style=\"text-align: center;\" data-vmark=\"aec6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/99495992-4129-49c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/502.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T03:38:56.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-hrm71d",
+      "title": "请升级：任天堂向初代 Switch 推送 23.0.0 固件，修复二维码漏洞",
+      "desc": "<p data-vmark=\"063b\">IT之家 9 月 15 日消息，科技媒体 Android Headline 昨日（9 月 14 日）发布博文，报道称任天堂已提醒初代 Switch 游戏掌机玩家，<strong>尽快升级 23.0.0 固件更新，已整合二维码漏洞修复补丁。</strong></p><p data-vmark=\"421f\">IT之家援引博文介绍，本次二维码漏洞影响初代 Switch，而第二代 Switch 不使用二维码将图像传输至手机，因此不受该漏洞影响。</p><p data-vmark=\"8523\">初代 Switch 系列需要用户扫描主机屏幕上的二维码，才能把游戏截",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/478.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T03:01:59.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-grvkgw",
+      "title": "山灵 M8T 铜版 Hi-Fi 播放器发售：外壳引入铜合金 CNC 工艺，11980 元",
+      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 15 日消息，山灵旗下 M8T 铜版 Hi-Fi 播放器现已在京东发售，该机延续标准款机型配置，主要将外壳调整为铜合金材质，同时改进调音，首发价 11980 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xrkgfrw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/x6kz22j\" data-iosurl=\"https://u.jd.com/xakGE8b\" data-androidurl=\"https://u.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/455.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T02:37:25.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-egaua0",
+      "title": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
+      "desc": "<p data-vmark=\"3882\">IT之家 9 月 15 日消息，苹果现已为旗下 AppleTV 推送 tvOS 27.0 正式版系统，主要为相应机型带来重新设计的播客（Podcasts）应用，同步改进 Apple Music 音频体验，引入多项辅助功能。</p><p style=\"text-align: center;\" data-vmark=\"c1c4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ae1c2ed-8f77-4c6a-b67e-5ea448201ada.png?x-bce-process=imag",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/408.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T01:49:52.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-15xu1u",
       "title": "苹果为 AirPods Pro 3 等耳机推送 9A348 新固件",
       "desc": "<p data-vmark=\"c629\">IT之家 9 月 15 日消息，科技媒体 9to5Mac 今天（9 月 15 日）发布博文，报道称苹果面向 AirPods Pro 3 等耳机，推送版本号为 9A348 的全新固件。</p><p data-vmark=\"f433\">适配范围上，IT之家援引博文介绍，本次 AirPods Firmware 9.0 (9A348) 固件更新适用于以下 4 款耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"f694\">AirPods Pro 3</p></li><li>",
@@ -141,23 +248,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-m5dx4g",
-      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126850.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T03:36:29.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -2054,32 +2144,6 @@
           "高频点餐建议开「超级吃货卡」：月费约 10 元，含 5 张 5 元红包 + 涨系数",
           "每天 11 点 / 17 点开抢饭点限时红包，手快有手慢无",
           "淘宝 App 搜「饿了么」走跨端入口，经常有专属 8 元券"
-        ]
-      }
-    },
-    {
-      "id": "seed-005",
-      "title": "支付宝会员积分兑换话费券",
-      "desc": "支付宝会员页用积分兑换 5 元话费券（999 积分），充值满 50 可用，每月一次",
-      "channel": "支付宝",
-      "category": "话费",
-      "value": "5 元话费券",
-      "url": "https://member.alipay.com",
-      "expiresAt": "2026-09-30T23:59:59+08:00",
-      "publishedAt": "2026-09-01T10:00:00+08:00",
-      "hot": 9210,
-      "tags": [
-        "积分",
-        "话费",
-        "每月"
-      ],
-      "guide": {
-        "title": "支付宝积分薅话费",
-        "steps": [
-          "支付宝 → 我的 → 支付宝会员 → 积分当钱花",
-          "999 积分兑 5 元话费券，充值满 50 可用，每月限一次",
-          "配合「消费券」频道领充值立减券叠加",
-          "云闪付充话费满 50 随机立减 1~6.2 元，可与运营商折扣同享"
         ]
       }
     },
