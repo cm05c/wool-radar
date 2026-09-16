@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-16T01:24:44.344Z",
+  "updatedAt": "2026-09-16T06:44:59.576Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 14,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,42 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-kza1em",
+      "title": "雅马哈发布旗下最紧凑杜比全景声回音壁 B200A，长度 60cm",
+      "desc": "<p data-vmark=\"b002\">IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回音壁）产品 B200A。</p><p data-vmark=\"c54e\">这一型号<strong>长度仅有 60cm</strong>，定价 1,580 元人民币 / 249.95 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,681 元人民币)</span>。</p><p data-vmark=\"6cba\" style=\"text-align: center;\"><img src=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/992.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-16T03:57:10.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-j6y3zd",
+      "title": "vivo OriginOS 7 升级截屏直达功能：AI 识别券码，票券进卡包",
+      "desc": "<p data-vmark=\"964f\">IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 OriginOS 7。</p><p data-vmark=\"dc1a\">其中，OriginOS 7 支持截屏直达功能。该功能将截屏从保存信息扩展为直达服务入口。</p><p data-vmark=\"312e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e3e5fac2-4fdd-4cd1-927f-5734dfeb750",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/959.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-16T02:51:48.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-3fifmp",
@@ -2288,32 +2324,6 @@
       }
     },
     {
-      "id": "seed-004",
-      "title": "饿了么吃货豆兑换免单红包",
-      "desc": "每日下单攒吃货豆，攒够 1000 豆可兑换 5 元无门槛红包，配合超级吃货卡性价比更高",
-      "channel": "饿了么",
-      "category": "外卖",
-      "value": "吃货豆换 5 元红包",
-      "url": "https://h5.ele.me",
-      "expiresAt": null,
-      "publishedAt": "2026-09-02T12:00:00+08:00",
-      "hot": 5120,
-      "tags": [
-        "吃货豆",
-        "兑换"
-      ],
-      "guide": {
-        "title": "饿了么吃货豆滚雪球",
-        "steps": [
-          "每单完成订单评价返 50~100 吃货豆",
-          "攒够 1000 豆兑换 5 元无门槛红包",
-          "高频点餐建议开「超级吃货卡」：月费约 10 元，含 5 张 5 元红包 + 涨系数",
-          "每天 11 点 / 17 点开抢饭点限时红包，手快有手慢无",
-          "淘宝 App 搜「饿了么」走跨端入口，经常有专属 8 元券"
-        ]
-      }
-    },
-    {
       "id": "seed-010",
       "title": "拼多多天天领现金·砍价免费拿",
       "desc": "每日签到领现金可提现，砍价免费拿活动选低价商品成功率更高",
@@ -2432,32 +2442,6 @@
           "选「已拼成」商家可直接下单，未拼成自动退款",
           "叠加天天神券（部分商家支持），单均再省 3~5 元",
           "凑满「拼单」人头更便宜，同事一起拼最划算"
-        ]
-      }
-    },
-    {
-      "id": "seed-023",
-      "title": "瑞幸「幸运星期三」·3 万张免单券抽奖",
-      "desc": "每周三进入瑞幸 App/小程序活动页即得 1 次抽奖机会，每买一杯现制饮品再得 1 次（不设上限），可抽全场自提饮品免单券、瑞王卡体验卡、12.9 元兑换券等",
-      "channel": "瑞幸咖啡",
-      "category": "外卖",
-      "value": "免单券 3 万张",
-      "url": "https://www.luckincoffee.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-02T10:00:00+08:00",
-      "hot": 8890,
-      "tags": [
-        "免单",
-        "抽奖",
-        "每周三"
-      ],
-      "guide": {
-        "title": "瑞幸免单抽奖技巧",
-        "steps": [
-          "每周三当天进瑞幸 App/小程序活动页，先拿保底 1 次抽奖机会",
-          "当天买一杯现制饮品（订单完成后）再得 1 次机会，买多抽多",
-          "头奖为全场自提饮品免单券（3 万份），另有甜品简餐免单券 333 份",
-          "没中免单也有 7.5 折券 / 12.9 元兑换券兜底，中奖率相当高"
         ]
       }
     },
