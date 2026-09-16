@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-15T23:10:25.658Z",
+  "updatedAt": "2026-09-16T01:24:44.344Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -111,6 +111,40 @@
       "_score": 4
     },
     {
+      "id": "rss-3fifmp",
+      "title": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
+      "desc": "<p data-vmark=\"bbad\">IT之家 9 月 16 日消息，小米米家石墨烯暖风机 C 现已开售，建议零售价 249 元，新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7132\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d2ec76c2-2f25-4f49-b282-f3b0377b4de5.jpg?x-bce-process=image/format,f_auto\" w=\"1080",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/830.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T22:53:10.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
+    },
+    {
+      "id": "rss-30470l",
+      "title": "《模拟火车世界 7》登陆 Steam：国区 170 元起，支持简体中文",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 16 日消息，Dovetail Games 旗下知名火车模拟系列新作《模拟火车世界 7》今日正式登陆 Steam 平台，支持简体中文界面与字幕。</p><p data-vmark=\"4b1b\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4678800/Train_Sim_World_7/\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4678800/Train_S",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/002/823.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T17:12:49.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-89nyvx",
       "title": "互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送",
       "desc": "<p data-vmark=\"0a19\">IT之家 9 月 15 日消息，互传联盟近日宣布推出“碰一碰互传技术标准”，跨品牌一碰传即将正式发布。</p><p style=\"text-align: center;\" data-vmark=\"f0f3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/66e66173-2216-418d-84c7-e187092fea2d.png?x-bce-process=image/format,f_auto\" w=\"987\" h=\"1281\" data-weibo=\"0\" data-vmark=",
@@ -145,23 +179,6 @@
       "_score": 2
     },
     {
-      "id": "rss-a81mu5",
-      "title": "Keychron Q13 Ultra 8K 机械键盘国行发售：96% Alice 配列，1601 元",
-      "desc": "<p data-vmark=\"e525\">IT之家 9 月 15 日消息，Keychron（渴创）的 <strong>96% Alice</strong> 配列全铝三模机械键盘 Q13 Ultra 8K 现已在中国大陆电商平台发售。其可选黑 / 白 2 种配色、红 / 茶 / 香蕉 3 种 Silk POM 轴体，到手价 1601 元。</p><p data-vmark=\"5a78\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed27687-1e67-47eb-8af",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/755.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T12:10:52.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-m5dx4g",
       "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
       "desc": "",
@@ -179,40 +196,75 @@
       "_score": 2
     },
     {
-      "id": "rss-3fifmp",
-      "title": "小米米家石墨烯暖风机 C 开售：80° 广角摆头送风、2000W 功率，政府补贴价 199 元",
-      "desc": "<p data-vmark=\"bbad\">IT之家 9 月 16 日消息，小米米家石墨烯暖风机 C 现已开售，建议零售价 249 元，新品到手价 219 元，<strong>政府补贴价 199 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7132\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d2ec76c2-2f25-4f49-b282-f3b0377b4de5.jpg?x-bce-process=image/format,f_auto\" w=\"1080",
+      "id": "rss-4unata",
+      "title": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
+      "desc": "<p data-vmark=\"f400\">IT之家 9 月 16 日消息，谷歌今日开始向 Pixel 设备推送最新的 Android 17 QPR1 稳定版更新，随 2026 年 9 月功能更新与安全补丁一同发布。</p><p data-vmark=\"b1a1\">用户界面方面，新版本为系统 UI 添加了更多模糊效果。音量面板采用动态取色半透明设计，底部完整面板也已更新。电源菜单同样获得更新，并加入了背景模糊特效。</p><p style=\"text-align: center;\" data-vmark=\"a821\"><a target=\"_blank\" href=\"https://img.it",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/830.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/860.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-15T22:53:10.000Z",
-      "hot": 151,
+      "publishedAt": "2026-09-16T00:59:39.000Z",
+      "hot": 152,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 5,
+      "_score": 3,
       "verified": true
     },
     {
-      "id": "rss-30470l",
-      "title": "《模拟火车世界 7》登陆 Steam：国区 170 元起，支持简体中文",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 16 日消息，Dovetail Games 旗下知名火车模拟系列新作《模拟火车世界 7》今日正式登陆 Steam 平台，支持简体中文界面与字幕。</p><p data-vmark=\"4b1b\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4678800/Train_Sim_World_7/\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4678800/Train_S",
+      "id": "rss-4dlof3",
+      "title": "EA《双人成行》10 月 15 日登陆任天堂 Switch 2：新增好友通行证跨平台功能，部分地区老玩家可免费升级",
+      "desc": "<p data-vmark=\"e124\">IT之家 9 月 16 日消息，艺电与 Hazelight 工作室确认《双人成行》将于 2026 年 10 月 15 日登陆任天堂 Switch 2 平台。该版本新增免费好友通行证功能，支持跨平台联机。</p><p style=\"text-align: center;\" data-vmark=\"212b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a5c6f2fc-2da3-4c44-8dd2-a8621adb7b24.jpg?x-bce-process=image/format,f",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/823.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/850.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-15T17:12:49.000Z",
+      "publishedAt": "2026-09-16T00:05:51.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-3zb0zp",
+      "title": "育碧商城喜加一：原价 148 元的《荣耀战魂》PC 版免费领",
+      "desc": "<p data-vmark=\"6af6\">IT之家 9 月 16 日消息，育碧宣布 PC 版《荣耀战魂》现可在育碧 Connect 免费领取。活动截至 9 月 28 日 21:00，领取后永久入库。该作在育碧商城原价 148 元，用户领取后即可永久入库。</p><p data-vmark=\"4c5e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/87751359-796d-4d0c-aa70-d7cb871679b6.jpg\" w=\"597\" h=\"335\" data-w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/002/845.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T23:41:32.000Z",
       "hot": 151,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-a81mu5",
+      "title": "Keychron Q13 Ultra 8K 机械键盘国行发售：96% Alice 配列，1601 元",
+      "desc": "<p data-vmark=\"e525\">IT之家 9 月 15 日消息，Keychron（渴创）的 <strong>96% Alice</strong> 配列全铝三模机械键盘 Q13 Ultra 8K 现已在中国大陆电商平台发售。其可选黑 / 白 2 种配色、红 / 茶 / 香蕉 3 种 Silk POM 轴体，到手价 1601 元。</p><p data-vmark=\"5a78\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed27687-1e67-47eb-8af",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/002/755.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T12:10:52.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-a8lffi",
@@ -2262,22 +2314,6 @@
       }
     },
     {
-      "id": "seed-008",
-      "title": "网易云音乐黑胶 VIP 连续包月首月 1 元",
-      "desc": "首月 1 元开通黑胶 VIP，记得到期前关闭自动续费，老用户换设备有机会再触发",
-      "channel": "网易云音乐",
-      "category": "会员",
-      "value": "首月 1 元",
-      "url": "https://music.163.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-02T09:00:00+08:00",
-      "hot": 4530,
-      "tags": [
-        "音乐",
-        "首月优惠"
-      ]
-    },
-    {
       "id": "seed-010",
       "title": "拼多多天天领现金·砍价免费拿",
       "desc": "每日签到领现金可提现，砍价免费拿活动选低价商品成功率更高",
@@ -2307,22 +2343,6 @@
       "tags": [
         "视频会员",
         "新用户"
-      ]
-    },
-    {
-      "id": "seed-016",
-      "title": "中国联通 APP 流量签到·免费领 1GB",
-      "desc": "联通手机营业厅每日签到，月底可兑换 1GB 全国流量日包，连签奖励翻倍",
-      "channel": "中国联通",
-      "category": "话费",
-      "value": "1GB 流量",
-      "url": "https://uoc.10010.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-02T08:00:00+08:00",
-      "hot": 4210,
-      "tags": [
-        "流量",
-        "签到"
       ]
     },
     {
