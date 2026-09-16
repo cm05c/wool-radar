@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-16T17:16:57.497Z",
+  "updatedAt": "2026-09-16T20:25:07.279Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 14,
     "linkVerified": true
   },
   "items": [
@@ -111,6 +111,23 @@
       "_score": 4
     },
     {
+      "id": "rss-t8v6wv",
+      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台，新车上市补贴价 13.28 万元起",
+      "desc": "<p data-vmark=\"bfa9\">IT之家 9 月 16 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/654.htm\">极狐阿尔法 T7 大五座 SUV 今日正式上市</a>，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，<strong>上市补贴价 13.28 万元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8bfd\"><img src=\"https://img.ithome.com/newsupl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/323.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-16T15:02:20.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-ty4b7e",
       "title": "上市补贴价 13.28 万元起：极狐阿尔法 T7 汽车上市，可选增程 / 纯电动力、华为乾崑智驾 ADS 5 Pro",
       "desc": "<p data-vmark=\"a268\">IT之家 9 月 16 日消息，极狐阿尔法 T7 汽车今日上市，新车提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池。<strong>该车上市补贴价 13.28 万元起</strong>，即日起下单可享受价值 4000 元置换补贴、6000 元 ADS 高阶包补贴、三电终身质保、3 年不限量娱乐流量等权益。</p><p style=\"text-align: center;\" data-vmark=\"d795\"><img src=\"https://img.ithome.com/newsuploadfiles/20",
@@ -143,24 +160,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-t8v6wv",
-      "title": "极狐阿尔法 T7 大五座 SUV 上市 1 小时大定锁单超 3 万台，新车上市补贴价 13.28 万元起",
-      "desc": "<p data-vmark=\"bfa9\">IT之家 9 月 16 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/0/999/654.htm\">极狐阿尔法 T7 大五座 SUV 今日正式上市</a>，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾 ADS 5 Pro，全系标配宁德时代电池，<strong>上市补贴价 13.28 万元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"8bfd\"><img src=\"https://img.ithome.com/newsupl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/323.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-16T15:02:20.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-s0afuj",
