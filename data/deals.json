@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-17T06:40:28.261Z",
+  "updatedAt": "2026-09-17T12:06:38.758Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 14,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-wcn24i",
+      "title": "华为 512G 阔直板 6299 元新低限地区：京东超级 18 今晚 20:00 开启，整个 9 月就看这波",
+      "desc": "<p data-vmark=\"b3dc\"><strong>京东</strong>“超级 18” S 级大促仅限 9 月 17 日 20 点～ 18 日 24 点，<strong>可领 200-20 元全品类叠加券 + 白条 6 期免息券 + 抽至高 18 元无门槛红包</strong>：<a href=\"https://u.jd.com/46CvQgT\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4aCrGbo\" data-iosurl=\"https://u.jd.com/41CDoQP\" data-androidurl=\"https://u.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "18 元无门槛",
+      "url": "https://www.ithome.com/1/003/786.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T10:27:04.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-h3wdy4",
+      "title": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
+      "desc": "<p data-vmark=\"6cda\">IT之家 9 月 17 日消息，索尼 PSN 港服现已开启新一轮 PS Plus 会员限时优惠，基本、升级、高级档位的会员 12 月方案均有不同程度优惠，<strong>截止日期为 9 月 30 日</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fb38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/537b6073-d697-4af8-85bf-36e3f1d162bd.jpg?x-bce-process=image/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/003/670.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:18:34.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-fpv3y9",
+      "title": "小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，小米澎湃 OS 公告君今日官方发布公告，公布了<strong>小米澎湃 OS 4</strong> 正式版的推送计划，明确了正式版首批推送的开启时间。</p><p data-vmark=\"0001\">小米澎湃 OS 公告君表示，<strong>小米澎湃 OS 4 正式版将于 10 月 15 日开启首批存量机型推送</strong>，并将在后续陆续覆盖更多机型。官方欢迎用户积极升级使用并反馈问题，官方也将持续迭代优化系统体验。</p><p data-vmark=\"0002\">公告同时强调，<strong>小米澎湃 OS 公",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/642.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:06:36.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-c8w6hy",
@@ -2400,32 +2472,6 @@
           "签到弹窗里的「惊喜券」必领，常出 199-20 类目券",
           "下单前用淘金币抵现，100 币 = 1 元",
           "聚划算 / 百亿补贴先比价，再叠红包"
-        ]
-      }
-    },
-    {
-      "id": "seed-003",
-      "title": "美团外卖天天神券·膨胀红包",
-      "desc": "美团 App/小程序领神券，可膨胀至 5~15 元，叠加满减更香，部分城市可白嫖免配送费券",
-      "channel": "美团",
-      "category": "外卖",
-      "value": "5~15 元膨胀红包",
-      "url": "https://waimai.meituan.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-03T18:00:00+08:00",
-      "hot": 7560,
-      "tags": [
-        "红包",
-        "天天神券"
-      ],
-      "guide": {
-        "title": "美团神券膨胀三步走",
-        "steps": [
-          "首页搜索「天天神券」→ 领取基础 5 元券",
-          "点券面额旁「膨胀」按钮，看视频/做任务可膨胀到 15~20 元",
-          "下单时叠加商家满减 + 神券 + 津贴，三重叠加最划算",
-          "每周三「神券会员日」券包最大，记得蹲点",
-          "顺手领「免配送费」券，一单再省 3~5 元"
         ]
       }
     },
