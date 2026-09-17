@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:41:31.978Z",
+  "updatedAt": "2026-09-17T06:40:28.261Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,21 +94,40 @@
       "_score": 3
     },
     {
-      "id": "rss-pkmouo",
-      "title": "全球免费公共 NTP 服务器 IP 收集 - VPS 自动校准 Linux 系统时间方法",
-      "desc": "如果你需要维护 VPS 服务器、数据库或网络设备，要保证它们之间时间正确且同步，一定需要 NTP。异次元收录了一份全球免费公共 NTP 服务器 IP 地址列表，方便大家设置电脑、配置服务器时能用得上。\n\n因为时间不准确，会引发很多“莫名其妙”匪夷所思的问题。因此这份公共 NTP IP 列表可以帮助大家…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-c8w6hy",
+      "title": "谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题",
+      "desc": "<p data-vmark=\"0e15\">IT之家 9 月 17 日消息，科技媒体 Android Authority 昨日（9 月 16 日）发布博文，报道称谷歌已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 5 更新，整合 8 项修复。</p><p data-vmark=\"a399\">在推送版本方面，IT之家援引博文介绍，谷歌分为 2 个不同版本分发：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"71b3\">Build <span class=\"link-te",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/p/public-ntp-server",
+      "url": "https://www.ithome.com/1/003/470.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-03T02:41:33.000Z",
-      "hot": 212,
+      "publishedAt": "2026-09-17T03:58:47.000Z",
+      "hot": 199,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 4
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-e0obbu",
+      "title": "小米米家空气净化器 6C 预售：千分位甲醛数显，999 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，米家空气净化器 6C 于昨晚开启预售，新品到手价 999 元，京东券后 997.05 元。</p><p data-vmark=\"0003\">这款空气净化器面向中小户型设计，最大适用面积达到 68 m²，颗粒物 CADR 实测值 603 m³/h，可实现 9500L/min 清新大气量，促进全屋高效循环换气，让洁净空气快速送达。</p><p data-vmark=\"c6f4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfil",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/003/438.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T03:22:48.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-t8v6wv",
@@ -2409,38 +2428,6 @@
           "顺手领「免配送费」券，一单再省 3~5 元"
         ]
       }
-    },
-    {
-      "id": "seed-010",
-      "title": "拼多多天天领现金·砍价免费拿",
-      "desc": "每日签到领现金可提现，砍价免费拿活动选低价商品成功率更高",
-      "channel": "拼多多",
-      "category": "电商",
-      "value": "现金提现/免费拿",
-      "url": "https://mobile.yangkeduo.com",
-      "expiresAt": null,
-      "publishedAt": "2026-09-03T11:00:00+08:00",
-      "hot": 6010,
-      "tags": [
-        "现金",
-        "砍价"
-      ]
-    },
-    {
-      "id": "seed-017",
-      "title": "WPS 会员免费领 7 天稻壳模板",
-      "desc": "WPS App 会员中心每周可免费领 7 天会员与模板券，PPT 简历模板随便下",
-      "channel": "WPS",
-      "category": "办公",
-      "value": "7 天会员+模板",
-      "url": "https://www.wps.cn",
-      "expiresAt": "2026-09-30T23:59:59+08:00",
-      "publishedAt": "2026-09-03T10:00:00+08:00",
-      "hot": 3880,
-      "tags": [
-        "模板",
-        "每周"
-      ]
     },
     {
       "id": "seed-019",
