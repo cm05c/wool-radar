@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T16:57:33.098Z",
+  "updatedAt": "2026-09-17T20:18:57.666Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -125,8 +125,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-oztc72",
@@ -143,26 +142,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-qfhzz0",
-      "title": "小鹏 G9L 正式上市：限时优惠价 23.18 万-29.98 万元，定位黄金大五座科技旗舰",
-      "desc": "<p data-vmark=\"292b\">IT之家 9 月 17 日消息，小鹏 G9L 汽车今天（17 日）晚间正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择。</p><h2 data-vmark=\"7768\">超级增程</h2><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fa9a\">1602 四驱 Ultra SE：25.98 万元，限时优惠价 24.98 万元</p></li><li><p data-vmark=\"4fb7\">1602 四驱 Ultra 旗舰版：30.98 万元，限时优惠价 29.98 万元</",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/832.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T13:09:53.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-qc78eu",
@@ -179,8 +159,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
+    },
+    {
+      "id": "rss-qfhzz0",
+      "title": "小鹏 G9L 正式上市：限时优惠价 23.18 万-29.98 万元，定位黄金大五座科技旗舰",
+      "desc": "<p data-vmark=\"292b\">IT之家 9 月 17 日消息，小鹏 G9L 汽车今天（17 日）晚间正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择。</p><h2 data-vmark=\"7768\">超级增程</h2><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fa9a\">1602 四驱 Ultra SE：25.98 万元，限时优惠价 24.98 万元</p></li><li><p data-vmark=\"4fb7\">1602 四驱 Ultra 旗舰版：30.98 万元，限时优惠价 29.98 万元</",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/832.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T13:09:53.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-wcn24i",
