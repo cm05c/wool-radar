@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:14:51.638Z",
+  "updatedAt": "2026-09-17T01:41:31.978Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -126,6 +126,24 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-qv3acj",
+      "title": "三星 One UI 9 正式版推送：Galaxy S26 系列首批升级，Z Fold8 已预装",
+      "desc": "<p data-vmark=\"be45\">IT之家 9 月 17 日消息，三星电子今日宣布正式向更多 Galaxy 设备推送 One UI 9 正式版更新。首批获得更新的机型为 Galaxy S26、S26+ 和 S26 Ultra，后续将扩展至更多设备。</p><p data-vmark=\"3ac8\">IT之家注：One UI 9 此前已随 Galaxy Z Fold8 Ultra、Fold8 和 Flip8 首发搭载。</p><p data-vmark=\"90c8\">除此之外，三星还向 Galaxy A25、A35、A36、A37、A55、 A56、A57、S23、S24、S25、Z Fl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/374.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T00:49:52.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-ty4b7e",
@@ -2406,22 +2424,6 @@
       "tags": [
         "现金",
         "砍价"
-      ]
-    },
-    {
-      "id": "seed-014",
-      "title": "爱奇艺 VIP 黄金会员首月 6 元",
-      "desc": "新用户专享首月 6 元，可与电视端年卡活动二选一，续费前记得比价",
-      "channel": "爱奇艺",
-      "category": "会员",
-      "value": "首月 6 元",
-      "url": "https://www.iqiyi.com",
-      "expiresAt": "2026-09-15T23:59:59+08:00",
-      "publishedAt": "2026-09-03T09:00:00+08:00",
-      "hot": 5440,
-      "tags": [
-        "视频会员",
-        "新用户"
       ]
     },
     {
