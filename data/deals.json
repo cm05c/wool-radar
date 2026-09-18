@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-18T16:21:48.157Z",
+  "updatedAt": "2026-09-18T19:11:26.217Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -125,8 +125,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
-      "verified": true
+      "_score": 4
     },
     {
       "id": "rss-cc2vhb",
@@ -142,6 +141,23 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-ynfp3m",
+      "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
+      "desc": "过去的输入法比拼词库、皮肤、打字联想，现在字节、腾讯、讯飞、网易等大厂，集体把目光投向了 AI 语音输入这条赛道，比如最近火的豆包输入法、微信输入法、Typeless 等。\n传统语音输入只是充当“声音转文字”听写转录工具，而新一代 AI 原生语音工具已更进一步，追求听懂你的想法，直接输出想法里的话。继有道翻译、爆米花和 UU 远程的好口碑后，网易又推出 AI 语音 Agent「网易叭哥说」，号称“输入效率达键盘 5 倍 + 终身免费”，实测确实厉害……\n「 前往查看原文.... 」异次元还有这些值得一看：豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/bageshuo.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-18T17:44:59.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 3,
       "verified": true
