@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T06:38:52.661Z",
+  "updatedAt": "2026-09-18T11:49:11.496Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -109,6 +109,24 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-sqzoo3",
+      "title": "宝马中国召回 5593 辆进口 S1000RR 摩托车，免费升级软件 + 更换点火锁",
+      "desc": "<p data-vmark=\"ab45\">IT之家 9 月 18 日消息，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》及实施办法要求，向国家市场监督管理总局备案召回计划。</p><p data-vmark=\"9f69\">本次召回编号为 S2026M0118V，涉及 2020 年 10 月 27 日至 2026 年 4 月 7 日期间生产的车辆，共计 5593 辆。宝马（中国）将委托授权经销商处理相关事宜。</p><p data-vmark=\"a540\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/ne",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/098.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-18T07:13:30.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-wn77z6",
@@ -2499,23 +2517,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-eh6zzp",
-      "title": "泰坦军团 P276MV ULTRA 显示器开售：27 英寸 QD-Mini LED 4K 双模，政府补贴价 2999 元",
-      "desc": "<p data-vmark=\"3d58\">IT之家 9 月 4 日消息，泰坦军团 P276MV ULTRA 显示器现已开售，定价 3332 元，<strong>政府补贴价 2999 元</strong>。</p><p data-vmark=\"94d0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bab35116-c3be-4035-bd0c-fb973fe95917.jpg?x-bce-process=image/format,f_auto\" w=\"800\" h=\"60",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/538.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T09:32:15.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "seed-019",
