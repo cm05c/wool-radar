@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-17T23:05:48.400Z",
+  "updatedAt": "2026-09-18T01:16:29.003Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -111,6 +111,40 @@
       "_score": 3
     },
     {
+      "id": "rss-o16atb",
+      "title": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",
+      "desc": "<p data-vmark=\"281c\">IT之家 9 月 18 日消息，科技媒体 MacRumors 今天（9 月 18 日）发布博文，报道称<strong>苹果 iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5 于今日发售，苹果同步推送了首日更新。</strong></p><p data-vmark=\"bbcb\">该媒体指出<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/0",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/884.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T23:03:21.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-og0qu2",
+      "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
+      "desc": "<p data-vmark=\"e6eb\">IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。</p><p style=\"text-align: center;\" data-vmark=\"ace0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f6fb6461-53d4-4918-878e-e29e72c69fbb.png?x-bce-process=image/format,f_auto\" w=\"1042\" h=\"922\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/003/878.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T22:28:46.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-oirpsv",
       "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
       "desc": "<p data-vmark=\"2479\">IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。</p><p data-vmark=\"eae2\">IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/46Lp4VA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4DLEV7v\" data",
@@ -177,42 +211,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-o16atb",
-      "title": "苹果向 iPhone 18 Pro / Max、Apple Watch Series 12 等推送发售首日更新",
-      "desc": "<p data-vmark=\"281c\">IT之家 9 月 18 日消息，科技媒体 MacRumors 今天（9 月 18 日）发布博文，报道称<strong>苹果 iPhone 18 Pro、iPhone 18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5 于今日发售，苹果同步推送了首日更新。</strong></p><p data-vmark=\"bbcb\">该媒体指出<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/0",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/884.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T23:03:21.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-og0qu2",
-      "title": "联想为摩托罗拉 Edge 70 手机推送正式版安卓 17 系统更新，暂缺失景深锁屏壁纸功能",
-      "desc": "<p data-vmark=\"e6eb\">IT之家 9 月 18 日消息，据外媒 Andorid Headlines 报道，联想现已为旗下摩托罗拉 Edge 70 手机推送安卓 17 正式版更新。</p><p style=\"text-align: center;\" data-vmark=\"ace0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f6fb6461-53d4-4918-878e-e29e72c69fbb.png?x-bce-process=image/format,f_auto\" w=\"1042\" h=\"922\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/878.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T22:28:46.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-wcn24i",
