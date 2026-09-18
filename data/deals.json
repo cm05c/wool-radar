@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-18T01:16:29.003Z",
+  "updatedAt": "2026-09-18T06:38:52.661Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 14,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,24 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-wn77z6",
+      "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
+      "desc": "<p data-vmark=\"d713\">IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。</p><p data-vmark=\"1268\">活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。</p><p style=\"text-align: center;\" data-vmark=\"c50b\"><i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/011.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-18T03:20:09.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
     },
     {
       "id": "rss-o16atb",
@@ -1976,23 +1994,6 @@
       "_score": 2
     },
     {
-      "id": "rss-ljqlwz",
-      "title": "Cloudflare D1开始强制执行免费额度：超额后数据库查询直接失败 次日0点恢复",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126644.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T05:31:46.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-fryrvy",
       "title": "iPhone 18 Pro 发布会前夕，苹果推送 140W USB-C 适配器固件更新",
       "desc": "<p data-vmark=\"cfcb\">IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在 iPhone 18 Pro 系列发布会前夕，苹果向 140W USB-C 电源适配器（<a target=\"_blank\" href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f%2fwww.apple.com.cn%2fshop%2fproduct%2fmhy14ch%2fa\">点此前往苹果官网选购，售价 729 元</a>）推送固件更新，<strong>从 v1.4.84 升",
@@ -2099,23 +2100,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-ycb5e6",
-      "title": "Codex接下来将在每天向付费订阅用户赠送1个重置卡 直到GPT-6 Astra可用",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126683.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-04T02:11:39.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-tr3wxj",
@@ -2532,32 +2516,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "seed-001",
-      "title": "淘宝每日签到领无门槛红包",
-      "desc": "打开淘宝签到页连签 7 天，可领 2~8 元无门槛红包，部分用户叠加惊喜券",
-      "channel": "淘宝",
-      "category": "电商",
-      "value": "2~8 元无门槛红包",
-      "url": "https://m.taobao.com",
-      "expiresAt": "2026-09-30T23:59:59+08:00",
-      "publishedAt": "2026-09-04T10:00:00+08:00",
-      "hot": 9821,
-      "tags": [
-        "签到",
-        "红包",
-        "每日"
-      ],
-      "guide": {
-        "title": "淘宝签到红包连击",
-        "steps": [
-          "我的淘宝 → 每日签到，连续 7 天得 2~8 元无门槛红包",
-          "签到弹窗里的「惊喜券」必领，常出 199-20 类目券",
-          "下单前用淘金币抵现，100 币 = 1 元",
-          "聚划算 / 百亿补贴先比价，再叠红包"
-        ]
-      }
     },
     {
       "id": "seed-019",
