@@ -1,47 +1,13 @@
 {
-  "updatedAt": "2026-09-19T01:35:15.625Z",
+  "updatedAt": "2026-09-19T06:37:21.222Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-vqc1du",
-      "title": "限免：DearMob iPhone Manager – iPhone/iPad 照片、视频传输，应用安装、整机备份恢复、换机工具[Win/macOS]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/5kplayer-iphone-manager/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T07:38:29.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
@@ -126,6 +92,202 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-qivqps",
+      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
+      "desc": "<p data-vmark=\"26e3\">IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1.87 万亿元人民币）</span>负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元<span class=\"exch-money-value\">（现汇率约合 5.75 万亿元人民币）</span>。</p><p data-vmark=\"ecb5\">自由现金流（",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/420.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T03:53:04.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-q6s9nu",
+      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
+      "desc": "<p data-vmark=\"2bdd\">IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，<strong>玩家可以在北京时间 9 月 24 日前领取</strong>，IT之家附游戏地址（<a href=\"https://store.steampowered.com/app/2484180/Deadshot/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/004/419.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T03:45:12.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-po39hk",
+      "title": "传承“十三姨”外观：本田 CB500 Super Four 摩托车新增“经典配色版”，43480 元",
+      "desc": "<p data-vmark=\"b863\">IT之家 9 月 19 日消息，本田摩托车在今天举行的 2026 中国摩博会活动中为旗下 CB500 Super Four 摩托车新增一款“经典配色版”，该版本车型采用红白配色，号称传承“十三姨（CB1300）”经典外观，定价为 43480 元。</p><p style=\"text-align: center;\" data-vmark=\"7c4b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e6b8c55c-05a9-43eb-85f0-3f711bf8c097.png?x-bce-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/406.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T03:06:48.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-q68h2h",
+      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
+      "desc": "<p data-vmark=\"05de\">IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。</p><p data-vmark=\"2d27\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/33c8b1ff-5c63-4d4c-b05e-50c90e3c6f26.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"812",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/418.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T03:40:53.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-pmzoau",
+      "title": "张雪机车首款巡航车 600V 发布：27980 元，标配电子油门和怠速闭缸",
+      "desc": "<p data-vmark=\"2d5b\">IT之家 9 月 19 日消息，在第二十四届中国国际摩托车博览会（2026 中国摩博会）上，张雪机车首款巡航摩托车 600V 正式发布，全国统一指导价 27980 元，提供闪光黑、墨渊蓝两种颜色。</p><p style=\"text-align: center;\" data-vmark=\"f845\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8e423ce8-dd3a-48c9-9d3b-96786a300a99.jpg?x-bce-process=image/format,f_au",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/404.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T03:02:58.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-plcair",
+      "title": "张雪 500F 2027 款摩托车发布：换上电子油门，30580 元",
+      "desc": "<p data-vmark=\"581a\">IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）上，张雪 500F 2027 款摩托车发布。</p><p data-vmark=\"126c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/707e9f88-cc22-477f-9bfb-2476ca5ab8bd.jpg\" w=\"501\" h=\"794\" data-weibo=\"0\" data-mpos=\"2,2\" data-mark",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/401.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T02:46:15.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-f8js7x",
+      "title": "微软推送更新修复 Excel 2016 复制 / 粘贴功能失效问题",
+      "desc": "<p data-vmark=\"548b\">IT之家 9 月 19 日消息，微软更新官方支持文档，称已经于 9 月 16 日面向 Microsoft Excel 2016 等用户，推送 5002665 更新，<strong>修复 KB5002914 更新引入的复制 / 粘贴功能失效问题。</strong></p><p data-vmark=\"7bd0\">在问题表现方面，用户主要反馈无法复制、粘贴或选中 Excel 单元格，部分用户还报告自动填充功能无法使用。</p><p style=\"text-align: center;\" data-vmark=\"7fd2\"><img src=\"https:/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/395.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T02:30:15.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-es1yf3",
+      "title": "Steam 客户端 Preview / Beta 通道推送更新：优化大屏幕模式，新增多项输入功能",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 19 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，带来多方面功能优化与问题修复。</p><p data-vmark=\"2275\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3f8b41e4-4933-42aa-acf9-fd5697d54faa.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"11",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/386.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T01:40:30.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-75a6by",
+      "title": "iPhone 18 Pro Max独占功能：可将电池容量限制在20Wh 主要用于寄送和维修",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126951.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T04:57:40.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-vqc1du",
+      "title": "限免：DearMob iPhone Manager – iPhone/iPad 照片、视频传输，应用安装、整机备份恢复、换机工具[Win/macOS]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/5kplayer-iphone-manager/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-15T07:38:29.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-cskpa5",
@@ -2064,23 +2226,6 @@
       "_score": 2
     },
     {
-      "id": "rss-vz31f7",
-      "title": "Codex向部分用户赠送第二张重置卡 GPT-6 Astra也开始推送",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126688.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T04:16:44.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-fryrvy",
       "title": "iPhone 18 Pro 发布会前夕，苹果推送 140W USB-C 适配器固件更新",
       "desc": "<p data-vmark=\"cfcb\">IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在 iPhone 18 Pro 系列发布会前夕，苹果向 140W USB-C 电源适配器（<a target=\"_blank\" href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f%2fwww.apple.com.cn%2fshop%2fproduct%2fmhy14ch%2fa\">点此前往苹果官网选购，售价 729 元</a>）推送固件更新，<strong>从 v1.4.84 升",
@@ -2499,41 +2644,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 7,
-      "verified": true
-    },
-    {
-      "id": "rss-30dfes",
-      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
-      "desc": "<p data-vmark=\"f84b\">IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。</p><p style=\"text-align: center;\" data-vmark=\"234f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/40e6e911-9963-4218-921e-acf865b78eff.png",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/696.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T03:08:45.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-2jvlly",
-      "title": "掌阅 Tango2S 墨水屏电纸书上架预约：5.84 英寸 Carta 1300 面板、9 月 8 日上市",
-      "desc": "<p data-vmark=\"628f\">IT之家 9 月 5 日消息，掌阅旗下 Tango2S 黑白墨水屏手机造型电纸书现已在京东上架并开启预约，该机主要在 Tango2 的基础上进一步缩小尺寸，号称首度为 5.84 英寸机型引入 300PPI Carta 1300 面板，主打清晰度体验，<strong>将于 9 月 8 日发布</strong>，商品页面显示该机定价预计为 1699 元，同时首发可享限时 100 元优惠。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xgzagd9\" target=\"_blank\" da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/998/687.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T02:39:48.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
