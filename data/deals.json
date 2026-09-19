@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-09-19T06:37:21.222Z",
+  "updatedAt": "2026-09-19T11:31:48.800Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
@@ -92,6 +109,77 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-75a6by",
+      "title": "iPhone 18 Pro Max独占功能：可将电池容量限制在20Wh 主要用于寄送和维修",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/126951.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T04:57:40.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-sk0dmt",
+      "title": "AOC AG277QSD 行业首款 HDR 校色显示器开售：26.5 英寸 2K 320Hz QD-OLED，政府补贴价 2799 元",
+      "desc": "<p data-vmark=\"7a8f\">IT之家 9 月 19 日消息，AOC 爱攻昊天 AG277QSD 显示器现已开售，电商平台标价 3160 元，券后到手价 3110 元，政府补贴到手价 2799 元。</p><p style=\"text-align: center;\" data-vmark=\"b586\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed2587c-102c-4acb-91d0-88f69b238998.jpg\" w=\"1440\" h=\"2634\" data-vmark=\"fa5e\" data-mpo",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/469.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T08:30:10.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-qivqps",
@@ -236,41 +324,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-75a6by",
-      "title": "iPhone 18 Pro Max独占功能：可将电池容量限制在20Wh 主要用于寄送和维修",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126951.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T04:57:40.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-vqc1du",
