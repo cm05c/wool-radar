@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:47:29.824Z",
+  "updatedAt": "2026-09-19T17:59:26.755Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -162,6 +162,23 @@
       "_score": 5
     },
     {
+      "id": "rss-9iiaax",
+      "title": "[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "半价",
+      "url": "https://www.landian.news/archives/126956.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T13:12:24.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-75a6by",
       "title": "iPhone 18 Pro Max独占功能：可将电池容量限制在20Wh 主要用于寄送和维修",
       "desc": "",
@@ -177,24 +194,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-9iiaax",
-      "title": "[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "半价",
-      "url": "https://www.landian.news/archives/126956.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T13:12:24.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4,
-      "verified": true
     },
     {
       "id": "rss-qivqps",
