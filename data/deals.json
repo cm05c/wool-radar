@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-19T22:29:24.801Z",
+  "updatedAt": "2026-09-20T00:23:14.724Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -145,23 +145,6 @@
       "_score": 3
     },
     {
-      "id": "rss-sk0dmt",
-      "title": "AOC AG277QSD 行业首款 HDR 校色显示器开售：26.5 英寸 2K 320Hz QD-OLED，政府补贴价 2799 元",
-      "desc": "<p data-vmark=\"7a8f\">IT之家 9 月 19 日消息，AOC 爱攻昊天 AG277QSD 显示器现已开售，电商平台标价 3160 元，券后到手价 3110 元，政府补贴到手价 2799 元。</p><p style=\"text-align: center;\" data-vmark=\"b586\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed2587c-102c-4acb-91d0-88f69b238998.jpg\" w=\"1440\" h=\"2634\" data-vmark=\"fa5e\" data-mpo",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/469.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T08:30:10.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
-    },
-    {
       "id": "rss-9iiaax",
       "title": "[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元",
       "desc": "",
@@ -194,6 +177,59 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-qhf338",
+      "title": "俄罗斯“进步 MS-35”货运飞船与国际空间站对接，将送去超 2.4 吨货物",
+      "desc": "<p data-vmark=\"04b7\">IT之家 9 月 20 日消息，据央视新闻报道，俄罗斯国家航天集团 19 日在官网通报说，俄“进步 MS-35”货运飞船当天与国际空间站俄罗斯舱段“探索”号实验舱完成手动对接。</p><p style=\"text-align: center;\" data-vmark=\"ab7e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ed77de56-ae0a-495e-b6dd-aa7a96d6c76e.jpg?x-bce-process=image/format,f_auto\" w=\"102",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/004/592.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-20T00:04:21.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-qiio9y",
+      "title": "小米 18 Fold 中折叠手机维修备件价出炉：内屏 3600 元起、主板 3900 元起",
+      "desc": "<p data-vmark=\"90ef\">IT之家 9 月 20 日消息，小米官方现已公布 18 Fold 中折叠手机的维修备件价格，<strong>显示该机内屏价为 3600 元起</strong>，<strong>主板价 3900 元起</strong>。作为对比，该机起售价为 10999 元。</p><p style=\"text-align: center;\" data-vmark=\"8d12\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d79e98c3-f1cd-411e-8edb-747a96ed8f0b.jpg?",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/590.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T23:59:38.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-sk0dmt",
+      "title": "AOC AG277QSD 行业首款 HDR 校色显示器开售：26.5 英寸 2K 320Hz QD-OLED，政府补贴价 2799 元",
+      "desc": "<p data-vmark=\"7a8f\">IT之家 9 月 19 日消息，AOC 爱攻昊天 AG277QSD 显示器现已开售，电商平台标价 3160 元，券后到手价 3110 元，政府补贴到手价 2799 元。</p><p style=\"text-align: center;\" data-vmark=\"b586\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed2587c-102c-4acb-91d0-88f69b238998.jpg\" w=\"1440\" h=\"2634\" data-vmark=\"fa5e\" data-mpo",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/004/469.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T08:30:10.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
     },
     {
       "id": "rss-qivqps",
@@ -2658,42 +2694,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-u11h2l",
-      "title": "reMarkable 为旗下墨水屏电纸书推送 3.28 版系统更新：全新 Capture 工具、支持从网盘快速导入图片",
-      "desc": "<p data-vmark=\"c201\">IT之家 9 月 6 日消息，reMarkable 现已为旗下墨水屏电纸书推送 3.28 版系统更新，带来全新的 Capture 工具、更多颜色选项以及改进后的 EPUB 阅读体验，同时优化文件管理和分享功能，并修复了一些已知问题。</p><p data-vmark=\"d8f8\">IT之家获悉，此次更新最大的亮点是新增 Capture 工具，旨在简化用户复制屏幕视觉内容的操作。用户可以通过 Selection Tool 选择 Capture 功能，然后在屏幕上以任意形状圈选内容，被选中的区域会转换为图片，之后可以在当前笔记中移动，也可以直接复制到其他笔",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/998/848.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T23:09:57.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-tze3ai",
-      "title": "Epic 喜加一：原价 31 元二战题材射击游戏《Beach Invasion 1944》免费领",
-      "desc": "<p data-vmark=\"55fd\">IT之家 9 月 6 日消息，由独立游戏团队 AIx2 Games 开发的二战题材射击游戏《Beach Invasion 1944》目前正在 Epic Games Store 开启限时免费“喜加一”活动，<strong>本作在国区定价为 31 元</strong>，玩家可以在 9 月 7 日前免费领取。</p><p data-vmark=\"40d7\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/beach-invas",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/0/998/845.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-05T22:59:29.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7,
       "verified": true
     }
   ]
