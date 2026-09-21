@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-21T05:28:55.958Z",
+  "updatedAt": "2026-09-21T11:05:48.178Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -160,6 +160,60 @@
         "蓝点网·科技资讯"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-iio6ov",
+      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
+      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/310.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T08:28:52.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-uow7lo",
+      "title": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
+      "desc": "<p data-vmark=\"4a1a\">IT之家 9 月 21 日消息，一汽丰田今日宣布，荣放探野版正式上市。官方指导价 17.78 万元，<strong>限时权益价 14.40 万元</strong>。</p><p data-vmark=\"7b90\">新车推出选装优惠，原价 3560 元的聆境之声定制 JBL 音响升级选装包，优惠后为 2700 元。</p><p style=\"text-align: center;\" data-vmark=\"ec7e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/721649da-c120",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/269.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T07:46:59.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-tu3qdg",
+      "title": "AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本",
+      "desc": "<p data-vmark=\"2f1f\">IT之家 9 月 21 日消息，据彭博社报道，法国兴业银行（Societe Generale SA）预测，人工智能应用范围不断扩大，将为该行的降本工作带来可观贡献。</p><p style=\"text-align: center;\" data-vmark=\"8ef7\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/005/283.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T08:04:38.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-opqbd1",
