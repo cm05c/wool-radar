@@ -1,13 +1,64 @@
 {
-  "updatedAt": "2026-09-21T17:01:18.857Z",
+  "updatedAt": "2026-09-21T21:02:24.406Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
@@ -77,6 +128,40 @@
       "_score": 2
     },
     {
+      "id": "rss-x974v",
+      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
+      "desc": "<p data-vmark=\"945a\">IT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。</p><p style=\"text-align: center;\" data-vmark=\"8e56\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/005/475.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T15:07:02.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-10063o",
+      "title": "居然之家限时购：iPhone 18 Pro 天猫 9799 元 12 期免息",
+      "desc": "<p data-vmark=\"a99d\">iPhone 18 Pro 天猫“Apple 产品智能家居专营店”今日可叠加大额淘金币补贴，实付 9799 元起 +12 期免息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d498\">点击下方卡片领券后 → 点击<strong>宝贝右上角“<span class=\"font-color-red\">…</span>”</strong>→ 点击弹出页面<strong>右下角“<span class=\"font-color-orangered\">淘金币</span>”</strong>下单即",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/470.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T14:39:56.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-iio6ov",
       "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
       "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
@@ -109,93 +194,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-x974v",
-      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
-      "desc": "<p data-vmark=\"945a\">IT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。</p><p style=\"text-align: center;\" data-vmark=\"8e56\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/475.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T15:07:02.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-10063o",
-      "title": "居然之家限时购：iPhone 18 Pro 天猫 9799 元 12 期免息",
-      "desc": "<p data-vmark=\"a99d\">iPhone 18 Pro 天猫“Apple 产品智能家居专营店”今日可叠加大额淘金币补贴，实付 9799 元起 +12 期免息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d498\">点击下方卡片领券后 → 点击<strong>宝贝右上角“<span class=\"font-color-red\">…</span>”</strong>→ 点击弹出页面<strong>右下角“<span class=\"font-color-orangered\">淘金币</span>”</strong>下单即",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/470.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T14:39:56.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-uow7lo",
