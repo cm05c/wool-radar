@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-20T22:24:55.725Z",
+  "updatedAt": "2026-09-21T00:29:43.868Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
