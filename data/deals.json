@@ -1,64 +1,13 @@
 {
-  "updatedAt": "2026-09-21T11:05:48.178Z",
+  "updatedAt": "2026-09-21T17:01:18.857Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
@@ -128,21 +77,21 @@
       "_score": 2
     },
     {
-      "id": "rss-inq5qc",
-      "title": "OpenCut 开源版“剪映”替代品 - 免费简单无水印视频剪辑工具 / 还能让 AI 剪片",
-      "desc": "视频剪辑本来应该是件挺有有趣的事，结果这两年硬是被各种会员付费整出了火气。下载了剪映、PR 之类的工具，想加个转场要会员；想导个高清要会员；连自动字幕都开始限次数。\n更烦的是，有些免费版导出成片还带水印，素材得先传到服务器，剪个自家录屏都得传出去。其实很多人要求不高：剪得顺手、导出干净、不用反复提醒“充值”就行。而开源版的 OpenCut 完全免费、无水印、不用登录、视频处理全在本地完成，甚至免安装只需浏览器就能剪视频……\n「 前往查看原文.... 」异次元还有这些值得一看：性价比拉满！苹果 Creator Studio 创意全家桶 - 视频剪辑/音乐/修图/设计/办公剪映专业版 - 免费好用",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "0元",
-      "url": "https://www.iplaysoft.com/opencut.html",
+      "id": "rss-iio6ov",
+      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
+      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/310.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-07T11:06:27.000Z",
+      "publishedAt": "2026-09-21T08:28:52.000Z",
       "hot": 205,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 3
+      "_score": 2
     },
     {
       "id": "rss-9iiaax",
@@ -162,22 +111,91 @@
       "_score": 4
     },
     {
-      "id": "rss-iio6ov",
-      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
-      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
+      "id": "rss-x974v",
+      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
+      "desc": "<p data-vmark=\"945a\">IT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。</p><p style=\"text-align: center;\" data-vmark=\"8e56\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/005/475.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T15:07:02.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-10063o",
+      "title": "居然之家限时购：iPhone 18 Pro 天猫 9799 元 12 期免息",
+      "desc": "<p data-vmark=\"a99d\">iPhone 18 Pro 天猫“Apple 产品智能家居专营店”今日可叠加大额淘金币补贴，实付 9799 元起 +12 期免息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d498\">点击下方卡片领券后 → 点击<strong>宝贝右上角“<span class=\"font-color-red\">…</span>”</strong>→ 点击弹出页面<strong>右下角“<span class=\"font-color-orangered\">淘金币</span>”</strong>下单即",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/1/005/310.htm",
+      "url": "https://www.ithome.com/1/005/470.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-21T08:28:52.000Z",
-      "hot": 205,
+      "publishedAt": "2026-09-21T14:39:56.000Z",
+      "hot": 149,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
+    },
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-uow7lo",
@@ -2617,57 +2635,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-ecmuxy",
-      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-      "desc": "<p data-vmark=\"991f\">IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\" data-vmark=\"4b70\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/000ffaa5-ecac-4378-a13a-d4bd462f636f.jpg?x-bce-process=image/format,f_auto\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/488.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T14:40:44.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-cweekn",
-      "title": "20.99 万元，小米澎程 N70 Pro 中大型五座增程 SUV 发布",
-      "desc": "<p data-vmark=\"81fd\">IT之家 9 月 7 日消息，在今天的小米秋季旗舰新品发布会中，小米澎程 N70 Pro 中大型五座增程 SUV 正式发布，<strong>定价为 20.99 万元</strong>，首销期间赠前排免费旋转座椅、8000 元轮毂选装券和 3000 元车漆选装券。</p><p data-vmark=\"4fe2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/44e06918-f5bb-4f50-8f79-63012a6fabea.jp",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/999/456.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T12:35:27.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-ch05yj",
-      "title": "首发支持国补：小米手环 11 NFC 版折后 288 元，立享 50 元补贴",
-      "desc": "<p data-vmark=\"f685\">全新小米手环 11 将在今天开售，售价如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"e49e\">小米手环 11：建议零售价 299 元起、首销到手价 289 元，国补后 245.65 元。</p></li><li><p data-vmark=\"c23b\">小米手环 11 NFC 版：建议零售价 349 元起、首销到手价 339 元，<strong>国补后 288.15 元</strong>。</p></li><li><p data-vmark=\"0cb3\">小米",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/0/999/449.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T12:05:40.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-p4tluw",
