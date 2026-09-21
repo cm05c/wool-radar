@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-21T00:29:43.868Z",
+  "updatedAt": "2026-09-21T05:28:55.958Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -160,6 +160,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-opqbd1",
+      "title": "达音科“首款圈铁 MEMS 混合耳机”PRS6 发售：冰晶纹纯钛金属面板工艺，1680 元",
+      "desc": "<p data-vmark=\"a99d\">IT之家 9 月 21 日消息，达音科“首款圈铁 MEMS 混合耳机”PRS6 现已在京东发售，<strong>定价为 1680 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"92e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/21621f9c-e46f-497e-ae41-f1bd2c9f05f6.png?x-bce-process=image/format,f_auto\" w=\"948\" h=\"1292\" d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/149.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T05:21:22.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-mq9283",
+      "title": "蔚来 ES8 汽车推出「揽月套装」：22 英寸锻造揽月轮圈、曙光金卡钳，选装价格 10,800 元起",
+      "desc": "<p data-vmark=\"c951\">IT之家 9 月 21 日消息，蔚来官方今日宣布，蔚来 ES8 正式推出「揽月套装」，ES8 行政豪华版选装价格 25,800 元，ES8 行政签名版选装价格 10,800 元；<strong>套装包含价值 25,800 元的 22 英寸锻造揽月轮圈，和价值 3,500 元的曙光金卡钳</strong>（套装内免费赠送）。</p><p data-vmark=\"6f98\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/79c44725",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/103.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T03:02:26.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
     },
     {
       "id": "rss-75a6by",
@@ -2383,40 +2419,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-4j1g3l",
-      "title": "[下载] 免费虚拟机软件VMware Workstation 26H1u1发布 修复微软UEFI证书更新问题",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/download/126726.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T04:57:56.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-vi1f10",
-      "title": "赛博善人！Cloudflare Workers放宽代码体积限制 免费和付费套餐均提高至64MiB",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126689.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T02:48:46.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-fryrvy",
