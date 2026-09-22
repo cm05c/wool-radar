@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T21:02:24.406Z",
+  "updatedAt": "2026-09-22T00:04:45.020Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -162,23 +162,6 @@
       "_score": 2
     },
     {
-      "id": "rss-iio6ov",
-      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
-      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/310.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T08:28:52.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-9iiaax",
       "title": "[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元",
       "desc": "",
@@ -194,6 +177,41 @@
         "蓝点网·科技资讯"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-aftqbt",
+      "title": "Steam 喜加一：休闲合成类游戏《Sputnika Game》转付费前免费领",
+      "desc": "<p data-vmark=\"f9cd\">IT之家 9 月 22 日消息，独立开发者 egunan 宣布旗下《Sputnika Game》即将从免费游戏转为售价 2.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 20 元人民币）</span>的付费作品。玩家只需在 9 月 23 日前将游戏添加至 Steam 游戏库，之后仍可免费游玩，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2730270/Sputnika_Game/\" target=\"_blank\"><span class",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/005/505.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T23:43:14.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-iio6ov",
+      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
+      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/310.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-21T08:28:52.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-uow7lo",
@@ -2632,24 +2650,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-p4tluw",
-      "title": "拯救者云游戏掌机 C700 开售：支持云游戏 +PC 串流，1799 元起",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 8 日消息，联想拯救者云游戏掌机 C700 今日正式开售，建议零售价 2199 元，首发 1799 元，叠加教育优惠后 1599 元，叠加复购券 1699 元，双重叠加 1499 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xa3gh7b\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xD3SgG9\" data-iosurl=\"https://u.jd.com/xD3BtCA\" data-androidurl=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/0/999/501.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-07T23:18:56.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
