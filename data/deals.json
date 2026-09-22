@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-22T09:55:09.291Z",
+  "updatedAt": "2026-09-22T14:50:43.505Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -36,23 +36,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-19T06:06:39.000Z",
       "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
       "tags": [
         "RSS",
         "小众软件·限免频道"
@@ -158,6 +141,113 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-6ifs2f",
+      "title": "VMWare Fusion Pro 26H1u1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
+      "desc": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的硬件等)，因此在 Mac 上安装 Win 是很有必要的。\n曾经我们可用 BootCamp 安装双系统，但如今只能使用虚拟机安装。VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop)，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11、Linux 等多款系统……\n「 前往查看原文.... 」异次元还有这些值得一看：最",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/vmware-fusion.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-18T20:00:13.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-nwwa6k",
+      "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
+      "desc": "虚拟机软件可让你在不重启电脑的情况下，在一个操作系统上同时运行多个不同的系统，譬如在 Win10 上同时运行 Ubuntu 与 Win7，用户可用于各种开发、测试或运行不同平台的软件。\nVMware Workstation Pro 26H1 中文专业版功能相对免费的 VMWare Player 要丰富强大得多！新版本支持 Windows 11，支持 USB 3.1、TPM 2.0、蓝牙、4K，支持容器、兼容 Hyper-V，支持 DirectX 11 和 OpenGL 4.3 加速，3D 游戏性能大幅提高！另还可共享或远程控制虚拟机等……\n「 前往查看原文.... 」异次元还有这些值得一看：V",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/vmware-workstation.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T02:40:14.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-1dys83",
+      "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
+      "desc": "<p data-vmark=\"1fca\">IT之家 9 月 22 日消息，据路透社今天（22 日）晚间报道，华尔街开始看好 Meta，投资者押注其新推出的 AI 智能体 Muse 有望为其开辟新的收入来源，并改变 Meta 在 AI 领域的商业化前景。</p><p data-vmark=\"19ec\">9 月 8 日上线的 Muse 是一款 AI 助手，可以代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易。基础版本免费，针对使用需求更高的用户，Meta 提供每月 20 美元或 100 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 134.2 元",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/972.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T14:11:24.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-1dezmq",
+      "title": "iPhone 17 Pro 低至 7459 元起，京东 iPhone 18 Pro 系列换新补贴 800 元",
+      "desc": "<p data-vmark=\"2d2c\">京东将在明天（9 月 23 日）开启 iPhone 新品狂促，以旧换新额外补贴 800 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4a3xZwm\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4g3UBNp\" data-iosurl=\"https://u.jd.com/4a3mOpL\" data-androidurl=\"https://u.jd.com/4r3FceV\" data-hosnexturl=\"https://u.jd.com/4r3xQI3\" data-h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/971.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T14:02:49.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-ery8z",
+      "title": "CDPR 给 XBOX 玩家送福利：《巫师 3：重制版》将加入 Play Anywhere",
+      "desc": "<p data-vmark=\"04bc\">IT之家 9 月 22 日消息，据外媒 VGC 今天（22 日）晚间报道，CD Projekt Red 确认，《巫师 3：狂猎-重制版》还将为 XBOX 玩家带来一项额外福利。除了免费升级至重制版外，游戏还将<strong>加入 XBOX Play Anywhere</strong>。</p><p data-vmark=\"cc74\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9adf554b-b110-419e-82de-5fb",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/005/950.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T12:51:34.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
       ],
       "_score": 2
     },
