@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-22T18:51:59.229Z",
+  "updatedAt": "2026-09-22T22:06:07.339Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-lu98sd",
+      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
+      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/003.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T19:56:20.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-dqc707",
