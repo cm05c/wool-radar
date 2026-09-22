@@ -1,13 +1,64 @@
 {
-  "updatedAt": "2026-09-22T04:50:37.366Z",
+  "updatedAt": "2026-09-22T09:55:09.291Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-dqc707",
+      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-17T08:01:22.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 速度爆快的 AI 语音输入法！说错能改口/去口头禅 (终身免费)",
@@ -77,6 +128,58 @@
       "_score": 2
     },
     {
+      "id": "rss-kxdg78",
+      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+      "desc": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=\"https://sspai.com/post/114840\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "0元",
+      "url": "https://sspai.com/post/114840",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T00:09:01.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-h4srce",
+      "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127017.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T01:00:05.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-swx10d",
+      "title": "惠普推出 GT06 机械键盘：106 全键、三模连接，310 元",
+      "desc": "<p data-vmark=\"9f47\">IT之家 9 月 22 日消息，惠普现已推出 GT06 机械键盘，新品采用 106 键全尺寸配列，支持有线、2.4G 和蓝牙三模连接，售价 310 元。</p><p style=\"text-align: center;\" data-vmark=\"ee5e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e95f4f6c-cd23-40a2-93d9-4b7856f70b0e.jpg?x-bce-process=image/format,f_auto\" w=\"942\" h=\"1751\" d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/005/752.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T08:01:29.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-da3goz",
       "title": "五羊本田 NWZ150 摩托车发布：首搭 WHEV 轻混新技术，19990 元",
       "desc": "<p data-vmark=\"4de5\">IT之家 9 月 22 日消息，五羊本田 2026 秋季新品发布会于 9 月 21 日在重庆国际博览中心举行，150cc 旗舰车型 NWZ150 正式发布。</p><p data-vmark=\"6102\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9e3c0aae-f2d6-4ee5-9212-143e35e825ee.jpg?x-bce-process=image/format,f_auto\" w=\"832\" h=\"1282\"",
@@ -131,24 +234,6 @@
       "verified": true
     },
     {
-      "id": "rss-h4srce",
-      "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127017.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:00:05.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-bs7mjl",
       "title": "索尼推出女星 Lisa 限量款 DualSense 手柄控制器及 PlayStation 联名周边，10 月 30 日正式发售",
       "desc": "<p data-vmark=\"0107\">IT之家 9 月 22 日消息，索尼 SIE 昨晚宣布推出与全球顶流巨星 Lisa（拉莉莎 · 玛诺班，泰国籍，担任 Blackpink 主舞及 Rapper）合作打造的限量版 DualSense 无线控制器。</p><p data-vmark=\"216e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/13f82510-27fb-46e2-938e-11bc729f67b1.png\" w=\"898\" h=\"1038\" data-m",
@@ -165,75 +250,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-kxdg78",
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "desc": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=\"https://sspai.com/post/114840\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "0元",
-      "url": "https://sspai.com/post/114840",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T00:09:01.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-x974v",
@@ -2650,78 +2666,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ebchh",
-      "title": "《女神异闻录》携手 GRAPHT，推出系列三十周年纪念联名周边",
-      "desc": "<p data-vmark=\"dbc0\">IT之家 9 月 8 日消息，世嘉 ATLUS 旗下《女神异闻录》(Persona) IP 官方当地时间本月 7 日宣布与 MSY 旗下 GRAPHT 品牌展开合作，<strong>推出《女神异闻录》系列三十周年纪念联名周边</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fc4f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2eadf2a0-63eb-44e0-b104-2401657ae41a.jpg?x-bce-p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/834.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T09:27:50.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-1busoi",
-      "title": "亚马逊拟首次发行英镑债券，AI 资本开支推动超大规模云厂商全球举债",
-      "desc": "<p data-vmark=\"5925\">IT之家 9 月 8 日消息，据彭博社报道，亚马逊计划首次发行英镑计价债券，并已委托多家银行负责承销。这笔债券交易最快可能于周三启动。随着超大规模云计算企业持续在全球市场融资，筹集资金用于推动人工智能基础设施建设，亚马逊也加入了这一行列。</p><p style=\"text-align: center;\" data-vmark=\"6f5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/12/95087e6d-4661-4eed-ba13-0b737018ce33.jpg?x-bce-pro",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/815.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T08:46:47.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-e1veyb",
-      "title": "特斯拉拟用 Robotaxi 接送维修车主，减少对代步车和 Uber 优惠券依赖",
-      "desc": "<p data-vmark=\"1372\">IT之家 9 月 8 日消息，据 Not a Tesla App 报道，在美国把车辆送到特斯拉服务中心进行数小时维修后，如何回家一直是一个有些“碰运气”的问题。虽然特斯拉会尽量在维修时间较长时提供免费代步车，但服务中心经常出现备用车辆不足的情况。</p><p style=\"text-align: center;\" data-vmark=\"a2fd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/008b755c-856f-4a9a-a5ba-24c254be8f98.jpg?x-bce-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/759.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T07:41:03.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 8,
-      "verified": true
-    },
-    {
-      "id": "rss-fy1wj3",
-      "title": "豆包成为湖北省博物馆“官方 AI 讲解员”，支持 12 种方言解说",
-      "desc": "<p data-vmark=\"e44d\">IT之家 9 月 8 日消息，据“豆包”公众号，豆包现有成为湖北省博物馆“官方 AI 讲解员”，为近期特展“克里姆林宫的瑰宝”担任解说，提供“从彼得一世到叶卡捷琳娜二世”的个性化 AI 讲解服务。</p><p data-vmark=\"5391\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3bde0055-21eb-4352-b1e7-fe74263e7750.jpg\" w=\"1440\" h=\"1511\" data-weibo=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/719.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T07:00:51.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
