@@ -1,47 +1,13 @@
 {
-  "updatedAt": "2026-09-23T09:58:33.963Z",
+  "updatedAt": "2026-09-23T15:00:07.575Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-nwwa6k",
       "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
@@ -128,23 +94,6 @@
       "_score": 2
     },
     {
-      "id": "rss-5xcngn",
-      "title": "豆包输入法 - 免费清爽无广告手机电脑 AI 语音输入法 (识别准确/中英混输/双拼/五笔)",
-      "desc": "有没有觉得，现在的输入法越来越让人“爱恨交加”？系统自带的不够好用，第三方输入法既臃肿，又广告弹窗满天飞，会员功能一大堆，真正好用的核心功能似乎也没啥突破。\n尤其是语音输入，大多数输入法识别出的文字都很“毛躁”，得花更多时间修改，效率没提高反而更心累。不过，最近字节跳动发布了基于 AI 大模型的「豆包输入法」正式版，不仅界面清爽，AI 预测让打字效率大增，而深度基于 AI 打造的语音识别准确率更是让人眼前一亮……\n「 前往查看原文.... 」异次元还有这些值得一看：微信输入法 - 官方“御用”！AI 语音输入+拼音五笔手写 (支持 iOS / 安卓手机与电脑)RIME (小狼毫 / 鼠须管 /",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/doubao-shurufa.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T12:38:14.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxdg78",
       "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
       "desc": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=\"https://sspai.com/post/114840\" target=\"_blank\">查看全文</a>",
@@ -158,6 +107,23 @@
       "tags": [
         "RSS",
         "少数派·RSS"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-qfseu4",
+      "title": "长城猛龙 PLUS 力魂版、Hi4 255 Ultra 版车型上市，限时优惠换新价 17.78 万元起",
+      "desc": "<p data-vmark=\"c6f1\">IT之家 9 月 23 日消息，长城猛龙 PLUS 力魂版车型今日正式上市，<strong>限时优惠换新价 18.48 万元起</strong>。</p><p data-vmark=\"f08d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3eb72fcc-ed12-4d52-a075-95821a6ae2c4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2120\" dat",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/392.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-23T09:54:08.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 3
     },
@@ -179,22 +145,38 @@
       "_score": 2
     },
     {
-      "id": "rss-qfseu4",
-      "title": "长城猛龙 PLUS 力魂版、Hi4 255 Ultra 版车型上市，限时优惠换新价 17.78 万元起",
-      "desc": "<p data-vmark=\"c6f1\">IT之家 9 月 23 日消息，长城猛龙 PLUS 力魂版车型今日正式上市，<strong>限时优惠换新价 18.48 万元起</strong>。</p><p data-vmark=\"f08d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3eb72fcc-ed12-4d52-a075-95821a6ae2c4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2120\" dat",
-      "channel": "IT之家",
-      "category": "资讯",
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
       "value": "",
-      "url": "https://www.ithome.com/1/006/392.htm",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
       "expiresAt": null,
-      "publishedAt": "2026-09-23T09:54:08.000Z",
-      "hot": 213,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
       "tags": [
         "RSS",
-        "IT之家·资讯线报"
+        "小众软件·限免频道"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-notg14",
@@ -2825,24 +2807,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-5ifrh9",
-      "title": "腾讯 WorkBuddy 调整混元 Hy4 preview AI 模型限免权益",
-      "desc": "<p data-vmark=\"8694\">IT之家 9 月 9 日消息，腾讯 WorkBuddy 今日宣布，Hy4 preview 限免临近尾声，将于 2026 年 9 月 10 日 23:59 结束后，在 9 月 11 日至 10 月 10 日作出调整。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"992c\">对于 Hy4 preview 的新用户：包括 9 月 11 日及此后注册 WorkBuddy 的新用户，以及此前还没体验过 Hy4 preview 的老用户，只要在 10 月 10 日 23:59 前首次开启 Hy4 pr",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/000/454.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T13:50:19.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
