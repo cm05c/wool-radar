@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T00:29:18.691Z",
+  "updatedAt": "2026-09-23T05:10:11.505Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -162,23 +162,6 @@
       "_score": 3
     },
     {
-      "id": "rss-lu98sd",
-      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
-      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/003.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T19:56:20.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-h4srce",
       "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
       "desc": "",
@@ -192,6 +175,95 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5nfbtl",
+      "title": "东风标致、雪铁龙三款 SUV 新车上市，13.97 万元起售",
+      "desc": "<p data-vmark=\"c2fe\">IT之家 9 月 23 日消息，东风标致、东风雪铁龙旗下三款 SUV 正式上市。东风标致 2027 款 5008 售价 16.97 万元起、东风标致 2027 款 4008 售价 15.97 万元起、东风雪铁龙 2027 款天逸售价 13.97 万元起。</p><p data-vmark=\"bb3b\">本次升级新推出两款全新车色，选装价 3000 元，上市期限时免费可选。三款车型均针对用户反馈，升级了专属外观、内饰配色与智能化体验。</p><p data-vmark=\"b946\" style=\"text-align: center;\"><img src",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/006/139.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-23T03:11:31.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-i2g286",
+      "title": "蔚来乐道 L90“星瀚金辉设计套装”发售，限时惊喜价 6000 元",
+      "desc": "<p data-vmark=\"3306\">IT之家 9 月 23 日消息，蔚来乐道汽车今日宣布，乐道 L90“星瀚金辉设计套装”正式发售，官方售价 10,000 元，限时惊喜价 6,000 元。</p><p data-vmark=\"a9a6\">“星瀚金辉设计套装”包含全新外观设计套装“星瀚金辉”与全新“岚影灰主题豪华内饰套装”。</p><p style=\"text-align: center;\" data-vmark=\"266d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0338d166-a949-46dc-82c1-d0",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/006/082.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-23T02:11:39.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ix8jge",
+      "title": "Beats 首款 IPX4 头戴式耳机：苹果 Beats 360 推送发布首日更新 4A262",
+      "desc": "<p data-vmark=\"af49\">IT之家 9 月 23 日消息，科技媒体 MacRumors 昨日（9 月 22 日）发布博文，报道称苹果为 Beats 360 头戴式耳机<strong>，推送首个固件更新 4A262，订购用户收到产品后可安装新固件。</strong></p><p data-vmark=\"4338\">IT之家查询苹果官方支持文档页面以及多家海外媒体，暂未发现 4A262 固件更新内容，预估提升音质，修复 Bug 等。</p><p data-vmark=\"90c9\" style=\"text-align: center;\"><img src=\"https://img.i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/068.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-23T01:32:42.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ig6x27",
+      "title": "老蛙推出 TS 24mm F2 移轴镜头：支持 E、Z、RF、L、GFX、XCD 卡口，7650 元",
+      "desc": "<p data-vmark=\"3704\">IT之家 9 月 23 日消息，老蛙 TS 24mm F2 移轴镜头现已开售，支持 E、Z、RF、L、GFX、XCD 卡口，<strong>售价 7650 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2764\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/83a8fc50-e94e-4146-9b6a-26d6bddd134f.jpg?x-bce-process=image/format,f_auto\" w=\"10",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/006/078.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-23T01:58:55.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-lu98sd",
+      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
+      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/003.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T19:56:20.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
@@ -2733,42 +2805,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-wh9dlk",
-      "title": "2026 最大累积更新：微软推送 Win11 26x00.9445，任务栏首次正式支持 4 边停靠",
-      "desc": "<p data-vmark=\"a213\">IT之家 9 月 9 日消息，科技媒体 Windows Latest 今天（9 月 9 日）发布博文，测试了适用于 Windows 11 的 9 月累积更新 KB5124008，<strong>并认为是 2026 年微软推送的最大 Windows 11 累积更新。</strong></p><p data-vmark=\"afb2\">Windows 11 24H2 安装 KB5124008 之后，版本号升至 Build 26100.9445；而 Windows 11 25H2 安装该更新后，版本号升至 Build 26200.9445。</p><p dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/000/152.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T04:19:20.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-w0rjsq",
-      "title": "微软 Win10 推送 9 月 ESU 更新：扩大安全启动证书部署",
-      "desc": "<p data-vmark=\"0feb\">IT之家 9 月 9 日消息，在本月（2026 年 9 月）补丁星期二活动日（9 月 8 日）中，微软通过扩展安全更新 (ESU) 计划，面向 Windows 10 系统推送 KB5122878 累积更新，<strong>22H2 安装后版本号升至 Build 19045.7725；21H2 安装后版本号升至 Build 19044.7725。</strong></p><p style=\"text-align: center;\" data-vmark=\"393a\"><img src=\"https://img.ithome.com/newsuploadf",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/000/143.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T03:58:27.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
