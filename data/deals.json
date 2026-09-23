@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:06:07.339Z",
+  "updatedAt": "2026-09-23T00:29:18.691Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -162,6 +162,94 @@
       "_score": 3
     },
     {
+      "id": "rss-lu98sd",
+      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
+      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/003.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T19:56:20.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-h4srce",
+      "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127017.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T01:00:05.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ktytmj",
+      "title": "苹果推送 macOS 27.2 首个公测版：新增 16 段条形音量 / 亮度滑块",
+      "desc": "<p data-vmark=\"6b4d\">IT之家 9 月 23 日消息，科技媒体 9to5Mac 昨日（9 月 22 日）发布博文，报道称苹果公司推送 macOS 27.2 Golden Gate 首个公测版，<strong>内部开发版本号为 26B5091g。</strong></p><p data-vmark=\"8ef0\">在更新内容方面，macOS 27.2 首个公测版扩展 Siri AI 的语言支持，从最初的英语外，扩展支持法语、日语、韩语、葡萄牙语和西班牙语五种新语言。</p><p data-vmark=\"633a\">界面上，<strong>首个公测版还引入全新音量与亮度滑块</s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/027.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T23:34:59.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kw5zzz",
+      "title": "微软推送 Win11 26H1 九月可选更新：任务栏可四边贴靠 / 开始菜单支持“小”尺寸",
+      "desc": "<p data-vmark=\"6f62\">IT之家 9 月 23 日消息，微软今天（9 月 23 日）面向 Windows 11 26H1 推送可选累积预览更新 KB5124006，<strong>用户安装后版本号升至 Build 28000.3086。</strong></p><p data-vmark=\"e93d\">IT之家附上更新日志内容如下：</p><h3 data-vmark=\"e06c\">一、任务栏</h3><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"70c1\">新增任务栏自定义选项，适配不同使用习惯，",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/023.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T23:02:56.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kx9l6p",
+      "title": "微软推送 9 月 Win11 24H2/25H2 可选更新：支持 Emoji 17 等",
+      "desc": "<p data-vmark=\"0493\">IT之家 9 月 23 日消息，微软昨日（9 月 22 日）发布博文，面向 Windows 11 24H2 和 &nbsp;25H2 系统，推送 9 月可选更新 KB5124010，用户安装后版本号升至 26100.9550 和 26200.9550。</p><p data-vmark=\"73bc\">更新内容方面，包含功能调整、稳定性修复和兼容性改进。微软官方提醒 24H2 家庭版及专业版用户，将于 2026 年 10 月 13 日结束支持；企业版和教育版支持持续至 2027 年 10 月 12 日。</p><p data-vmark=\"8e8c\">I",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/021.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-22T22:48:51.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-1dys83",
       "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
       "desc": "<p data-vmark=\"1fca\">IT之家 9 月 22 日消息，据路透社今天（22 日）晚间报道，华尔街开始看好 Meta，投资者押注其新推出的 AI 智能体 Muse 有望为其开辟新的收入来源，并改变 Meta 在 AI 领域的商业化前景。</p><p data-vmark=\"19ec\">9 月 8 日上线的 Muse 是一款 AI 助手，可以代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易。基础版本免费，针对使用需求更高的用户，Meta 提供每月 20 美元或 100 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 134.2 元",
@@ -211,41 +299,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6
-    },
-    {
-      "id": "rss-h4srce",
-      "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127017.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:00:05.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-lu98sd",
-      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
-      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/003.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T19:56:20.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-dqc707",
@@ -2716,59 +2769,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-f866iy",
-      "title": "产品尚未发布，苹果已为 Beats 360 耳机推送新固件",
-      "desc": "<p data-vmark=\"ce3c\">IT之家 9 月 9 日消息，除了 iOS / iPadOS 26.6.2 正式版更新之外，苹果同时还为其即将推出的 Beats 360 头戴式耳机推送了固件更新（版本号 4A203）。这意味着产品发布已临近。</p><p style=\"text-align: center;\" data-vmark=\"d391\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e39fe24d-2635-465f-9b8e-7798fc5b37a4.jpg?x-bce-process=image/form",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/954.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T22:41:24.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-fryrvy",
-      "title": "iPhone 18 Pro 发布会前夕，苹果推送 140W USB-C 适配器固件更新",
-      "desc": "<p data-vmark=\"cfcb\">IT之家 9 月 9 日消息，科技媒体 MacRumors 昨日（9 月 8 日）发布博文，报道称在 iPhone 18 Pro 系列发布会前夕，苹果向 140W USB-C 电源适配器（<a target=\"_blank\" href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f%2fwww.apple.com.cn%2fshop%2fproduct%2fmhy14ch%2fa\">点此前往苹果官网选购，售价 729 元</a>）推送固件更新，<strong>从 v1.4.84 升",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/969.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T23:54:48.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-fqbe3v",
-      "title": "Sonos 27 音频系统更新：配对增强环绕声道、预览外部 AI 接入等",
-      "desc": "<p data-vmark=\"36e2\">IT之家 9 月 9 日消息，Sonos 昨日（9 月 8 日）发布新闻稿，宣布通过苹果 App Store 应用商店渠道，更新 Sonos 27 音频系统，并向 Sonos S2 系列产品免费推送。</p><p data-vmark=\"bcfe\">产品命名方面，伴随着 Sonos Beam Ultra 回音壁、Sonos Ace Ultra 头戴式耳机两款新品，<a href=\"https://www.ithome.com/0/997/168.htm\" target=\"_blank\">Sonos 于 9 月 1 日发布全新音频操作系统 Sonos 2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/0/999/966.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-08T23:44:47.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
