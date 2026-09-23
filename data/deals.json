@@ -1,13 +1,47 @@
 {
-  "updatedAt": "2026-09-23T15:00:07.575Z",
+  "updatedAt": "2026-09-23T19:02:47.635Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-nwwa6k",
       "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
@@ -111,23 +145,6 @@
       "_score": 3
     },
     {
-      "id": "rss-qfseu4",
-      "title": "长城猛龙 PLUS 力魂版、Hi4 255 Ultra 版车型上市，限时优惠换新价 17.78 万元起",
-      "desc": "<p data-vmark=\"c6f1\">IT之家 9 月 23 日消息，长城猛龙 PLUS 力魂版车型今日正式上市，<strong>限时优惠换新价 18.48 万元起</strong>。</p><p data-vmark=\"f08d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3eb72fcc-ed12-4d52-a075-95821a6ae2c4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2120\" dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/392.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-23T09:54:08.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-h4srce",
       "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
       "desc": "",
@@ -145,38 +162,21 @@
       "_score": 2
     },
     {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
+      "id": "rss-qfseu4",
+      "title": "长城猛龙 PLUS 力魂版、Hi4 255 Ultra 版车型上市，限时优惠换新价 17.78 万元起",
+      "desc": "<p data-vmark=\"c6f1\">IT之家 9 月 23 日消息，长城猛龙 PLUS 力魂版车型今日正式上市，<strong>限时优惠换新价 18.48 万元起</strong>。</p><p data-vmark=\"f08d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3eb72fcc-ed12-4d52-a075-95821a6ae2c4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2120\" dat",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "url": "https://www.ithome.com/1/006/392.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
+      "publishedAt": "2026-09-23T09:54:08.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "IT之家·资讯线报"
       ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
+      "_score": 3
     },
     {
       "id": "rss-notg14",
@@ -2739,74 +2739,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-irp6ip",
-      "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
-      "desc": "<p data-vmark=\"e923\">IT之家 9 月 10 日消息，在苹果 iPhone 18 Pro 系列发布后，苹果官网按照常规下架了 iPhone 17 Pro 系列。</p><p data-vmark=\"2b47\">与此同时，<strong>iPhone Air、iPhone 17、iPhone 17e、iPhone 16</strong> 四款老机型迎来同步涨价，看来苹果也没能顶得住压力。</p><p data-vmark=\"acf4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/000/524.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T18:55:08.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ipi059",
-      "title": "苹果 iPhone 17 涨价 800 元，现起售价 6799 元",
-      "desc": "<p data-vmark=\"cc48\">IT之家 9 月 10 日消息，在发布 iPhone 18 Pro 系列和 iPhone Duo 后，苹果官网显示 iPhone 17 手机起售价上调至 <strong>6,799 元起</strong>。</p><p data-vmark=\"a772\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4889f2e6-977c-4fdd-8182-1ccc3ceb221d.jpg\" w=\"513\" h=\"631\" data-mpos",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/000/520.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T18:38:35.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-hu5qbo",
-      "title": "苹果 iOS 27 系统 AirDrop 升级，隔空投送速度提升 80%",
-      "desc": "<p data-vmark=\"8a3a\">IT之家 9 月 10 日消息，在今天的 2026 苹果秋季新品发布会上，苹果宣布，在 iOS 27 系统上，AirDrop 迎来升级。</p><p style=\"text-align: center;\" data-vmark=\"cd80\"><a href=\"https://weibo.com/2575008657/RhnhlCFKd?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploa",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/000/505.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T17:57:22.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-6vx8vr",
-      "title": "《马力欧卡丁车世界》今日推送免费更新，新增 10 条 SNES 经典赛道",
-      "desc": "<p data-vmark=\"b7b0\">IT之家 9 月 9 日消息，任天堂宣布，《马力欧卡丁车世界》将于今日晚些时候推送更新，加入经典 SNES 赛道、淘汰赛赛道以及更多内容。</p><p style=\"text-align: center;\" data-vmark=\"b1c8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/505fa285-b49f-4d9f-933c-5dba1c8bee8e.jpg?x-bce-process=image/format,f_auto\" w=\"638\" h=\"480\" data-weib",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/000/481.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-09T15:14:08.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
     }
   ]
 }
