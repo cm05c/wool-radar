@@ -1,47 +1,13 @@
 {
-  "updatedAt": "2026-09-24T00:52:49.940Z",
+  "updatedAt": "2026-09-24T06:09:14.766Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 15,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-sx29op",
-      "title": "10 款在 GitHub 发现的免费小工具[260919]",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T09:55:51.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-nwwa6k",
       "title": "VMware Workstation Pro 26H1u1 - 最新免费虚拟机软件专业版 (中文汉化版 / 免激活)",
@@ -124,6 +90,94 @@
       "tags": [
         "RSS",
         "异次元软件·限免羊毛"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-asecee",
+      "title": "《剑星》任天堂 Switch 2 免费试玩版已上线，正式版将加入帧生成开关",
+      "desc": "<p data-vmark=\"8c02\">IT之家 9 月 24 日消息，Shift Up 已于 9 月 20 日在全球推出《剑星 完全版》的 Nintendo Switch 2 免费试玩版，玩家可在 11 月 5 日正式发售前体验游戏。</p><p style=\"text-align: center;\" data-vmark=\"4963\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/590e1f43-0498-4f36-82b9-9150bf0fe748.jpg\" w=\"1440\" h=\"809\" data-weibo=\"0",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/721.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T05:24:21.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-iheou",
+      "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
+      "desc": "<p data-vmark=\"2e9e\">IT之家 9 月 24 日消息，华为今日官宣小艺 Work 正式上线，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等场景，上应用市场更新<span class=\"surl-text\">小艺</span> App，解锁小艺 Work 全新 AI 工作方式。<strong>首次使用 31 天限时免费享 1000 AI 点</strong>。</p><p style=\"text-align: center;\" data-vmark=\"239f\"><img src=\"https://img.ithome.com/newsuploadfil",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/006/695.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T03:45:30.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ojvh0m",
+      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127082.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T01:15:41.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-sx29op",
+      "title": "10 款在 GitHub 发现的免费小工具[260919]",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/10-useful-github-tools-26919/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T09:55:51.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ek045s",
+      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/https-capture-for-apple/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-19T06:06:39.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
       ],
       "_score": 2
     },
@@ -1960,23 +2014,6 @@
       "_score": 3
     },
     {
-      "id": "rss-43jt5e",
-      "title": "Brave Search API改为预付费(先充值)机制 不再提供独立免费套餐 但仍然可以免费用",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126786.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T05:59:49.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-qq6dkx",
       "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
       "desc": "<p data-vmark=\"4168\">IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，<strong>最新案例是为 6 年老笔记本电脑（仍在 AppleCare 保修期内）免费升级到 M5 MacBook Air。</strong></p><p data-vmark=\"1f6f\">网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。</p><p da",
@@ -2704,24 +2741,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-yse8nb",
-      "title": "3599 元，Unihertz Titan 2 Elite 全键盘 5G 智能手机国行发售",
-      "desc": "<p data-vmark=\"b2c9\">IT之家 9 月 10 日消息，Unihertz 旗下 Titan 2 Elite 全键盘手机今日正式在国内发售，<strong>预售价 3699 元，可领 100 元券，券后 3599 元</strong>。</p><p data-vmark=\"334f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8054042d-ee93-46b4-8c20-27f756e8f108.jpg?x-bce-process=image/form",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/000/681.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-10T03:57:40.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
