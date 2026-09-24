@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T15:55:50.018Z",
+  "updatedAt": "2026-09-24T19:58:45.174Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -128,6 +128,57 @@
       "_score": 2
     },
     {
+      "id": "rss-l6dhdr",
+      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
+      "desc": "<p data-vmark=\"9d5d\">IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\"><strong>（IT之家注：现汇率约合 2,689 元人民币</strong>）。</span></p><p style=\"text-align: center;\" data-vmark=\"fa5a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5a928434-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/042.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T15:34:22.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-krj1d0",
+      "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
+      "desc": "<p data-vmark=\"0000\">IT之家 9 月 24 日消息，Epic 本周送出的游戏是《Astrea Six Sided Oracles》和《钢铁指挥官》，下周送出的游戏是《System Shock 2: 25th Anniversary Remaster》和《深埋之星》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/astrea-six-sided-oracles-33c949\">《Astrea Six Sided Oracles》</a>，<a href=\"https://",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/007/036.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T15:05:22.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-kpvnkx",
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
+      "desc": "<p data-vmark=\"8a33\">IT之家 9 月 24 日消息，华为鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本今日开启推送，首批面向 Mate 80 系列、Pura 90 系列、nova 16 系列等机型，系统包大小约 702.73MB。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"e7f6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/b7e3bde2",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/033.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T14:51:41.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-s13m65",
       "title": "软银豪赌 AI：完成 111 亿美元创纪录债券发行，全力押注 OpenAI",
       "desc": "<p data-vmark=\"94cd\">IT之家 9 月 24 日消息，据路透社报道，软银集团发行了总额 111 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 746.21 亿元人民币）</span>的美元和欧元计价债券，创下全球有史以来规模最大的高收益企业债券发行纪录。作为一家科技投资集团，软银正寻求通过大规模融资，为其对 OpenAI 的巨额投资提供资金。</p><p style=\"text-align: center;\" data-vmark=\"895a\"><img src=\"https://img.ithome.com/newsupl",
@@ -160,60 +211,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-l6dhdr",
-      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
-      "desc": "<p data-vmark=\"9d5d\">IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\"><strong>（IT之家注：现汇率约合 2,689 元人民币</strong>）。</span></p><p style=\"text-align: center;\" data-vmark=\"fa5a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5a928434-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/042.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T15:34:22.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-kpvnkx",
-      "title": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
-      "desc": "<p data-vmark=\"8a33\">IT之家 9 月 24 日消息，华为鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本今日开启推送，首批面向 Mate 80 系列、Pura 90 系列、nova 16 系列等机型，系统包大小约 702.73MB。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"e7f6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/b7e3bde2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/033.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T14:51:41.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-krj1d0",
-      "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 24 日消息，Epic 本周送出的游戏是《Astrea Six Sided Oracles》和《钢铁指挥官》，下周送出的游戏是《System Shock 2: 25th Anniversary Remaster》和《深埋之星》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/astrea-six-sided-oracles-33c949\">《Astrea Six Sided Oracles》</a>，<a href=\"https://",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/007/036.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T15:05:22.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-q1ot65",
