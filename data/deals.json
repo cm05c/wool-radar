@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T19:58:45.174Z",
+  "updatedAt": "2026-09-24T23:11:52.343Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -211,6 +211,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-z73xrm",
+      "title": "手慢无！DMIT 高端 CN2 GIA 三网优化线路 VPS 服务器 (国内快又稳！比瓦工更好)",
+      "desc": "每次谈起海外的 VPS 服务器，除了高性价比的 RackNerd、VirMach，常送代金券的 Vultr，还有知名品牌“般佤工”，但其实，与其齐名甚至更高端的 VPS 品牌——「DMIT」！人称“大妈”。它几乎就是高端优质 CN2 GIA 线路的科代表之一，用过的人几乎都称赞它的稳定性及其线路质量，基本上除了贵就没有什么毛…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/dmit",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T20:25:23.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-q1ot65",
