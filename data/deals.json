@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T01:31:48.599Z",
+  "updatedAt": "2026-09-25T06:36:15.098Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -145,6 +145,94 @@
       "_score": 2
     },
     {
+      "id": "rss-mkerdm",
+      "title": "特斯拉金秋促销：Model 3 尾款立减 5000 元，Model Y 立减 7000 元",
+      "desc": "<p data-vmark=\"3c40\">IT之家 9 月 25 日消息，特斯拉中国今日宣布开启中秋限时促销活动。2026 年 10 月 31 日（含）前下单，Model 3 全系可享尾款立减 5000 元，Model Y 部分车型可享尾款立减 7000 元。</p><p data-vmark=\"0a06\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e78d7a7e-7087-4749-9cb6-6376895bb01d.jpg\" w=\"1440\" h=\"3120\" d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/007/070.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T00:52:48.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6
+    },
+    {
+      "id": "rss-ojvh0m",
+      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127082.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T01:15:41.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ze9xsy",
+      "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
+      "desc": "<p data-vmark=\"985e\">IT之家 9 月 25 日消息，蔚来今日宣布，蔚来「Cedar S 雪松」智能系统 1.6.0 版本已全量推送。</p><blockquote><p data-vmark=\"b53d\">为 <strong>ES6、EC6、ET5、ET5T</strong> 带来全维度智能的<strong>智能座舱</strong>、更全能的得力助手 <strong>NOMI</strong>、专属<strong>驾乘体验</strong>、智能<strong>辅助驾驶</strong>四大板块，超 30 项功能体验新增与升级。</p></blockquote><p s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/133.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T06:24:29.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-yixnzd",
+      "title": "鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级",
+      "desc": "<p data-vmark=\"78b6\">IT之家 9 月 25 日消息，鸿蒙智行官方今日发布了国庆 OTA 升级公告，自 9 月 25 日至 10 月中旬陆续向智界、享界、尊界、尚界四大品牌推送。</p><p data-vmark=\"dbaf\">本次升级覆盖智界 V9/R7/S7 系列、享界 S9/S9T 系列、尊界 S800 系列以及尚界 Z7/Z7T/H5 系列，部分车型已开始接收推送（IT之家注：问界车型也已推送对应更新，但鸿蒙智行公告中未提及）。</p><p data-vmark=\"79c0\" style=\"text-align: center;\"><img src=\"https:/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/118.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T04:45:43.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-xzov7q",
+      "title": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
+      "desc": "<p data-vmark=\"4298\">IT之家 9 月 25 日消息，123 云盘官方于 9 月 24 日发布公告，宣布将原空间更名为“标准空间”，并新增“专业空间”。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c130\">专业空间重复：相同专业文件每份均独立计算容量。</p></li><li><p data-vmark=\"c046\">标准空间重复：相同文件仅计一份容量。</p></li></ul><p data-vmark=\"2d74\" style=\"text-align: center;\"><img src=\"https",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/104.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T03:28:25.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-l6dhdr",
       "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
       "desc": "<p data-vmark=\"9d5d\">IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\"><strong>（IT之家注：现汇率约合 2,689 元人民币</strong>）。</span></p><p style=\"text-align: center;\" data-vmark=\"fa5a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5a928434-",
@@ -196,23 +284,6 @@
       "_score": 3
     },
     {
-      "id": "rss-ojvh0m",
-      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127082.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T01:15:41.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-mpcwpv",
       "title": "【互动】苹果 iOS 27.2 Beta 2 国行特供“秒杀”摇一摇广告，晒出你想拉黑的名单",
       "desc": "<p data-vmark=\"b8b0\">IT之家 9 月 25 日特别调查，天下苦摇一摇广告久矣，就连苹果也出手了。</p><p data-vmark=\"1749\">苹果在北京时间 9 月 23 日的 iOS 27.2 Beta 2 更新中针对中国区用户<a href=\"https://www.ithome.com/1/006/022.htm\" target=\"_blank\">新增了一项设置选项</a>（位于“<span class=\"font-color-red\">设置-隐私与安全-运动与健身-Restrict Motion Data</span>”中），<strong>被加入名单的 Ap",
@@ -246,24 +317,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-mkerdm",
-      "title": "特斯拉金秋促销：Model 3 尾款立减 5000 元，Model Y 立减 7000 元",
-      "desc": "<p data-vmark=\"3c40\">IT之家 9 月 25 日消息，特斯拉中国今日宣布开启中秋限时促销活动。2026 年 10 月 31 日（含）前下单，Model 3 全系可享尾款立减 5000 元，Model Y 部分车型可享尾款立减 7000 元。</p><p data-vmark=\"0a06\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e78d7a7e-7087-4749-9cb6-6376895bb01d.jpg\" w=\"1440\" h=\"3120\" d",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/007/070.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T00:52:48.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
       "verified": true
     },
     {
@@ -2584,114 +2637,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-2nwbry",
-      "title": "理想汽车 OTA 9.1.1 版本开启推送：新增体感驾舱，优化多项体验",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 11 日消息，理想汽车昨日发布 OTA 9.1.1 版本，带来多项新增功能、体验优化，<strong>推送车型包含全新理想 L9 Livis、全新理想 L8 Livis、全新理想 L9 Ultra、全新理想 L8 Ultra、新一代理想 L6 Ultra</strong>，版本于昨日开启正式推送，预计开始后一周内分批完成推送。</p><p style=\"text-align: center;\" data-vmark=\"33d3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/157.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T05:02:55.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-fuykfy",
-      "title": "319.15 元起 ATK 烈空 ZERO+ 系列鼠标发布：PAW3955MASTER 传感器 + 300mAh 电池，39g 轻量化雾透设计",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 11 日消息，ATK 烈空 ZERO+ 于今日正式发布并开售，京东售价 379.15 元，首发立减 40 元，叠加券后 319.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/x6ZTJdI\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xDZPh8b\" data-iosurl=\"https://u.jd.com/xgZjJzT\" data-androidurl=\"https://u.jd.com/xrZWg",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/223.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T04:49:04.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ff0j8h",
-      "title": "机械革命 2026 款翼龙 15 Air 笔记本 R7 H 449 版本发售：搭 24G + 1T + RTX5060 售 13999 元（国补后 9999 元）",
-      "desc": "<p data-vmark=\"2fa8\">IT之家 9 月 11 日消息，机械革命旗下 2026 款翼龙 15 Air 笔记本新增的 AMD 锐龙 7 H 449 处理器版本目前已在京东发售，该机搭载 24GB RAM 和 1TB SSD，匹配 RTX5060 Laptop 显卡，定价为 13999 元，首销期间限时优惠 2500 元，到手价 11499 元，部分地区国补后低至 9999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xrZYO24\" target=\"_blank\" data-wapurl=\"https",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/215.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T03:59:02.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-1n240r",
-      "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
-      "desc": "<p data-vmark=\"f062\">IT之家 9 月 11 日消息，“国产 GPU 四小龙”之一燧原科技今日（9 月 11 日）正式在上海证券交易所科创板上市，<strong>开盘股价最高涨到 460 元 / 股，涨幅超 220%</strong>。</p><p data-vmark=\"3d5e\">截至IT之家发文，燧原科技股价涨超 190%，总市值 1,777 亿元。</p><p data-vmark=\"f788\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ab",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/132.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T02:34:04.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-q2gf3",
-      "title": "微软 Win11 24H2/25H2 推送 26x00.9539 预览版更新：文件资源管理器和触控板获改进，新增 Emoji 17.0 支持",
-      "desc": "<p data-vmark=\"1b79\">IT之家 9 月 11 日消息，微软于当地时间 9 月 10 日面向 Release Preview 频道的 Windows 11 24H2 和 25H2 用户推送更新，版本号分别为 26100.9539 和 26200.9539。</p><p style=\"text-align: center;\" data-vmark=\"b56b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/45e895b1-a03c-4855-ae5b-c60869e3b4b9.jpg?x-bce-process",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/114.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T01:36:08.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-19v1s3",
-      "title": "8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖",
-      "desc": "<p data-vmark=\"5483\">IT之家 9 月 11 日消息，二手交易平台出现大量低价 AI 工具积分，8.8 元可买官方售价 250 元的 5000 积分，9.9 元可买 1 万积分，号称“源头充值”“内部渠道”。</p><p data-vmark=\"2950\">据央视今日报道，低价积分实为第三方 API 中转站篡改本地配置，用户文档、代码、会议纪要存在被截留、倒卖风险。</p><p data-vmark=\"c320\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/129.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T02:24:59.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
       "verified": true
     }
   ]
