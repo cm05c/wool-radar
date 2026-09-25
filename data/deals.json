@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T20:44:57.000Z",
+  "updatedAt": "2026-09-25T23:56:25.348Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -128,23 +128,6 @@
       "_score": 3
     },
     {
-      "id": "rss-ze9xsy",
-      "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
-      "desc": "<p data-vmark=\"985e\">IT之家 9 月 25 日消息，蔚来今日宣布，蔚来「Cedar S 雪松」智能系统 1.6.0 版本已全量推送。</p><blockquote><p data-vmark=\"b53d\">为 <strong>ES6、EC6、ET5、ET5T</strong> 带来全维度智能的<strong>智能座舱</strong>、更全能的得力助手 <strong>NOMI</strong>、专属<strong>驾乘体验</strong>、智能<strong>辅助驾驶</strong>四大板块，超 30 项功能体验新增与升级。</p></blockquote><p s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/133.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T06:24:29.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-ojvh0m",
       "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
       "desc": "",
@@ -160,6 +143,41 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-jyp7do",
+      "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
+      "desc": "<p data-vmark=\"2c15\">IT之家 9 月 26 日消息，Anthropic 宣布为 Claude 上线“限时免费额度重置”功能，允许用户免费手动重置每周使用额度，不过每位用户仅可使用一次。该功能目前预计开放至 10 月 22 日，用户需要谨慎选择使用时机。</p><p data-vmark=\"b61e\">目前，部分 Claude 用户已可以在界面中看到用于重置每周使用额度的按钮。点击后无需额外付费即可刷新每周额度，如果用户同时触及了 5 小时使用上限，该限制也会一并重置。</p><p data-vmark=\"6bb0\" style=\"text-align: center;\">",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/256.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T22:37:01.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ze9xsy",
+      "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
+      "desc": "<p data-vmark=\"985e\">IT之家 9 月 25 日消息，蔚来今日宣布，蔚来「Cedar S 雪松」智能系统 1.6.0 版本已全量推送。</p><blockquote><p data-vmark=\"b53d\">为 <strong>ES6、EC6、ET5、ET5T</strong> 带来全维度智能的<strong>智能座舱</strong>、更全能的得力助手 <strong>NOMI</strong>、专属<strong>驾乘体验</strong>、智能<strong>辅助驾驶</strong>四大板块，超 30 项功能体验新增与升级。</p></blockquote><p s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/133.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T06:24:29.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-yixnzd",
@@ -2549,40 +2567,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-mgxz51",
-      "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
-      "desc": "<p data-vmark=\"015e\">“IT早报”时间，大家好，现在是 2026 年 9 月 12 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"e964\">1. 8.8 元买 5000 积分？央视曝光 AI 中转站低价灰产，小心你的代码被截留倒卖</h2><p data-vmark=\"6bee\">央视曝光二手平台大量低价 AI 工具积分实为第三方 API 中转站篡改本地配置，用户办公文档、代码等敏感信息存在被截留、倒卖风险，官方表示会严打这类违规行为。>> <a href=\"https://www.ithome.com/1/001/129.htm\" target",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/495.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T23:50:16.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-mvsf5s",
-      "title": "因采购到低价内存模块，Framework 宣布为笔记本产品降价并向消费者提供差价退款",
-      "desc": "<p data-vmark=\"a3ec\">IT之家 9 月 12 日消息，近几个月以来，RAM 内存价格几乎一路上涨，不过 Framework 却在此次涨价潮中“逆势降价”。该公司声称近期以更低的采购价格购入了一批美光（Micron）LPCAMM2 内存模块，因此下调相关产品售价，而且这一降价并不仅面向新订单，部分已经发货的订单也可以获得差价退款。</p><p data-vmark=\"a9f0\">IT之家注意到，此次价格变动主要针对搭载 32GB 或 64GB LPCAMM2 RAM 内存的 Framework Laptop 13 Pro。Framework 在最新发布的内存价格变化说明中表示",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/489.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T23:23:59.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
