@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:15:10.270Z",
+  "updatedAt": "2026-09-25T20:44:57.000Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -111,6 +111,23 @@
       "_score": 2
     },
     {
+      "id": "rss-khe7jy",
+      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
+      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/243.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T13:27:38.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-ze9xsy",
       "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
       "desc": "<p data-vmark=\"985e\">IT之家 9 月 25 日消息，蔚来今日宣布，蔚来「Cedar S 雪松」智能系统 1.6.0 版本已全量推送。</p><blockquote><p data-vmark=\"b53d\">为 <strong>ES6、EC6、ET5、ET5T</strong> 带来全维度智能的<strong>智能座舱</strong>、更全能的得力助手 <strong>NOMI</strong>、专属<strong>驾乘体验</strong>、智能<strong>辅助驾驶</strong>四大板块，超 30 项功能体验新增与升级。</p></blockquote><p s",
@@ -143,24 +160,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-khe7jy",
-      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
-      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/243.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T13:27:38.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-yixnzd",
