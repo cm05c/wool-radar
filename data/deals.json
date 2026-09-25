@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:13:16.271Z",
+  "updatedAt": "2026-09-25T17:15:10.270Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -128,23 +128,6 @@
       "_score": 3
     },
     {
-      "id": "rss-yixnzd",
-      "title": "鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级",
-      "desc": "<p data-vmark=\"78b6\">IT之家 9 月 25 日消息，鸿蒙智行官方今日发布了国庆 OTA 升级公告，自 9 月 25 日至 10 月中旬陆续向智界、享界、尊界、尚界四大品牌推送。</p><p data-vmark=\"dbaf\">本次升级覆盖智界 V9/R7/S7 系列、享界 S9/S9T 系列、尊界 S800 系列以及尚界 Z7/Z7T/H5 系列，部分车型已开始接收推送（IT之家注：问界车型也已推送对应更新，但鸿蒙智行公告中未提及）。</p><p data-vmark=\"79c0\" style=\"text-align: center;\"><img src=\"https:/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/118.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T04:45:43.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-ojvh0m",
       "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
       "desc": "",
@@ -160,6 +143,41 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-khe7jy",
+      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
+      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/243.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T13:27:38.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-yixnzd",
+      "title": "鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级",
+      "desc": "<p data-vmark=\"78b6\">IT之家 9 月 25 日消息，鸿蒙智行官方今日发布了国庆 OTA 升级公告，自 9 月 25 日至 10 月中旬陆续向智界、享界、尊界、尚界四大品牌推送。</p><p data-vmark=\"dbaf\">本次升级覆盖智界 V9/R7/S7 系列、享界 S9/S9T 系列、尊界 S800 系列以及尚界 Z7/Z7T/H5 系列，部分车型已开始接收推送（IT之家注：问界车型也已推送对应更新，但鸿蒙智行公告中未提及）。</p><p data-vmark=\"79c0\" style=\"text-align: center;\"><img src=\"https:/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/118.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T04:45:43.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-sx29op",
@@ -2566,23 +2584,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-orywqk",
-      "title": "上汽大众推出 ID. ERA 5S 安心交付承诺：超期 1 天可获 100 元等值 V 豆补偿，累计补偿最多 30 天",
-      "desc": "<p data-vmark=\"e711\">IT之家 9 月 11 日消息，上汽大众今日宣布，ID. ERA 5S 上市以来，市场反响热烈，订单远远超过了月均产能预估。上汽大众正加快推进各环节的协同联动，全力保障新车供应与交付，<strong>并推出“ID. ERA 5S 安心交付承诺”</strong>。</p><blockquote><p data-vmark=\"9723\">自大定锁单之日起，如实际交付时间超过 App 端显示的交付日期，用户每超期 1 天可获得 100 元等值 V 豆补偿，累计补偿最多 30 天，最高可获得 3,000 元等值 V 豆。</p></blockquote><p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/449.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-11T12:55:33.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
