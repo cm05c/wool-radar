@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T23:56:25.348Z",
+  "updatedAt": "2026-09-26T04:53:15.275Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 15,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -111,23 +111,6 @@
       "_score": 2
     },
     {
-      "id": "rss-khe7jy",
-      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
-      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/243.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T13:27:38.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-ojvh0m",
       "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
       "desc": "",
@@ -143,6 +126,113 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-33rfn7",
+      "title": "Hermes 提供 7 款免费模型，从安装到选择模型",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/hermes-7-free-models/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T02:27:00.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-7qa03f",
+      "title": "谷歌为 Pixel Watch 3/4/5 推送更新：引入血压趋势、睡眠呼吸检测、胰岛素抵抗趋势功能",
+      "desc": "<p data-vmark=\"3667\">IT之家 9 月 26 日消息，谷歌宣布为 Pixel Watch 3/4/5 推送一系列健康功能更新，新增血压趋势、睡眠呼吸以及胰岛素抵抗趋势等监测功能。</p><p data-vmark=\"9447\">需要注意的是，血压和胰岛素抵抗功能并不能直接提供即时的临床检测结果，而是通过长期数据分析评估相关变化趋势，系统预计每月提供一次评估结果。<strong>因此，这些功能更适合用于观察长期变化，而不能替代专业医疗检测</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e19d\"><img sr",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/301.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T02:06:53.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-7qtsos",
+      "title": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
+      "desc": "<p data-vmark=\"e332\">IT之家 9 月 26 日消息，谷歌现已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 6 更新，本轮系统版本为 vCP41.260831.007，主要进一步修复系统稳定性问题。</p><p data-vmark=\"9160\">谷歌表示，此次更新重点修复了 Pixel 9 Pro Fold 的异常重启问题。此前，多名参与 QPR2 Beta 测试的用户在 Google Issue Tracker 中反馈设备会出现“意外重启”。谷歌确认，<strong>该问题系第三方应用初始化相机取景器导致</strong>，",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/300.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T02:00:03.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-il7pz6",
+      "title": "R 星《GTA6》官方收藏礼盒引发不满，玩家自行 3D 打印周边“鳄鱼麦加手办”",
+      "desc": "<p data-vmark=\"ed66\">IT之家 9 月 26 日消息，Rockstar 于 9 月 24 日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2,687 元人民币）</span>。内含手办、帽子、太阳镜、海报等多种周边，但唯独就是没有《侠盗猎车手 VI》游戏本体。</p><p data-vmark=\"00d8\">据外媒 Insider Gaming 报道，在 Rockstar 公布收藏礼盒后，不少用户吐槽相应价格昂贵，内容缺乏诚意",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/283.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T00:18:08.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-imv3r9",
+      "title": "索尼向 PS5 玩家发送公开调查问卷，玩家借机吐槽官方停止生产实体光盘计划",
+      "desc": "<p data-vmark=\"33d6\">IT之家 9 月 26 日消息，索尼于 9 月 25 日起面向 PlayStation 5 玩家开展了一项公开调查，年满 18 岁的用户均可参与，主要涉及用户对 PlayStation 独占游戏、用户界面、游戏性能、联机体验、DualSense 手柄，以及 PS5 独占游戏和整个游戏库等多个方面的满意程度。</p><p data-vmark=\"935c\">据外媒 IGN 报道，虽然调查内容并未直接询问实体游戏光盘，但不少玩家借此机会向索尼表达了对其停止生产实体游戏光盘计划的不满。</p><p data-vmark=\"d179\">不少玩家在 X 平台上晒",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/280.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T23:56:25.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-khe7jy",
+      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
+      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/243.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-25T13:27:38.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-jyp7do",
@@ -2516,57 +2606,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-and7vj",
-      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
-      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。</p><p data-vmark=\"8888\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4ec45d33-c035-40bd-8f97-42f087e5197e.png\" w=\"1030\" h=\"1474\" data-weibo=\"0\" data-vmark=\"0acd\" class",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/534.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T03:30:50.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-blggnx",
-      "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
-      "desc": "<p data-vmark=\"2057\">IT之家 9 月 12 日消息，自小微 AI 灰度上线后，微信中涌现出了一大批新的 AI 功能。有多个用户反馈微信发送图片界面中新增“AI 处理”功能。如图所示，用户在聊天窗口点击图片后，底部编辑工具栏会出现该按钮。</p><p data-vmark=\"5f02\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/dcae7f88-65b1-4496-9ff3-9a2814ffc611.jpg?x-bce-process=image/f",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/514.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T01:28:27.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-c3lo8u",
-      "title": "英伟达为 G-Sync Pulsar 显示器推送 1.1.10 固件，240Hz 下 MPRT 响应速度可降至 0.97ms",
-      "desc": "<p data-vmark=\"09fd\">IT之家 9 月 12 日消息，英伟达近日为 G-Sync Pulsar 显示器推送 1.1.10 版固件更新，进一步提升动态画面清晰度。</p><p data-vmark=\"4e4b\">具体来看，G-Sync Pulsar 1.1.10 固件在 240Hz 模式、Pulse Width 设置为 50 时，可将 MPRT 响应速度降低至 0.97ms，首次低于 1ms。英伟达表示，这一表现能够带来相当于 1000Hz 显示器的动态清晰度。</p><p data-vmark=\"a0b4\">在最高 480 尼特亮度下，支持 G-Sync Pulsar 的显",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/502.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T00:40:56.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
