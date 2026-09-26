@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T14:27:46.164Z",
+  "updatedAt": "2026-09-26T18:01:31.072Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -128,6 +128,40 @@
       "_score": 2
     },
     {
+      "id": "rss-7wrbid",
+      "title": "华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能",
+      "desc": "<p data-vmark=\"9b8d\">IT之家 9 月 26 日消息，华为今日面向老机型推送了鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本，覆盖 Mate 60、Pura 70 等系列设备。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"b9b2\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/99f5c3ba-c4d5-4bb2-952f-7d9a8e50321a",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/422.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T11:14:18.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-7hwvhm",
+      "title": "曼联联名微软 Surface Laptop 亮相：搭载高通骁龙 X2 Elite，仅限抽签赠送",
+      "desc": "<p data-vmark=\"aeca\">IT之家 9 月 26 日消息，高通、微软与曼联足球俱乐部合作，推出了联名款的 Surface Laptop 定制机型。不过，这款机型并不开放售卖，仅通过限量抽奖活动向个别幸运儿赠送。</p><p style=\"text-align: center;\" data-vmark=\"bdfe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/609f5927-cca0-4cbc-99c4-12a4998c9108.png?x-bce-process=image/format,f_auto\" w=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/416.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T10:31:56.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-4crgym",
       "title": "微星 CLAW 8 EX AI+ 掌机英特尔锐炫 G3 款上市，较 G3 Extreme 款便宜 1000 元",
       "desc": "<p data-vmark=\"33a5\">IT之家 9 月 26 日消息，微星 (MSI) 现已在电商平台发售基于英特尔锐炫 (Arc) G3 处理器的 CLAW 8 EX AI+ 掌机。</p><p data-vmark=\"7c50\">锐炫 G3 处理器的 GPU 是拥有 10 个 Xe 核心、最大动态频率 2.2GHz 的 Arc B370，CPU 部分则是 2P + 8E + 4LP-E。在同样的 32GB + 512GB 存储器配置下，<strong>这一 \"CG3M\" 型号定价 10499 元</strong>，比锐炫 G3 Extreme 款低 1000 元。</p><p data",
@@ -160,42 +194,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-7wrbid",
-      "title": "华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能",
-      "desc": "<p data-vmark=\"9b8d\">IT之家 9 月 26 日消息，华为今日面向老机型推送了鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本，覆盖 Mate 60、Pura 70 等系列设备。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"b9b2\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/99f5c3ba-c4d5-4bb2-952f-7d9a8e50321a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/422.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-26T11:14:18.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7hwvhm",
-      "title": "曼联联名微软 Surface Laptop 亮相：搭载高通骁龙 X2 Elite，仅限抽签赠送",
-      "desc": "<p data-vmark=\"aeca\">IT之家 9 月 26 日消息，高通、微软与曼联足球俱乐部合作，推出了联名款的 Surface Laptop 定制机型。不过，这款机型并不开放售卖，仅通过限量抽奖活动向个别幸运儿赠送。</p><p style=\"text-align: center;\" data-vmark=\"bdfe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/609f5927-cca0-4cbc-99c4-12a4998c9108.png?x-bce-process=image/format,f_auto\" w=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/416.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-26T10:31:56.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
     },
     {
       "id": "rss-5unb40",
