@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-09-26T04:53:15.275Z",
+  "updatedAt": "2026-09-26T09:50:41.575Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-33rfn7",
+      "title": "Hermes 提供 7 款免费模型，从安装到选择模型",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/hermes-7-free-models/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T02:27:00.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-z73xrm",
       "title": "手慢无！DMIT 高端 CN2 GIA 三网优化线路 VPS 服务器 (国内快又稳！比瓦工更好)",
@@ -128,21 +145,39 @@
       "_score": 2
     },
     {
-      "id": "rss-33rfn7",
-      "title": "Hermes 提供 7 款免费模型，从安装到选择模型",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/hermes-7-free-models/",
+      "id": "rss-4crgym",
+      "title": "微星 CLAW 8 EX AI+ 掌机英特尔锐炫 G3 款上市，较 G3 Extreme 款便宜 1000 元",
+      "desc": "<p data-vmark=\"33a5\">IT之家 9 月 26 日消息，微星 (MSI) 现已在电商平台发售基于英特尔锐炫 (Arc) G3 处理器的 CLAW 8 EX AI+ 掌机。</p><p data-vmark=\"7c50\">锐炫 G3 处理器的 GPU 是拥有 10 个 Xe 核心、最大动态频率 2.2GHz 的 Arc B370，CPU 部分则是 2P + 8E + 4LP-E。在同样的 32GB + 512GB 存储器配置下，<strong>这一 \"CG3M\" 型号定价 10499 元</strong>，比锐炫 G3 Extreme 款低 1000 元。</p><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/007/375.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-26T02:27:00.000Z",
-      "hot": 151,
+      "publishedAt": "2026-09-26T07:41:51.000Z",
+      "hot": 152,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5unb40",
+      "title": "科乐美《恶魔城》系列 IP 迎 40 周年，FC 初代游戏移动平台移植版限时免费喜加一",
+      "desc": "<p data-vmark=\"2a00\">IT之家 9 月 26 日消息，科乐美为庆祝《恶魔城》系列 40 周年，为初代游戏推出限时免费“喜加一”活动，同时还为系列作品带来促销特惠折扣。</p><p style=\"text-align: center;\" data-vmark=\"4d75\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/308492eb-e0d4-4220-ba99-b31aef646a1b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"851\" data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/007/340.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-26T05:26:07.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
       "verified": true
     },
     {
@@ -2572,40 +2607,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-7t3hid",
-      "title": "老蛙推出 AF 35mm F2.8 1X APO 微距镜头，到手价 2688 元",
-      "desc": "<p data-vmark=\"0b7f\">IT之家 9 月 12 日消息，老蛙本周推出了 AF 35mm F2.8 1X APO 微距镜头，支持 EF、E、Z、X 卡口；此外还有手动对焦版本支持 RF、L 卡口，原价 2980 元，新品预售优惠<strong>到手价 2688 元</strong>。</p><p data-vmark=\"b551\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2186d9fa-513e-4cf3-bb4e-b753ed2c33d9.png?",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/594.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T08:43:30.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-9o6dwf",
-      "title": "京东：购苹果 iPhone 18 Pro 系列手机以旧换新至高补 900 元、早鸟票中签用户赠 AppleCare Services 原厂服务",
-      "desc": "<p data-vmark=\"d3ba\">IT之家 9 月 12 日消息，苹果在 2026 年秋季发布会上<a href=\"https://www.ithome.com/1/000/535.htm\" target=\"_blank\">发布了 iPhone 18 Pro 系列手机</a>，其中 iPhone 18 Pro 起售价 9999 元，iPhone 18 Pro Max 起售价 10999 元，系列手机将于今晚 8 点接受预购，9 月 18 日发售。</p><h3 data-vmark=\"84c2\"><span class=\"hot-topic\" data-topic-logo=\"//pi",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/001/556.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-12T05:05:55.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
