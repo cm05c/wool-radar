@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-27T21:36:39.260Z",
+  "updatedAt": "2026-09-27T23:57:37.135Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -145,23 +145,6 @@
       "_score": 2
     },
     {
-      "id": "rss-n13mxv",
-      "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
-      "desc": "<p data-vmark=\"ad1b\">IT之家 9 月 27 日消息，MiniMax 今天宣布其最新文本模型 M3.1-Flash-Preview 现已上线 MiniMax Code 平台。<strong>官方还同步发出额度重置卡</strong>，为所有用户的 Token Plan 额度进行重置，并发出签到双倍积分、免费领 Token 等福利。</p><p style=\"text-align: center;\" data-vmark=\"bf8e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/28c78c09-ea37-4",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/007/530.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-27T07:32:14.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-ojvh0m",
       "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
       "desc": "",
@@ -177,6 +160,59 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-y4r89d",
+      "title": "黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%",
+      "desc": "<p data-vmark=\"77e5\">IT之家 9 月 28 日消息，据英国《金融时报》当地时间 26 日报道，非法获取 AI 模型和算力，正迅速成为网络犯罪黑市上最抢手的商品，黑客希望借助价格高昂的大模型实施勒索、网络战和间谍活动。</p><p data-vmark=\"10c9\">谷歌威胁情报团队首席分析师约翰 · 霍特奎斯特披露，今年所谓“LLM 劫持”活动明显增多，具体表现于<strong>倒卖公开 AI 工具的被盗登录凭据</strong>，以及部分团体盗用他人算力，以免费运行自己的模型。</p><p data-vmark=\"a240\">从事网络安全工作 20 年的霍特奎斯特坦言：",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/619.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-27T22:57:05.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-y6em1g",
+      "title": "科乐美《寂静岭：Townfall》发售：Steam 国区 310 元起，玩家口碑褒贬不一",
+      "desc": "<p data-vmark=\"901a\">IT之家 9 月 28 日消息，科乐美旗下《Silent Hill：Townfall（寂静岭：Townfall）》现已正式发售，以 PC 版为例，本作在 Steam 国区标准版 310 元，豪华版 380 元，豪华版除了游戏本体外，还包括“西蒙的装束：替换装束”、数字画册和原声带。IT之家附游戏商品页（<a target=\"_blank\" href=\"https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/\"><span class=\"link-text-start-with-ht",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/007/616.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-27T22:39:14.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-n13mxv",
+      "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
+      "desc": "<p data-vmark=\"ad1b\">IT之家 9 月 27 日消息，MiniMax 今天宣布其最新文本模型 M3.1-Flash-Preview 现已上线 MiniMax Code 平台。<strong>官方还同步发出额度重置卡</strong>，为所有用户的 Token Plan 额度进行重置，并发出签到双倍积分、免费领 Token 等福利。</p><p style=\"text-align: center;\" data-vmark=\"bf8e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/28c78c09-ea37-4",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/007/530.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-27T07:32:14.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-m30e5h",
@@ -2519,23 +2555,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-za04dc",
-      "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
-      "desc": "<p data-vmark=\"f854\">IT之家 9 月 14 日消息，据外媒 electrek 报道，苏黎世机场联合中国自动驾驶企业文远知行（WeRide），在机场部署了两辆全自动驾驶电动摆渡车。</p><p data-vmark=\"5984\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fee66730-86bf-4c9b-bf1b-f4a53e348a26.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"699",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/874.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T22:54:33.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-nhl54t",
