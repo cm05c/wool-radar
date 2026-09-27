@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:05:34.257Z",
+  "updatedAt": "2026-09-27T13:55:39.259Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -111,21 +111,21 @@
       "_score": 2
     },
     {
-      "id": "rss-usbcom",
-      "title": "正版应用 9 月打折：MarginNote 4、CareUEyes、Zipic、XYPlorer 等…",
-      "desc": "九月开学季，也是学习、办公装备集中焕新的时候。除了电脑硬件，一套趁手的软件，同样能让接下来的学习和工作事半功倍。\n\n前往 9 月优惠会场\n即日起至 9 月 22 日，这些软件开启「九月焕新季」激活码促销活动。本次活动以办公效率、学习辅助、系统优化等实用工具为主，精选软件低至 6 折。\n特…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "6 折",
-      "url": "https://www.iplaysoft.com/news/6609",
+      "id": "rss-n13mxv",
+      "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
+      "desc": "<p data-vmark=\"ad1b\">IT之家 9 月 27 日消息，MiniMax 今天宣布其最新文本模型 M3.1-Flash-Preview 现已上线 MiniMax Code 平台。<strong>官方还同步发出额度重置卡</strong>，为所有用户的 Token Plan 额度进行重置，并发出签到双倍积分、免费领 Token 等福利。</p><p style=\"text-align: center;\" data-vmark=\"bf8e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/28c78c09-ea37-4",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/007/530.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-13T13:08:14.000Z",
-      "hot": 217,
+      "publishedAt": "2026-09-27T07:32:14.000Z",
+      "hot": 210,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 2
+      "_score": 3
     },
     {
       "id": "rss-ojvh0m",
@@ -145,21 +145,39 @@
       "_score": 2
     },
     {
-      "id": "rss-n13mxv",
-      "title": "MiniMax 最新文本模型 M3.1-Flash-Preview 上线 MiniMax Code 平台，额度重置卡同步发出",
-      "desc": "<p data-vmark=\"ad1b\">IT之家 9 月 27 日消息，MiniMax 今天宣布其最新文本模型 M3.1-Flash-Preview 现已上线 MiniMax Code 平台。<strong>官方还同步发出额度重置卡</strong>，为所有用户的 Token Plan 额度进行重置，并发出签到双倍积分、免费领 Token 等福利。</p><p style=\"text-align: center;\" data-vmark=\"bf8e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/28c78c09-ea37-4",
+      "id": "rss-pvx5we",
+      "title": "雷鸟鹤 6 系列 27 款 QD-Mini LED 电视开售：55-98 英寸，3175 元起",
+      "desc": "<p data-vmark=\"74ed\">IT之家 9 月 27 日消息，雷鸟官方今日宣布，鹤 6 系列 27 款电视将于今晚 20:00 正式开售。</p><p data-vmark=\"4b85\"><strong>鹤 6 27 款</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0875\">55 英寸：3175 元，券后补贴价 2699 元</p></li><li><p data-vmark=\"95e0\">65 英寸：4116 元，券后补贴价 3499 元</p></li><li><p dat",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/007/530.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/591.htm",
       "expiresAt": null,
-      "publishedAt": "2026-09-27T07:32:14.000Z",
-      "hot": 210,
+      "publishedAt": "2026-09-27T11:39:14.000Z",
+      "hot": 212,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ohc3b6",
+      "title": "上汽 MG 07 旅行车谍照曝光，现款限时补贴价 10.59 万元起",
+      "desc": "<p data-vmark=\"d4af\">IT之家 9 月 27 日消息，博主 @SugarDesign 今日分享了一张上汽 MG 07 旅行车谍照，新车前脸延续 MG 07 的设计语言，而车尾则采用了旅行车的造型设计，车顶配有激光雷达。</p><p data-vmark=\"46df\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c7c46f76-96b1-4dc8-90e8-f64045e9aca6.png\" w=\"638\" h=\"725\" data-snap-from",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/562.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-27T09:58:50.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -2555,40 +2573,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-xso2tb",
-      "title": "Hori 推出《塞尔达传说》40 周年 Switch 2 周边配件，11 月日本发售",
-      "desc": "<p data-vmark=\"c559\">IT之家 9 月 13 日消息，为纪念《塞尔达传说》诞生 40 周年，任天堂推出了 Switch 2 特别版主机、Switch 2 Pro 手柄以及 Switch 2 收纳包。不过并非只有任天堂在推出限定产品来庆祝这一里程碑。</p><p data-vmark=\"99aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c05df9a6-554e-49e5-a8dd-4af8d34648aa.jpg\" w=\"1440\" h=\"108",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/840.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T12:05:25.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ww87t0",
-      "title": "荣耀MagicOS 11 新增“专属省电建议”：结合近期使用习惯，给出针对性优化建议",
-      "desc": "<p data-vmark=\"6479\">IT之家 9 月 13 日消息，荣耀产品维护与升级 @荣耀小芳哥 于 9 月 11 日发布称，MagicOS11 在省电上加了个小“彩蛋”——「你的专属省电建议」，升级后，系统会结合近期使用习惯，<strong>识别出一些“耗电较高、但又很少使用”的功能</strong>，给出针对性的优化建议。</p><p data-vmark=\"273f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9bff9d38-8ece-4218-99e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/823.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-13T09:46:06.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
