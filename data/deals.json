@@ -1,13 +1,47 @@
 {
-  "updatedAt": "2026-09-28T11:59:01.446Z",
+  "updatedAt": "2026-09-28T19:39:24.114Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-f7f37r",
+      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T08:18:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ws1tx5",
+      "title": "PecoFence：免费开源的 Windows 11 桌面整理工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://meta.appinn.net/t/topic/92339",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T07:10:10.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-33rfn7",
       "title": "Hermes 提供 7 款免费模型，从安装到选择模型",
@@ -111,6 +145,23 @@
       "_score": 2
     },
     {
+      "id": "rss-ald8e3",
+      "title": "小米首款热泵洗烘一体机发布：13kg 洗 +9kg 烘，5881 元",
+      "desc": "<p data-vmark=\"67ca\">IT之家 9 月 28 日消息，小米首款热泵洗烘一体机（米家洗衣<span class=\"no-auto-spacing\">机 护</span>衣洗 Pro 至尊<span class=\"no-auto-spacing\">版 热</span>泵洗烘 13kg）今日上架小米商城、小米有品等平台，售价 5881 元。</p><p data-vmark=\"7a89\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7b0737d7-ad3b",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/008/003.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T11:42:51.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-ojvh0m",
       "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
       "desc": "",
@@ -126,42 +177,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-f7f37r",
-      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T08:18:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ald8e3",
-      "title": "小米首款热泵洗烘一体机发布：13kg 洗 +9kg 烘，5881 元",
-      "desc": "<p data-vmark=\"67ca\">IT之家 9 月 28 日消息，小米首款热泵洗烘一体机（米家洗衣<span class=\"no-auto-spacing\">机 护</span>衣洗 Pro 至尊<span class=\"no-auto-spacing\">版 热</span>泵洗烘 13kg）今日上架小米商城、小米有品等平台，售价 5881 元。</p><p data-vmark=\"7a89\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7b0737d7-ad3b",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/003.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T11:42:51.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-aq4ig8",
@@ -215,24 +230,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ws1tx5",
-      "title": "PecoFence：免费开源的 Windows 11 桌面整理工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://meta.appinn.net/t/topic/92339",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T07:10:10.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2490,23 +2487,6 @@
       "_score": 3
     },
     {
-      "id": "rss-13qnoe",
-      "title": "苹果 watchOS 27.0 正式版发布：Siri AI 全面升级，健康功能扩展",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 15 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 更新（内部版本号：24R364），兼容 Apple Watch Series 9 及后续机型、Apple Watch Ultra 2 及后续机型，以及 Apple Watch SE 3。用户可以在手表上通过“设置”App 免费下载安装。</p><p style=\"text-align: center;\" data-vmark=\"08a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/332.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T18:26:12.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-3gez20",
       "title": "Stellantis 与加拿大工会 Unifor 谈判陷入僵局，安大略省 Brampton 工厂前途未定",
       "desc": "<p data-vmark=\"50ea\">IT之家 9 月 15 日消息，据外媒 Carscoops 报道，Stellantis 与加拿大工会 Unifor 的合同谈判目前已陷入“僵局”。双方原本预计在 9 月 11 日前达成临时协议，但最终未能取得进展，谈判目前暂停，Unifor 总谈判委员会将讨论下一步行动。</p><p data-vmark=\"6301\">此次谈判破裂的核心问题之一，是位于加拿大安大略省的 Brampton Assembly 工厂未来安排。该工厂原计划生产重新设计后的 Jeep Compass 车型，但受加拿大与美国之间贸易争端影响，Stellantis 随后决定将相关车",
@@ -2613,23 +2593,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-53man",
-      "title": "16+512G 3799 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-      "desc": "<p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东自营今日 4499 元 + 系统自动发放 200 元限时补贴，大部分地区支持 500 元国补，实付 3799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">先领 200 元惊喜红包：<a href=\"https://u.jd.com/x69BxOA\" target=\"_blank\" data-wapurl=\"htt",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/311.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T15:01:35.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
