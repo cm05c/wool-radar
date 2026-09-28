@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-28T05:18:36.706Z",
+  "updatedAt": "2026-09-28T11:59:01.446Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,114 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-f7f37r",
+      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T08:18:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ald8e3",
+      "title": "小米首款热泵洗烘一体机发布：13kg 洗 +9kg 烘，5881 元",
+      "desc": "<p data-vmark=\"67ca\">IT之家 9 月 28 日消息，小米首款热泵洗烘一体机（米家洗衣<span class=\"no-auto-spacing\">机 护</span>衣洗 Pro 至尊<span class=\"no-auto-spacing\">版 热</span>泵洗烘 13kg）今日上架小米商城、小米有品等平台，售价 5881 元。</p><p data-vmark=\"7a89\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7b0737d7-ad3b",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/008/003.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T11:42:51.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-aq4ig8",
+      "title": "上汽大众 ID. ERA 9X 获推 OTA 升级，Momenta R7 世界模型正式推送",
+      "desc": "<p data-vmark=\"a148\">IT之家 9 月 28 日消息，上汽大众今日宣布，ID. ERA 9X 智能驾驶辅助全面升级，<strong>Momenta R7 世界模型正式开放 OTA</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2060\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/51d0772e-6313-43fa-b158-eb4828293dd1.jpg?x-bce-process=image/format,f_auto\" w=\"144",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/931.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T09:20:23.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-2fu512",
+      "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
+      "desc": "<p data-vmark=\"84b5\">IT之家 9 月 28 日消息，9 月 27 日，在第十届平遥国际电影展期间，字节跳动旗下火山引擎正式发布 Seedance 影视合作计划，将面向全球专业影视项目提供 Token 补贴、宣发资源及技术与工具支持，单个项目激励最高可达百万人民币。</p><p data-vmark=\"4aeb\">IT之家附作品类型：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"056e\">电影长片、系列剧集、动画作品、创意短片</p></li></ul><p data-vmark=\"169d\">合作对象：</",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/867.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T08:16:34.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-20zp0b",
+      "title": "上汽 MG4 530 周年限量版上市，限时补贴价 8.48 万元",
+      "desc": "<p data-vmark=\"ea46\">IT之家 9 月 28 日消息，上汽 MG 今日宣布，MG4 530 周年限量版正式上市，<strong>限时补贴价 8.48 万元</strong>。</p><p data-vmark=\"c505\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc850569-ad2b-4105-90fa-63e2856dc294.jpg\" w=\"1080\" h=\"2251\" data-weibo=\"0\" data-vmark=\"0915\" c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/873.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T08:35:04.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ws1tx5",
+      "title": "PecoFence：免费开源的 Windows 11 桌面整理工具",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://meta.appinn.net/t/topic/92339",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T07:10:10.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-gnqlg9",
@@ -2517,40 +2625,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-14T15:01:35.000Z",
       "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-bl6dep",
-      "title": "雷鸟鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视首销，券后国补价 3999 元起",
-      "desc": "<p data-vmark=\"508e\">IT之家 9 月 14 日消息，雷鸟鹤 6 Ultra 竞技款电视今日 20:00 开售，有多个尺寸可选：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ef0c\">65 英寸：646 个 Mini LED 万象分区，5005 元起，新品券后国补价 3999 元起</p></li><li><p data-vmark=\"b3d6\">75 英寸：760 个 Mini LED 万象分区，5710 元起，新品券后国补价 4599 元起</p></li><li><p data-v",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/278.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T11:49:05.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-d3m05g",
-      "title": "长城魏牌高山 8/9 智慧版 MPV 开启下订：5000 元订金可抵 8000 元尾款",
-      "desc": "<p data-vmark=\"2f1e\">IT之家 9 月 14 日消息，魏牌旗下高山 8/9 智慧版 MPV 今日正式开启下订，消费者下订即可尊享 5000 元订金抵扣 8000 元购车尾款的限时权益。与此同时，官方确认魏牌高山 8/9 智慧版即将于中秋节前上市，同时高山 8 HEV 版将于四季度登场，高山家族新成员将与现款高山车型并行销售。</p><p data-vmark=\"db4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a786d1a-3f81-4348",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/242.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T10:19:06.000Z",
-      "hot": 200,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
