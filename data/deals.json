@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-27T23:57:37.135Z",
+  "updatedAt": "2026-09-28T05:18:36.706Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -111,6 +111,59 @@
       "_score": 2
     },
     {
+      "id": "rss-ojvh0m",
+      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127082.html",
+      "expiresAt": null,
+      "publishedAt": "2026-09-24T01:15:41.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-gnqlg9",
+      "title": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
+      "desc": "<p data-vmark=\"4e48\">IT之家 9 月 28 日消息，据路透社今天（28 日）上午报道，印度太空初创公司 TakeMe2Space 计划于当地时间 10 月 1 日搭乘 SpaceX 火箭发射 MOI-1A，并称其为印度首颗轨道计算卫星。与把原始数据全部传回地球不同，TakeMe2Space 希望直接<strong>在轨完成数据处理</strong>。</p><p data-vmark=\"7137\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/49af",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/776.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T05:14:40.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-j0ewtv",
+      "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
+      "desc": "<p data-vmark=\"fd03\">IT之家 9 月 28 日消息，经历“被质疑偷传代码”风波后，<a href=\"https://www.ithome.com/1/005/046.htm\" target=\"_blank\">智谱 ZCode 官宣开源</a>，并在今日发布公告，宣布仓库快照上传链路已移除、<strong>涉事云端数据已删除</strong>。</p><p data-vmark=\"59de\">智谱官方表示，后续将做到“你不发起，不上云”，开源版本已更新至 3.14.3 最新版。</p><p data-vmark=\"717f\">智谱还赠送给用户 <strong>4 张周重置卡",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/007/727.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T03:26:12.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-pvx5we",
       "title": "雷鸟鹤 6 系列 27 款 QD-Mini LED 电视开售：55-98 英寸，3175 元起",
       "desc": "<p data-vmark=\"74ed\">IT之家 9 月 27 日消息，雷鸟官方今日宣布，鹤 6 系列 27 款电视将于今晚 20:00 正式开售。</p><p data-vmark=\"4b85\"><strong>鹤 6 27 款</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"0875\">55 英寸：3175 元，券后补贴价 2699 元</p></li><li><p data-vmark=\"95e0\">65 英寸：4116 元，券后补贴价 3499 元</p></li><li><p dat",
@@ -141,23 +194,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ojvh0m",
-      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127082.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T01:15:41.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -2116,23 +2152,6 @@
       "_score": 2
     },
     {
-      "id": "rss-m5dx4g",
-      "title": "开源字体ONE Mono最终被英特尔保留 原本英特尔准备废掉这个项目节省开支",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126850.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T03:36:29.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-4unata",
       "title": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
       "desc": "<p data-vmark=\"f400\">IT之家 9 月 16 日消息，谷歌今日开始向 Pixel 设备推送最新的 Android 17 QPR1 稳定版更新，随 2026 年 9 月功能更新与安全补丁一同发布。</p><p data-vmark=\"b1a1\">用户界面方面，新版本为系统 UI 添加了更多模糊效果。音量面板采用动态取色半透明设计，底部完整面板也已更新。电源菜单同样获得更新，并加入了背景模糊特效。</p><p style=\"text-align: center;\" data-vmark=\"a821\"><a target=\"_blank\" href=\"https://img.it",
@@ -2537,42 +2556,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-qq6dkx",
-      "title": "苹果优质售后新案例：“免费”为 6 年旧款 MacBook Air 升级 M5 新款",
-      "desc": "<p data-vmark=\"4168\">IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，<strong>最新案例是为 6 年老笔记本电脑（仍在 AppleCare 保修期内）免费升级到 M5 MacBook Air。</strong></p><p data-vmark=\"1f6f\">网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。</p><p da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/005.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T03:42:12.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-nhl54t",
-      "title": "苹果 iOS 27 正式版前瞻：升级 Siri AI、优化液态玻璃设计、隔空投送提速 80%",
-      "desc": "<p data-vmark=\"4b6e\">IT之家 9 月 14 日消息，苹果公司官网显示，<strong><a href=\"https://www.ithome.com/1/000/531.htm\" target=\"_blank\">将于北京时间 9 月 15 日周二凌晨 1 点推送 iOS 27、iPadOS 27、macOS 27 和 watchOS 27 等正式版</a>，</strong>用户届时可在“设置”应用中的“通用” → “软件更新”下查看。</p><p style=\"text-align: center;\" data-vmark=\"dd92\"><img src=\"https:",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/001/921.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-14T01:29:40.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
