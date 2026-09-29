@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:56:13.965Z",
+  "updatedAt": "2026-09-29T05:40:03.048Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -143,6 +143,60 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-6hwjl0",
+      "title": "避开苹果 MacBook Neo 正面战场：微软称 Surface 不推低价笔记本电脑",
+      "desc": "<p data-vmark=\"20e5\">IT之家 9 月 29 日消息，科技媒体 Windows Central 昨日（9 月 28 日）发布博文，报道称在 2026 骁龙峰会期间，微软 Surface 事业部副总裁布雷特 · 奥斯特罗姆（Brett Ostrum）表示，<strong>Surface 品牌不会推出低价产品与苹果 MacBook Neo 直接竞争。</strong></p><p data-vmark=\"2a0a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/008/156.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-29T03:04:16.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-j7x5ut",
+      "title": "华为 MatePad Air Z 平板开售：麒麟 T93SD 处理器、12 英寸 LCD 屏，叠加国补后到手价 2999 元起",
+      "desc": "<p data-vmark=\"9984\">IT之家 9 月 29 日消息，华为 MatePad Air Z 平板今日正式开售，即日起至 10 月 31 日，可享 200 元限时优惠，<strong>叠加国补后到手价 2999 元起、悦享款 2380 元起</strong>，通过认证的师生还可享 150 元教育优惠。</p><p style=\"text-align: center;\" data-vmark=\"3536\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/21a32db6-9e41-412b-b596-8146476f3",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/008/212.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-29T03:35:12.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-kxcyfb",
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+      "desc": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...<a href=\"https://sspai.com/post/115134\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "0元",
+      "url": "https://sspai.com/post/115134",
+      "expiresAt": null,
+      "publishedAt": "2026-09-29T00:09:05.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-ojvh0m",
@@ -2409,114 +2463,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-15T05:55:34.000Z",
       "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-t1ecxv",
-      "title": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
-      "desc": "<p data-vmark=\"a7b6\">IT之家 9 月 15 日消息，<a href=\"https://www.ithome.com/1/002/329.htm\" target=\"_blank\">苹果今日（9 月 15 日）凌晨推送了 iOS 27.0 正式版更新</a>，迎来多项性能优化，还从底层重构聚焦、照片和邮件 App 中的搜索功能。</p><p style=\"text-align: center;\" data-vmark=\"aec6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/99495992-4129-49c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/502.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T03:38:56.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-hrm71d",
-      "title": "请升级：任天堂向初代 Switch 推送 23.0.0 固件，修复二维码漏洞",
-      "desc": "<p data-vmark=\"063b\">IT之家 9 月 15 日消息，科技媒体 Android Headline 昨日（9 月 14 日）发布博文，报道称任天堂已提醒初代 Switch 游戏掌机玩家，<strong>尽快升级 23.0.0 固件更新，已整合二维码漏洞修复补丁。</strong></p><p data-vmark=\"421f\">IT之家援引博文介绍，本次二维码漏洞影响初代 Switch，而第二代 Switch 不使用二维码将图像传输至手机，因此不受该漏洞影响。</p><p data-vmark=\"8523\">初代 Switch 系列需要用户扫描主机屏幕上的二维码，才能把游戏截",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/478.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T03:01:59.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-grvkgw",
-      "title": "山灵 M8T 铜版 Hi-Fi 播放器发售：外壳引入铜合金 CNC 工艺，11980 元",
-      "desc": "<p data-vmark=\"8d5b\">IT之家 9 月 15 日消息，山灵旗下 M8T 铜版 Hi-Fi 播放器现已在京东发售，该机延续标准款机型配置，主要将外壳调整为铜合金材质，同时改进调音，首发价 11980 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xrkgfrw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/x6kz22j\" data-iosurl=\"https://u.jd.com/xakGE8b\" data-androidurl=\"https://u.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/002/455.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T02:37:25.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-egaua0",
-      "title": "苹果为 AppleTV 推送 tvOS 27.0 正式版系统更新：全新播客应用、Apple Music 新增高解析度无损音频",
-      "desc": "<p data-vmark=\"3882\">IT之家 9 月 15 日消息，苹果现已为旗下 AppleTV 推送 tvOS 27.0 正式版系统，主要为相应机型带来重新设计的播客（Podcasts）应用，同步改进 Apple Music 音频体验，引入多项辅助功能。</p><p style=\"text-align: center;\" data-vmark=\"c1c4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ae1c2ed-8f77-4c6a-b67e-5ea448201ada.png?x-bce-process=imag",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/408.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T01:49:52.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-3gez20",
-      "title": "Stellantis 与加拿大工会 Unifor 谈判陷入僵局，安大略省 Brampton 工厂前途未定",
-      "desc": "<p data-vmark=\"50ea\">IT之家 9 月 15 日消息，据外媒 Carscoops 报道，Stellantis 与加拿大工会 Unifor 的合同谈判目前已陷入“僵局”。双方原本预计在 9 月 11 日前达成临时协议，但最终未能取得进展，谈判目前暂停，Unifor 总谈判委员会将讨论下一步行动。</p><p data-vmark=\"6301\">此次谈判破裂的核心问题之一，是位于加拿大安大略省的 Brampton Assembly 工厂未来安排。该工厂原计划生产重新设计后的 Jeep Compass 车型，但受加拿大与美国之间贸易争端影响，Stellantis 随后决定将相关车",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/381.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T01:05:35.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-2ytk2g",
-      "title": "微软推送 9 月 Win10/Win11 紧急更新，修复远程桌面问题",
-      "desc": "<p data-vmark=\"7775\">IT之家 9 月 15 日消息，微软昨日（9 月 14 日）发布公告，宣布面向 Windows 11 26H1 推送 KB5129194 紧急带外更新（Out-of-band），用户安装后版本号升至 Build 28000.2956。</p><p data-vmark=\"ddf3\">此外微软还针对以下版本推送紧急更新：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"37fd\">Windows 10 22H2 和 21H2 推送 <span class=\"notransl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/370.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T00:22:35.000Z",
-      "hot": 150,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
