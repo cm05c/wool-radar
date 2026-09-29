@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-29T11:34:52.445Z",
+  "updatedAt": "2026-09-29T17:00:57.617Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -111,23 +111,6 @@
       "_score": 3
     },
     {
-      "id": "rss-mpamm",
-      "title": "iOS 27 正式版新功能汇总视频：流畅度暴涨，老机型狂喜！国行 AI 难崩…",
-      "desc": "经过漫长等待，苹果终于把 iOS 27 正式版、macOS 27 推给所有用户了。从 6 月首个测试版到后面的 8 轮测试加 1 个 RC 版，折腾了三个多月，正式版总算落地。这次版本号为 iOS 27.0，内部版本号 24A437，所有用户都能直接升到正式版。\n\n入手 iPhone 优惠\n下载 iOS 27 / iPadOS 正式固件\n而且这次不是 iPhone 单打独斗…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/ios27-features",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T12:00:20.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxcyfb",
       "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
       "desc": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...<a href=\"https://sspai.com/post/115134\" target=\"_blank\">查看全文</a>",
@@ -159,8 +142,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-lgnp3s",
@@ -177,7 +159,42 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 2
+    },
+    {
+      "id": "rss-86uhgz",
+      "title": "阿里 Qoder 平台 Qwen3.8-Flash 限时免费活动延期，10 月之后继续用",
+      "desc": "<p data-vmark=\"bce7\">IT之家 9 月 29 日消息，根据 Qoder 官方公告，阿里 Qwen3.8-Flash 限时免费活动已延期 —— 原定 2026 年 9 月 30 日 23:59:59 结束，现改为 10 月 1 日起继续免费（结束时间未定）。</p><p style=\"text-align: center;\" data-vmark=\"7f49\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/85585214-f093-49f9-929f-05b69700454b.png\" w=\"900\" h=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/008/506.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-29T14:51:10.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-jmodwg",
+      "title": "iQOO 16 手机发布：首批搭载高通第六代骁龙 8 超级至尊版、2K 三星珠峰屏，5999 元起",
+      "desc": "<p data-vmark=\"982f\">IT之家 9 月 29 日现场消息，iQOO 16 手机今晚发布，首批搭载第六代骁龙 8 超级至尊版、2K 三星珠峰屏，零售价 5999 元起。iQOO16 新品首销期间，全国国补 / 地补限时上线，全版本补贴立减 500 元，到手价 5499 元起。</p><p data-vmark=\"ccc6\">IT之家附价格如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1e12\">12GB+256GB 版零售价 5999 元，国补到手价 5499 元</p></li><li><p data-v",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/008/471.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-09-29T12:36:21.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -2331,40 +2348,6 @@
       "_score": 2
     },
     {
-      "id": "rss-89nyvx",
-      "title": "互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送",
-      "desc": "<p data-vmark=\"0a19\">IT之家 9 月 15 日消息，互传联盟近日宣布推出“碰一碰互传技术标准”，跨品牌一碰传即将正式发布。</p><p style=\"text-align: center;\" data-vmark=\"f0f3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/66e66173-2216-418d-84c7-e187092fea2d.png?x-bce-process=image/format,f_auto\" w=\"987\" h=\"1281\" data-weibo=\"0\" data-vmark=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/799.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T15:14:35.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-8e2bmt",
-      "title": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
-      "desc": "<p data-vmark=\"1ec2\">IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，荣耀 AgenticOS 系统也登场亮相。</p><p data-vmark=\"64d1\" style=\"text-align: center;\"><a href=\"https://weibo.com/2094249094/Rig7i0Q86?refer_flag=1001030103_\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfile",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/791.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T14:34:32.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-4unata",
       "title": "谷歌推送 Android 17 QPR1 更新，覆盖 Pixel 6 至 Pixel 11 系列",
       "desc": "<p data-vmark=\"f400\">IT之家 9 月 16 日消息，谷歌今日开始向 Pixel 设备推送最新的 Android 17 QPR1 稳定版更新，随 2026 年 9 月功能更新与安全补丁一同发布。</p><p data-vmark=\"b1a1\">用户界面方面，新版本为系统 UI 添加了更多模糊效果。音量面板采用动态取色半透明设计，底部完整面板也已更新。电源菜单同样获得更新，并加入了背景模糊特效。</p><p style=\"text-align: center;\" data-vmark=\"a821\"><a target=\"_blank\" href=\"https://img.it",
@@ -2417,40 +2400,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-a81mu5",
-      "title": "Keychron Q13 Ultra 8K 机械键盘国行发售：96% Alice 配列，1601 元",
-      "desc": "<p data-vmark=\"e525\">IT之家 9 月 15 日消息，Keychron（渴创）的 <strong>96% Alice</strong> 配列全铝三模机械键盘 Q13 Ultra 8K 现已在中国大陆电商平台发售。其可选黑 / 白 2 种配色、红 / 茶 / 香蕉 3 种 Silk POM 轴体，到手价 1601 元。</p><p data-vmark=\"5a78\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8ed27687-1e67-47eb-8af",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/755.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T12:10:52.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-a8lffi",
-      "title": "荣耀MagicOS 11 操作系统正式发布：全新流光通透设计，最高省 60GB 存储空间",
-      "desc": "<p data-vmark=\"4b97\">IT之家 9 月 15 日消息，荣耀MagicOS 11 操作系统今日正式发布，新系统主打全新液态玻璃材质，拥有流光通透美学设计，即日起启动正式版不限量尝鲜，适配多款机型。</p><p style=\"text-align: center;\" data-vmark=\"9d13\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0abc0e86-9165-46ba-9498-6f86a6aa3b07.jpg?x-bce-process=image/format,f_auto\" w=\"1080\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/002/754.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-15T12:09:26.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
