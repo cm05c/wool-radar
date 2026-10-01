@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-01T01:33:48.151Z",
+  "updatedAt": "2026-10-01T07:47:29.084Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,78 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-xh7apy",
+      "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份",
+      "desc": "<p data-vmark=\"bd79\">IT之家 10 月 1 日消息，Linux DO 社区用户 @xiaomao 反馈称，Anthropic 已开始向 Claude 用户免费赠送实体毛绒玩具和贴纸。</p><p data-vmark=\"e2e5\">用户进入 Claude Dev 网站并打开 Terminal 后，输入 /plushies 即可进入毛绒玩具对应的登记领取流程，输入 /stickers 则可登记领取贴纸。</p><p style=\"text-align: center;\" data-vmark=\"dc07\"><img src=\"https://img.ithome.com/n",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/069.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T06:56:14.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-xgni4l",
+      "title": "把键盘做成传送带，谷歌 Gboard 日本团队一年一度的整活来了",
+      "desc": "<p data-vmark=\"fe63\">IT之家 10 月 1 日消息，谷歌 Gboard 日本团队今天发布了一年一度的“整活”产品，今年的创意是一款能够自己动起来的键盘。</p><p style=\"text-align: center;\" data-vmark=\"a4c0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b92fede-fe45-4669-9a40-c0338fe26643.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"959\" data-weibo",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/068.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T06:53:48.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-xfjwxv",
+      "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏",
+      "desc": "<p data-vmark=\"6e26\">IT之家 10 月 1 日消息，当地时间 9 月 30 日，索尼 PlayStation 公布了本月面向所有 PlayStation Plus 会员档位提供的三款游戏（欧美区），PS5 版《F1 25》位列其中。</p><p data-vmark=\"14ff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8720afab-04a4-45c8-a9d5-088940f0a48f.jpg\" w=\"1088\" h=\"612\" alt=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/009/066.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T06:47:44.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-vh68zn",
+      "title": "淘宝补贴 30 元：WPS 京东 PLUS 联合会员发车，仅需 72 元 / 年",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，叠加淘宝平台补贴后，仅需 288 元即可入手。</p><p data-vmark=\"6d9f\">联合会员含：<strong>京东 PLUS</strong> / 喜马拉雅 / 优酷视频 / 网易云音乐等。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?e=4foHmuGNie%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkid",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/009/022.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T03:31:32.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
     },
     {
       "id": "rss-ioe3cn",
@@ -2379,42 +2451,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-c8w6hy",
-      "title": "谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题",
-      "desc": "<p data-vmark=\"0e15\">IT之家 9 月 17 日消息，科技媒体 Android Authority 昨日（9 月 16 日）发布博文，报道称谷歌已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 5 更新，整合 8 项修复。</p><p data-vmark=\"a399\">在推送版本方面，IT之家援引博文介绍，谷歌分为 2 个不同版本分发：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"71b3\">Build <span class=\"link-te",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/470.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T03:58:47.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-e0obbu",
-      "title": "小米米家空气净化器 6C 预售：千分位甲醛数显，999 元",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，米家空气净化器 6C 于昨晚开启预售，新品到手价 999 元，京东券后 997.05 元。</p><p data-vmark=\"0003\">这款空气净化器面向中小户型设计，最大适用面积达到 68 m²，颗粒物 CADR 实测值 603 m³/h，可实现 9500L/min 清新大气量，促进全屋高效循环换气，让洁净空气快速送达。</p><p data-vmark=\"c6f4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfil",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/003/438.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T03:22:48.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
