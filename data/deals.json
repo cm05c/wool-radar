@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T07:47:29.084Z",
+  "updatedAt": "2026-10-01T15:25:31.007Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -126,6 +126,78 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-pc1cka",
+      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
+      "desc": "<p data-vmark=\"b306\">IT之家 10 月 1 日消息，昨日推送 26H2 更新后，微软在官网公布了 Windows 11 26H2 的 ISO 镜像文件（正式版版本号为 26300.9457，已升级的预览版版本号会更高），用于全新安装、升级、修复或测试。</p><p data-vmark=\"7f8f\">IT之家注：ISO 是光盘镜像文件格式，可用于制作安装 U 盘或直接挂载运行。企业或商业用户可获取 30 天免费试用评估版 ISO，测试期间无需激活。</p><p data-vmark=\"1481\" style=\"text-align: center;\"><img src=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/113.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T10:05:44.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-nu5iew",
+      "title": "消息称苹果智能家居产品宣传物料已送往全球各大 Apple Store，预计 10 月 8 日解禁？",
+      "desc": "<p data-vmark=\"7f57\">IT之家 10 月 1 日消息，据科技媒体 MacRumors 今天报道，全球各地的苹果 Apple Store 本周开始收到一批保密箱，<strong>上面印着“10 月 8 日前禁止开启”贴纸</strong>。据推测，这些箱子里装着苹果智能家居产品的宣传物料，苹果员工会在产品发布前更新门店内标签、宣传海报和产品陈列布局。</p><p style=\"text-align: center;\" data-vmark=\"4503\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6e221",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/148.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T12:49:48.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-mwm27v",
+      "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/system-shock-2-25th-anniversary-remaster-cb94d9\" target=\"_blank\" title=\"《网络奇兵 2：25 周年纪念版重制版》\">《网络奇兵 2：25 周年纪念",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/009/167.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T15:05:16.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-yt1ecd",
+      "title": "越野摩托竞速游戏《MXGP 26》发售，Steam 国区 170 元起",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，官方授权越野摩托竞速模拟游戏《MXGP 26 - The Official Game》今日（2026 年 10 月 1 日）正式发售，登陆 PC (Steam)、PS5 以及 Xbox Series X/S 平台。</p><p style=\"text-align: center;\" data-vmark=\"f88e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/adc82172-6c44-486e-876b-dee1cfbb7bea.png?x-bce",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/009/093.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T08:12:47.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-xh7apy",
@@ -1641,23 +1713,6 @@
       "_score": 6
     },
     {
-      "id": "rss-dqc707",
-      "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:01:22.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-swx10d",
       "title": "惠普推出 GT06 机械键盘：106 全键、三模连接，310 元",
       "desc": "<p data-vmark=\"9f47\">IT之家 9 月 22 日消息，惠普现已推出 GT06 机械键盘，新品采用 106 键全尺寸配列，支持有线、2.4G 和蓝牙三模连接，售价 310 元。</p><p style=\"text-align: center;\" data-vmark=\"ee5e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e95f4f6c-cd23-40a2-93d9-4b7856f70b0e.jpg?x-bce-process=image/format,f_auto\" w=\"942\" h=\"1751\" d",
@@ -2347,111 +2402,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-oztc72",
-      "title": "Epic 喜加二：《心灵警探》《将军对决》游戏免费领",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，<strong>Epic Game Store 本周送出的游戏是《心灵警探》《将军对决》</strong>，下周送出的游戏是《Astrea Six Sided Oracles》《钢铁指挥官》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/mindcop-78e6c1\">《心灵警探》</a>，<a href=\"https://store.epicgames.com/zh-CN/p/shogun-showdown-6183",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/003/863.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T15:00:18.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-qc78eu",
-      "title": "卡普空《识质存在》游戏免费 DLC 上线，新增《洛克人》联动内容",
-      "desc": "<p data-vmark=\"7c95\">IT之家 9 月 17 日消息，卡普空今天宣布《识质存在》游戏迎来免费 DLC，新增《洛克人》联动内容（Steam 商店页：<a target=\"_blank\" href=\"https://store.steampowered.com/app/4093670/PRAGMATA_ROCKMAN/\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4093670/PRAGMATA_ROCKMAN/</span></a>）。</p><p data-vmark",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/838.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T13:40:06.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-qfhzz0",
-      "title": "小鹏 G9L 正式上市：限时优惠价 23.18 万-29.98 万元，定位黄金大五座科技旗舰",
-      "desc": "<p data-vmark=\"292b\">IT之家 9 月 17 日消息，小鹏 G9L 汽车今天（17 日）晚间正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择。</p><h2 data-vmark=\"7768\">超级增程</h2><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fa9a\">1602 四驱 Ultra SE：25.98 万元，限时优惠价 24.98 万元</p></li><li><p data-vmark=\"4fb7\">1602 四驱 Ultra 旗舰版：30.98 万元，限时优惠价 29.98 万元</",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/832.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T13:09:53.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-wcn24i",
-      "title": "华为 512G 阔直板 6299 元新低限地区：京东超级 18 今晚 20:00 开启，整个 9 月就看这波",
-      "desc": "<p data-vmark=\"b3dc\"><strong>京东</strong>“超级 18” S 级大促仅限 9 月 17 日 20 点～ 18 日 24 点，<strong>可领 200-20 元全品类叠加券 + 白条 6 期免息券 + 抽至高 18 元无门槛红包</strong>：<a href=\"https://u.jd.com/46CvQgT\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4aCrGbo\" data-iosurl=\"https://u.jd.com/41CDoQP\" data-androidurl=\"https://u.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "18 元无门槛",
-      "url": "https://www.ithome.com/1/003/786.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T10:27:04.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-h3wdy4",
-      "title": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
-      "desc": "<p data-vmark=\"6cda\">IT之家 9 月 17 日消息，索尼 PSN 港服现已开启新一轮 PS Plus 会员限时优惠，基本、升级、高级档位的会员 12 月方案均有不同程度优惠，<strong>截止日期为 9 月 30 日</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fb38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/537b6073-d697-4af8-85bf-36e3f1d162bd.jpg?x-bce-process=image/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/003/670.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:18:34.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-fpv3y9",
-      "title": "小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 17 日消息，小米澎湃 OS 公告君今日官方发布公告，公布了<strong>小米澎湃 OS 4</strong> 正式版的推送计划，明确了正式版首批推送的开启时间。</p><p data-vmark=\"0001\">小米澎湃 OS 公告君表示，<strong>小米澎湃 OS 4 正式版将于 10 月 15 日开启首批存量机型推送</strong>，并将在后续陆续覆盖更多机型。官方欢迎用户积极升级使用并反馈问题，官方也将持续迭代优化系统体验。</p><p data-vmark=\"0002\">公告同时强调，<strong>小米澎湃 OS 公",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/642.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T08:06:36.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
