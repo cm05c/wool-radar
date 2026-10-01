@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-30T22:37:08.067Z",
+  "updatedAt": "2026-10-01T01:33:48.151Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -143,6 +143,24 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-h85mzc",
+      "title": "特斯拉 Model 3 配置升级：16 英寸中控屏、浅灰色高级内饰，新增交流外供电功能",
+      "desc": "<p data-vmark=\"ee22\">IT之家 10 月 1 日消息，据特斯拉官方消息，Model 3 车型迎来更新：现款在售 Model 3 全系车型升级 16 英寸高清触摸屏，并可选购浅灰色高级内饰；同时，Model 3/Y 全系在售车型上线交流外供电功能。购车层面，2026 年 10 月 31 日（含）前下单 Model 3，可享限时尾款立减 5000 元；叠加相关权益后，Model 3 售价 222,500 元起。</p><p data-vmark=\"a11c\">从配置变化看，Model 3 现款在售车型将重点升级座舱交互硬件：16 英寸高清触摸屏主打更高分辨率与更高刷新率，覆盖导",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/008/974.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T00:56:30.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-uzk9lp",
@@ -2397,24 +2415,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-qv3acj",
-      "title": "三星 One UI 9 正式版推送：Galaxy S26 系列首批升级，Z Fold8 已预装",
-      "desc": "<p data-vmark=\"be45\">IT之家 9 月 17 日消息，三星电子今日宣布正式向更多 Galaxy 设备推送 One UI 9 正式版更新。首批获得更新的机型为 Galaxy S26、S26+ 和 S26 Ultra，后续将扩展至更多设备。</p><p data-vmark=\"3ac8\">IT之家注：One UI 9 此前已随 Galaxy Z Fold8 Ultra、Fold8 和 Flip8 首发搭载。</p><p data-vmark=\"90c8\">除此之外，三星还向 Galaxy A25、A35、A36、A37、A55、 A56、A57、S23、S24、S25、Z Fl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/003/374.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T00:49:52.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
