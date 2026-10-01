@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-01T15:25:31.007Z",
+  "updatedAt": "2026-10-01T20:30:11.567Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -128,22 +128,21 @@
       "_score": 2
     },
     {
-      "id": "rss-pc1cka",
-      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
-      "desc": "<p data-vmark=\"b306\">IT之家 10 月 1 日消息，昨日推送 26H2 更新后，微软在官网公布了 Windows 11 26H2 的 ISO 镜像文件（正式版版本号为 26300.9457，已升级的预览版版本号会更高），用于全新安装、升级、修复或测试。</p><p data-vmark=\"7f8f\">IT之家注：ISO 是光盘镜像文件格式，可用于制作安装 U 盘或直接挂载运行。企业或商业用户可获取 30 天免费试用评估版 ISO，测试期间无需激活。</p><p data-vmark=\"1481\" style=\"text-align: center;\"><img src=\"",
+      "id": "rss-mwm27v",
+      "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/system-shock-2-25th-anniversary-remaster-cb94d9\" target=\"_blank\" title=\"《网络奇兵 2：25 周年纪念版重制版》\">《网络奇兵 2：25 周年纪念",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/113.htm",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/009/167.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-01T10:05:44.000Z",
-      "hot": 212,
+      "publishedAt": "2026-10-01T15:05:16.000Z",
+      "hot": 209,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-nu5iew",
@@ -160,26 +159,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
-      "id": "rss-mwm27v",
-      "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/system-shock-2-25th-anniversary-remaster-cb94d9\" target=\"_blank\" title=\"《网络奇兵 2：25 周年纪念版重制版》\">《网络奇兵 2：25 周年纪念",
+      "id": "rss-pc1cka",
+      "title": "微软发布 Win11 26H2 ISO 下载镜像，支持全新安装与升级",
+      "desc": "<p data-vmark=\"b306\">IT之家 10 月 1 日消息，昨日推送 26H2 更新后，微软在官网公布了 Windows 11 26H2 的 ISO 镜像文件（正式版版本号为 26300.9457，已升级的预览版版本号会更高），用于全新安装、升级、修复或测试。</p><p data-vmark=\"7f8f\">IT之家注：ISO 是光盘镜像文件格式，可用于制作安装 U 盘或直接挂载运行。企业或商业用户可获取 30 天免费试用评估版 ISO，测试期间无需激活。</p><p data-vmark=\"1481\" style=\"text-align: center;\"><img src=\"",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/009/167.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/113.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-01T15:05:16.000Z",
-      "hot": 209,
+      "publishedAt": "2026-10-01T10:05:44.000Z",
+      "hot": 212,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-yt1ecd",
@@ -195,6 +192,23 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-nq8v01",
+      "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
+      "desc": "最近微软正式向全球用户推送 Windows 11 26H2 正式版！大家可以下载升级了。说实话，这几年 Windows 的更新都是不痛不痒，但这次 26H2 终于将“隐藏的新功能”一次性点亮了。\n\n下载最新 Win11 原版安装镜像\n立即获取 Windows 11 激活码\n如果你一直在用 Windows 11 24H2 或 25H2，这次升级只需要下载一个几百 KB 的启…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/win11-26h2-features",
+      "expiresAt": null,
+      "publishedAt": "2026-10-01T18:20:26.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 2,
       "verified": true
@@ -2385,23 +2399,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-oirpsv",
-      "title": "苹果 AirPods 5 耳机今日正式开售：999 元起标配主动降噪，部分地区可享国补",
-      "desc": "<p data-vmark=\"2479\">IT之家 9 月 18 日消息，苹果全新的 AirPods 5 无线耳机今日正式开售，官方定价 999 元起，配备无线充电盒的版本售价 1149 元。</p><p data-vmark=\"eae2\">IT之家注意到，北京、江苏、大连、吉林（收货地址）可享 15% 国家补贴，以旧换新补贴至高 220 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/46Lp4VA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4DLEV7v\" data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/003/873.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-17T16:00:14.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
