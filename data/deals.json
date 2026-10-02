@@ -1,30 +1,13 @@
 {
-  "updatedAt": "2026-10-02T06:11:57.808Z",
+  "updatedAt": "2026-10-02T12:37:17.944Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-f7f37r",
-      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T08:18:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-nq8v01",
       "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
@@ -124,6 +107,77 @@
       "tags": [
         "RSS",
         "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5e8paa",
+      "title": "特斯拉推出 Dog Mode Chew Toy 车载周边：适用宠物场景，20 美元",
+      "desc": "<p data-vmark=\"27de\">IT之家 10 月 2 日消息，特斯拉美国现已在其官方商城上架了一款 Dog Mode Chew Toy（狗狗模式咬咬玩具），售价 20 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 134.3 元人民币）</span>，中国市场尚未上架。</p><p data-vmark=\"83e0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7e9868a6-4721-4f57-94f2-65",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/340.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-02T10:45:03.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-51lfmz",
+      "title": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
+      "desc": "<p data-vmark=\"cf73\">IT之家 10 月 2 日消息，Rivian 宣布为旗下 R2 车型推送 10 月车机系统更新（版本号预计为 2026.35），主要新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能。</p><p data-vmark=\"17dc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/386cc18e-a48e-4eb4-8b18-9929de8a884a.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/338.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-02T10:44:44.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-7cvi69",
+      "title": "Steam 喜加一：地下城 RPG《Endor Awakens：Roguelite DRPG》转付费前免费领",
+      "desc": "<p data-vmark=\"6983\">IT之家 10 月 2 日消息，开发者 Javier Hernández Torres 宣布旗下 &nbsp;Roguelite 地下城 RPG《Endor Awakens：Roguelite DRPG》将于 10 月 8 日起结束免费游玩，转为一次买断制付费游戏，同时移除 Steam 版本中的游戏内购机制。</p><p style=\"text-align: center;\" data-vmark=\"0148\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/29bffb29-6788-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/009/282.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-02T06:34:41.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-f7f37r",
+      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
+      "expiresAt": null,
+      "publishedAt": "2026-09-28T08:18:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
       ],
       "_score": 2
     },
@@ -2448,24 +2502,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-18T23:47:38.000Z",
       "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-sqzoo3",
-      "title": "宝马中国召回 5593 辆进口 S1000RR 摩托车，免费升级软件 + 更换点火锁",
-      "desc": "<p data-vmark=\"ab45\">IT之家 9 月 18 日消息，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》及实施办法要求，向国家市场监督管理总局备案召回计划。</p><p data-vmark=\"9f69\">本次召回编号为 S2026M0118V，涉及 2020 年 10 月 27 日至 2026 年 4 月 7 日期间生产的车辆，共计 5593 辆。宝马（中国）将委托授权经销商处理相关事宜。</p><p data-vmark=\"a540\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/ne",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/098.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-18T07:13:30.000Z",
-      "hot": 215,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
