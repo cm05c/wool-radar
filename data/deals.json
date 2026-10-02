@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:02:04.147Z",
+  "updatedAt": "2026-10-02T22:10:37.558Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,23 +77,6 @@
       "_score": 3
     },
     {
-      "id": "rss-6ifs2f",
-      "title": "VMWare Fusion Pro 26H1u1 - 最新苹果 Mac 免费虚拟机 (支持 M 芯片 / Win11 ARM)",
-      "desc": "使用苹果 Mac 电脑不可避免都会遇到一些软件、硬件只能在 Windows 下使用 (如网银/行业软件/仅能兼容 IE 的网站、无 Mac 驱动的硬件等)，因此在 Mac 上安装 Win 是很有必要的。\n曾经我们可用 BootCamp 安装双系统，但如今只能使用虚拟机安装。VMWare Fusion Pro 26H1 是 Mac 下优秀高性能的虚拟机软件 (同类有 Parallels Desktop)，完美兼容最新的 macOS 和苹果 M 系列芯片，能无需重启，直接在 Mac 下同时运行 Windows 11、Linux 等多款系统……\n「 前往查看原文.... 」异次元还有这些值得一看：最",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/vmware-fusion.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-18T20:00:13.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxcyfb",
       "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
       "desc": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...<a href=\"https://sspai.com/post/115134\" target=\"_blank\">查看全文</a>",
@@ -109,6 +92,40 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-6f2x1h",
+      "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
+      "desc": "<p data-vmark=\"e92b\">IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。</p><p data-vmark=\"8164\">在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，<strong>眼镜会更多结合用户眼前的实际环境进行描述，例如提示“在前方黄色房子处左转”，让语音导航更加自然</strong>。同时官方还为导航新增“骑行”和“公共交通”两种模式。</p><p data-vmark=\"00cb\" styl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/365.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-02T14:01:00.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5zoofd",
+      "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 2 日消息，HKC 旗下“神盾 25Q360B”24.5 英寸电竞显示器现已在京东发售，定价为 2221 元，部分地区国补后低至 1999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4OoTROX\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4goNEaq\" data-iosurl=\"https://u.jd.com/4rofYGM\" data-androidurl=\"https://u.jd.com/4",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/358.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-02T12:51:14.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-5e8paa",
@@ -143,42 +160,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-6f2x1h",
-      "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
-      "desc": "<p data-vmark=\"e92b\">IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。</p><p data-vmark=\"8164\">在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，<strong>眼镜会更多结合用户眼前的实际环境进行描述，例如提示“在前方黄色房子处左转”，让语音导航更加自然</strong>。同时官方还为导航新增“骑行”和“公共交通”两种模式。</p><p data-vmark=\"00cb\" styl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/365.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-02T14:01:00.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-5zoofd",
-      "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 2 日消息，HKC 旗下“神盾 25Q360B”24.5 英寸电竞显示器现已在京东发售，定价为 2221 元，部分地区国补后低至 1999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/4OoTROX\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4goNEaq\" data-iosurl=\"https://u.jd.com/4rofYGM\" data-androidurl=\"https://u.jd.com/4",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/358.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-02T12:51:14.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-7cvi69",
