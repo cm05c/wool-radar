@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-03T01:11:59.647Z",
+  "updatedAt": "2026-10-03T06:34:25.483Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,60 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ini4bq",
+      "title": "自身股价下跌，安森美将收购 Synaptics 的对价调整为 57 亿美元现金",
+      "desc": "<p data-vmark=\"812d\">IT之家 10 月 3 日消息，onsemi（安森美）美国当地时间 1 日宣布，已就修改今年 6 月 25 日公布的合并协议与 Synaptics（新突思）达成一致。</p><p data-vmark=\"daee\"><strong>安森美将以约 57 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 382.72 亿元人民币）</span><strong>的现金</strong><strong>完成该笔交易</strong>，而不是此前公布的 70 亿美元股票，这对应 18.6% 的折让。<",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/410.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T02:43:18.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-iq93aj",
+      "title": "谷歌向 Pixel 11 等手机推送安卓 17 QPR3 Beta 1，修复指纹解锁死机问题",
+      "desc": "<p data-vmark=\"1673\">IT之家 10 月 3 日消息，科技媒体 Android Headline 昨日（10 月 2 日）发布博文，<strong>报道称谷歌面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR3 Beta 1 更新，聚焦提升系统稳定性。</strong></p><p data-vmark=\"8725\">IT之家注：QPR 是指谷歌季度平台发布版本，每三个月推出一次 Android 系统更新，包含安全补丁、漏洞修复及小规模功能优化。QPR3 表示年度第三次季度更新，通常面向 Pixel 设备优先推送测试版。</p><p data-v",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/415.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T03:07:13.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-k71c97",
+      "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
+      "desc": "<p data-vmark=\"a2ce\">IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在<strong>北京时间 2026 年 10 月 5 日 21:00 前</strong>免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（<a href=\"https://www.gog.com/en/game/bounty_train\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://www",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/009/448.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T06:34:11.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-6f2x1h",
@@ -1323,23 +1377,6 @@
       "_score": 2
     },
     {
-      "id": "rss-ek045s",
-      "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/https-capture-for-apple/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T06:06:39.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-mkerdm",
       "title": "特斯拉金秋促销：Model 3 尾款立减 5000 元，Model Y 立减 7000 元",
       "desc": "<p data-vmark=\"3c40\">IT之家 9 月 25 日消息，特斯拉中国今日宣布开启中秋限时促销活动。2026 年 10 月 31 日（含）前下单，Model 3 全系可享尾款立减 5000 元，Model Y 部分车型可享尾款立减 7000 元。</p><p data-vmark=\"0a06\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e78d7a7e-7087-4749-9cb6-6376895bb01d.jpg\" w=\"1440\" h=\"3120\" d",
@@ -2152,23 +2189,6 @@
       "verified": true
     },
     {
-      "id": "rss-75a6by",
-      "title": "iPhone 18 Pro Max独占功能：可将电池容量限制在20Wh 主要用于寄送和维修",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/126951.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T04:57:40.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-eb7dsb",
       "title": "小鹏 Mona M03“海风蓝”、L03“汽水橙”官方改色上线，定制车膜 2990 元起",
       "desc": "<p data-vmark=\"64e2\">IT之家 9 月 20 日消息，小鹏汽车今日宣布，M03「海风蓝」× L03「汽水橙」官方改色全新上线。</p><p style=\"text-align: center;\" data-vmark=\"b224\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/17ebcc75-5035-4148-851a-17f4a57a68e6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"411\" data-mpos=\"2,0\" data-weib",
@@ -2310,150 +2330,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-qivqps",
-      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "desc": "<p data-vmark=\"26e3\">IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1.87 万亿元人民币）</span>负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元<span class=\"exch-money-value\">（现汇率约合 5.75 万亿元人民币）</span>。</p><p data-vmark=\"ecb5\">自由现金流（",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/420.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T03:53:04.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-q6s9nu",
-      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
-      "desc": "<p data-vmark=\"2bdd\">IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，<strong>玩家可以在北京时间 9 月 24 日前领取</strong>，IT之家附游戏地址（<a href=\"https://store.steampowered.com/app/2484180/Deadshot/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/004/419.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T03:45:12.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-po39hk",
-      "title": "传承“十三姨”外观：本田 CB500 Super Four 摩托车新增“经典配色版”，43480 元",
-      "desc": "<p data-vmark=\"b863\">IT之家 9 月 19 日消息，本田摩托车在今天举行的 2026 中国摩博会活动中为旗下 CB500 Super Four 摩托车新增一款“经典配色版”，该版本车型采用红白配色，号称传承“十三姨（CB1300）”经典外观，定价为 43480 元。</p><p style=\"text-align: center;\" data-vmark=\"7c4b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e6b8c55c-05a9-43eb-85f0-3f711bf8c097.png?x-bce-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/406.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T03:06:48.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-q68h2h",
-      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
-      "desc": "<p data-vmark=\"05de\">IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。</p><p data-vmark=\"2d27\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/33c8b1ff-5c63-4d4c-b05e-50c90e3c6f26.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"812",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/418.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T03:40:53.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-pmzoau",
-      "title": "张雪机车首款巡航车 600V 发布：27980 元，标配电子油门和怠速闭缸",
-      "desc": "<p data-vmark=\"2d5b\">IT之家 9 月 19 日消息，在第二十四届中国国际摩托车博览会（2026 中国摩博会）上，张雪机车首款巡航摩托车 600V 正式发布，全国统一指导价 27980 元，提供闪光黑、墨渊蓝两种颜色。</p><p style=\"text-align: center;\" data-vmark=\"f845\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8e423ce8-dd3a-48c9-9d3b-96786a300a99.jpg?x-bce-process=image/format,f_au",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/404.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T03:02:58.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-plcair",
-      "title": "张雪 500F 2027 款摩托车发布：换上电子油门，30580 元",
-      "desc": "<p data-vmark=\"581a\">IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）上，张雪 500F 2027 款摩托车发布。</p><p data-vmark=\"126c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/707e9f88-cc22-477f-9bfb-2476ca5ab8bd.jpg\" w=\"501\" h=\"794\" data-weibo=\"0\" data-mpos=\"2,2\" data-mark",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/401.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T02:46:15.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-f8js7x",
-      "title": "微软推送更新修复 Excel 2016 复制 / 粘贴功能失效问题",
-      "desc": "<p data-vmark=\"548b\">IT之家 9 月 19 日消息，微软更新官方支持文档，称已经于 9 月 16 日面向 Microsoft Excel 2016 等用户，推送 5002665 更新，<strong>修复 KB5002914 更新引入的复制 / 粘贴功能失效问题。</strong></p><p data-vmark=\"7bd0\">在问题表现方面，用户主要反馈无法复制、粘贴或选中 Excel 单元格，部分用户还报告自动填充功能无法使用。</p><p style=\"text-align: center;\" data-vmark=\"7fd2\"><img src=\"https:/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/395.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T02:30:15.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-es1yf3",
-      "title": "Steam 客户端 Preview / Beta 通道推送更新：优化大屏幕模式，新增多项输入功能",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 19 日消息，Valve 现已向 Steam 客户端的 Preview / Beta 测试通道推送了新版本更新，带来多方面功能优化与问题修复。</p><p data-vmark=\"2275\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3f8b41e4-4933-42aa-acf9-fd5697d54faa.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"11",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/386.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T01:40:30.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
