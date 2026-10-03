@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:10:37.558Z",
+  "updatedAt": "2026-10-03T01:11:59.647Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -2453,24 +2453,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-dsbbum",
-      "title": "IT早报 0919：12306 客服回应国庆高铁票涨价；水滴筹服务费上涨至 8% 引争议；智谱就 Zcode 偷传代码事件致歉；华为 Peerium 突破冯诺依曼单机架构...",
-      "desc": "<p data-vmark=\"2cd9\">“IT早报”时间，大家好，现在是 2026 年 9 月 19 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"8018\">1. 12306 客服回应国庆高铁票涨价：日常票价有折扣，节假日有浮动是正常的</h2><p data-vmark=\"0e6a\">9 月 25 日，从重庆北到南京南的 D988 次列车票价是 446 元起，9 月 30 日同车次的票价则涨到了 520 元起。>> <a href=\"https://www.ithome.com/1/004/057.htm\" target=\"_blank\">查看详情</a></p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/363.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-18T23:47:38.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
