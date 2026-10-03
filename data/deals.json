@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-10-03T12:01:28.762Z",
+  "updatedAt": "2026-10-03T16:15:35.649Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-cqbs99",
+      "title": "Gemini 免费版大缩水，10月9号起只剩 Flash-Lite",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/gemini-free-flash-lite/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T07:59:53.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-nq8v01",
       "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
@@ -77,6 +94,74 @@
       "_score": 2
     },
     {
+      "id": "rss-xxw6a7",
+      "title": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
+      "desc": "<p data-vmark=\"e7d8\">IT之家 10 月 3 日消息，模组作者 CircuitLord 宣布为经典 FPS 游戏《泰坦陨落 2》推出一款免费 VR 模组，为游戏加入头部追踪、武器瞄准、机甲武器控制以及手动换弹等功能，玩家可以通过 CircuitLord 制作的 Mod 安装器进行快速安装。</p><p data-vmark=\"045e\">除了头部追踪和 VR 武器瞄准外，玩家还可以利用手部控制器直接操作机甲武器，并使用体感手势动作为部分武器进行换弹，以取得更加沉浸式的效果。</p><p style=\"text-align: center;\" data-vmark=\"bfea",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/529.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T11:02:40.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-xu1m4o",
+      "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
+      "desc": "<p data-vmark=\"cae1\">IT之家 10 月 3 日消息，据央视新闻今日报道，目前正值国庆假期出行高峰，机场客流量大幅攀升，人员密集区域手机信号拥堵、流量消耗加快，成为不少旅客的困扰。但其实像首都机场、大兴机场等不少机场都为旅客提供了免费的 Wi-Fi 服务，那机场的免费 Wi-Fi 如何连接？有哪些注意事项呢？</p><p data-vmark=\"65ac\">按照相关法律规定，公共场所无线网络首次连接需要进行实名认证。为兼顾不同旅客的使用习惯，<strong>首都机场为旅客提供了 4 种便捷认证登录方式：</strong></p><ul class=\" list-paddin",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/522.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T09:59:54.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-mj5v1g",
+      "title": "游戏《战地风云 6》Steam 国区永久降价：268 元起 → 198 元起（叠加折扣到手价 99 元起）",
+      "desc": "<p data-vmark=\"5a24\">IT之家 10 月 3 日消息，《战地风云 6》现已在 Steam 平台迎来价格永久下调，标准版原价 268 元，现永降至 198 元；<strong>官方同时开启 5 折新史低折扣，标准版折后仅需 99 元</strong>。除此之外，本作魅影版也从 468 元降至 398 元，目前 6.5 折后到手价为 258.7 元。</p><p data-vmark=\"3750\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3b2375",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/009/496.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T07:57:13.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-mhih9d",
+      "title": "买二手 CPU 送“封号套餐”：玩家《无畏契约》游戏账号及电脑整机硬件被 Riot 连坐永封",
+      "desc": "<p data-vmark=\"5889\">IT之家 10 月 3 日消息，据 VideoCardz 报道，一名玩家 After-Cartoonist-196 在 Reddit 发帖，透露自己于 9 月 21 日购买了一颗二手 AMD 锐龙 7 5800X3D 处理器，在将处理器安装到电脑后，启动《无畏契约》便遭到封禁。</p><p style=\"text-align: center;\" data-vmark=\"f49d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/31014f0a-661a-457d-8565-40bc4d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/493.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T07:47:58.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-k71c97",
       "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
       "desc": "<p data-vmark=\"a2ce\">IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在<strong>北京时间 2026 年 10 月 5 日 21:00 前</strong>免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（<a href=\"https://www.gog.com/en/game/bounty_train\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://www",
@@ -94,78 +179,6 @@
       "_score": 3
     },
     {
-      "id": "rss-cqbs99",
-      "title": "Gemini 免费版大缩水，10月9号起只剩 Flash-Lite",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/gemini-free-flash-lite/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T07:59:53.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xxw6a7",
-      "title": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
-      "desc": "<p data-vmark=\"e7d8\">IT之家 10 月 3 日消息，模组作者 CircuitLord 宣布为经典 FPS 游戏《泰坦陨落 2》推出一款免费 VR 模组，为游戏加入头部追踪、武器瞄准、机甲武器控制以及手动换弹等功能，玩家可以通过 CircuitLord 制作的 Mod 安装器进行快速安装。</p><p data-vmark=\"045e\">除了头部追踪和 VR 武器瞄准外，玩家还可以利用手部控制器直接操作机甲武器，并使用体感手势动作为部分武器进行换弹，以取得更加沉浸式的效果。</p><p style=\"text-align: center;\" data-vmark=\"bfea",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/529.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T11:02:40.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-xu1m4o",
-      "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
-      "desc": "<p data-vmark=\"cae1\">IT之家 10 月 3 日消息，据央视新闻今日报道，目前正值国庆假期出行高峰，机场客流量大幅攀升，人员密集区域手机信号拥堵、流量消耗加快，成为不少旅客的困扰。但其实像首都机场、大兴机场等不少机场都为旅客提供了免费的 Wi-Fi 服务，那机场的免费 Wi-Fi 如何连接？有哪些注意事项呢？</p><p data-vmark=\"65ac\">按照相关法律规定，公共场所无线网络首次连接需要进行实名认证。为兼顾不同旅客的使用习惯，<strong>首都机场为旅客提供了 4 种便捷认证登录方式：</strong></p><ul class=\" list-paddin",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/522.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T09:59:54.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mj5v1g",
-      "title": "游戏《战地风云 6》Steam 国区永久降价：268 元起 → 198 元起（叠加折扣到手价 99 元起）",
-      "desc": "<p data-vmark=\"5a24\">IT之家 10 月 3 日消息，《战地风云 6》现已在 Steam 平台迎来价格永久下调，标准版原价 268 元，现永降至 198 元；<strong>官方同时开启 5 折新史低折扣，标准版折后仅需 99 元</strong>。除此之外，本作魅影版也从 468 元降至 398 元，目前 6.5 折后到手价为 258.7 元。</p><p data-vmark=\"3750\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3b2375",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/009/496.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T07:57:13.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
       "id": "rss-knj621",
       "title": "民政部：防范非法养老 App 以“民惠通”等为名诈骗",
       "desc": "<p data-vmark=\"61ff\">IT之家 10 月 3 日消息，据民政部官网，近期一些非法养老 App 以“民惠通”等为名实施诈骗。不法分子伪造文件、冒充民政部工作人员，宣称可“发放高龄补贴”等，<strong>要求先交所谓“保险金”“保证金”“激活费”</strong>。</p><p data-vmark=\"e760\">随后，骗局还可能以“签到赚钱”“高额返利”“拉人头返佣”等方式诱导继续充值或投资，最终出现无法提现。图谱把这条链路拆成四步：制造官方感、承诺补贴、要求先付款、用返利推动追加投入。</p><p data-vmark=\"1ff9\">民政部提示，其从未设立或批准设立“民惠",
@@ -181,24 +194,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mhih9d",
-      "title": "买二手 CPU 送“封号套餐”：玩家《无畏契约》游戏账号及电脑整机硬件被 Riot 连坐永封",
-      "desc": "<p data-vmark=\"5889\">IT之家 10 月 3 日消息，据 VideoCardz 报道，一名玩家 After-Cartoonist-196 在 Reddit 发帖，透露自己于 9 月 21 日购买了一颗二手 AMD 锐龙 7 5800X3D 处理器，在将处理器安装到电脑后，启动《无畏契约》便遭到封禁。</p><p style=\"text-align: center;\" data-vmark=\"f49d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/31014f0a-661a-457d-8565-40bc4d",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/493.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T07:47:58.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2153,23 +2148,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-9iiaax",
-      "title": "[限量] 美区PP开通20美元的ChatGPT Plus半价 限新账号/限名额/最多优惠60美元",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "半价",
-      "url": "https://www.landian.news/archives/126956.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-19T13:12:24.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-aftqbt",
