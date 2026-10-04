@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T01:58:57.014Z",
+  "updatedAt": "2026-10-04T08:24:36.169Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,24 +94,6 @@
       "_score": 2
     },
     {
-      "id": "rss-xunhwd",
-      "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
-      "desc": "<p data-vmark=\"01db\">“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"c7a5\">1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型</h2><p data-vmark=\"3e9d\">在 10 月 1 日的发布会上，华为年度旗舰 Mate 90 系列正式发布。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告。结果显示，新机能效提升明显，在部分游戏上已优于第五代骁龙 8 至尊版机型。>> <a ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/594.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T23:51:59.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-ykzk3z",
       "title": "谷歌飘了？从10月9日起免费用户仅可使用Gemini Flash-Lite模型 高阶模型均需开会员",
       "desc": "",
@@ -125,6 +107,59 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-lgqcoi",
+      "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
+      "desc": "<p data-vmark=\"c448\">IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格<strong>（不同授权店价格不一，下列价格仅供参考）</strong>，IT之家整理如下：</p><h3 data-vmark=\"e2cb\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/cd42f011-4a7b-4b08-827b-e529b3604a57.png?x-bce-process=ima",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/009/649.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-04T06:43:39.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-olzy0a",
+      "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127163.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-04T02:21:07.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-xunhwd",
+      "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
+      "desc": "<p data-vmark=\"01db\">“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"c7a5\">1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型</h2><p data-vmark=\"3e9d\">在 10 月 1 日的发布会上，华为年度旗舰 Mate 90 系列正式发布。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告。结果显示，新机能效提升明显，在部分游戏上已优于第五代骁龙 8 至尊版机型。>> <a ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/594.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-03T23:51:59.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
@@ -2308,96 +2343,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-eb7dsb",
-      "title": "小鹏 Mona M03“海风蓝”、L03“汽水橙”官方改色上线，定制车膜 2990 元起",
-      "desc": "<p data-vmark=\"64e2\">IT之家 9 月 20 日消息，小鹏汽车今日宣布，M03「海风蓝」× L03「汽水橙」官方改色全新上线。</p><p style=\"text-align: center;\" data-vmark=\"b224\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/17ebcc75-5035-4148-851a-17f4a57a68e6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"411\" data-mpos=\"2,0\" data-weib",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/827.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-20T07:41:52.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ddnxla",
-      "title": "特斯拉北美推送 FSD v14.3.10 更新：保留自动避险功能，Cybertruck 新增 V2H 车到家供电",
-      "desc": "<p data-vmark=\"dcd3\">IT之家 9 月 20 日消息，特斯拉正在北美推送版本号为 2026.27.10 的车机软件更新，搭载 FSD v14.3.10（监督版）驾驶辅助系统。更新说明保留了自动避险功能，同时新增 Cybertruck 借助 Powerwall 实现车到家供电（Vehicle‑to‑Home）的支持。</p><p style=\"text-align: center;\" data-vmark=\"31ed\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f5be90ee-f70c-4eb7-bbd5",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/808.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-20T06:53:56.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-dawymh",
-      "title": "沃尔沃 S90 汽车被曝“腰斩式”降价，部分门店 22 万全款落地",
-      "desc": "<p data-vmark=\"5593\">IT之家 9 月 20 日消息，据蓝鲸新闻 9 月 19 日报道，沃尔沃汽车官网仍将 S90 的起售价标在 40.69 万元的高位，但走进线下 4S 店，这款中大型豪华旗舰轿车的实际成交价早已跌破 23 万元大关。</p><p data-vmark=\"9adf\">报道称从多家沃尔沃 4S 店了解到，目前 S90 叠加厂家补贴、置换补贴及门店优惠后，线上最低报价为 22.99 万元，<strong>裸车价已来到 20 万出头，部分门店全款落地价甚至可控制在 22 万元以内</strong>，较 40.69 万元的入门指导价降幅逼近 50%，堪称“腰斩式”",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/004/803.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-20T06:36:59.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-2fz8qq",
-      "title": "利奥博德推出全铝合金机械键盘 AKLCHEMIE：三模全配列，1350 元起",
-      "desc": "<p data-vmark=\"c59b\">IT之家 9 月 20 日消息，外设品牌 Leopold（利奥博德）近日在国行渠道上架了机械键盘新品 AKLCHEMIE (FC900ALH)。该型号采用全配列设计，支持三模五设备连接，售价 1350 元起。</p><p data-vmark=\"d2ba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/19f0a9ff-0faf-44ae-a059-adbcc7856dd6.jpg\" w=\"1000\" h=\"400\" data-we",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/785.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-20T06:22:28.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-crnu8y",
-      "title": "阿维塔 06T 猎装骑士版车型发布：双拼配色、双电机后驱，现金权益价 24.69 万元",
-      "desc": "<p data-vmark=\"5f78\">IT之家 9 月 20 日消息，阿维塔 06T 猎装骑士版车型今日正式发布，官方指导价 25.39 万元，<strong>现金权益后价格 24.69 万元</strong>。</p><p data-vmark=\"fa28\">该车限时可享 4000 元现金优惠、3000 元感恩补贴，以及主副驾零重力座椅免费升级等。</p><p style=\"text-align: center;\" data-vmark=\"212a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c940b554-251f",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/004/671.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-20T02:23:21.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7,
       "verified": true
     }
   ]
