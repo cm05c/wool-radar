@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:58:13.924Z",
+  "updatedAt": "2026-10-05T22:36:02.026Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,40 @@
       "_score": 3
     },
     {
+      "id": "rss-99jp62",
+      "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
+      "desc": "<p data-vmark=\"d3ae\">IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。</p><p data-vmark=\"6952\">IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 7600 XT / 7600，<strong>囊括蓝宝石在官网列出的所有 Radeon RX 7000 系列显卡</strong>。蓝宝石未推出 Radeon RX 7400 产品。</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/876.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T13:25:39.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-8awnsb",
+      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
+      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/855.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T09:56:25.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-olzy0a",
       "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
       "desc": "",
@@ -109,42 +143,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-99jp62",
-      "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
-      "desc": "<p data-vmark=\"d3ae\">IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。</p><p data-vmark=\"6952\">IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 7600 XT / 7600，<strong>囊括蓝宝石在官网列出的所有 Radeon RX 7000 系列显卡</strong>。蓝宝石未推出 Radeon RX 7400 产品。</p><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/876.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-05T13:25:39.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-8awnsb",
-      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
-      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/855.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-05T09:56:25.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-lgqcoi",
