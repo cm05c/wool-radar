@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-04T21:56:12.125Z",
+  "updatedAt": "2026-10-05T00:53:53.590Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 16,
     "linkVerified": true
   },
   "items": [
@@ -77,23 +77,6 @@
       "_score": 3
     },
     {
-      "id": "rss-lgqcoi",
-      "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
-      "desc": "<p data-vmark=\"c448\">IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格<strong>（不同授权店价格不一，下列价格仅供参考）</strong>，IT之家整理如下：</p><h3 data-vmark=\"e2cb\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/cd42f011-4a7b-4b08-827b-e529b3604a57.png?x-bce-process=ima",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/009/649.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-04T06:43:39.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-olzy0a",
       "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
       "desc": "",
@@ -124,6 +107,23 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-lgqcoi",
+      "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
+      "desc": "<p data-vmark=\"c448\">IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格<strong>（不同授权店价格不一，下列价格仅供参考）</strong>，IT之家整理如下：</p><h3 data-vmark=\"e2cb\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/cd42f011-4a7b-4b08-827b-e529b3604a57.png?x-bce-process=ima",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/009/649.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-04T06:43:39.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
