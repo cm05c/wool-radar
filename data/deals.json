@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:53:53.590Z",
+  "updatedAt": "2026-10-05T06:59:56.644Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -2305,42 +2305,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-opqbd1",
-      "title": "达音科“首款圈铁 MEMS 混合耳机”PRS6 发售：冰晶纹纯钛金属面板工艺，1680 元",
-      "desc": "<p data-vmark=\"a99d\">IT之家 9 月 21 日消息，达音科“首款圈铁 MEMS 混合耳机”PRS6 现已在京东发售，<strong>定价为 1680 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"92e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/21621f9c-e46f-497e-ae41-f1bd2c9f05f6.png?x-bce-process=image/format,f_auto\" w=\"948\" h=\"1292\" d",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/149.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T05:21:22.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mq9283",
-      "title": "蔚来 ES8 汽车推出「揽月套装」：22 英寸锻造揽月轮圈、曙光金卡钳，选装价格 10,800 元起",
-      "desc": "<p data-vmark=\"c951\">IT之家 9 月 21 日消息，蔚来官方今日宣布，蔚来 ES8 正式推出「揽月套装」，ES8 行政豪华版选装价格 25,800 元，ES8 行政签名版选装价格 10,800 元；<strong>套装包含价值 25,800 元的 22 英寸锻造揽月轮圈，和价值 3,500 元的曙光金卡钳</strong>（套装内免费赠送）。</p><p data-vmark=\"6f98\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/79c44725",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/103.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T03:02:26.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
       "verified": true
     }
   ]
