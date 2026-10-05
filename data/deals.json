@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-05T06:59:56.644Z",
+  "updatedAt": "2026-10-05T15:58:13.924Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-99jp62",
+      "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
+      "desc": "<p data-vmark=\"d3ae\">IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。</p><p data-vmark=\"6952\">IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 7600 XT / 7600，<strong>囊括蓝宝石在官网列出的所有 Radeon RX 7000 系列显卡</strong>。蓝宝石未推出 Radeon RX 7400 产品。</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/876.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T13:25:39.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-8awnsb",
+      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
+      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/855.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T09:56:25.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-lgqcoi",
@@ -2203,40 +2239,6 @@
       "verified": true
     },
     {
-      "id": "rss-x974v",
-      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
-      "desc": "<p data-vmark=\"945a\">IT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。</p><p style=\"text-align: center;\" data-vmark=\"8e56\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/475.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T15:07:02.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-10063o",
-      "title": "居然之家限时购：iPhone 18 Pro 天猫 9799 元 12 期免息",
-      "desc": "<p data-vmark=\"a99d\">iPhone 18 Pro 天猫“Apple 产品智能家居专营店”今日可叠加大额淘金币补贴，实付 9799 元起 +12 期免息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d498\">点击下方卡片领券后 → 点击<strong>宝贝右上角“<span class=\"font-color-red\">…</span>”</strong>→ 点击弹出页面<strong>右下角“<span class=\"font-color-orangered\">淘金币</span>”</strong>下单即",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/470.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T14:39:56.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-aftqbt",
       "title": "Steam 喜加一：休闲合成类游戏《Sputnika Game》转付费前免费领",
       "desc": "<p data-vmark=\"f9cd\">IT之家 9 月 22 日消息，独立开发者 egunan 宣布旗下《Sputnika Game》即将从免费游戏转为售价 2.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 20 元人民币）</span>的付费作品。玩家只需在 9 月 23 日前将游戏添加至 Steam 游戏库，之后仍可免费游玩，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2730270/Sputnika_Game/\" target=\"_blank\"><span class",
@@ -2252,59 +2254,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-iio6ov",
-      "title": "新增北京大连：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
-      "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元，新耳机折合仅需 699~749 元好价：</p><dir><a contenteditable=\"false\" href=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/310.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T08:28:52.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-uow7lo",
-      "title": "一汽丰田 RAV4 荣放探野版上市，限时权益价 14.40 万元",
-      "desc": "<p data-vmark=\"4a1a\">IT之家 9 月 21 日消息，一汽丰田今日宣布，荣放探野版正式上市。官方指导价 17.78 万元，<strong>限时权益价 14.40 万元</strong>。</p><p data-vmark=\"7b90\">新车推出选装优惠，原价 3560 元的聆境之声定制 JBL 音响升级选装包，优惠后为 2700 元。</p><p style=\"text-align: center;\" data-vmark=\"ec7e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/721649da-c120",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/269.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T07:46:59.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-tu3qdg",
-      "title": "AI 帮银行省钱：法国兴业银行预计最多可省下 6 亿欧元成本",
-      "desc": "<p data-vmark=\"2f1f\">IT之家 9 月 21 日消息，据彭博社报道，法国兴业银行（Societe Generale SA）预测，人工智能应用范围不断扩大，将为该行的降本工作带来可观贡献。</p><p style=\"text-align: center;\" data-vmark=\"8ef7\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/283.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T08:04:38.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
