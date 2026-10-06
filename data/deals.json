@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-05T22:36:02.026Z",
+  "updatedAt": "2026-10-06T02:30:40.815Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -77,40 +77,6 @@
       "_score": 3
     },
     {
-      "id": "rss-99jp62",
-      "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
-      "desc": "<p data-vmark=\"d3ae\">IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。</p><p data-vmark=\"6952\">IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 7600 XT / 7600，<strong>囊括蓝宝石在官网列出的所有 Radeon RX 7000 系列显卡</strong>。蓝宝石未推出 Radeon RX 7400 产品。</p><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/876.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-05T13:25:39.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-8awnsb",
-      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
-      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/855.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-05T09:56:25.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-olzy0a",
       "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
       "desc": "",
@@ -143,6 +109,58 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-lmd977",
+      "title": "时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件",
+      "desc": "<p data-vmark=\"3c33\">IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，报道称<strong>苹果面向 USB-C 转 MagSafe 3 连接线（2 米），推送 3.2.0 版本固件，系自 2023 年 2 月以来首次对该线缆推送固件。</strong></p><p data-vmark=\"50e8\">IT之家附上官方对这款充电线（<a href=\"https://apple.pvxt.net/c/1255290/435400/7639?u=https%3a%2f%2fwww.apple.com.cn%2fshop%2fpro",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/929.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-06T00:13:14.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-99jp62",
+      "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
+      "desc": "<p data-vmark=\"d3ae\">IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。</p><p data-vmark=\"6952\">IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 7600 XT / 7600，<strong>囊括蓝宝石在官网列出的所有 Radeon RX 7000 系列显卡</strong>。蓝宝石未推出 Radeon RX 7400 产品。</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/876.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T13:25:39.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-8awnsb",
+      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
+      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/009/855.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-05T09:56:25.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-lgqcoi",
@@ -1812,23 +1830,6 @@
       "verified": true
     },
     {
-      "id": "rss-kxdg78",
-      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
-      "desc": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...<a href=\"https://sspai.com/post/114840\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "0元",
-      "url": "https://sspai.com/post/114840",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T00:09:01.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-iky0n1",
       "title": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
       "desc": "<p data-vmark=\"7297\">IT之家 9 月 24 日消息，科技媒体 AppleInsider 昨日（9 月 23 日）发布博文，报道称苹果公司面向 Apple Watch Series 12 和 Apple Watch Ultra 4 智能手表，<strong>紧急推送 watchOS 27.0.1 更新（24R365），修复随机重启故障。</strong></p><p data-vmark=\"bd0c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d75",
@@ -1845,23 +1846,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-h4srce",
-      "title": "软银集团启动110亿美元债券发行计划 为10月投资OpenAI筹集资金",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127017.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:00:05.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-qfseu4",
@@ -2162,96 +2146,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-da3goz",
-      "title": "五羊本田 NWZ150 摩托车发布：首搭 WHEV 轻混新技术，19990 元",
-      "desc": "<p data-vmark=\"4de5\">IT之家 9 月 22 日消息，五羊本田 2026 秋季新品发布会于 9 月 21 日在重庆国际博览中心举行，150cc 旗舰车型 NWZ150 正式发布。</p><p data-vmark=\"6102\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9e3c0aae-f2d6-4ee5-9212-143e35e825ee.jpg?x-bce-process=image/format,f_auto\" w=\"832\" h=\"1282\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/565.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T02:11:10.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-bwlzah",
-      "title": "加拿大不列颠哥伦比亚省正式就涉 9 人死亡枪击案不作为行为起诉 OpenAI",
-      "desc": "<p data-vmark=\"4c97\">IT之家 9 月 22 日消息，加拿大不列颠哥伦比亚省（卑诗省）当地时间 21 日正式在美国加利福尼亚州起诉 OpenAI，<strong>指控这家人工智能企业在加拿大历史上最为严重的枪击案之一中存在不作为行为</strong>，未能及时向加拿大警方提交风险信息。</p><p data-vmark=\"bcc6\">不列颠哥伦比亚省 Tumbler Ridge 在今年 2 月 10 日发生了一起枪击事件，青少年 Jesse Van Rootselaar 在杀害 5 名学生、1 名教师、其母、其同母异父弟弟后自杀身亡。</p><p data-vmark=\"0",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/538.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:53:43.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bfkcwa",
-      "title": "小鹏汽车第二代 VLA 全新版本 XOS 6.3.0 开启推送，号称从 3D 空间识别跃迁至 4D 时空理解",
-      "desc": "<p data-vmark=\"de1c\">IT之家 9 月 22 日消息，小鹏汽车官方今日宣布，<strong>第二代 VLA 全新版本 XOS 6.3.0 正式开启推送</strong>。官方宣称：</p><blockquote><p data-vmark=\"12b6\">全新版本，全面升级。从 3D 空间识别跃迁至 4D 时空理解，凭借更强的时序记忆、轨迹预判与决策响应能力，实现看得更远、想得更深、反应更快、开得更稳。</p></blockquote><p style=\"text-align: center;\" data-vmark=\"2046\"><img src=\"https://img.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/528.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:12:47.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bs7mjl",
-      "title": "索尼推出女星 Lisa 限量款 DualSense 手柄控制器及 PlayStation 联名周边，10 月 30 日正式发售",
-      "desc": "<p data-vmark=\"0107\">IT之家 9 月 22 日消息，索尼 SIE 昨晚宣布推出与全球顶流巨星 Lisa（拉莉莎 · 玛诺班，泰国籍，担任 Blackpink 主舞及 Rapper）合作打造的限量版 DualSense 无线控制器。</p><p data-vmark=\"216e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/13f82510-27fb-46e2-938e-11bc729f67b1.png\" w=\"898\" h=\"1038\" data-m",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/530.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T01:15:48.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-aftqbt",
-      "title": "Steam 喜加一：休闲合成类游戏《Sputnika Game》转付费前免费领",
-      "desc": "<p data-vmark=\"f9cd\">IT之家 9 月 22 日消息，独立开发者 egunan 宣布旗下《Sputnika Game》即将从免费游戏转为售价 2.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 20 元人民币）</span>的付费作品。玩家只需在 9 月 23 日前将游戏添加至 Steam 游戏库，之后仍可免费游玩，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2730270/Sputnika_Game/\" target=\"_blank\"><span class",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/005/505.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-21T23:43:14.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
       "verified": true
     }
   ]
