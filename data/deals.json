@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T16:15:55.777Z",
+  "updatedAt": "2026-10-06T21:13:43.748Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -41,6 +41,23 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-qvl3fh",
+      "title": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
+      "desc": "<p data-vmark=\"0ad4\">IT之家 10 月 6 日消息，任天堂现已在 eShop 平台推出两款 Switch 游戏《你好，碧姬公主！》（Hello, Peach!）《你好，路易吉！》（Hello, Luigi!），面向儿童用户。</p><p style=\"text-align: center;\" data-vmark=\"ef5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b2020891-8b80-46b1-a306-87b6817c6992.jpg?x-bce-process=image/format",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/103.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-06T13:24:11.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-cml1tk",
@@ -94,21 +111,21 @@
       "_score": 2
     },
     {
-      "id": "rss-qvl3fh",
-      "title": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
-      "desc": "<p data-vmark=\"0ad4\">IT之家 10 月 6 日消息，任天堂现已在 eShop 平台推出两款 Switch 游戏《你好，碧姬公主！》（Hello, Peach!）《你好，路易吉！》（Hello, Luigi!），面向儿童用户。</p><p style=\"text-align: center;\" data-vmark=\"ef5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b2020891-8b80-46b1-a306-87b6817c6992.jpg?x-bce-process=image/format",
-      "channel": "IT之家",
-      "category": "资讯",
+      "id": "rss-xoyskq",
+      "title": "闲置电脑别吃灰！TinyPlay 秒变客厅电视盒子 (开源免费/投屏/手机当遥控器)",
+      "desc": "家里有台吃灰闲置的 Windows 笔记本、NUC、迷你主机或者 Mac mini 吗？放着也是浪费，不如通过 TinyPlay 让它们重新上岗，一秒变成一台客厅电视盒子用来看片或投屏吧。\n市面上大多数电视盒子都是安卓 Android 系统，省心是省心，但始终没有电脑端播放器那么强大，比如要连接家里的 NAS 播放 HDR / 杜比视界等高清原盘片源、或看自定义直播源的时候，各种限制就来了。用电脑接电视倒是自由，但痛点是在客厅用键盘鼠标，体验非常糟糕……\n「 前往查看原文.... 」异次元还有这些值得一看：VidHub 追剧看片利器！自动生成精美影视库 / 聚合播放网盘视频资源 (HDR 杜比",
+      "channel": "异次元",
+      "category": "白嫖",
       "value": "",
-      "url": "https://www.ithome.com/1/010/103.htm",
+      "url": "https://www.iplaysoft.com/tinyplay.html",
       "expiresAt": null,
-      "publishedAt": "2026-10-06T13:24:11.000Z",
-      "hot": 213,
+      "publishedAt": "2026-10-06T17:32:31.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
-        "IT之家·资讯线报"
+        "异次元软件·限免羊毛"
       ],
-      "_score": 2,
+      "_score": 3,
       "verified": true
     },
     {
@@ -2025,23 +2042,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-lu98sd",
-      "title": "高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电",
-      "desc": "<p data-vmark=\"8902\">IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，IT之家带来前方现场报道，<strong>高通宣布将会向骁龙芯片下放 HBC 技术。</strong></p><p data-vmark=\"021e\">IT之家注：HBC 全称为 High Bandwidth Compute，直译为“高带宽计算”，于 2026 年 6 月召开的投资者日上公开，最初面向数据中心产品，在本次活动中宣布未来将会应用于骁龙芯片。</p><p style=\"text-align: center;",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/003.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T19:56:20.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-ktytmj",
