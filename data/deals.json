@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-06T09:24:44.479Z",
+  "updatedAt": "2026-10-06T16:15:55.777Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -43,6 +43,23 @@
       "_score": 3
     },
     {
+      "id": "rss-cml1tk",
+      "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
+      "desc": "<p data-vmark=\"eb23\">IT之家 10 月 6 日消息，据 The Information 报道，Meta 与微软已要求员工减少使用 Anthropic 旗下的 AI 模型 Claude 以削减成本，并要求员工更多使用自研 AI 工具。</p><p data-vmark=\"632e\">据悉，微软高层在今年早些时候曾预计，公司内部使用 Anthropic AI 的年支出将至少达到 10 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 67.14 亿元人民币）</span>。随后，微软要求员工减少对 Claude 的依赖、多使用自研",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/010.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-06T08:18:26.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-olzy0a",
       "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
       "desc": "",
@@ -77,16 +94,16 @@
       "_score": 2
     },
     {
-      "id": "rss-cml1tk",
-      "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
-      "desc": "<p data-vmark=\"eb23\">IT之家 10 月 6 日消息，据 The Information 报道，Meta 与微软已要求员工减少使用 Anthropic 旗下的 AI 模型 Claude 以削减成本，并要求员工更多使用自研 AI 工具。</p><p data-vmark=\"632e\">据悉，微软高层在今年早些时候曾预计，公司内部使用 Anthropic AI 的年支出将至少达到 10 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 67.14 亿元人民币）</span>。随后，微软要求员工减少对 Claude 的依赖、多使用自研",
+      "id": "rss-qvl3fh",
+      "title": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
+      "desc": "<p data-vmark=\"0ad4\">IT之家 10 月 6 日消息，任天堂现已在 eShop 平台推出两款 Switch 游戏《你好，碧姬公主！》（Hello, Peach!）《你好，路易吉！》（Hello, Luigi!），面向儿童用户。</p><p style=\"text-align: center;\" data-vmark=\"ef5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b2020891-8b80-46b1-a306-87b6817c6992.jpg?x-bce-process=image/format",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/010/010.htm",
+      "url": "https://www.ithome.com/1/010/103.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-06T08:18:26.000Z",
-      "hot": 199,
+      "publishedAt": "2026-10-06T13:24:11.000Z",
+      "hot": 213,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -2079,57 +2096,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-1dys83",
-      "title": "Meta 股价累计上涨超 20%，华尔街分析师看好智能体 Muse",
-      "desc": "<p data-vmark=\"1fca\">IT之家 9 月 22 日消息，据路透社今天（22 日）晚间报道，华尔街开始看好 Meta，投资者押注其新推出的 AI 智能体 Muse 有望为其开辟新的收入来源，并改变 Meta 在 AI 领域的商业化前景。</p><p data-vmark=\"19ec\">9 月 8 日上线的 Muse 是一款 AI 助手，可以代替用户发送电子邮件、预订旅行，还能完成出售汽车等交易。基础版本免费，针对使用需求更高的用户，Meta 提供每月 20 美元或 100 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 134.2 元",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/972.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T14:11:24.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-1dezmq",
-      "title": "iPhone 17 Pro 低至 7459 元起，京东 iPhone 18 Pro 系列换新补贴 800 元",
-      "desc": "<p data-vmark=\"2d2c\">京东将在明天（9 月 23 日）开启 iPhone 新品狂促，以旧换新额外补贴 800 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4a3xZwm\" target=\"_blank\" data-wapurl=\"https://u.jd.com/4g3UBNp\" data-iosurl=\"https://u.jd.com/4a3mOpL\" data-androidurl=\"https://u.jd.com/4r3FceV\" data-hosnexturl=\"https://u.jd.com/4r3xQI3\" data-h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/005/971.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T14:02:49.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6
-    },
-    {
-      "id": "rss-ery8z",
-      "title": "CDPR 给 XBOX 玩家送福利：《巫师 3：重制版》将加入 Play Anywhere",
-      "desc": "<p data-vmark=\"04bc\">IT之家 9 月 22 日消息，据外媒 VGC 今天（22 日）晚间报道，CD Projekt Red 确认，《巫师 3：狂猎-重制版》还将为 XBOX 玩家带来一项额外福利。除了免费升级至重制版外，游戏还将<strong>加入 XBOX Play Anywhere</strong>。</p><p data-vmark=\"cc74\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9adf554b-b110-419e-82de-5fb",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/005/950.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-22T12:51:34.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6
     }
   ]
 }
