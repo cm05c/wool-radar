@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-07T20:09:02.109Z",
+  "updatedAt": "2026-10-08T00:11:25.378Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 17,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -60,16 +60,16 @@
       "_score": 3
     },
     {
-      "id": "rss-rmlkix",
-      "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
-      "desc": "<p data-vmark=\"0b8c\">IT之家 10 月 7 日消息，发行商 Focus Entertainment 近日宣布，《战锤 40K：星际战士 2》游戏免费周年庆更新现已推出，本次更新带来衍生全新围城模式、全新成长机制、武器、护甲，以及第三赛季通行证的首批两款 DLC。</p><p style=\"text-align: center;\" data-vmark=\"295e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e4f649fe-9180-4e13-ae3b-9ef3e826a5c1.jpg?x-bce-p",
+      "id": "rss-ettzab",
+      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
+      "desc": "<p data-vmark=\"c65f\">IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时<strong>最多可享受 45% 的折扣</strong>。</p><p data-vmark=\"a8e6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e99758de-3c40-4293-b2b1-f009fc",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/010/240.htm",
+      "url": "https://www.ithome.com/1/010/301.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-07T09:10:15.000Z",
-      "hot": 214,
+      "publishedAt": "2026-10-07T15:25:37.000Z",
+      "hot": 201,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -111,22 +111,57 @@
       "_score": 2
     },
     {
-      "id": "rss-ettzab",
-      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
-      "desc": "<p data-vmark=\"c65f\">IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时<strong>最多可享受 45% 的折扣</strong>。</p><p data-vmark=\"a8e6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e99758de-3c40-4293-b2b1-f009fc",
+      "id": "rss-dchxqa",
+      "title": "微软 Win11 搜索里程碑式升级：内联操作支持改深色模式，控制手机发送短信等",
+      "desc": "<p data-vmark=\"94f3\">IT之家 10 月 8 日消息，微软昨日（10 月 7 日）发布博文，邀请 Windows Insider 项目成员，<a target=\"_blank\" href=\"https://www.ithome.com/1/010/317.htm\">在 Windows 11 最新预览版中</a>，体验基于 WinUI 3 重构的全新 Windows 搜索体验。</p><p data-vmark=\"02d4\">定位方面，微软表示本次重构 Windows 搜索体验，带来“从搜索到执行”的里程碑式升级，是推动现代化 Windows 核心体验战略的关键一环。早期测试",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/010/301.htm",
+      "url": "https://www.ithome.com/1/010/335.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-07T15:25:37.000Z",
-      "hot": 201,
+      "publishedAt": "2026-10-07T22:35:09.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-de5bid",
+      "title": "微软 Win10/Win11 新版 Outlook 本月将上线自动拼写检查，发送前自动校对",
+      "desc": "<p data-vmark=\"3c52\">IT之家 10 月 8 日消息，科技媒体 NeoWin 昨日（10 月 7 日）发布博文，报道称微软计划 10 月开始，<strong>面向新版 Outlook（Windows 版与网页版）推出自动拼写检查功能，用户可在发送前自动完成拼写校对。</strong></p><p data-vmark=\"d598\">IT之家援引博文介绍，用户可在设置中开启“发送前自动检查拼写”，启用后系统将在每次发送邮件前自动执行拼写校对。该功能依赖 Microsoft Editor（微软编辑器）能力，并纳入 Office 互联体验体系，需保持联网与相关权限开启。</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/332.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-07T22:26:08.000Z",
+      "hot": 200,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-rmlkix",
+      "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
+      "desc": "<p data-vmark=\"0b8c\">IT之家 10 月 7 日消息，发行商 Focus Entertainment 近日宣布，《战锤 40K：星际战士 2》游戏免费周年庆更新现已推出，本次更新带来衍生全新围城模式、全新成长机制、武器、护甲，以及第三赛季通行证的首批两款 DLC。</p><p style=\"text-align: center;\" data-vmark=\"295e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e4f649fe-9180-4e13-ae3b-9ef3e826a5c1.jpg?x-bce-p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/240.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-07T09:10:15.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-tfhajj",
@@ -1907,24 +1942,6 @@
       "url": "https://www.ithome.com/1/006/695.htm",
       "expiresAt": null,
       "publishedAt": "2026-09-24T03:45:30.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-iky0n1",
-      "title": "苹果推送 watchOS 27.0.1 更新：修复 Apple Watch Series 12/Ultra 4 随机重启故障",
-      "desc": "<p data-vmark=\"7297\">IT之家 9 月 24 日消息，科技媒体 AppleInsider 昨日（9 月 23 日）发布博文，报道称苹果公司面向 Apple Watch Series 12 和 Apple Watch Ultra 4 智能手表，<strong>紧急推送 watchOS 27.0.1 更新（24R365），修复随机重启故障。</strong></p><p data-vmark=\"bd0c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d75",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/520.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-23T23:21:13.000Z",
       "hot": 205,
       "tags": [
         "RSS",
