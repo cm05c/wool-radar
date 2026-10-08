@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-08T13:23:08.819Z",
+  "updatedAt": "2026-10-08T19:25:43.485Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 16,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,96 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-2c9dd8",
+      "title": "Scrcpy 5 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)",
+      "desc": "如果想在电脑上使用 Android 应用/玩游戏，除了用安卓模拟器、MuMu、BlueStack 等模拟器跑安卓系统外，也可借助类似 Anlink 或品牌提供的工具将手机画面投屏到电脑上显示和控制。\n并非所有品牌都提供投屏功能，Scrcpy 正是一款开源免费“通用”且功能却更强大的安卓手机屏幕画面投屏+控制软件！它跨平台支持 Win、Mac、Linux，可通过 USB 数据线 (或 WiFi) 连接，将整个手机系统或指定某个 APP 的画面投屏到电脑上显示，并使用键盘鼠标远程控制手机……\n「 前往查看原文.... 」异次元还有这些值得一看：Escrcpy - 免费开源！电脑控制安卓手机的投屏工",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/scrcpy.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T18:50:38.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-pltofu",
+      "title": "微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra",
+      "desc": "<p data-vmark=\"e580\">IT之家 10 月 8 日消息，微软今天在美国和加拿大官方商城推出一项限时优惠，消费者购买 Surface Laptop Ultra 时，如果选择将手上的苹果 MacBook Pro 置换掉，那么将获得最高 1,000 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,712 元人民币）</span>补贴。</p><p style=\"text-align: center;\" data-vmark=\"255f\"><img src=\"https://img.ithome.com/newsuploadfiles/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/739.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T15:36:48.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-po0uta",
+      "title": "Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 8 日消息，<strong>Epic 本周送出的游戏是《熊视眈眈》和《愿景之城》</strong>，下周送出的游戏是《Bad Cheese》以及《Agent A - 伪装游戏》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/out-of-sight-b96ca8\" target=\"_blank\" title=\"《熊视眈眈 (Out of Sight)》\">《熊视眈眈 (Out of Sight)》</a>，<a href=\"htt",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/010/735.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T15:05:25.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-pnh27x",
+      "title": "华为推送鸿蒙 HarmonyOS 7.0.0.109 新补丁包，实装多设备互助通信共享功能",
+      "desc": "<p data-vmark=\"83f1\">IT之家 10 月 8 日消息，华为今日面向 Mate 80 系列等机型，推送了鸿蒙 HarmonyOS 7.0.0.109 版本最新补丁包，包体大小约 206.99MB，优化了部分场景的使用体验。</p><p data-vmark=\"de17\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f48ffef9-ea36-4255-a431-aa40d882c856.jpg\" w=\"1316\" h=\"2577\" data-weibo",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/736.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T15:07:52.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-qmnw71",
+      "title": "谷歌为 Pixel 手机开发新人脸解锁算法，改善暗光环境解锁体验",
+      "desc": "<p data-vmark=\"8535\">IT之家 10 月 8 日消息，据科技媒体 Android Headline 今天报道，谷歌似乎在为 Pixel 系列手机开发“Face Active Illumination”功能，可利用屏幕发出的光照亮人脸，改善暗光环境下的人脸解锁体验。</p><p style=\"text-align: center;\" data-vmark=\"9f77\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cbbd4bc7-787d-4e8f-b9bf-fec384fb5015.png?x-bce-p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/714.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T14:08:55.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-umhqkd",
@@ -1792,57 +1882,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-l6dhdr",
-      "title": "R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体",
-      "desc": "<p data-vmark=\"9d5d\">IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，<strong>售价 400 美元</strong><span class=\"exch-money-value\"><strong>（IT之家注：现汇率约合 2,689 元人民币</strong>）。</span></p><p style=\"text-align: center;\" data-vmark=\"fa5a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5a928434-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/042.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T15:34:22.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-krj1d0",
-      "title": "Epic 喜加二：《Astrea Six Sided Oracles》《钢铁指挥官》游戏免费领",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 24 日消息，Epic 本周送出的游戏是《Astrea Six Sided Oracles》和《钢铁指挥官》，下周送出的游戏是《System Shock 2: 25th Anniversary Remaster》和《深埋之星》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/astrea-six-sided-oracles-33c949\">《Astrea Six Sided Oracles》</a>，<a href=\"https://",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/007/036.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T15:05:22.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-kpvnkx",
-      "title": "华为鸿蒙 HarmonyOS 7.0.0.109 SP6 版本开启推送，新增智能识别信息内容等功能",
-      "desc": "<p data-vmark=\"8a33\">IT之家 9 月 24 日消息，华为鸿蒙 <strong>HarmonyOS 7.0.0.109 SP6</strong> 版本今日开启推送，首批面向 Mate 80 系列、Pura 90 系列、nova 16 系列等机型，系统包大小约 702.73MB。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。</p><p style=\"text-align: center;\" data-vmark=\"e7f6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/3/b7e3bde2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/033.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T14:51:41.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-mpcwpv",
