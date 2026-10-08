@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-08T00:11:25.378Z",
+  "updatedAt": "2026-10-08T06:05:22.249Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 18,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -60,23 +60,6 @@
       "_score": 3
     },
     {
-      "id": "rss-ettzab",
-      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
-      "desc": "<p data-vmark=\"c65f\">IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时<strong>最多可享受 45% 的折扣</strong>。</p><p data-vmark=\"a8e6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e99758de-3c40-4293-b2b1-f009fc",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/301.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-07T15:25:37.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-olzy0a",
       "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
       "desc": "",
@@ -109,6 +92,59 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-1v559e",
+      "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 8 日消息，经典动作 Roguelike 续作《霓虹深渊 2》今日正式发售，同步登陆 Steam、PS5、Xbox Series X|S、微软商店及任天堂 Switch 平台（系列首次登陆 PS5 和 Switch），首发加入 XGP，支持中文；手游同日在 TapTap 开启公测。</p><p data-vmark=\"1e24\">本作由 Veewo Games 开发并联合 Kepler Ghost 发行，Steam 国区原价 58 元，首发特惠 46.40 元。手游采用<strong>免费下载、付费解锁</strong>的买断制，与",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/010/449.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T04:13:08.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-ayq15y",
+      "title": "AMD 向 \"RDNA 3/4\" 独立显卡推送支持 ROCm 10.1 的驱动程序",
+      "desc": "<p data-vmark=\"fbf1\">IT之家 10 月 8 日消息，AMD 当地时间本月 5 日向 Radeon RX 9000 系列、Radeon RX 7900 / 7800 / 7700 / 7600 系列、Radeon AI PRO R9700 显卡提供了新版 AMD Software: Adrenalin Edition。</p><p data-vmark=\"ccba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/504f21b6-637d-454d-a",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/386.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-08T01:42:42.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ettzab",
+      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
+      "desc": "<p data-vmark=\"c65f\">IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时<strong>最多可享受 45% 的折扣</strong>。</p><p data-vmark=\"a8e6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e99758de-3c40-4293-b2b1-f009fc",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/010/301.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-07T15:25:37.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-dchxqa",
@@ -1229,23 +1265,6 @@
       "verified": true
     },
     {
-      "id": "rss-ojvh0m",
-      "title": "业界知名币圈交易所BitMEX宣布关停 所有合约仓位被强平 但用户可以继续提现",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127082.html",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T01:15:41.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-78yag0",
       "title": "火狐 Firefox 157 稳定版发布：重塑视觉交互、视频通话更省电",
       "desc": "<p data-vmark=\"d0d2\">IT之家 9 月 29 日消息，Mozilla 昨日（9 月 28 日）推出火狐 Firefox 浏览器 157 稳定版，整合内部代号 Project Nova 的视觉更新，<strong>称其为该浏览器多年来最大幅度界面改版。</strong></p><p data-vmark=\"567b\">界面上，Firefox 157 稳定版统一调整标签页、工具栏、菜单、面板、图标及设置界面，重点减少界面中的视觉堆叠，让浏览器整体呈现更加简洁、柔和的观感。</p><p style=\"text-align: center;\" data-vmark=\"20c1\"><",
@@ -1912,42 +1931,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-asecee",
-      "title": "《剑星》任天堂 Switch 2 免费试玩版已上线，正式版将加入帧生成开关",
-      "desc": "<p data-vmark=\"8c02\">IT之家 9 月 24 日消息，Shift Up 已于 9 月 20 日在全球推出《剑星 完全版》的 Nintendo Switch 2 免费试玩版，玩家可在 11 月 5 日正式发售前体验游戏。</p><p style=\"text-align: center;\" data-vmark=\"4963\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/590e1f43-0498-4f36-82b9-9150bf0fe748.jpg\" w=\"1440\" h=\"809\" data-weibo=\"0",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/721.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T05:24:21.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-iheou",
-      "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
-      "desc": "<p data-vmark=\"2e9e\">IT之家 9 月 24 日消息，华为今日官宣小艺 Work 正式上线，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等场景，上应用市场更新<span class=\"surl-text\">小艺</span> App，解锁小艺 Work 全新 AI 工作方式。<strong>首次使用 31 天限时免费享 1000 AI 点</strong>。</p><p style=\"text-align: center;\" data-vmark=\"239f\"><img src=\"https://img.ithome.com/newsuploadfil",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/006/695.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-24T03:45:30.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
