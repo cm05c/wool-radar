@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-09T13:11:30.747Z",
+  "updatedAt": "2026-10-09T18:49:27.735Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 18,
     "linkVerified": true
   },
   "items": [
@@ -60,6 +60,40 @@
       "_score": 2
     },
     {
+      "id": "rss-eepg0c",
+      "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
+      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d558\">部分城市立减 150 元 + 支持 10% 国补，折后 1034 元。</p></li><li><p data-vmark=\"b36d\">部分城市立减 150 元 + 支持 15% 国补，折后 976.8 元",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/011/071.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T09:29:29.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ebeog6",
+      "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
+      "desc": "<p data-vmark=\"e078\">IT之家 10 月 9 日消息，懂车帝 10 月 8 日发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。</p><p data-vmark=\"4fd1\"><a href=\"https://www.ithome.com/1/010/703.htm\" target=\"_blank\">尊界汽车官方 10 月 8 日晚发布情况说明</a>，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，<strong>并为已交付用户提供免费升级选择</s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/077.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T09:51:34.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-aena6g",
       "title": "A社推出免费的开源项目扫描器 为符合条件的开源项目免费提供定期漏洞扫描",
       "desc": "",
@@ -77,39 +111,21 @@
       "_score": 2
     },
     {
-      "id": "rss-eepg0c",
-      "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
-      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d558\">部分城市立减 150 元 + 支持 10% 国补，折后 1034 元。</p></li><li><p data-vmark=\"b36d\">部分城市立减 150 元 + 支持 15% 国补，折后 976.8 元",
+      "id": "rss-208i74",
+      "title": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 9 日消息，由 SpaceRocket Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2254990/Permafrost/\"><span class=\"link-text",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/071.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/127.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-09T09:29:29.000Z",
-      "hot": 201,
+      "publishedAt": "2026-10-09T13:13:31.000Z",
+      "hot": 150,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ebeog6",
-      "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
-      "desc": "<p data-vmark=\"e078\">IT之家 10 月 9 日消息，懂车帝 10 月 8 日发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。</p><p data-vmark=\"4fd1\"><a href=\"https://www.ithome.com/1/010/703.htm\" target=\"_blank\">尊界汽车官方 10 月 8 日晚发布情况说明</a>，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，<strong>并为已交付用户提供免费升级选择</s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/077.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T09:51:34.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     },
     {
@@ -2025,23 +2041,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-khe7jy",
-      "title": "北京越野 BJ40 增程 15.6 英寸联屏车型首次 OTA 推送，新增苹果 CarPlay 等",
-      "desc": "<p data-vmark=\"72a1\">IT之家 9 月 25 日消息，9 月 24 日，北京越野旗下 BJ40 增程 15.6 英寸联屏车型开启首次 OTA 推送，适配版本包括标准版 I / 元境智行版 / 赤兔版 / 长续航版。</p><p data-vmark=\"9e96\"><strong>IT之家整理如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c53f\">新增雷石 KTV，适配版本</p></li><li><p data-vmark=\"2b5c\">新增苹果 CarPlay ，适配版本</p></",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/243.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T13:27:38.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-jyp7do",
