@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:03:49.351Z",
+  "updatedAt": "2026-10-09T13:11:30.747Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -58,6 +58,131 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-aena6g",
+      "title": "A社推出免费的开源项目扫描器 为符合条件的开源项目免费提供定期漏洞扫描",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127172.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T02:42:58.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-eepg0c",
+      "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
+      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d558\">部分城市立减 150 元 + 支持 10% 国补，折后 1034 元。</p></li><li><p data-vmark=\"b36d\">部分城市立减 150 元 + 支持 15% 国补，折后 976.8 元",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/011/071.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T09:29:29.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ebeog6",
+      "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
+      "desc": "<p data-vmark=\"e078\">IT之家 10 月 9 日消息，懂车帝 10 月 8 日发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。</p><p data-vmark=\"4fd1\"><a href=\"https://www.ithome.com/1/010/703.htm\" target=\"_blank\">尊界汽车官方 10 月 8 日晚发布情况说明</a>，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，<strong>并为已交付用户提供免费升级选择</s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/077.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T09:51:34.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-fr3c84",
+      "title": "华为智能门锁 2 Pro 悦享版开售：支持 AI 3D 人脸识别 3.0，补贴到手价 2124.15 元",
+      "desc": "<p data-vmark=\"5471\">IT之家 10 月 9 日消息，华为智能门锁 2 Pro 悦享版 10 月 9 日 10:08 正式开售，建议零售价 2699 元，补贴到手价 2124.15 元。</p><p style=\"text-align: center;\" data-vmark=\"9c28\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/59fc1a6b-b7ff-4328-bc29-0b493fc2c830.png?x-bce-process=image/format,f_auto\" w=\"642\" h=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/046.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T08:40:58.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-falifa",
+      "title": "支持 iPhone 18 系列 AVS 动态快充：酷态科 CP6 电能充 Mini 79 → 62 元国补直降",
+      "desc": "<p data-vmark=\"0000\">CUKTECH 酷态科 CP6 电能充 Mini 于今年 8 月发布，单体售 79 元。</p><p data-vmark=\"b475\">支持苹果 iPhone 18 Pro / iPhone 17 系列至高 60W AVS 动态充电，15 分钟至高可充至 50% 电量。</p><p data-vmark=\"9aec\">今日京东可叠加政府补贴，实付 71 元包邮<strong>次日达</strong>。</p><p data-vmark=\"0af6\">PLUS 会员可凑单使用 200-25 元超级补贴券，实付 62 元官方好价：</p><ul clas",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/055.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T09:00:21.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-g98jt1",
+      "title": "策略游戏《双点博物馆：失落游乐园》DLC 登陆 Steam，国区首发价 39.60 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 9 日消息，由 Two Point Studios 开发、SEGA 发行的《双点博物馆》全新 DLC《双点博物馆：失落游乐园》现已正式登陆 Steam 平台，国区首发特惠价 ¥39.60（原价 ¥44，优惠 10%，活动截止至 10 月 15 日）。该 DLC 需要拥有本体《双点博物馆》才能游玩，完整支持简体中文界面、完全音频与字幕。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4511680/\"><span class=\"link-text-start-with-ht",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/011/034.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T08:15:20.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ftub6x",
+      "title": "99 → 78 元：小米 · 米家体脂秤 S400 京东直降，25 项指标详尽分析",
+      "desc": "<p data-vmark=\"706a\">米家体脂秤 S400 首发价 99 元，今日京东立减 5 元 + 可领 8.8 折券，实付 82.8 元即可入手。</p><p data-vmark=\"cee5\">晒单 20 字以上 +3 图可赢 5 元京豆（本月限量 500 名，现在名额还有百十来个，签收后需尽快评价），折合仅需 77.8 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/Fr1jv9Q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fa1kYFX\" data-io",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.8 折",
+      "url": "https://www.ithome.com/1/011/041.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T08:30:41.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-a0fqm5",
@@ -165,24 +290,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-aena6g",
-      "title": "A社推出免费的开源项目扫描器 为符合条件的开源项目免费提供定期漏洞扫描",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127172.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T02:42:58.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -1953,23 +2060,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-ze9xsy",
-      "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
-      "desc": "<p data-vmark=\"985e\">IT之家 9 月 25 日消息，蔚来今日宣布，蔚来「Cedar S 雪松」智能系统 1.6.0 版本已全量推送。</p><blockquote><p data-vmark=\"b53d\">为 <strong>ES6、EC6、ET5、ET5T</strong> 带来全维度智能的<strong>智能座舱</strong>、更全能的得力助手 <strong>NOMI</strong>、专属<strong>驾乘体验</strong>、智能<strong>辅助驾驶</strong>四大板块，超 30 项功能体验新增与升级。</p></blockquote><p s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/133.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T06:24:29.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
