@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:49:27.735Z",
+  "updatedAt": "2026-10-09T23:14:49.252Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -60,6 +60,23 @@
       "_score": 2
     },
     {
+      "id": "rss-208i74",
+      "title": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 9 日消息，由 SpaceRocket Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2254990/Permafrost/\"><span class=\"link-text",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/127.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-09T13:13:31.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-eepg0c",
       "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
       "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d558\">部分城市立减 150 元 + 支持 10% 国补，折后 1034 元。</p></li><li><p data-vmark=\"b36d\">部分城市立减 150 元 + 支持 15% 国补，折后 976.8 元",
@@ -109,24 +126,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-208i74",
-      "title": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 9 日消息，由 SpaceRocket Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2254990/Permafrost/\"><span class=\"link-text",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/127.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T13:13:31.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-fr3c84",
@@ -2040,24 +2039,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-jyp7do",
-      "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-      "desc": "<p data-vmark=\"2c15\">IT之家 9 月 26 日消息，Anthropic 宣布为 Claude 上线“限时免费额度重置”功能，允许用户免费手动重置每周使用额度，不过每位用户仅可使用一次。该功能目前预计开放至 10 月 22 日，用户需要谨慎选择使用时机。</p><p data-vmark=\"b61e\">目前，部分 Claude 用户已可以在界面中看到用于重置每周使用额度的按钮。点击后无需额外付费即可刷新每周额度，如果用户同时触及了 5 小时使用上限，该限制也会一并重置。</p><p data-vmark=\"6bb0\" style=\"text-align: center;\">",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/256.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-25T22:37:01.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
