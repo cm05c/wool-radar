@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:51:52.805Z",
+  "updatedAt": "2026-10-10T20:02:37.970Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -60,6 +60,23 @@
       "_score": 2
     },
     {
+      "id": "rss-eflzfn",
+      "title": "上汽奥迪 E7X 首次 OTA 推送：新增屏幕护眼模式、零重力座椅倾角调节功能等",
+      "desc": "<p data-vmark=\"38d3\">IT之家 10 月 10 日消息，10 月 9 日，上汽奥迪 E7X 开启首次 OTA 推送，版本号为 AUDI OS 2.1.4，覆盖寻车、车手互联、语音、驾控、舒适全场景。</p><p style=\"text-align: center;\" data-vmark=\"3de6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/639a56b4-b229-411c-babc-160ba1c51e89.png?x-bce-process=image/format,f_auto\" w=\"64",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/520.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-10T14:08:48.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-9ioidq",
       "title": "Grok Bot新增智能体专用邮箱 让智能体接收/阅读/搜索/发送邮件 完成注册和处理日常任务",
       "desc": "",
@@ -92,24 +109,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-eflzfn",
-      "title": "上汽奥迪 E7X 首次 OTA 推送：新增屏幕护眼模式、零重力座椅倾角调节功能等",
-      "desc": "<p data-vmark=\"38d3\">IT之家 10 月 10 日消息，10 月 9 日，上汽奥迪 E7X 开启首次 OTA 推送，版本号为 AUDI OS 2.1.4，覆盖寻车、车手互联、语音、驾控、舒适全场景。</p><p style=\"text-align: center;\" data-vmark=\"3de6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/639a56b4-b229-411c-babc-160ba1c51e89.png?x-bce-process=image/format,f_auto\" w=\"64",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/520.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-10T14:08:48.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-snuda0",
