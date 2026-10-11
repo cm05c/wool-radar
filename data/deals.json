@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T15:37:31.572Z",
+  "updatedAt": "2026-10-11T19:42:57.137Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,74 @@
       "_score": 2
     },
     {
+      "id": "rss-e1ub6u",
+      "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
+      "desc": "<p data-vmark=\"4d41\">IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元，<strong>首发价 273 元</strong>，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY7jsE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1YfCdr\" data-iosurl=\"https://u.jd.c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/705.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-11T14:03:40.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-3matx7",
+      "title": "消息称索尼 PS5 Pro 供应紧张局面最早到明年初才能缓解，国内市场已被炒到 7000 元以上",
+      "desc": "<p data-vmark=\"8719\">IT之家 10 月 11 日消息，据外媒 ComputerBase 报道，索尼一份内部备忘录显示，因《GTA6》造成的 PS5 Pro 供应紧张局面可能还将持续较长时间，最早要到 2027 年初才有望缓解。</p><p data-vmark=\"c83b\">今年以来，索尼 PS5 Pro 游戏机价格被不断炒高，以国内市场为例，今年初该机到手价约为 4699 元，而如今已被炒到 7000 元以上，反映出供需失衡对市场价格的影响。</p><p style=\"text-align: center;\" data-vmark=\"47fe\"><img src=\"ht",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/011/694.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-11T13:06:06.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-1rrq4i",
+      "title": "盛色推出“G74 护瞳版”显示器：2K 280Hz，支持圆偏光护眼，1110 元",
+      "desc": "<p data-vmark=\"743b\">IT之家 10 月 11 日消息，盛色现已在京东上架“G74 护瞳版”27 英寸显示器，该机相对于此前的 G74 主要升级圆偏光护眼功能，面板核心规格仍为 2K 280Hz，<strong>定价为 1110 元</strong>，部分地区国补后低至 948.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgYu5XH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOYG8Ya\" data-iosurl=\"https://u.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/011/657.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-11T10:05:36.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-1btox1",
+      "title": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
+      "desc": "<p data-vmark=\"253e\">IT之家 10 月 11 日消息，Meta 现已开始陆续向 Quest 头显用户推送 Horizon OS 2.9（v209）公共测试频道（PTC）更新。新版系统对 2D 多任务界面进行大幅调整，重新引入部分经典虚拟环境，并为 Quest 3 和 Quest 3S 加入系统级二维码扫描器。</p><p data-vmark=\"ac69\">具体来看，Horizon OS 2.9 最重要的变化是引入了代号为“Display Evo”的全新多任务界面。Meta 将其描述为“一种管理应用窗口的新方式”，用户打开的应用界面窗口会分布在周围空间中，用户可以将窗口边",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/649.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-11T09:57:38.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-d6nja",
       "title": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
       "desc": "<p data-vmark=\"43f3\">苹果今日宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"256b\">京东目前支持部分地区政府补贴（收货地址在<strong>江苏、吉林、北京、大连，</strong>今日新增<strong>河北、云南</strong>），实付 849.15 元起。</p><p data-vmark=\"7062\">另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元：</p><dir><a contenteditable=\"false",
@@ -126,78 +194,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-e1ub6u",
-      "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-      "desc": "<p data-vmark=\"4d41\">IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元，<strong>首发价 273 元</strong>，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY7jsE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1YfCdr\" data-iosurl=\"https://u.jd.c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/705.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T14:03:40.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-3matx7",
-      "title": "消息称索尼 PS5 Pro 供应紧张局面最早到明年初才能缓解，国内市场已被炒到 7000 元以上",
-      "desc": "<p data-vmark=\"8719\">IT之家 10 月 11 日消息，据外媒 ComputerBase 报道，索尼一份内部备忘录显示，因《GTA6》造成的 PS5 Pro 供应紧张局面可能还将持续较长时间，最早要到 2027 年初才有望缓解。</p><p data-vmark=\"c83b\">今年以来，索尼 PS5 Pro 游戏机价格被不断炒高，以国内市场为例，今年初该机到手价约为 4699 元，而如今已被炒到 7000 元以上，反映出供需失衡对市场价格的影响。</p><p style=\"text-align: center;\" data-vmark=\"47fe\"><img src=\"ht",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/694.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T13:06:06.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-1btox1",
-      "title": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
-      "desc": "<p data-vmark=\"253e\">IT之家 10 月 11 日消息，Meta 现已开始陆续向 Quest 头显用户推送 Horizon OS 2.9（v209）公共测试频道（PTC）更新。新版系统对 2D 多任务界面进行大幅调整，重新引入部分经典虚拟环境，并为 Quest 3 和 Quest 3S 加入系统级二维码扫描器。</p><p data-vmark=\"ac69\">具体来看，Horizon OS 2.9 最重要的变化是引入了代号为“Display Evo”的全新多任务界面。Meta 将其描述为“一种管理应用窗口的新方式”，用户打开的应用界面窗口会分布在周围空间中，用户可以将窗口边",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/649.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T09:57:38.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-1rrq4i",
-      "title": "盛色推出“G74 护瞳版”显示器：2K 280Hz，支持圆偏光护眼，1110 元",
-      "desc": "<p data-vmark=\"743b\">IT之家 10 月 11 日消息，盛色现已在京东上架“G74 护瞳版”27 英寸显示器，该机相对于此前的 G74 主要升级圆偏光护眼功能，面板核心规格仍为 2K 280Hz，<strong>定价为 1110 元</strong>，部分地区国补后低至 948.6 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgYu5XH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOYG8Ya\" data-iosurl=\"https://u.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/657.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T10:05:36.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-b0zv44",
