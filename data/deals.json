@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:31:21.206Z",
+  "updatedAt": "2026-10-11T02:11:02.249Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -60,6 +60,23 @@
       "_score": 2
     },
     {
+      "id": "rss-dgf5gj",
+      "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+      "desc": "<p data-vmark=\"116e\" style=\"text-align: left;\">IT之家 10 月 11 日消息，亚马逊云科技 10 月 10 日宣布与北京姚基金公益基金会（以下简称“姚基金”）共同推出<strong>“云上篮图”体育 × 科技育人计划</strong>。</p><p data-vmark=\"ac3f\" style=\"text-align: left;\">该公益计划依托姚基金覆盖全国的学校网络、体育人才培养经验，同时借助亚马逊云科技 Breaking Barriers 全球创新活动，以及云与 AI 技术、由资深解决方案架构师组成的导师团队和培训与认证学习资源，<s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/542.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-10T22:53:49.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-eflzfn",
       "title": "上汽奥迪 E7X 首次 OTA 推送：新增屏幕护眼模式、零重力座椅倾角调节功能等",
       "desc": "<p data-vmark=\"38d3\">IT之家 10 月 10 日消息，10 月 9 日，上汽奥迪 E7X 开启首次 OTA 推送，版本号为 AUDI OS 2.1.4，覆盖寻车、车手互联、语音、驾控、舒适全场景。</p><p style=\"text-align: center;\" data-vmark=\"3de6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/639a56b4-b229-411c-babc-160ba1c51e89.png?x-bce-process=image/format,f_auto\" w=\"64",
@@ -109,24 +126,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-dgf5gj",
-      "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
-      "desc": "<p data-vmark=\"116e\" style=\"text-align: left;\">IT之家 10 月 11 日消息，亚马逊云科技 10 月 10 日宣布与北京姚基金公益基金会（以下简称“姚基金”）共同推出<strong>“云上篮图”体育 × 科技育人计划</strong>。</p><p data-vmark=\"ac3f\" style=\"text-align: left;\">该公益计划依托姚基金覆盖全国的学校网络、体育人才培养经验，同时借助亚马逊云科技 Breaking Barriers 全球创新活动，以及云与 AI 技术、由资深解决方案架构师组成的导师团队和培训与认证学习资源，<s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/542.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-10T22:53:49.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-snuda0",
