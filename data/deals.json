@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-12T02:24:44.234Z",
+  "updatedAt": "2026-10-12T09:44:55.829Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 17,
     "linkVerified": true
   },
   "items": [
@@ -77,23 +77,6 @@
       "_score": 2
     },
     {
-      "id": "rss-e1ub6u",
-      "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
-      "desc": "<p data-vmark=\"4d41\">IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元，<strong>首发价 273 元</strong>，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY7jsE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1YfCdr\" data-iosurl=\"https://u.jd.c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/705.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T14:03:40.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-9ioidq",
       "title": "Grok Bot新增智能体专用邮箱 让智能体接收/阅读/搜索/发送邮件 完成注册和处理日常任务",
       "desc": "",
@@ -109,6 +92,59 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-sfxlgt",
+      "title": "MicYou for iOS – 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/micyou-for-ios/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T02:38:24.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-nhq7dt",
+      "title": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能上线时间公布，预计 10 月底分批推送",
+      "desc": "<p data-vmark=\"e7ba\">IT之家 10 月 12 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。</p><p data-vmark=\"ce58\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/df2ea32c-c4f9-4851-9380-fa897c372b30.jpg?x-bce-process=image/auto-orient,o_1\" w=\"144",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/006.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T09:26:08.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-e1ub6u",
+      "title": "街电推出 55W 挂包充电宝：2C 设计、10000mAh 电芯，273 元赠“一年共享移动电源免费使用权益”",
+      "desc": "<p data-vmark=\"4d41\">IT之家 10 月 11 日消息，街电现已在京东上架一款 55W 挂包充电宝，该机采用 2C 设计，内置 10000mAh 电芯，定价为 298 元，<strong>首发价 273 元</strong>，同时号称还赠送给消费者“一年共享充电宝免费使用权益”。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOY7jsE\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1YfCdr\" data-iosurl=\"https://u.jd.c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/011/705.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-11T14:03:40.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-aena6g",
@@ -1214,23 +1250,6 @@
       "verified": true
     },
     {
-      "id": "rss-f7f37r",
-      "title": "AI 编程卷起来了：OpenCode、Command Code 都在 $10 套餐里送 6 倍 DeepSeek V4.1 Flash 额度",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/opencode-vs-command-code-ai-coding-plans/",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T08:18:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-ini4bq",
       "title": "自身股价下跌，安森美将收购 Synaptics 的对价调整为 57 亿美元现金",
       "desc": "<p data-vmark=\"812d\">IT之家 10 月 3 日消息，onsemi（安森美）美国当地时间 1 日宣布，已就修改今年 6 月 25 日公布的合并协议与 Synaptics（新突思）达成一致。</p><p data-vmark=\"daee\"><strong>安森美将以约 57 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 382.72 亿元人民币）</span><strong>的现金</strong><strong>完成该笔交易</strong>，而不是此前公布的 70 亿美元股票，这对应 18.6% 的折让。<",
@@ -1441,23 +1460,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-ws1tx5",
-      "title": "PecoFence：免费开源的 Windows 11 桌面整理工具",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://meta.appinn.net/t/topic/92339",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T07:10:10.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-mwm27v",
@@ -2020,96 +2022,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-aq4ig8",
-      "title": "上汽大众 ID. ERA 9X 获推 OTA 升级，Momenta R7 世界模型正式推送",
-      "desc": "<p data-vmark=\"a148\">IT之家 9 月 28 日消息，上汽大众今日宣布，ID. ERA 9X 智能驾驶辅助全面升级，<strong>Momenta R7 世界模型正式开放 OTA</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2060\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/51d0772e-6313-43fa-b158-eb4828293dd1.jpg?x-bce-process=image/format,f_auto\" w=\"144",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/931.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T09:20:23.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-2fu512",
-      "title": "字节火山引擎发布 Seedance 影视合作计划：提供 Token 补贴，单项目激励最高达百万",
-      "desc": "<p data-vmark=\"84b5\">IT之家 9 月 28 日消息，9 月 27 日，在第十届平遥国际电影展期间，字节跳动旗下火山引擎正式发布 Seedance 影视合作计划，将面向全球专业影视项目提供 Token 补贴、宣发资源及技术与工具支持，单个项目激励最高可达百万人民币。</p><p data-vmark=\"4aeb\">IT之家附作品类型：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"056e\">电影长片、系列剧集、动画作品、创意短片</p></li></ul><p data-vmark=\"169d\">合作对象：</",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/867.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T08:16:34.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-20zp0b",
-      "title": "上汽 MG4 530 周年限量版上市，限时补贴价 8.48 万元",
-      "desc": "<p data-vmark=\"ea46\">IT之家 9 月 28 日消息，上汽 MG 今日宣布，MG4 530 周年限量版正式上市，<strong>限时补贴价 8.48 万元</strong>。</p><p data-vmark=\"c505\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bc850569-ad2b-4105-90fa-63e2856dc294.jpg\" w=\"1080\" h=\"2251\" data-weibo=\"0\" data-vmark=\"0915\" c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/873.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T08:35:04.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-gnqlg9",
-      "title": "创企 TakeMe2Space 将用 SpaceX 火箭送星上天，号称印度首颗轨道计算卫星",
-      "desc": "<p data-vmark=\"4e48\">IT之家 9 月 28 日消息，据路透社今天（28 日）上午报道，印度太空初创公司 TakeMe2Space 计划于当地时间 10 月 1 日搭乘 SpaceX 火箭发射 MOI-1A，并称其为印度首颗轨道计算卫星。与把原始数据全部传回地球不同，TakeMe2Space 希望直接<strong>在轨完成数据处理</strong>。</p><p data-vmark=\"7137\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/49af",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/776.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T05:14:40.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-j0ewtv",
-      "title": "智谱 ZCode 宣布已删除涉事云端数据，赠送用户多张重置卡和 1 亿 Token",
-      "desc": "<p data-vmark=\"fd03\">IT之家 9 月 28 日消息，经历“被质疑偷传代码”风波后，<a href=\"https://www.ithome.com/1/005/046.htm\" target=\"_blank\">智谱 ZCode 官宣开源</a>，并在今日发布公告，宣布仓库快照上传链路已移除、<strong>涉事云端数据已删除</strong>。</p><p data-vmark=\"59de\">智谱官方表示，后续将做到“你不发起，不上云”，开源版本已更新至 3.14.3 最新版。</p><p data-vmark=\"717f\">智谱还赠送给用户 <strong>4 张周重置卡",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/007/727.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T03:26:12.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
