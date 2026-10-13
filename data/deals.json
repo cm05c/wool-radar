@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:07:48.739Z",
+  "updatedAt": "2026-10-13T21:49:51.316Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -41,6 +41,23 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-2ndlq5",
+      "title": "复旦「学术版 Codex」客户端上线！送 1 万积分，还可领会员优惠",
+      "desc": "程序员被 Codex (AI Agent) 彻底改变了，不用一行行敲代码，把需求丢给 AI，让它自己写代码、跑测试、修 Bug、闭环交付。\n那么问题来了：科研人员天天干的活，不也是\"配环境、跑实验、复现代码、查文献、写综述\"这些体力活吗？现在，复旦大学 NLP 团队把这套逻辑搬到了科研上，做出了一个真正意义上…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/qiewenpaper-codex",
+      "expiresAt": null,
+      "publishedAt": "2026-10-13T09:27:03.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 5
     },
     {
       "id": "rss-2c9dd8",
@@ -111,24 +128,6 @@
       "_score": 2
     },
     {
-      "id": "rss-2ndlq5",
-      "title": "复旦「学术版 Codex」客户端上线！送 1 万积分，还可领会员优惠",
-      "desc": "程序员被 Codex (AI Agent) 彻底改变了，不用一行行敲代码，把需求丢给 AI，让它自己写代码、跑测试、修 Bug、闭环交付。\n那么问题来了：科研人员天天干的活，不也是\"配环境、跑实验、复现代码、查文献、写综述\"这些体力活吗？现在，复旦大学 NLP 团队把这套逻辑搬到了科研上，做出了一个真正意义上…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/qiewenpaper-codex",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T09:27:03.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 5,
-      "verified": true
-    },
-    {
       "id": "rss-snrppa",
       "title": "英伟达 DLSS 5 最新模型 10 月 16 日推送：性能相比 9 月翻倍，4K 显存占用降低 20%",
       "desc": "<p data-vmark=\"301b\">IT之家 10 月 13 日消息，英伟达官方刚刚宣布，DLSS 5 的 3D 引导神经渲染模型将在本周迎来重大性能更新，新的模型将于 10 月 16 日正式推送。</p><p data-vmark=\"4325\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8e88ee1b-1f79-42e9-9454-ea8f8a17f11d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"",
@@ -143,8 +142,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-rnhajg",
@@ -161,8 +159,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-ehin26",
