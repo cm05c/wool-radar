@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-12T19:47:21.650Z",
+  "updatedAt": "2026-10-13T01:59:55.434Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,74 @@
       "_score": 2
     },
     {
+      "id": "rss-vwwbkw",
+      "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
+      "desc": "<p data-vmark=\"47df\">IT之家 10 月 12 日消息，熊猫旗下“S24Q6A”23.8 英寸显示器现已在京东发售，该机主打 2K 180Hz，<strong>定价为 599 元</strong>，部分地区国补后低至 521.1 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDTTZ9f\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGTECqa\" data-iosurl=\"https://u.jd.com/FrT90zf\" data-androi",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/126.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T15:27:03.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-wdxxz3",
+      "title": "五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"7e7e\">腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。</p><p data-vmark=\"c859\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 244.36 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"93d4\">领 480-60 元 PLUS 补贴券：<a h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/012/116.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T14:45:39.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-wvjcyn",
+      "title": "小米 YU7 车型 OTA 推送 1.18.0 版本：新增安全车距提醒、超级小爱专家模式等",
+      "desc": "<p data-vmark=\"1fe7\">IT之家 10 月 12 日消息，小米 YU7 车型今日 OTA 推送 1.18.0 版本，带来多项新增功能，并对领航辅助功能进行优化。</p><p data-vmark=\"41d2\">IT之家整理如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"98d3\">新增 QQ 音乐、网易云音乐歌词翻译，支持翻译的歌曲将在应用内的歌词页面展示翻译按钮，可开启、关闭歌词翻译并记忆状态</p></li><li><p data-vmark=\"fcc6\">新增车外语音音量调节设置项</p></li><l",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/105.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T14:30:45.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-rrolix",
+      "title": "UHD 162Hz / FHD 485Hz：华硕 ROG XG27UCGR 显示器 2499 → 1869 元探新低",
+      "desc": "<p data-vmark=\"af0a\"><strong>【京东活动可能随时变更，需以实付款为准】</strong></p><p data-vmark=\"7235\">华硕于 2026 年 3 月发布了 UHD 162Hz / FHD 485Hz 双模 IPS 显示器 XG27UCGR，官方定价 2499 元。</p><p data-vmark=\"05eb\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1938.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f239\">点击下方卡片，可领 150 元店铺券。</p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/012/097.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-12T13:49:13.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-9ioidq",
       "title": "Grok Bot新增智能体专用邮箱 让智能体接收/阅读/搜索/发送邮件 完成注册和处理日常任务",
       "desc": "",
@@ -111,57 +179,21 @@
       "_score": 2
     },
     {
-      "id": "rss-vwwbkw",
-      "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
-      "desc": "<p data-vmark=\"47df\">IT之家 10 月 12 日消息，熊猫旗下“S24Q6A”23.8 英寸显示器现已在京东发售，该机主打 2K 180Hz，<strong>定价为 599 元</strong>，部分地区国补后低至 521.1 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDTTZ9f\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGTECqa\" data-iosurl=\"https://u.jd.com/FrT90zf\" data-androi",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/126.htm",
+      "id": "rss-kxcc6i",
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
+      "desc": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...<a href=\"https://sspai.com/post/116033\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "0元",
+      "url": "https://sspai.com/post/116033",
       "expiresAt": null,
-      "publishedAt": "2026-10-12T15:27:03.000Z",
-      "hot": 218,
+      "publishedAt": "2026-10-13T00:01:49.000Z",
+      "hot": 207,
       "tags": [
         "RSS",
-        "IT之家·资讯线报"
+        "少数派·RSS"
       ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-wdxxz3",
-      "title": "五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"7e7e\">腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。</p><p data-vmark=\"c859\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 244.36 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"93d4\">领 480-60 元 PLUS 补贴券：<a h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/116.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T14:45:39.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-rrolix",
-      "title": "UHD 162Hz / FHD 485Hz：华硕 ROG XG27UCGR 显示器 2499 → 1869 元探新低",
-      "desc": "<p data-vmark=\"af0a\"><strong>【京东活动可能随时变更，需以实付款为准】</strong></p><p data-vmark=\"7235\">华硕于 2026 年 3 月发布了 UHD 162Hz / FHD 485Hz 双模 IPS 显示器 XG27UCGR，官方定价 2499 元。</p><p data-vmark=\"05eb\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1938.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f239\">点击下方卡片，可领 150 元店铺券。</p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/097.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T13:49:13.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
+      "_score": 2,
       "verified": true
     },
     {
@@ -180,24 +212,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-wvjcyn",
-      "title": "小米 YU7 车型 OTA 推送 1.18.0 版本：新增安全车距提醒、超级小爱专家模式等",
-      "desc": "<p data-vmark=\"1fe7\">IT之家 10 月 12 日消息，小米 YU7 车型今日 OTA 推送 1.18.0 版本，带来多项新增功能，并对领航辅助功能进行优化。</p><p data-vmark=\"41d2\">IT之家整理如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"98d3\">新增 QQ 音乐、网易云音乐歌词翻译，支持翻译的歌曲将在应用内的歌词页面展示翻译按钮，可开启、关闭歌词翻译并记忆状态</p></li><li><p data-vmark=\"fcc6\">新增车外语音音量调节设置项</p></li><l",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/105.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T14:30:45.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     },
     {
@@ -1201,23 +1215,6 @@
       "_score": 2
     },
     {
-      "id": "rss-kxcyfb",
-      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-      "desc": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...<a href=\"https://sspai.com/post/115134\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "0元",
-      "url": "https://sspai.com/post/115134",
-      "expiresAt": null,
-      "publishedAt": "2026-09-29T00:09:05.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-xunhwd",
       "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
       "desc": "<p data-vmark=\"01db\">“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"c7a5\">1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型</h2><p data-vmark=\"3e9d\">在 10 月 1 日的发布会上，华为年度旗舰 Mate 90 系列正式发布。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告。结果显示，新机能效提升明显，在部分游戏上已优于第五代骁龙 8 至尊版机型。>> <a ",
@@ -2075,42 +2072,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-78yag0",
-      "title": "火狐 Firefox 157 稳定版发布：重塑视觉交互、视频通话更省电",
-      "desc": "<p data-vmark=\"d0d2\">IT之家 9 月 29 日消息，Mozilla 昨日（9 月 28 日）推出火狐 Firefox 浏览器 157 稳定版，整合内部代号 Project Nova 的视觉更新，<strong>称其为该浏览器多年来最大幅度界面改版。</strong></p><p data-vmark=\"567b\">界面上，Firefox 157 稳定版统一调整标签页、工具栏、菜单、面板、图标及设置界面，重点减少界面中的视觉堆叠，让浏览器整体呈现更加简洁、柔和的观感。</p><p style=\"text-align: center;\" data-vmark=\"20c1\"><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/075.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T23:05:36.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-7bp9et",
-      "title": "苹果 watchOS 27.0.1 发布：向 Apple Watch Series 9 及后续表款推送",
-      "desc": "<p data-vmark=\"0000\">IT之家 9 月 29 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0.1 更新（内部版本号：24R365），本次更新距离上次发布正式版间隔 14 天。</p><p data-vmark=\"0001\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2022/4/8bd386fb-ecc7-474d-bd95-4c69ba122e7a.jpg?x-bce-process=image/watermark,image_",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/070.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-28T20:07:11.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
