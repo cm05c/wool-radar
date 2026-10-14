@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T17:06:49.563Z",
+  "updatedAt": "2026-10-14T20:40:38.678Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 19,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -159,8 +159,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-2kx92c",
@@ -176,6 +175,41 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-uscov2",
+      "title": "爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠￥168 元起",
+      "desc": "看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。\n\n原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价 299 元/年，…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/news/4313",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T17:20:32.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 10,
+      "verified": true
+    },
+    {
+      "id": "rss-glld9d",
+      "title": "免费开源版 Adobe 全家桶！ArtCraft 像素级复刻 PS / AE / PR / AI 等软件",
+      "desc": "天下苦 Adobe 久矣。只要你做过设计、修图、后期、剪辑过视频，大概率都被 Adobe 的产品“压榨”过。毕竟每个月几百块的订阅费，对很多人来说都是贵到离谱又不得不低头的存在了。\n毕竟像 Photoshop、Premiere、After Effects 等十多年积累的快捷键和操作习惯早刻进骨子里，像 Affinity、GIMP、苹果 Creative Studio 等替代品始终用不顺手。不过最近有人用 AI 把 Adobe 全家桶的生产力工具“1:1 复刻”重写并开源，起名 ArtCraft，而且还在不断迭代……\n「 前往查看原文.... 」异次元还有这些值得一看：Adobe 放大招！Pho",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/artcraft.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T17:37:00.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 2,
       "verified": true
