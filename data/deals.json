@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T11:50:50.057Z",
+  "updatedAt": "2026-10-14T17:06:49.563Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 19,
     "linkVerified": true
   },
   "items": [
@@ -41,6 +41,23 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-doiyz4",
+      "title": "金山 WPS 大会员 (含AI + 超会) VIP 必入低价优惠 - 送京东 PLUS / 喜马 / 网易云",
+      "desc": "如果你办公时经常有处理文字、表格、PPT 等文档的需求，那么金山 WPS 软件一定是你不可或缺的工具。作为国产软件的骄傲，相较于微软的 Office 套件，WPS 不仅正版更加便宜实惠，而且自带的各种模板和细节小功能也更贴近国内的场景，更加适合国人使用。\n\n但我们平常使用「免费版」的 WPS 广告实在…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/wps-vip",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T05:30:56.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 8
     },
     {
       "id": "rss-2ndlq5",
@@ -128,21 +145,39 @@
       "_score": 2
     },
     {
-      "id": "rss-doiyz4",
-      "title": "金山 WPS 大会员 (含AI + 超会) VIP 必入低价优惠 - 送京东 PLUS / 喜马 / 网易云",
-      "desc": "如果你办公时经常有处理文字、表格、PPT 等文档的需求，那么金山 WPS 软件一定是你不可或缺的工具。作为国产软件的骄傲，相较于微软的 Office 套件，WPS 不仅正版更加便宜实惠，而且自带的各种模板和细节小功能也更贴近国内的场景，更加适合国人使用。\n\n但我们平常使用「免费版」的 WPS 广告实在…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/wps-vip",
+      "id": "rss-96gbtq",
+      "title": "小米 17 Pro / Max 立减千元：京东手机 11.11 开启，MIX Flip2 折叠屏 5999 → 2719 元新低",
+      "desc": "<p data-vmark=\"d9d3\">小米 17 系列京东 11.11 狂促零点开启，至高享 12 期分期免息，折后均为好价。</p><p data-vmark=\"5878\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/FrRYX2I\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfrmM8\" data-iosurl=\"https://u.jd.com/F1RvP7h\" data-androidurl=\"https://u.jd.com/FDR6lqq\" data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/123.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-14T05:30:56.000Z",
-      "hot": 200,
+      "publishedAt": "2026-10-14T14:48:15.000Z",
+      "hot": 157,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 8,
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-2kx92c",
+      "title": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降",
+      "desc": "<p data-vmark=\"546d\">海尔 77E 洗烘套装（云溪 4.0 顶配版）定价 9998 元，今日官方旗舰店 11.11 五折仅需 4999 元即可入手。</p><p data-vmark=\"baab\">下单前<strong>需咨询客服“是 4999 元吗”</strong>，客服可能会让下单待支付（选择微信支付<strong>不付款</strong>即可），然后把订单发给客服，客服登记后到货返差价。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGH2NRG\" target=\"_blank\" data-wa",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/088.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T12:33:23.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -2095,23 +2130,6 @@
       ],
       "_score": 6,
       "verified": true
-    },
-    {
-      "id": "rss-ioe3cn",
-      "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
-      "desc": "<p data-vmark=\"4f32\">IT之家 9 月 30 日消息，美国外卖平台 DoorDash 宣布将在加利福尼亚州北部推出无人机送餐服务，初期合作餐厅涵盖 Chipotle（奇波雷墨西哥烧烤）、Popeyes（博派斯）。</p><p style=\"text-align: center;\" data-vmark=\"9e5b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/38a6e8c6-4c11-4715-a7e1-a870b3738181.jpg?x-bce-process=image/format,f_auto\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/942.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-30T15:29:30.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-h85mzc",
