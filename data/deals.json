@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T01:12:07.619Z",
+  "updatedAt": "2026-10-14T06:10:19.785Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,114 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-15vfdk",
+      "title": "麻省理工学院创企 LNK 研发新技术，可让柴油重卡变身氢动力重卡",
+      "desc": "<p data-vmark=\"60b0\">IT之家 10 月 14 日消息，当地时间 13 日，据外媒 TechCrunch 报道，麻省理工学院初创企业 LNK Energies 研发了一套系统，可以将现有柴油重卡改造成氢动力卡车，减少污染和运营成本，降低油价上涨对运输企业的影响。</p><p data-vmark=\"3706\">LNK 首席技术官亚历克西斯 · 胡因介绍说：“以美国第 8 级重卡为例，采用我们的技术后，总拥有成本比柴油车低 13%。”</p><p data-vmark=\"463b\">IT之家注：第 8 级是美国卡车重量分级中的最高等级，大型半挂牵引车即属于该级。</p><p ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/805.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T04:36:02.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-c1cxuo",
+      "title": "微软 Win10 推送 10 月扩展安全更新：修复文件历史记录备份故障",
+      "desc": "<p data-vmark=\"2391\">IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 10 扩展安全更新（ESU）用户推送 KB5126657 更新，覆盖 Windows 10 22H2 和 21H2，<strong>安装后版本号升至 Build 19045.7807 与 19044.7807。</strong></p><p data-vmark=\"43d8\"><strong>时区与时间规则</strong></p><p data-vmark=\"721e\">本次更新为加拿大不列颠哥伦比亚省、艾伯塔省启用永久夏令时，相关规则将于 20",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/786.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T03:47:49.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-blewn7",
+      "title": "微软推送 Win11 26H1 十月累积更新 28000.3231：任务栏可四边贴靠",
+      "desc": "<p data-vmark=\"168f\">IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 11 26H1 系统推送 KB5127646 累积更新，用户安装后版本号升至 Build 28000.3231。</p><p style=\"text-align: center;\" data-vmark=\"66b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/53a6ec2c-47c8-462a-82af-f4df9566a839.png?x-bce-process=image",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/794.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T03:58:57.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-cxssuz",
+      "title": "雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放",
+      "desc": "<p data-vmark=\"7e97\">IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。</p><p data-vmark=\"ea82\">对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。</p><p data-vmark=\"6299\">此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/769.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T03:36:25.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-czg6n2",
+      "title": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
+      "desc": "<p data-vmark=\"02d9\">IT之家 10 月 14 日消息，Defold 基金会于 10 月 12 日发布公告，发布开源跨平台游戏引擎 Defold 1.14.0，<strong>正式支持 Microsoft XBOX 游戏开发，并向经微软批准的开发者免费提供相关资源。</strong></p><p style=\"text-align: center;\" data-vmark=\"79aa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a7ae3892-70f0-4c0c-80e9-b60eb62ad077.p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/012/766.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T03:32:02.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kxcwto",
+      "title": "家中、这里、那里——Sonos Play 体验",
+      "desc": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/115382",
+      "expiresAt": null,
+      "publishedAt": "2026-10-14T04:10:30.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-s739mq",
@@ -1995,60 +2103,6 @@
       "expiresAt": null,
       "publishedAt": "2026-09-30T07:59:22.000Z",
       "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-9pkdy9",
-      "title": "闪促价 1399 元起，OPPO K15s/K15x 两款新机今日开售",
-      "desc": "<p data-vmark=\"a789\">IT之家 9 月 30 日消息，OPPO K 系列两款新机 K15s 与 K15x 于今日正式开售。两款产品均主打长续航与耐用性，其中 K15s 定位“满电出击、硬核防水”，K15x 则强调“六年抗造、持久畅快”。在 2026 年 9 月 30 日至 10 月 31 日促销期内购买，两款机型均可享受立减 300 元的闪促价。</p><p data-vmark=\"a502\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9e238ce",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/008/670.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-30T03:43:14.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-6y1mjw",
-      "title": "《007 初露锋芒》官宣免费 DLC 明日上线",
-      "desc": "<p data-vmark=\"8cde\">IT之家 9 月 30 日消息，IO Interactive 间谍动作冒险游戏《007 初露锋芒》(007 First Light) 官方现已宣布，<strong>一款免费 DLC 将于 10 月 1 日上线</strong>。</p><p data-vmark=\"684f\">IT之家注意到，游戏官方的 DLC 预告短片以原野旁的赛道为背景，一辆无法确定型号的载具一闪而过。<strong>该 DLC 很可能与载具相关</strong>。</p><p data-vmark=\"a039\" style=\"text-align: center;\"><img s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/615.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-30T02:58:33.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-3z39pb",
-      "title": "鸿蒙智行尚界 Z7/Z7T 汽车国庆 OTA 升级，肖战专属语音包上线",
-      "desc": "<p data-vmark=\"f3bf\">IT之家 9 月 30 日消息，鸿蒙智行旗下尚界汽车今日宣布国庆 OTA 正式推送，带来 3 大维度提升，20+ 项体验进化。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7734\">交互焕新，<strong>新增肖战专属泊车语音</strong>；</p></li><li><p data-vmark=\"b181\">安全守护及导航设置升级，出行更省心；</p></li><li><p data-vmark=\"4d58\">细节功能优化，体验更舒适。</p></li></ul><p style=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/008/593.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-09-30T01:48:22.000Z",
-      "hot": 151,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
