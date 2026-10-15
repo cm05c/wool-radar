@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-10-15T12:51:44.692Z",
+  "updatedAt": "2026-10-15T17:45:42.801Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 30,
+    "fetched": 32,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-q2e89m",
+      "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T09:48:58.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-sfxlgt",
       "title": "MicYou for iOS – 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
@@ -39,6 +56,23 @@
       "tags": [
         "RSS",
         "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ghwgm6",
+      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
+      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.iplaysoft.com/1111.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T12:00:48.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 2
     },
@@ -96,7 +130,7 @@
     {
       "id": "rss-glld9d",
       "title": "免费开源版 Adobe 全家桶！ArtCraft 像素级复刻 PS / AE / PR / AI 等软件",
-      "desc": "天下苦 Adobe 久矣。只要你做过设计、修图、后期、剪辑过视频，大概率都被 Adobe 的产品“压榨”过。毕竟每个月几百块的订阅费，对很多人来说都是贵到离谱又不得不低头的存在了。\n毕竟像 Photoshop、Premiere、After Effects 等十多年积累的快捷键和操作习惯早刻进骨子里，像 Affinity、GIMP、苹果 Creative Studio 等替代品始终用不顺手。不过最近有人用 AI 把 Adobe 全家桶的生产力工具“1:1 复刻”重写并开源，起名 ArtCraft，而且还在不断迭代……\n「 前往查看原文.... 」异次元还有这些值得一看：Adobe 放大招！Pho",
+      "desc": "天下苦 Adobe 久矣。只要你做过设计、修图、后期、剪辑过视频，大概率都被 Adobe 的产品“压榨”过。毕竟每个月几百块的订阅费，对很多人来说都是贵到离谱又不得不低头的存在了。\n毕竟像 Photoshop、Premiere、After Effects 等十多年积累的快捷键和操作习惯早刻进骨子里，像 Affinity、GIMP、苹果 Creator Studio 等替代品始终用不顺手。不过最近有人用 AI 把 Adobe 全家桶的生产力工具“1:1 复刻”重写并开源，起名 ArtCraft，而且还在不断迭代……\n「 前往查看原文.... 」异次元还有这些值得一看：Adobe 放大招！Phot",
       "channel": "异次元",
       "category": "白嫖",
       "value": "",
@@ -247,22 +281,21 @@
       "_score": 2
     },
     {
-      "id": "rss-q2e89m",
-      "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
+      "id": "rss-hsdaal",
+      "title": "5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿",
+      "desc": "<p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"050e\">下单立减 1419 元；</p></li><li><p data-vmark=\"3a9f\">PLUS 会员立减 128.97 元；</p></li><li><p data-vmark=\"3bad\">领取 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_blank\" data-wapurl=\"http",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/425.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-15T09:48:58.000Z",
-      "hot": 213,
+      "publishedAt": "2026-10-15T07:01:47.000Z",
+      "hot": 204,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-bmmgix",
@@ -279,13 +312,12 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-bkz2qu",
-      "title": "9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息",
-      "desc": "<h2 data-vmark=\"87ff\">活动随时结束，需以实付款为准。</h2><p data-vmark=\"d9f8\">京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：<a href=\"https://u.jd.com/FOUXNJi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgUSDXk\" data-iosurl=\"https://u.jd.com/FDURMuv\" data-androidurl=\"https://u.jd.com/F6US6U5\" data-hosnexturl=\"https://",
+      "title": "【已结束】9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息",
+      "desc": "<p data-vmark=\"d9f8\">【21:10 更新：补贴名额已抢空】</p><p data-vmark=\"ac85\">京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：<a href=\"https://u.jd.com/FOUXNJi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgUSDXk\" data-iosurl=\"https://u.jd.com/FDURMuv\" data-androidurl=\"https://u.jd.com/F6US6U5\" data-hosnexturl=\"https:/",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
@@ -297,8 +329,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 4
     },
     {
       "id": "rss-bi83s1",
@@ -315,8 +346,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
-      "verified": true
+      "_score": 4
     },
     {
       "id": "rss-b5ku4q",
@@ -333,7 +363,113 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 7,
+      "_score": 7
+    },
+    {
+      "id": "rss-8loio",
+      "title": "【已结束】京东 1.18 元 vs 淘宝 1.1 元红包人人有份，华为苹果小米皆好价",
+      "desc": "<p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/Fg9m4X8\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FO99eKn\" data-iosurl=\"https://u.jd.com/FG9sKuZ\" data-androidurl=\"https://u.jd.com/FO9kaJk\" data-hosnexturl=\"https://u.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1.1 元无门槛",
+      "url": "https://www.ithome.com/1/013/587.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T10:42:37.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
+    },
+    {
+      "id": "rss-dxne4g",
+      "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9\" target=\"_blank\" title=\"《烂奶酪》\">《烂奶酪》</a>，<a href=\"https://store.epicgames.c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/013/675.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T15:00:33.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-chyqci",
+      "title": "首发 4049.1 元起，极米 RS30 系列投影仪开售",
+      "desc": "<p data-vmark=\"81fe\">IT之家 10 月 15 日消息，极米 RS30 系列投影仪现已在京东开售，新品拥有 RS30、RS30 高亮版、RS30 Pro 旗舰版、RS30 Ultra 高亮版、RS30 Ultra 旗舰版和 RS30 Ultra Max 旗舰版等型号，<strong>首发售价 4,049.1 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b5f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/61259031-f63c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/644.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:04:19.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-d1rbpi",
+      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%",
+      "desc": "<p data-vmark=\"9422\">苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。</p><p data-vmark=\"d4b7\">售价单件装 249 元，四件装 849 元。</p><p data-vmark=\"25ff\">今日京东国补后四件装 763 元，单枚约 191 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9b16\">京东无门槛红包至高 26888 元，支持即领即用：<a href=\"h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/659.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:50:16.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-ddusrg",
+      "title": "2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9db7\">大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。</p><p data-vmark=\"ac4b\">京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDkS98h\" target=\"_blank\" data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/660.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T14:00:44.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-czk5c2",
+      "title": "首发 2699.1 元，极米 Z7X 4K 激光版光学变焦 4K 投影仪开售",
+      "desc": "<p data-vmark=\"7be3\">IT之家 10 月 15 日消息，极米 Z7X 4K 激光版光学变焦 4K 投影仪现已在京东开售。新品采用轻薄折叠形态，支持 VRR 可变刷新率和杜比音效，首发价 2699.1 元。</p><p style=\"text-align: center;\" data-vmark=\"911e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/401f88ba-ccb1-44a2-ac3f-98edc145bdd8.jpg?x-bce-process=image/format,f_auto\" w=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/655.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:29:38.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -409,42 +545,6 @@
       "verified": true
     },
     {
-      "id": "rss-ghwgm6",
-      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.iplaysoft.com/1111.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:00:48.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-8loio",
-      "title": "【已结束】京东 1.18 元 vs 淘宝 1.1 元红包人人有份，华为苹果小米皆好价",
-      "desc": "<p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/Fg9m4X8\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FO99eKn\" data-iosurl=\"https://u.jd.com/FG9sKuZ\" data-androidurl=\"https://u.jd.com/FO9kaJk\" data-hosnexturl=\"https://u.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "1.1 元无门槛",
-      "url": "https://www.ithome.com/1/013/587.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T10:42:37.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
-      "verified": true
-    },
-    {
       "id": "rss-96gbtq",
       "title": "小米手机 11.11 开启：17 Pro / Max 立减 1500 元，MIX Flip2 折叠屏 5999 → 2719 元新低",
       "desc": "<p data-vmark=\"d9d3\">小米 17 系列京东 11.11 狂促今日开启，至高享 12 期分期免息，折后均为好价。</p><p data-vmark=\"5878\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/FrRYX2I\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfrmM8\" data-iosurl=\"https://u.jd.com/F1RvP7h\" data-androidurl=\"https://u.jd.com/FDR6lqq\" data",
@@ -460,24 +560,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-hsdaal",
-      "title": "5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿",
-      "desc": "<p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"050e\">下单立减 1419 元；</p></li><li><p data-vmark=\"3a9f\">PLUS 会员立减 128.97 元；</p></li><li><p data-vmark=\"3bad\">领取 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_blank\" data-wapurl=\"http",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/425.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T07:01:47.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-tle8yq",
@@ -2432,23 +2514,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-mwm27v",
-      "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/system-shock-2-25th-anniversary-remaster-cb94d9\" target=\"_blank\" title=\"《网络奇兵 2：25 周年纪念版重制版》\">《网络奇兵 2：25 周年纪念",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/009/167.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T15:05:16.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-b5s9x6",
