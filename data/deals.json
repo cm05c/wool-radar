@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-15T01:50:25.353Z",
+  "updatedAt": "2026-10-15T07:22:53.120Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -213,6 +213,23 @@
       "_score": 2
     },
     {
+      "id": "rss-kxcban",
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+      "desc": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/116193",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T00:31:01.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-kxcwto",
       "title": "家中、这里、那里——Sonos Play 体验",
       "desc": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
@@ -231,8 +248,8 @@
     },
     {
       "id": "rss-96gbtq",
-      "title": "小米 17 Pro / Max 立减千元：京东手机 11.11 开启，MIX Flip2 折叠屏 5999 → 2719 元新低",
-      "desc": "<p data-vmark=\"d9d3\">小米 17 系列京东 11.11 狂促零点开启，至高享 12 期分期免息，折后均为好价。</p><p data-vmark=\"5878\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/FrRYX2I\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfrmM8\" data-iosurl=\"https://u.jd.com/F1RvP7h\" data-androidurl=\"https://u.jd.com/FDR6lqq\" data",
+      "title": "小米手机 11.11 开启：17 Pro / Max 立减 1500 元，MIX Flip2 折叠屏 5999 → 2719 元新低",
+      "desc": "<p data-vmark=\"d9d3\">小米 17 系列京东 11.11 狂促今日开启，至高享 12 期分期免息，折后均为好价。</p><p data-vmark=\"5878\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/FrRYX2I\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfrmM8\" data-iosurl=\"https://u.jd.com/F1RvP7h\" data-androidurl=\"https://u.jd.com/FDR6lqq\" data",
       "channel": "IT之家",
       "category": "资讯",
       "value": "26888 元无门槛",
@@ -244,7 +261,115 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3
+      "_score": 5
+    },
+    {
+      "id": "rss-hsdaal",
+      "title": "5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿",
+      "desc": "<p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"050e\">下单立减 1419 元；</p></li><li><p data-vmark=\"3a9f\">PLUS 会员立减 128.97 元；</p></li><li><p data-vmark=\"3bad\">领取 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_blank\" data-wapurl=\"http",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/425.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T07:01:47.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-tle8yq",
+      "title": "京东手机 11.11 大加码：iPhone 18 Pro Max 不定时立减 650 元，512G 仅 12349 元",
+      "desc": "<p data-vmark=\"6ac1\">京东手机 11.11 今日不定时大加码，iPhone 新品支持 12 期免息：<a href=\"https://u.jd.com/F1XZqVb\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGXgF9w\" data-iosurl=\"https://u.jd.com/FDXN2J1\" data-androidurl=\"https://u.jd.com/F6XYVdY\" data-hosnexturl=\"https://u.jd.com/FOXyjZ4\" data-hosurl=\"https://u.jd",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/387.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T06:38:57.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-hsx2vy",
+      "title": "新增多地支持国补：华为 FreeClip 2 耳夹耳机 1299 → 978 元京东探底",
+      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b36d\">新增多城支持立减 150 元 + 支持 15% 国补，折后 976.8 元。</p></li><li><p data-vmark=\"d558\">新增多城支持立减 150 元 + 支持 10% 国补，折后 10",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/424.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T07:00:18.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-v3tvph",
+      "title": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，尼康 Z 5II C 全画幅微单相机于今日正式发售，黑色机身（不含镜头）售价为 9999 元。</p><p data-vmark=\"0001\">该机定位新手入门，主打随手出片轻松拍，目前可叠加平台满 6000-780 元神券，券后 9219 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6Veyn9\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F6Vo4qZ\" data-iosurl=\"htt",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/013/351.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T05:26:20.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ppxift",
+      "title": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
+      "desc": "<p data-vmark=\"6c7e\">IT之家 10 月 15 日消息，小米澎湃 OS 4 正式版今日开启首批推送，覆盖小米 17 系列、REDMI K100/K90 系列、小米平板 8 系列。</p><p data-vmark=\"d1ff\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6aba\">Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版</p></li><li><p data-vmark=\"599e\">Xiaomi 17 Pro Max</p></li",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/261.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T03:11:12.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-um8gpx",
+      "title": "苹果 AirPods 5 耳机京东 PLUS 加补 100 元：限地区国补后预计仅需 758 元新低",
+      "desc": "<p data-vmark=\"43f3\">苹果今年 9 月宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d82e\">京东 PLUS 目前可领 <strong>100、125 元</strong>加补券，10 月 20 日可用，券后仅需 889 元起：<a href=\"https://u.jd.com/FaXbWUk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOX0UEG\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/362.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T06:16:23.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-cibh6g",
@@ -316,24 +441,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-kxcban",
-      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-      "desc": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/116193",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T00:31:01.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2231,78 +2338,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-xh7apy",
-      "title": "Anthropic 向 Claude 用户免费发放毛绒玩具与贴纸，每人限领一份",
-      "desc": "<p data-vmark=\"bd79\">IT之家 10 月 1 日消息，Linux DO 社区用户 @xiaomao 反馈称，Anthropic 已开始向 Claude 用户免费赠送实体毛绒玩具和贴纸。</p><p data-vmark=\"e2e5\">用户进入 Claude Dev 网站并打开 Terminal 后，输入 /plushies 即可进入毛绒玩具对应的登记领取流程，输入 /stickers 则可登记领取贴纸。</p><p style=\"text-align: center;\" data-vmark=\"dc07\"><img src=\"https://img.ithome.com/n",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/069.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T06:56:14.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-xgni4l",
-      "title": "把键盘做成传送带，谷歌 Gboard 日本团队一年一度的整活来了",
-      "desc": "<p data-vmark=\"fe63\">IT之家 10 月 1 日消息，谷歌 Gboard 日本团队今天发布了一年一度的“整活”产品，今年的创意是一款能够自己动起来的键盘。</p><p style=\"text-align: center;\" data-vmark=\"a4c0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b92fede-fe45-4669-9a40-c0338fe26643.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"959\" data-weibo",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/068.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T06:53:48.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xfjwxv",
-      "title": "《F1 25》领衔，索尼公布本月 PS Plus 欧美区三款会员免费游戏",
-      "desc": "<p data-vmark=\"6e26\">IT之家 10 月 1 日消息，当地时间 9 月 30 日，索尼 PlayStation 公布了本月面向所有 PlayStation Plus 会员档位提供的三款游戏（欧美区），PS5 版《F1 25》位列其中。</p><p data-vmark=\"14ff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8720afab-04a4-45c8-a9d5-088940f0a48f.jpg\" w=\"1088\" h=\"612\" alt=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/009/066.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T06:47:44.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-vh68zn",
-      "title": "淘宝补贴 30 元：WPS 京东 PLUS 联合会员发车，仅需 72 元 / 年",
-      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，叠加淘宝平台补贴后，仅需 288 元即可入手。</p><p data-vmark=\"6d9f\">联合会员含：<strong>京东 PLUS</strong> / 喜马拉雅 / 优酷视频 / 网易云音乐等。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?e=4foHmuGNie%2BlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkid",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/009/022.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T03:31:32.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
-      "verified": true
     }
   ]
 }
