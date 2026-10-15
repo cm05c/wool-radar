@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:45:42.801Z",
+  "updatedAt": "2026-10-15T21:19:52.531Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -230,23 +230,6 @@
       "_score": 3
     },
     {
-      "id": "rss-nq8v01",
-      "title": "微软开窍了？Win11 26H2 正式版这些「新功能」，每个都戳用户痛点…",
-      "desc": "最近微软正式向全球用户推送 Windows 11 26H2 正式版！大家可以下载升级了。说实话，这几年 Windows 的更新都是不痛不痒，但这次 26H2 终于将“隐藏的新功能”一次性点亮了。\n\n下载最新 Win11 原版安装镜像\n立即获取 Windows 11 激活码\n如果你一直在用 Windows 11 24H2 或 25H2，这次升级只需要下载一个几百 KB 的启…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/win11-26h2-features",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T18:20:26.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxcban",
       "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
       "desc": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
@@ -281,6 +264,57 @@
       "_score": 2
     },
     {
+      "id": "rss-dxne4g",
+      "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9\" target=\"_blank\" title=\"《烂奶酪》\">《烂奶酪》</a>，<a href=\"https://store.epicgames.c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/013/675.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T15:00:33.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-ddusrg",
+      "title": "2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9db7\">大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。</p><p data-vmark=\"ac4b\">京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDkS98h\" target=\"_blank\" data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/013/660.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T14:00:44.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-d1rbpi",
+      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%",
+      "desc": "<p data-vmark=\"9422\">苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。</p><p data-vmark=\"d4b7\">售价单件装 249 元，四件装 849 元。</p><p data-vmark=\"25ff\">今日京东国补后四件装 763 元，单枚约 191 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9b16\">京东无门槛红包至高 26888 元，支持即领即用：<a href=\"h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/659.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:50:16.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-hsdaal",
       "title": "5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿",
       "desc": "<p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"050e\">下单立减 1419 元；</p></li><li><p data-vmark=\"3a9f\">PLUS 会员立减 128.97 元；</p></li><li><p data-vmark=\"3bad\">领取 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_blank\" data-wapurl=\"http",
@@ -291,6 +325,40 @@
       "expiresAt": null,
       "publishedAt": "2026-10-15T07:01:47.000Z",
       "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-czk5c2",
+      "title": "首发 2699.1 元，极米 Z7X 4K 激光版光学变焦 4K 投影仪开售",
+      "desc": "<p data-vmark=\"7be3\">IT之家 10 月 15 日消息，极米 Z7X 4K 激光版光学变焦 4K 投影仪现已在京东开售。新品采用轻薄折叠形态，支持 VRR 可变刷新率和杜比音效，首发价 2699.1 元。</p><p style=\"text-align: center;\" data-vmark=\"911e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/401f88ba-ccb1-44a2-ac3f-98edc145bdd8.jpg?x-bce-process=image/format,f_auto\" w=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/655.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:29:38.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-chyqci",
+      "title": "首发 4049.1 元起，极米 RS30 系列投影仪开售",
+      "desc": "<p data-vmark=\"81fe\">IT之家 10 月 15 日消息，极米 RS30 系列投影仪现已在京东开售，新品拥有 RS30、RS30 高亮版、RS30 Pro 旗舰版、RS30 Ultra 高亮版、RS30 Ultra 旗舰版和 RS30 Ultra Max 旗舰版等型号，<strong>首发售价 4,049.1 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b5f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/61259031-f63c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/013/644.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T13:04:19.000Z",
+      "hot": 199,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -381,96 +449,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-dxne4g",
-      "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9\" target=\"_blank\" title=\"《烂奶酪》\">《烂奶酪》</a>，<a href=\"https://store.epicgames.c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/013/675.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T15:00:33.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-chyqci",
-      "title": "首发 4049.1 元起，极米 RS30 系列投影仪开售",
-      "desc": "<p data-vmark=\"81fe\">IT之家 10 月 15 日消息，极米 RS30 系列投影仪现已在京东开售，新品拥有 RS30、RS30 高亮版、RS30 Pro 旗舰版、RS30 Ultra 高亮版、RS30 Ultra 旗舰版和 RS30 Ultra Max 旗舰版等型号，<strong>首发售价 4,049.1 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b5f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/61259031-f63c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/644.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:04:19.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-d1rbpi",
-      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%",
-      "desc": "<p data-vmark=\"9422\">苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。</p><p data-vmark=\"d4b7\">售价单件装 249 元，四件装 849 元。</p><p data-vmark=\"25ff\">今日京东国补后四件装 763 元，单枚约 191 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9b16\">京东无门槛红包至高 26888 元，支持即领即用：<a href=\"h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/659.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:50:16.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-ddusrg",
-      "title": "2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低",
-      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9db7\">大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。</p><p data-vmark=\"ac4b\">京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDkS98h\" target=\"_blank\" data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/660.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T14:00:44.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-czk5c2",
-      "title": "首发 2699.1 元，极米 Z7X 4K 激光版光学变焦 4K 投影仪开售",
-      "desc": "<p data-vmark=\"7be3\">IT之家 10 月 15 日消息，极米 Z7X 4K 激光版光学变焦 4K 投影仪现已在京东开售。新品采用轻薄折叠形态，支持 VRR 可变刷新率和杜比音效，首发价 2699.1 元。</p><p style=\"text-align: center;\" data-vmark=\"911e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/401f88ba-ccb1-44a2-ac3f-98edc145bdd8.jpg?x-bce-process=image/format,f_auto\" w=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/655.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:29:38.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-36pz1d",
