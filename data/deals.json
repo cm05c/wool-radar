@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-15T21:19:52.531Z",
+  "updatedAt": "2026-10-15T23:51:19.732Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 32,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -2504,24 +2504,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-01T23:52:26.000Z",
       "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-lgxefx",
-      "title": "谷歌首次送先进芯片上天，估算 SpaceX 星舰发射 1800 次才能让太空数据中心“飞起来”",
-      "desc": "<p data-vmark=\"22ef\">IT之家 10 月 2 日消息，据外媒 TechCrunch 报道，当地时间 1 日，谷歌的在轨计算原型卫星搭乘 SpaceX 火箭，从美国加利福尼亚州升空，启动在地球轨道上建立大规模计算集群的“太阳捕手”项目。卫星由 Planet Labs 制造，用于验证谷歌的 Tensor 处理器能否在太空正常运行。测试需要持续供应 1kW 电力、给芯片散热，并运行一系列模型，检查有没有问题。</p><p data-vmark=\"8ebd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/n",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/198.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-01T23:41:50.000Z",
-      "hot": 208,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
