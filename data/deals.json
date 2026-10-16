@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:14:50.620Z",
+  "updatedAt": "2026-10-16T18:20:55.829Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-2c0bsl",
+      "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.appinn.com/videoproc-converter-ai-v7-8/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-16T06:49:54.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
+    },
     {
       "id": "rss-q2e89m",
       "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
@@ -247,6 +264,23 @@
       "_score": 5
     },
     {
+      "id": "rss-j8vg01",
+      "title": "七彩虹橘宝 R16 游戏本新增 AMD R7 H 255 + 16G + 512G + RTX 5060 配置，9999 元（国补 8499.15 元）",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 16 日消息，七彩虹 MEOW 橘宝 R16 游戏本新增了一款搭载 AMD 锐龙 7 H 255 处理器 + RTX 5060 显卡 +16GB 内存 + 512GB 固态硬盘的版本，京东原价 10299 元，首发立减 300 元，叠加国补后到手价为 8499.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6oZn6x\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fao7GBF\" data-iosur",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/014/156.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-16T12:48:30.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-zcye00",
       "title": "【20:00~20:15】淘宝 1.1 元大红包人人有份，华为 Pura 80 京东月黑风高限量秒杀",
       "desc": "<p data-vmark=\"2703\"><strong><span class=\"font-color-orangered\">淘宝 </span>无门槛红包至高 26888 元</strong>，每天抽 1 次：<a href=\"https://s.click.taobao.com/t?union_lens=lensId%3APUB%401792050488%402127ad07_0cd0_1a13e886619_b4ba%4001%40eyJmbG9vcklkIjozODg1Miiwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfYWN0aXZpdHlfb2ZmaWN",
@@ -262,42 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 7
-    },
-    {
-      "id": "rss-2c0bsl",
-      "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.appinn.com/videoproc-converter-ai-v7-8/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T06:49:54.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-j8vg01",
-      "title": "七彩虹橘宝 R16 游戏本新增 AMD R7 H 255 + 16G + 512G + RTX 5060 配置，9999 元（国补 8499.15 元）",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 16 日消息，七彩虹 MEOW 橘宝 R16 游戏本新增了一款搭载 AMD 锐龙 7 H 255 处理器 + RTX 5060 显卡 +16GB 内存 + 512GB 固态硬盘的版本，京东原价 10299 元，首发立减 300 元，叠加国补后到手价为 8499.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6oZn6x\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fao7GBF\" data-iosur",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/014/156.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T12:48:30.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-yrpsyt",
