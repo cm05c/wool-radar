@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:25:50.213Z",
+  "updatedAt": "2026-10-17T23:24:41.523Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -2469,24 +2469,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-y9hxx4",
-      "title": "苹果 Apple TV 为美国用户免费直播 2026 F1 巴林大奖赛：无需订阅即可观看，维斯塔潘、汉密尔顿排位前二",
-      "desc": "<p data-vmark=\"2dbc\">IT之家 10 月 4 日消息，2026 年 F1 巴林大奖赛将于今天 15:00 在马来西亚雪邦国际赛车场举行。苹果 Apple TV 宣布将免费直播本周末的巴林大奖赛，用户无需购买订阅即可观赛，覆盖练习赛、排位赛和正赛的完整赛程。</p><p data-vmark=\"3a0f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e3ad828b-3f77-4098-a450-d9f6d0444d0a.jpg\" w=\"1428\" h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/588.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T23:24:08.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
