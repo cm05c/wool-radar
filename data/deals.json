@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-17T12:56:51.368Z",
+  "updatedAt": "2026-10-17T16:23:04.695Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
     "fetched": 26,
     "linkVerified": true
@@ -213,6 +213,91 @@
       "_score": 3
     },
     {
+      "id": "rss-bkpdep",
+      "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
+      "desc": "<p data-vmark=\"82f1\">IT之家 10 月 17 日消息，泰坦军团现已在京东上架“G27W9S ULTRA”27 英寸显示器，该机主打 2K 320Hz，<strong>定价为 3221 元</strong>，部分地区国补后低至 2898 元。</p><p style=\"text-align: center;\" data-vmark=\"04f5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4556395-e1cd-4f48-93f6-9fab7fe17610.png?x-bce-process=imag",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/389.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:55:25.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-bii719",
+      "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。</p><p data-vmark=\"0002\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/3816030/DayZ_Badlands/\"><span class=\"l",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/385.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:37:50.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
+    },
+    {
+      "id": "rss-b20d8f",
+      "title": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿",
+      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><p data-vmark=\"8c11\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ecb1\">领 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/376.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:09:05.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-9nfan7",
+      "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
+      "desc": "<p data-vmark=\"8b61\">京东 PLUS + 网易云音乐联合会员年卡原价 414 元，现开启大促仅需 128 元，叠加 10 元平台补贴券，到手价 118 元：</p><p data-vmark=\"83fb\">活动时间：10 月 17 日 ~11 月 13 日</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/51Ls5XK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56LID0a\" data-iosurl=\"https://u.jd.com/5GLan7s\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/347.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T09:28:23.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-9k4j31",
+      "title": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额",
+      "desc": "<p data-vmark=\"8072\">IT之家 10 月 17 日消息，天猫宣布 2026 年度双十一活动将于 10 月 20 日晚 8 点开启，第一波 88VIP 消费券现已发放，共 7 张，折扣力度比去年更大，达到 8.7 折起，10 月 20 日晚 8 点开卖后就可以使用。</p><p data-vmark=\"f6cb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4726b626-1e12-46b2-9b35-3ee57020dbf6.jpg\" w=\"843",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/014/341.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T09:10:45.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-94qagx",
       "title": "经典 IP 新作《牧场物语：特拉迪亚的回响》发售，Steam 国区 170 元",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 17 日消息，经典模拟经营 IP《牧场物语》最新作《牧场物语：特拉迪亚的回响》（Harvest Moon®: Echoes of Teradea）现已正式发售，Steam 国区标准版定价为 ¥ 170，支持简体中文界面与字幕。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/3591180/Harvest_Moon_Echoes_of_Teradea/?l=schinese&amp;cc=cn\"><span class=\"link-text-start-with-http\"",
@@ -247,6 +332,24 @@
       "_score": 3
     },
     {
+      "id": "rss-meji3q",
+      "title": "倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元",
+      "desc": "<p data-vmark=\"28ee\">IT之家 10 月 17 日消息，倍思现已在京东上架 2026 新国标 45W 自带双线移动电源，该产品采用 2C+1A+1Lightning 设计，匹配 20000mAh 电芯，定价为 202 元，<strong>首发价 171 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OCFUdC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56CVNko\" data-iosurl=\"https://u.jd.com",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/405.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T14:20:45.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-7rslns",
       "title": "6499 → 4922 元：AOC AGP327UZD 叠曜版显示器新低，31.5 英寸 4K 240Hz 双模",
       "desc": "<p data-vmark=\"9422\">AOC AGP327UZD 叠曜版 32 英寸显示器开售于 2026 年 9 月，首发价 6499 元。</p><p data-vmark=\"4b93\">京东 11.11 大促期间，PLUS 立减 29.99 元，领取 500 元优惠券，焕新补贴立减 546.9 元，到手价 4922.11 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GdEKkd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GdpvSp\" data-ios",
@@ -262,96 +365,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6
-    },
-    {
-      "id": "rss-bkpdep",
-      "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
-      "desc": "<p data-vmark=\"82f1\">IT之家 10 月 17 日消息，泰坦军团现已在京东上架“G27W9S ULTRA”27 英寸显示器，该机主打 2K 320Hz，<strong>定价为 3221 元</strong>，部分地区国补后低至 2898 元。</p><p style=\"text-align: center;\" data-vmark=\"04f5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4556395-e1cd-4f48-93f6-9fab7fe17610.png?x-bce-process=imag",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/389.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T11:55:25.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bii719",
-      "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。</p><p data-vmark=\"0002\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/3816030/DayZ_Badlands/\"><span class=\"l",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/385.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T11:37:50.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-b20d8f",
-      "title": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><p data-vmark=\"8c11\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ecb1\">领 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/376.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T11:09:05.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-9nfan7",
-      "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
-      "desc": "<p data-vmark=\"8b61\">京东 PLUS + 网易云音乐联合会员年卡原价 414 元，现开启大促仅需 128 元，叠加 10 元平台补贴券，到手价 118 元：</p><p data-vmark=\"83fb\">活动时间：10 月 17 日 ~11 月 13 日</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/51Ls5XK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56LID0a\" data-iosurl=\"https://u.jd.com/5GLan7s\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/347.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T09:28:23.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-9k4j31",
-      "title": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额",
-      "desc": "<p data-vmark=\"8072\">IT之家 10 月 17 日消息，天猫宣布 2026 年度双十一活动将于 10 月 20 日晚 8 点开启，第一波 88VIP 消费券现已发放，共 7 张，折扣力度比去年更大，达到 8.7 折起，10 月 20 日晚 8 点开卖后就可以使用。</p><p data-vmark=\"f6cb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4726b626-1e12-46b2-9b35-3ee57020dbf6.jpg\" w=\"843",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/014/341.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T09:10:45.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
     },
     {
       "id": "rss-sfxlgt",
