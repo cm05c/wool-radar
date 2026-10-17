@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-17T08:47:54.911Z",
+  "updatedAt": "2026-10-17T12:56:51.368Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -227,8 +227,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-932wou",
@@ -245,8 +244,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-7rslns",
@@ -263,7 +261,96 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 6,
+      "_score": 6
+    },
+    {
+      "id": "rss-bkpdep",
+      "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
+      "desc": "<p data-vmark=\"82f1\">IT之家 10 月 17 日消息，泰坦军团现已在京东上架“G27W9S ULTRA”27 英寸显示器，该机主打 2K 320Hz，<strong>定价为 3221 元</strong>，部分地区国补后低至 2898 元。</p><p style=\"text-align: center;\" data-vmark=\"04f5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4556395-e1cd-4f48-93f6-9fab7fe17610.png?x-bce-process=imag",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/389.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:55:25.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-bii719",
+      "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。</p><p data-vmark=\"0002\">IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/3816030/DayZ_Badlands/\"><span class=\"l",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/385.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:37:50.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-b20d8f",
+      "title": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿",
+      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cfc3\">石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元：</p><p data-vmark=\"8c11\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ecb1\">领 8 折优惠券：<a href=\"https://u.jd.com/FrXP56s\" target=\"_",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/376.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T11:09:05.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9nfan7",
+      "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
+      "desc": "<p data-vmark=\"8b61\">京东 PLUS + 网易云音乐联合会员年卡原价 414 元，现开启大促仅需 128 元，叠加 10 元平台补贴券，到手价 118 元：</p><p data-vmark=\"83fb\">活动时间：10 月 17 日 ~11 月 13 日</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/51Ls5XK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56LID0a\" data-iosurl=\"https://u.jd.com/5GLan7s\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/347.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T09:28:23.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9k4j31",
+      "title": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额",
+      "desc": "<p data-vmark=\"8072\">IT之家 10 月 17 日消息，天猫宣布 2026 年度双十一活动将于 10 月 20 日晚 8 点开启，第一波 88VIP 消费券现已发放，共 7 张，折扣力度比去年更大，达到 8.7 折起，10 月 20 日晚 8 点开卖后就可以使用。</p><p data-vmark=\"f6cb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4726b626-1e12-46b2-9b35-3ee57020dbf6.jpg\" w=\"843",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/014/341.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T09:10:45.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
       "verified": true
     },
     {
@@ -2389,40 +2476,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-xxw6a7",
-      "title": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
-      "desc": "<p data-vmark=\"e7d8\">IT之家 10 月 3 日消息，模组作者 CircuitLord 宣布为经典 FPS 游戏《泰坦陨落 2》推出一款免费 VR 模组，为游戏加入头部追踪、武器瞄准、机甲武器控制以及手动换弹等功能，玩家可以通过 CircuitLord 制作的 Mod 安装器进行快速安装。</p><p data-vmark=\"045e\">除了头部追踪和 VR 武器瞄准外，玩家还可以利用手部控制器直接操作机甲武器，并使用体感手势动作为部分武器进行换弹，以取得更加沉浸式的效果。</p><p style=\"text-align: center;\" data-vmark=\"bfea",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/529.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T11:02:40.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-xu1m4o",
-      "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
-      "desc": "<p data-vmark=\"cae1\">IT之家 10 月 3 日消息，据央视新闻今日报道，目前正值国庆假期出行高峰，机场客流量大幅攀升，人员密集区域手机信号拥堵、流量消耗加快，成为不少旅客的困扰。但其实像首都机场、大兴机场等不少机场都为旅客提供了免费的 Wi-Fi 服务，那机场的免费 Wi-Fi 如何连接？有哪些注意事项呢？</p><p data-vmark=\"65ac\">按照相关法律规定，公共场所无线网络首次连接需要进行实名认证。为兼顾不同旅客的使用习惯，<strong>首都机场为旅客提供了 4 种便捷认证登录方式：</strong></p><ul class=\" list-paddin",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/522.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T09:59:54.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
