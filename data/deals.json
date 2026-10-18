@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T18:04:06.700Z",
+  "updatedAt": "2026-10-18T20:37:07.604Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -213,6 +213,40 @@
       "_score": 3
     },
     {
+      "id": "rss-iqj6np",
+      "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
+      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。</p><p data-vmark=\"add1\">部分地区支持政府补贴（例如<strong>广东</strong>），<strong>实付低至 382 元</strong>，评价后折合 372 元：</p><dir><a contenteditable=\"false\" href=\"https://u",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/619.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T15:47:03.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-ita5mi",
+      "title": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
+      "desc": "<p data-vmark=\"dc84\">华为 FreeClip 2 典藏版耳夹耳机今年 6 月 15 日正式开售，价格为 1499 元。</p><p data-vmark=\"5ac6\">今日京东可叠加 1200-100 元惊喜红包，大部分地区还可叠加政府补贴，实付 1146.8 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b549\">领京东超级惊喜红包：<a href=\"https://u.jd.com/5guGCaG\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/614.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T15:07:49.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-up239g",
       "title": "《艾希：续》制作人确认不会跳票，上市后计划推出免费 DLC",
       "desc": "<p data-vmark=\"06b8\">IT之家 10 月 18 日消息，国产横版动作游戏《艾希》续作《艾希：续》近日开启众筹，目前已筹集资金约 3700 万元。</p><p data-vmark=\"5bff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/27447058-c70b-4f53-b357-e3788257da3e.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"c2f5\" class=\"no-alt-i",
@@ -262,42 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-iqj6np",
-      "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
-      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。</p><p data-vmark=\"add1\">部分地区支持政府补贴（例如<strong>广东</strong>），<strong>实付低至 382 元</strong>，评价后折合 372 元：</p><dir><a contenteditable=\"false\" href=\"https://u",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/619.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-18T15:47:03.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ita5mi",
-      "title": "1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低",
-      "desc": "<p data-vmark=\"dc84\">华为 FreeClip 2 典藏版耳夹耳机今年 6 月 15 日正式开售，价格为 1499 元。</p><p data-vmark=\"5ac6\">今日京东可叠加 1200-100 元惊喜红包，大部分地区还可叠加政府补贴，实付 1146.8 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b549\">领京东超级惊喜红包：<a href=\"https://u.jd.com/5guGCaG\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/614.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-18T15:07:49.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-xi88fw",
