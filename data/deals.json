@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-17T23:24:41.523Z",
+  "updatedAt": "2026-10-18T01:31:06.872Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 26,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -262,6 +262,42 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-nvbr2e",
+      "title": "魅族 22 手机推送 Flyme AIOS 12.7.0.0A 稳定版升级，更新「超级 Aicy」助手等功能",
+      "desc": "<p data-vmark=\"de6d\">IT之家 10 月 18 日消息，FlymeAIOS 在 10 月 16 日宣布，<a href=\"https://www.ithome.com/1/013/811.htm\" target=\"_blank\">个人事务 AI 智能体超级 Aicy 开放首批内测名额</a>，10 月 16 日 14:00 起开始招募，10 月 19 日起系统陆续推送更新。</p><p style=\"text-align: center;\" data-vmark=\"66e8\"><img src=\"https://img.ithome.com/newsuploadfiles/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/438.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T00:29:38.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-nbj5pe",
+      "title": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
+      "desc": "<p data-vmark=\"6540\">IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。</p><p style=\"text-align: center;\" data-vmark=\"cc38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b75b7662-c343-4a46-87d8-4b43731e2724.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/423.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T23:40:06.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-b20d8f",
@@ -2452,24 +2488,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-xunhwd",
-      "title": "IT早报 1004：华为 Mate 90 Pro Max 性能解禁；高德回应“店铺未开业先收差评”；苹果 homeOS 细节曝光；联通 eSIM 线上办理资格开启“抽奖”模式...",
-      "desc": "<p data-vmark=\"01db\">“IT早报”时间，大家好，现在是 2026 年 10 月 4 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"c7a5\">1. 华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型</h2><p data-vmark=\"3e9d\">在 10 月 1 日的发布会上，华为年度旗舰 Mate 90 系列正式发布。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告。结果显示，新机能效提升明显，在部分游戏上已优于第五代骁龙 8 至尊版机型。>> <a ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/594.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-03T23:51:59.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
