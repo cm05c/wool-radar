@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-18T11:42:13.249Z",
+  "updatedAt": "2026-10-18T14:51:06.817Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -227,8 +227,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-vjukho",
@@ -245,26 +244,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xi88fw",
-      "title": "苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢",
-      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/56IQDld\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gIavzv\" data-iosurl=\"https://u.jd.com/5DIufGo\" data-androidurl=\"https://u.jd.com",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/513.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-18T07:24:18.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-vm1qv4",
@@ -277,6 +257,23 @@
       "expiresAt": null,
       "publishedAt": "2026-10-18T10:01:25.000Z",
       "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-xi88fw",
+      "title": "苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢",
+      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/56IQDld\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gIavzv\" data-iosurl=\"https://u.jd.com/5DIufGo\" data-androidurl=\"https://u.jd.com",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/513.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T07:24:18.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
