@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-18T01:31:06.872Z",
+  "updatedAt": "2026-10-18T06:34:44.261Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -213,6 +213,40 @@
       "_score": 3
     },
     {
+      "id": "rss-nvbr2e",
+      "title": "魅族 22 手机推送 Flyme AIOS 12.7.0.0A 稳定版升级，更新「超级 Aicy」助手等功能",
+      "desc": "<p data-vmark=\"de6d\">IT之家 10 月 18 日消息，FlymeAIOS 在 10 月 16 日宣布，<a href=\"https://www.ithome.com/1/013/811.htm\" target=\"_blank\">个人事务 AI 智能体超级 Aicy 开放首批内测名额</a>，10 月 16 日 14:00 起开始招募，10 月 19 日起系统陆续推送更新。</p><p style=\"text-align: center;\" data-vmark=\"66e8\"><img src=\"https://img.ithome.com/newsuploadfiles/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/438.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T00:29:38.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-nbj5pe",
+      "title": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
+      "desc": "<p data-vmark=\"6540\">IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。</p><p style=\"text-align: center;\" data-vmark=\"cc38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b75b7662-c343-4a46-87d8-4b43731e2724.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/423.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-17T23:40:06.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-meji3q",
       "title": "倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元",
       "desc": "<p data-vmark=\"28ee\">IT之家 10 月 17 日消息，倍思现已在京东上架 2026 新国标 45W 自带双线移动电源，该产品采用 2C+1A+1Lightning 设计，匹配 20000mAh 电芯，定价为 202 元，<strong>首发价 171 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OCFUdC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/56CVNko\" data-iosurl=\"https://u.jd.com",
@@ -262,42 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-nvbr2e",
-      "title": "魅族 22 手机推送 Flyme AIOS 12.7.0.0A 稳定版升级，更新「超级 Aicy」助手等功能",
-      "desc": "<p data-vmark=\"de6d\">IT之家 10 月 18 日消息，FlymeAIOS 在 10 月 16 日宣布，<a href=\"https://www.ithome.com/1/013/811.htm\" target=\"_blank\">个人事务 AI 智能体超级 Aicy 开放首批内测名额</a>，10 月 16 日 14:00 起开始招募，10 月 19 日起系统陆续推送更新。</p><p style=\"text-align: center;\" data-vmark=\"66e8\"><img src=\"https://img.ithome.com/newsuploadfiles/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/438.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-18T00:29:38.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-nbj5pe",
-      "title": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
-      "desc": "<p data-vmark=\"6540\">IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。</p><p style=\"text-align: center;\" data-vmark=\"cc38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b75b7662-c343-4a46-87d8-4b43731e2724.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-w",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/423.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T23:40:06.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-b20d8f",
@@ -2172,40 +2170,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-olzy0a",
-      "title": "赛博菩萨：Cloudflare宣布将成为免费公共CA 后续将为所有网站和服务提供免费TLS证书",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127163.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-04T02:21:07.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ykzk3z",
-      "title": "谷歌飘了？从10月9日起免费用户仅可使用Gemini Flash-Lite模型 高阶模型均需开会员",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127159.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-04T01:33:05.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
