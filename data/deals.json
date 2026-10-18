@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-18T06:34:44.261Z",
+  "updatedAt": "2026-10-18T11:42:13.249Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -211,6 +211,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-up239g",
+      "title": "《艾希：续》制作人确认不会跳票，上市后计划推出免费 DLC",
+      "desc": "<p data-vmark=\"06b8\">IT之家 10 月 18 日消息，国产横版动作游戏《艾希》续作《艾希：续》近日开启众筹，目前已筹集资金约 3700 万元。</p><p data-vmark=\"5bff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/27447058-c70b-4f53-b357-e3788257da3e.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"c2f5\" class=\"no-alt-i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/571.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T10:29:27.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-vjukho",
+      "title": "米家冰箱 Pro 仅 8 元 / 斤： 513L 京东 2999 → 1444 元新低，冷藏冷冻双系统",
+      "desc": "<p data-vmark=\"3a44\" style=\"text-align: left;\">小米 · 米家冰箱巨能装十字 513L 去年 1 月 1 日上市，这款冰箱拥有 60cm 机身、配备可调变温空间、支持小米澎湃智联，官方定价 2999 元、首发价 2499 元。</p><p data-vmark=\"4c01\">今日京东旗舰店（非京东自营）券后直降至 1478 元，以旧换新后<strong>仅需 1444 元</strong>。</p><p data-vmark=\"8a9e\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/557.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T10:04:11.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-xi88fw",
+      "title": "苹果 iPhone Duo 京东尊享权益套装上线，20998 元起 20:00 开抢",
+      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/56IQDld\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gIavzv\" data-iosurl=\"https://u.jd.com/5DIufGo\" data-androidurl=\"https://u.jd.com",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/513.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T07:24:18.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-vm1qv4",
+      "title": "奕境 X9 在华为松山湖开启交付，限时优惠价 27.98 万元起",
+      "desc": "<p data-vmark=\"009d\">IT之家 10 月 18 日消息，今日，奕境汽车在华为松山湖园区开启奕境 X9 全国批量交付，郭富城成为奕境 001 号车主。</p><p data-vmark=\"0a95\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9940cb1b-2db0-40f5-9934-11b863284f99.png\" w=\"638\" h=\"575\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%2",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/553.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T10:01:25.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-nvbr2e",
@@ -2435,23 +2507,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-lgqcoi",
-      "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
-      "desc": "<p data-vmark=\"c448\">IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格<strong>（不同授权店价格不一，下列价格仅供参考）</strong>，IT之家整理如下：</p><h3 data-vmark=\"e2cb\"><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/cd42f011-4a7b-4b08-827b-e529b3604a57.png?x-bce-process=ima",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/009/649.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-04T06:43:39.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
