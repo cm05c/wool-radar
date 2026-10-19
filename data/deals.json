@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-19T05:18:49.957Z",
+  "updatedAt": "2026-10-19T11:15:13.033Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -24,23 +24,6 @@
         "小众软件·限免频道"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-q2e89m",
-      "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T09:48:58.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-ghwgm6",
@@ -213,6 +196,166 @@
       "_score": 3
     },
     {
+      "id": "rss-iqj6np",
+      "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
+      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。</p><p data-vmark=\"add1\">部分地区支持政府补贴（例如<strong>广东、四川、吉林</strong>），<strong>实付低至 382 元</strong>，评价后折合 372 元：</p><dir><a contenteditable=\"false\" href=\"htt",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/619.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-18T15:47:03.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-usbcm9",
+      "title": "微软死磕优化？新版 Win11 提速 20%，比过去省出 2GB 内存",
+      "desc": "大家都知道，Windows 11 自发布以来，被广大网友吐槽最多的就是三个字：慢、卡、重。哪怕你是高配电脑，有时候点个鼠标右键、打开一下文件资源管理器，或者呼出开始菜单，都能感受到那种微妙的“笨重感”。\n\n下载最新 Windows11 镜像\n而对于还在坚守 8GB 内存 的轻薄本和配置较低的办公电脑来说，…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/news/6631",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T10:28:47.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-t0tgsi",
+      "title": "【限时加补限今日】59 元 / 年：WPS 京东 PLUS 联合会员 11.11 预售",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，预售券后价为 268 元。</p><p data-vmark=\"358d\">今日 10 月 19 日付定金再送 30 元京东 E 卡，折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/5GqZLbS\" target=\"_blank\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/995.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T10:57:43.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-s3a0lh",
+      "title": "“天下霸唱 IP 改编”悬疑探险真人互动影游《天坑追匪》Demo 上架 Steam，免费试玩",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 19 日消息，改编自“天下霸唱经典悬疑 IP”的首部悬疑探险真人互动影游《天坑追匪》试用版 Demo 现已登陆 Steam 平台，当前试玩版可免费下载体验。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4508040/_Demo/?l=schinese&amp;cc=cn\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/4508040/_Demo/</span>?l=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/976.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T10:13:18.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-s3tt6u",
+      "title": "国产 AI 历史模拟新游《崇祯模拟器 Demo》上架 Steam，免费试玩",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 19 日消息，个人开发者 ZHANG HANLIANG 制作的国产历史策略模拟游戏《崇祯模拟器 Demo》现已登陆 Steam 平台开启试玩，完整支持简体中文界面、字幕与音频。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/5121940/\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/5121940/</span></a>）。</p><p data-vmark=\"1",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/977.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T10:13:33.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-czhhrc",
+      "title": "魅族 22 手机限量补货开售：至高 3 期免息，16GB+512GB 国补价 3499 元起",
+      "desc": "<p data-vmark=\"69d4\">IT之家 10 月 19 日消息，魅族科技官方今日宣布，京东自营旗舰店，<strong>魅族 22 限量补货开售</strong>，至高享 3 期免息，叠加国补至高立减 500 元。</p><p data-vmark=\"ae13\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dae0acb2-22a3-4536-851d-6b5c12e71305.png?x-bce-process=image/format,f_auto\" w=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/869.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T08:07:51.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-r56rt3",
+      "title": "马斯克：明年向全美儿童赠送 SpaceX 股票",
+      "desc": "<p data-vmark=\"d889\">IT之家 10 月 19 日消息，埃隆 · 马斯克今日在 X 平台发布置顶消息，<strong>将在明年把自己的 SpaceX 股票送给美国的每个孩子</strong>，而这只是开始。</p><p data-vmark=\"1e51\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fba33e21-52c5-4015-a62a-6518be5ba8c1.png\" w=\"748\" h=\"508\" data-snap-from=\"%7B",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/956.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T09:30:00.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-dfzbk6",
+      "title": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
+      "desc": "<h2 data-vmark=\"9e43\" class=\"v-focus\">此为资源机，介意慎拍！</h2><p data-vmark=\"adc5\">iPhone 17 Pro Max 2TB 美版无锁<strong>权益机</strong>（双 esim）今日“京东数码海外自营旗舰店”裸机（不含数据线 + 京东包装非原封）直降至 9399 元。</p><p data-vmark=\"b7e7\">权益机 / 资源机是由苹果代工厂对苹果官方 7 天无理由退货以及产线上多余的原材料进行生产，经过产品工程师相应功能测试，且确保为 Apple 官方原装部件后，再由苹果全球合作伙伴进行销售。</p><p ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/878.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T08:32:42.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-q2e89m",
+      "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T09:48:58.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-26i7g9",
       "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
       "desc": "<p data-vmark=\"1dcd\">IT之家 10 月 19 日消息，一家专注于采集真实世界数据的 AI 实验室计划与房主合作，录制技术工人的作业过程，用来训练 AI 机器人。这家名为 HUMXN 的公司表示，将补贴管道、电工、暖通空调、风道清洁以及地毯清洁服务：有需求的居民可以免费获得这类服务，交换条件是允许佩戴“可穿戴采集设备”的人员进入家中开展录制。</p><p data-vmark=\"77f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6baed4af",
@@ -283,23 +426,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-iqj6np",
-      "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
-      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。</p><p data-vmark=\"add1\">部分地区支持政府补贴（例如<strong>广东</strong>），<strong>实付低至 382 元</strong>，评价后折合 372 元：</p><dir><a contenteditable=\"false\" href=\"https://u",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/619.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-18T15:47:03.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-ita5mi",
@@ -2588,23 +2714,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-05T13:25:39.000Z",
       "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-8awnsb",
-      "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
-      "desc": "<p data-vmark=\"9613\">IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。</p><p data-vmark=\"b639\">日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件收件人，并要求删除相关钓鱼邮件。同时，公司已向日本个人信息保护委员会报告，并正在调查此次事件的影响范围以及可能泄露的个人信息数量。</p><p data-vmark=\"9445\" styl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/009/855.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-05T09:56:25.000Z",
-      "hot": 156,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
