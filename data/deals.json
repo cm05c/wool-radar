@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:29:09.775Z",
+  "updatedAt": "2026-10-19T05:18:49.957Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -211,6 +211,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-26i7g9",
+      "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
+      "desc": "<p data-vmark=\"1dcd\">IT之家 10 月 19 日消息，一家专注于采集真实世界数据的 AI 实验室计划与房主合作，录制技术工人的作业过程，用来训练 AI 机器人。这家名为 HUMXN 的公司表示，将补贴管道、电工、暖通空调、风道清洁以及地毯清洁服务：有需求的居民可以免费获得这类服务，交换条件是允许佩戴“可穿戴采集设备”的人员进入家中开展录制。</p><p data-vmark=\"77f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6baed4af",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/014/758.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T04:11:18.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-2o3mft",
+      "title": "快狗打车拟 1 元出售中国内地业务，并更名“GOGO 科技”",
+      "desc": "<p data-vmark=\"0f55\">IT之家 10 月 19 日消息，快狗打车控股有限公司 10 月 16 日发布公告，<strong>宣布拟以人民币 1.00 元出售全资附属公司 GGEx Holdings Limited 全部已发行股本</strong>，并建议将公司中文名称由“快狗打车控股有限公司”更改为“GOGO 科技”。</p><p data-vmark=\"4c58\">出售完成后，<strong>集团将不再以“快狗打车”品牌在中国内地经营任何业务</strong>，业务将转为专注香港及其他海外市场，并以“GOGOX”品牌经营。</p><p data-vmark=\"5814\" s",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/747.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T03:39:45.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-4mhae1",
+      "title": "京东自营联通补贴购：iPhone 17 手机国补后 5170 元近期好价",
+      "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，11.11 大促期间，今日联通京东自营旗舰店补贴价 5699 元，国补立减 500 元，PLUS 会员立减 28.49 元，到手价为 5170.51 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56smCQw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as71Ud\" data-iosurl=\"https://u.jd.com/51bLtgN\" data-andr",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/014/703.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T02:23:19.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 8,
+      "verified": true
+    },
+    {
+      "id": "rss-fwt8vw",
+      "title": "B站限量发车：京东 PLUS 联名年卡 148 元、大会员 99 元、超级大会员 155 元预售",
+      "desc": "<h2 data-vmark=\"7665\"><span class=\"font-color-red\">20 日 10 点开始</span></h2><p data-vmark=\"9762\">B站大会员年卡原价 233 元，<span class=\"font-color-red\"><strong>20 日 10 点</strong></span>，直降至 118 元 + 限时加赠 1 个月；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"de06\">先领 10 元券</p></li></ul><p data-vmark=\"d29b\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/678.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T02:10:21.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-iqj6np",
