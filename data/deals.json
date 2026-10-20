@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:08:43.108Z",
+  "updatedAt": "2026-10-20T20:33:39.222Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-8688tv",
+      "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/workbuddy-education/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T13:57:37.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-9simgv",
       "title": "腾讯 WorkBuddy 免费白嫖 DeepSeek 新模型 (国产 Codex / Claude Code 替代)",
@@ -213,19 +230,104 @@
       "_score": 3
     },
     {
-      "id": "rss-xoyskq",
-      "title": "闲置电脑别吃灰！TinyPlay 秒变客厅电视盒子 (开源免费/投屏/手机当遥控器)",
-      "desc": "家里有台吃灰闲置的 Windows 笔记本、NUC、迷你主机或者 Mac mini 吗？放着也是浪费，不如通过 TinyPlay 让它们重新上岗，一秒变成一台客厅电视盒子用来看片或投屏吧。\n市面上大多数电视盒子都是安卓 Android 系统，省心是省心，但始终没有电脑端播放器那么强大，比如要连接家里的 NAS 播放 HDR / 杜比视界等高清原盘片源、或看自定义直播源的时候，各种限制就来了。用电脑接电视倒是自由，但痛点是在客厅用键盘鼠标，体验非常糟糕……\n「 前往查看原文.... 」异次元还有这些值得一看：VidHub 追剧看片利器！自动生成精美影视库 / 聚合播放网盘视频资源 (HDR 杜比",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/tinyplay.html",
+      "id": "rss-bhby9t",
+      "title": "小米智能门锁 5 Max 系列官宣全新升级服务标准，整机保修从 3 年提升至 5 年等",
+      "desc": "<p data-vmark=\"7735\">IT之家 10 月 20 日消息，小米智能生态今日宣布，小米智能门锁 5 Max 系列全新升级服务标准：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"201c\"><strong>整机保修从 3 年升级至 5 年</strong></p></li><li><p data-vmark=\"2389\"><strong>一站式免费送拆装</strong>，24 小时服务保障</p></li><li><p data-vmark=\"1bf9\"><strong",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/015/597.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-06T17:32:31.000Z",
-      "hot": 220,
+      "publishedAt": "2026-10-20T14:40:08.000Z",
+      "hot": 198,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-bgs5og",
+      "title": "首发价 2199 元 → 1699 元：优派 24 英寸 4K 160Hz 显示器 VX24G26J 新低",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d589\">优派（ViewSonic）VX24G26J-4K 显示器 2026 年 5 月开售，首发价 2199 元。</p><p data-vmark=\"9342\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减后仅需 1699.61 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e3bd\">领 9 折券：<a href=\"https://u.jd.com/5Dr31vj\" targe",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/015/596.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T14:34:09.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-b0u4gz",
+      "title": "iPhone 18 Pro Max 换新立减 1300 元实付 9699 元 12 期免息，旧机估值满 20 元即可",
+      "desc": "<p data-vmark=\"1b75\">iPhone 18 Pro Max 上市价 10999 元，iPhone 18 Pro上市价 9999 元，今日京东 11.11 直降 300 元。</p><p data-vmark=\"c0f3\">以旧换新（非数码类估值<strong>满 20 元即可</strong>）政府补贴 10%，单笔补贴上限 1000 元，仅需<strong> 8729 元 / 9699 元起 12 期免息</strong>。</p><p data-vmark=\"0e48\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/015/588.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T14:11:54.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7
+    },
+    {
+      "id": "rss-b1dx2c",
+      "title": "999 → 551 元：小米 Sound Pro 智能音箱再降价，40W 低音 + 哈曼联合调校",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"396e\">小米 Sound Pro 智能音箱发售于 2022 年 12 月，官方上市价 999 元。</p><p data-vmark=\"8ed8\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 551.17 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0053\">领 8.6 折券：<a href=\"https://u.jd.com/5grIdVV\" target=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.6 折",
+      "url": "https://www.ithome.com/1/015/589.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T14:15:09.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-az6qow",
+      "title": "苹果 AirPods 5 全国国补开启：京东自营 999 → 755 元，支持主动降噪",
+      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51riZBc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GgF1yj\" data-ios",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/015/585.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T14:00:10.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-a2qvol",
+      "title": "429 → 207 元破冰新低：腾达泰山 BE7200 Ultra 路由器国补直降，五天线设计、9 颗 FEM",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"7e7e\">腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。</p><p data-vmark=\"c859\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 207.76 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"93d4\">领 480-60 元 PLUS 补贴券：<a h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/015/568.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T13:14:47.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 3
     },
@@ -247,167 +349,6 @@
       "_score": 2
     },
     {
-      "id": "rss-l4n8fn",
-      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127485.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-8688tv",
-      "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/workbuddy-education/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T13:57:37.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-bhby9t",
-      "title": "小米智能门锁 5 Max 系列官宣全新升级服务标准，整机保修从 3 年提升至 5 年等",
-      "desc": "<p data-vmark=\"7735\">IT之家 10 月 20 日消息，小米智能生态今日宣布，小米智能门锁 5 Max 系列全新升级服务标准：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"201c\"><strong>整机保修从 3 年升级至 5 年</strong></p></li><li><p data-vmark=\"2389\"><strong>一站式免费送拆装</strong>，24 小时服务保障</p></li><li><p data-vmark=\"1bf9\"><strong",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/015/597.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T14:40:08.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-bgs5og",
-      "title": "首发价 2199 元 → 1699 元：优派 24 英寸 4K 160Hz 显示器 VX24G26J 新低",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d589\">优派（ViewSonic）VX24G26J-4K 显示器 2026 年 5 月开售，首发价 2199 元。</p><p data-vmark=\"9342\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减后仅需 1699.61 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e3bd\">领 9 折券：<a href=\"https://u.jd.com/5Dr31vj\" targe",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/015/596.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T14:34:09.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-b0u4gz",
-      "title": "iPhone 18 Pro Max 换新立减 1300 元实付 9699 元 12 期免息，旧机估值满 20 元即可",
-      "desc": "<p data-vmark=\"1b75\">iPhone 18 Pro Max 上市价 10999 元，iPhone 18 Pro上市价 9999 元，今日京东 11.11 直降 300 元。</p><p data-vmark=\"c0f3\">以旧换新（非数码类估值<strong>满 20 元即可</strong>）政府补贴 10%，单笔补贴上限 1000 元，仅需<strong> 8729 元 / 9699 元起 12 期免息</strong>。</p><p data-vmark=\"0e48\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/015/588.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T14:11:54.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7,
-      "verified": true
-    },
-    {
-      "id": "rss-a2qvol",
-      "title": "429 → 207 元破冰新低：腾达泰山 BE7200 Ultra 路由器国补直降，五天线设计、9 颗 FEM",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"7e7e\">腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。</p><p data-vmark=\"c859\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 207.76 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"93d4\">领 480-60 元 PLUS 补贴券：<a h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/015/568.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T13:14:47.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-91wnxe",
-      "title": "46mm 款 3399 → 2619 元：苹果 Apple Watch Series 12 国补直降",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"2ea8\">苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元。</p><p data-vmark=\"4492\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2619.71 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3e07\">点击下方卡片，可领 300 元券。</p></li></ul",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/015/543.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T12:23:11.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-b1dx2c",
-      "title": "999 → 551 元：小米 Sound Pro 智能音箱再降价，40W 低音 + 哈曼联合调校",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"396e\">小米 Sound Pro 智能音箱发售于 2022 年 12 月，官方上市价 999 元。</p><p data-vmark=\"8ed8\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 551.17 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0053\">领 8.6 折券：<a href=\"https://u.jd.com/5grIdVV\" target=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8.6 折",
-      "url": "https://www.ithome.com/1/015/589.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T14:15:09.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-az6qow",
-      "title": "苹果 AirPods 5 全国国补开启：京东自营 999 → 755 元，支持主动降噪",
-      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51riZBc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5GgF1yj\" data-ios",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/015/585.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T14:00:10.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-957fhk",
       "title": "Apple Watch 表带支持政府补贴：米兰尼斯表带 666 元直降，钛金属版 9 折 1512 元",
       "desc": "<p data-vmark=\"eab1\">Apple Watch 表带今日支持 10% 政府补贴，多款皆为好价，部分热门尺码有些地区已售罄。</p><p data-vmark=\"f1f7\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/5rgsrAi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5DgvA0W\" data-iosurl=\"https://u.jd.com/5agbCWW\" data-androidurl=\"https://u.jd.com/5OgQqzZ\"",
@@ -422,8 +363,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
-      "verified": true
+      "_score": 4
     },
     {
       "id": "rss-94nmw7",
@@ -440,8 +380,41 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
+    },
+    {
+      "id": "rss-91wnxe",
+      "title": "46mm 款 3399 → 2619 元：苹果 Apple Watch Series 12 国补直降",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"2ea8\">苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元。</p><p data-vmark=\"4492\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2619.71 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3e07\">点击下方卡片，可领 300 元券。</p></li></ul",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/015/543.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T12:23:11.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-l4n8fn",
+      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127485.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-2c0bsl",
