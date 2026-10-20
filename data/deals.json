@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T20:33:39.222Z",
+  "updatedAt": "2026-10-20T23:23:51.345Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 30,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -349,6 +349,23 @@
       "_score": 2
     },
     {
+      "id": "rss-l4n8fn",
+      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127485.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-957fhk",
       "title": "Apple Watch 表带支持政府补贴：米兰尼斯表带 666 元直降，钛金属版 9 折 1512 元",
       "desc": "<p data-vmark=\"eab1\">Apple Watch 表带今日支持 10% 政府补贴，多款皆为好价，部分热门尺码有些地区已售罄。</p><p data-vmark=\"f1f7\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/5rgsrAi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5DgvA0W\" data-iosurl=\"https://u.jd.com/5agbCWW\" data-androidurl=\"https://u.jd.com/5OgQqzZ\"",
@@ -398,23 +415,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-l4n8fn",
-      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127485.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-2c0bsl",
