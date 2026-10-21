@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T23:23:51.345Z",
+  "updatedAt": "2026-10-21T02:01:12.633Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
@@ -230,6 +230,23 @@
       "_score": 3
     },
     {
+      "id": "rss-l4n8fn",
+      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127485.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-bhby9t",
       "title": "小米智能门锁 5 Max 系列官宣全新升级服务标准，整机保修从 3 年提升至 5 年等",
       "desc": "<p data-vmark=\"7735\">IT之家 10 月 20 日消息，小米智能生态今日宣布，小米智能门锁 5 Max 系列全新升级服务标准：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"201c\"><strong>整机保修从 3 年升级至 5 年</strong></p></li><li><p data-vmark=\"2389\"><strong>一站式免费送拆装</strong>，24 小时服务保障</p></li><li><p data-vmark=\"1bf9\"><strong",
@@ -345,23 +362,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-l4n8fn",
-      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127485.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
