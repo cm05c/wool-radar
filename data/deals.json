@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T02:01:12.633Z",
+  "updatedAt": "2026-10-21T07:33:36.999Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -245,6 +245,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-gzdhzw",
+      "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，车速 139.1km/h",
+      "desc": "<p data-vmark=\"c29f\">IT之家 10 月 21 日消息，问界用户服务官方今日（10 月 21 日）发布关于陕西省榆林神木市车辆事故的说明。IT之家附全文如下：</p><blockquote><p data-vmark=\"8510\">2026 年 10 月 17 日 23 点 25 分左右，一辆问界汽车在榆林神木市发生碰撞后起火。碰撞发生后，<strong>车辆紧急呼叫（eCALL）系统即时触发并接通</strong>，同时问界道路救援中心拨打 122 上报事故信息，协助开展救援。对于此次意外事故，我们深表痛心。</p><p data-vmark=\"e4ab\">经初步核实：<",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/015/864.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-21T07:06:15.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-itwlsl",
+      "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
+      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51ylGcS\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51yAaXs\" data-ios",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/015/827.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-21T06:07:23.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-bhby9t",
@@ -3184,23 +3220,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-07T09:10:15.000Z",
       "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-tfhajj",
-      "title": "1110 元：雷神推出 ZQ25F280 显示器，24.5 英寸 2K 280Hz Fast IPS 面板",
-      "desc": "<p data-vmark=\"7864\">IT之家 10 月 7 日消息，雷神 ZQ25F280 电竞显示器现已在京东开售，新品采用 24.5 英寸 Fast IPS 面板，最高刷新率可达 280Hz，<strong>售价 1110 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fb60\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c802e461-413b-455e-93b5-c2dbc29d1b00.jpg?x-bce-process=image/f",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/206.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-07T06:59:04.000Z",
-      "hot": 216,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
