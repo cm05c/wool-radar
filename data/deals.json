@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:33:36.999Z",
+  "updatedAt": "2026-10-21T13:13:22.137Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -230,6 +230,23 @@
       "_score": 3
     },
     {
+      "id": "rss-itwlsl",
+      "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
+      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51ylGcS\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51yAaXs\" data-ios",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/015/827.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-21T06:07:23.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-l4n8fn",
       "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
       "desc": "",
@@ -247,6 +264,24 @@
       "_score": 2
     },
     {
+      "id": "rss-kqjugx",
+      "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
+      "desc": "<p data-vmark=\"c381\">IT之家 10 月 21 日消息，老牌终端软件 Xshell 宣布，<strong>正式登陆华为鸿蒙 HarmonyOS 系统</strong>。用户可前往华为应用市场（AppGallery）下载 Xshell 鸿蒙版。</p><p data-vmark=\"8b45\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3698e924-14e1-433a-b6d3-0abcef6ea93b.jpg\" w=\"1440\" h=\"923\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/099.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-21T12:06:57.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-gzdhzw",
       "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，车速 139.1km/h",
       "desc": "<p data-vmark=\"c29f\">IT之家 10 月 21 日消息，问界用户服务官方今日（10 月 21 日）发布关于陕西省榆林神木市车辆事故的说明。IT之家附全文如下：</p><blockquote><p data-vmark=\"8510\">2026 年 10 月 17 日 23 点 25 分左右，一辆问界汽车在榆林神木市发生碰撞后起火。碰撞发生后，<strong>车辆紧急呼叫（eCALL）系统即时触发并接通</strong>，同时问界道路救援中心拨打 122 上报事故信息，协助开展救援。对于此次意外事故，我们深表痛心。</p><p data-vmark=\"e4ab\">经初步核实：<",
@@ -262,24 +297,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-itwlsl",
-      "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
-      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51ylGcS\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51yAaXs\" data-ios",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/015/827.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-21T06:07:23.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -3208,23 +3225,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-rmlkix",
-      "title": "《战锤 40K：星际战士 2》游戏免费周年庆更新上线：新增衍生全新围城模式、武器等",
-      "desc": "<p data-vmark=\"0b8c\">IT之家 10 月 7 日消息，发行商 Focus Entertainment 近日宣布，《战锤 40K：星际战士 2》游戏免费周年庆更新现已推出，本次更新带来衍生全新围城模式、全新成长机制、武器、护甲，以及第三赛季通行证的首批两款 DLC。</p><p style=\"text-align: center;\" data-vmark=\"295e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e4f649fe-9180-4e13-ae3b-9ef3e826a5c1.jpg?x-bce-p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/240.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-07T09:10:15.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
