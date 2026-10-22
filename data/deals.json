@@ -1,30 +1,13 @@
 {
-  "updatedAt": "2026-10-22T00:40:03.857Z",
+  "updatedAt": "2026-10-22T05:23:12.628Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 20,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-8688tv",
-      "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/workbuddy-education/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T13:57:37.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-9simgv",
       "title": "腾讯 WorkBuddy 免费白嫖 DeepSeek 新模型 (国产 Codex / Claude Code 替代)",
@@ -230,6 +213,58 @@
       "_score": 3
     },
     {
+      "id": "rss-l4n8fn",
+      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127485.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-6mrgu7",
+      "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
+      "desc": "<p data-vmark=\"d621\">IT之家 10 月 22 日消息，Microsoft（微软）XBOX 当地时间昨日宣布启动云游戏单独付费的预览体验，XBOX Insider 会员有机会在 11 月正式上线前<strong>抢先体验这一无需 Game Pass 订阅即可使用云游戏服务的新机制</strong>。</p><p data-vmark=\"a410\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b0d4789-e431-4090-9d2e-14364b",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/253.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T02:39:27.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-8688tv",
+      "title": "全国老师都能领：腾讯送出一年 AI 助手，备课、做 PPT 都能用",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/workbuddy-education/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T13:57:37.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-fwt8vw",
       "title": "B站限量发车：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
       "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gseTBx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as9L3S\" data-iosurl=\"https://u.jd.com/5DscTU1\" data-androidurl=\"https://u.jd.com/5asH03n\" data-hosnexturl",
@@ -260,23 +295,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-l4n8fn",
-      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127485.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -3150,42 +3168,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-1v559e",
-      "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 8 日消息，经典动作 Roguelike 续作《霓虹深渊 2》今日正式发售，同步登陆 Steam、PS5、Xbox Series X|S、微软商店及任天堂 Switch 平台（系列首次登陆 PS5 和 Switch），首发加入 XGP，支持中文；手游同日在 TapTap 开启公测。</p><p data-vmark=\"1e24\">本作由 Veewo Games 开发并联合 Kepler Ghost 发行，Steam 国区原价 58 元，首发特惠 46.40 元。手游采用<strong>免费下载、付费解锁</strong>的买断制，与",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/449.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-08T04:13:08.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-ayq15y",
-      "title": "AMD 向 \"RDNA 3/4\" 独立显卡推送支持 ROCm 10.1 的驱动程序",
-      "desc": "<p data-vmark=\"fbf1\">IT之家 10 月 8 日消息，AMD 当地时间本月 5 日向 Radeon RX 9000 系列、Radeon RX 7900 / 7800 / 7700 / 7600 系列、Radeon AI PRO R9700 显卡提供了新版 AMD Software: Adrenalin Edition。</p><p data-vmark=\"ccba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/504f21b6-637d-454d-a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/386.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-08T01:42:42.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
