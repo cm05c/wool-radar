@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T21:58:30.131Z",
+  "updatedAt": "2026-10-22T00:40:03.857Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -230,6 +230,23 @@
       "_score": 3
     },
     {
+      "id": "rss-fwt8vw",
+      "title": "B站限量发车：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gseTBx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as9L3S\" data-iosurl=\"https://u.jd.com/5DscTU1\" data-androidurl=\"https://u.jd.com/5asH03n\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/678.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T02:10:21.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-8i4n6o",
       "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
       "desc": "<p data-vmark=\"c5fc\">IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</p><p style=\"text-align: center;\" data-vmark=\"8eb1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a8efa3d-3873",
@@ -243,6 +260,23 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-l4n8fn",
+      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127485.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-20T06:00:00.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -277,23 +311,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-l4n8fn",
-      "title": "微软向更多Windows 11用户推送蓝牙改进 涉及配对、重新连接、通话和稳定性",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127485.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T06:00:00.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -1032,24 +1049,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 8,
-      "verified": true
-    },
-    {
-      "id": "rss-fwt8vw",
-      "title": "B站限量发车：京东 PLUS 联名年卡 148 元、大会员 99 元、超级大会员 155 元预售",
-      "desc": "<h2 data-vmark=\"7665\"><span class=\"font-color-red\">20 日 10 点开始</span></h2><p data-vmark=\"9762\">B站大会员年卡原价 233 元，<span class=\"font-color-red\"><strong>20 日 10 点</strong></span>，直降至 118 元 + 限时加赠 1 个月；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"de06\">先领 10 元券</p></li></ul><p data-vmark=\"d29b\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/678.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T02:10:21.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -3187,42 +3186,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-dchxqa",
-      "title": "微软 Win11 搜索里程碑式升级：内联操作支持改深色模式，控制手机发送短信等",
-      "desc": "<p data-vmark=\"94f3\">IT之家 10 月 8 日消息，微软昨日（10 月 7 日）发布博文，邀请 Windows Insider 项目成员，<a target=\"_blank\" href=\"https://www.ithome.com/1/010/317.htm\">在 Windows 11 最新预览版中</a>，体验基于 WinUI 3 重构的全新 Windows 搜索体验。</p><p data-vmark=\"02d4\">定位方面，微软表示本次重构 Windows 搜索体验，带来“从搜索到执行”的里程碑式升级，是推动现代化 Windows 核心体验战略的关键一环。早期测试",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/335.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-07T22:35:09.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-de5bid",
-      "title": "微软 Win10/Win11 新版 Outlook 本月将上线自动拼写检查，发送前自动校对",
-      "desc": "<p data-vmark=\"3c52\">IT之家 10 月 8 日消息，科技媒体 NeoWin 昨日（10 月 7 日）发布博文，报道称微软计划 10 月开始，<strong>面向新版 Outlook（Windows 版与网页版）推出自动拼写检查功能，用户可在发送前自动完成拼写校对。</strong></p><p data-vmark=\"d598\">IT之家援引博文介绍，用户可在设置中开启“发送前自动检查拼写”，启用后系统将在每次发送邮件前自动执行拼写校对。该功能依赖 Microsoft Editor（微软编辑器）能力，并纳入 Office 互联体验体系，需保持联网与相关权限开启。</p><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/332.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-07T22:26:08.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
