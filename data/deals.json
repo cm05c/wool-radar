@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-10-22T15:39:03.281Z",
+  "updatedAt": "2026-10-22T19:30:05.898Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-lgz2r4",
+      "title": "CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/cloudcone-50p-26/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T13:37:30.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-9simgv",
       "title": "腾讯 WorkBuddy 免费白嫖 DeepSeek 新模型 (国产 Codex / Claude Code 替代)",
@@ -196,19 +213,36 @@
       "_score": 5
     },
     {
-      "id": "rss-2c9dd8",
-      "title": "Scrcpy 5 - 开源免费在电脑显示手机画面并控制安卓手机工具 (投屏/录屏/镜像/免Root)",
-      "desc": "如果想在电脑上使用 Android 应用/玩游戏，除了用安卓模拟器、MuMu、BlueStack 等模拟器跑安卓系统外，也可借助类似 Anlink 或品牌提供的工具将手机画面投屏到电脑上显示和控制。\n并非所有品牌都提供投屏功能，Scrcpy 正是一款开源免费“通用”且功能却更强大的安卓手机屏幕画面投屏+控制软件！它跨平台支持 Win、Mac、Linux，可通过 USB 数据线 (或 WiFi) 连接，将整个手机系统或指定某个 APP 的画面投屏到电脑上显示，并使用键盘鼠标远程控制手机……\n「 前往查看原文.... 」异次元还有这些值得一看：Escrcpy - 免费开源！电脑控制安卓手机的投屏工",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/scrcpy.html",
+      "id": "rss-8j506e",
+      "title": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 22 日消息，Epic 本周送出的游戏是《斯盖尔仪式》（Sker Ritual），《归家》（Home - A Unique Horror Adventure），下周送出的游戏是《Sorry We're Closed》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sker-ritual-aac702\" target=\"_blank\" title=\"《斯盖尔仪式》\">《斯盖尔仪式》</a>，<a href=\"https://stor",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/016/744.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-08T18:50:38.000Z",
-      "hot": 150,
+      "publishedAt": "2026-10-22T15:00:25.000Z",
+      "hot": 156,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-82n6dk",
+      "title": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
+      "desc": "<p data-vmark=\"e700\">IT之家 10 月 22 日消息，据 TomsHardware 今日报道，日本兵库县警方 10 月 15 日逮捕了一对外国籍夫妇。两人涉嫌利用酒店 Wi-Fi 发送钓鱼邮件，并被指控盗用他人信用卡。</p><p data-vmark=\"72ce\">据日本《神户新闻》、朝日电视台等媒体报道，警方在涉案电脑中发现约 48 万条钓鱼邮件发送记录，以及约 240 万个电子邮件地址。</p><p data-vmark=\"6699\">报道称，涉案男子于 2025 年 5 月 15 日涉嫌伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方，并将其连接至酒店 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/735.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T14:37:44.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 3
     },
@@ -228,60 +262,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-8j506e",
-      "title": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 22 日消息，Epic 本周送出的游戏是《斯盖尔仪式》（Sker Ritual），《归家》（Home - A Unique Horror Adventure），下周送出的游戏是《Sorry We're Closed》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sker-ritual-aac702\" target=\"_blank\" title=\"《斯盖尔仪式》\">《斯盖尔仪式》</a>，<a href=\"https://stor",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/016/744.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T15:00:25.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-82n6dk",
-      "title": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
-      "desc": "<p data-vmark=\"e700\">IT之家 10 月 22 日消息，据 TomsHardware 今日报道，日本兵库县警方 10 月 15 日逮捕了一对外国籍夫妇。两人涉嫌利用酒店 Wi-Fi 发送钓鱼邮件，并被指控盗用他人信用卡。</p><p data-vmark=\"72ce\">据日本《神户新闻》、朝日电视台等媒体报道，警方在涉案电脑中发现约 48 万条钓鱼邮件发送记录，以及约 240 万个电子邮件地址。</p><p data-vmark=\"6699\">报道称，涉案男子于 2025 年 5 月 15 日涉嫌伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方，并将其连接至酒店 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/735.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T14:37:44.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-lgz2r4",
-      "title": "CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/cloudcone-50p-26/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T13:37:30.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-5lgoon",
