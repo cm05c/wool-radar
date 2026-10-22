@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T05:23:12.628Z",
+  "updatedAt": "2026-10-22T10:38:11.150Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 4,
+    "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,42 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-6lr3uh",
+      "title": "荣耀 MagicOS 11 第三批内测 log 版本今晚推送，覆盖 Robot Phone、Magic5 系列等 28 款机型",
+      "desc": "<p data-vmark=\"c161\">IT之家 10 月 22 日消息，荣耀产品维护与升级 @荣耀小芳哥 刚刚发布推送预告，<strong>宣布第三批内测 log 版本今日推送、第二批内测机型开启升级尝鲜</strong>（升级路径：设置 > 系统和更新 > 软件更新 > 右上角三个点 > 升级尝鲜）。</p><p style=\"text-align: center;\" data-vmark=\"985a\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/0d957a4f-37ee-4fc1-bb0d-3ef85799458a",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/635.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T10:18:27.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-6nya7x",
+      "title": "【20:00 开抢】iPhone Duo 京东 + 1999 元轻享套装蹲点抢，京东淘宝 1.1 元大红包不限量",
+      "desc": "<p data-vmark=\"f369\">全网 11.11 狂促今晚 20:00 重磅加码，数码家电、日用百货、服装鞋帽皆为年内好价。</p><p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/5OOxTni\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5aBuBuH\" data-hosnexturl=\"https://u.jd.com/5rB8pWl\" data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1.1 元无门槛",
+      "url": "https://www.ithome.com/1/016/631.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T10:10:10.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
     },
     {
       "id": "rss-6mrgu7",
@@ -3145,24 +3181,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-08T22:48:31.000Z",
       "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-umhqkd",
-      "title": "比亚迪大唐首次 OTA 开启推送：新增生态智能体服务、路面预瞄等功能",
-      "desc": "<p data-vmark=\"41dd\">IT之家 10 月 8 日消息，比亚迪今日宣布全尺寸闪充旗舰 SUV 大唐首次 OTA 开启推送，带来 28 项功能新增，19 项功能优化。</p><p style=\"text-align: center;\" data-vmark=\"919a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a3f4a656-505b-4176-87be-1671d19f62d6.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1502\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/631.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-08T09:20:52.000Z",
-      "hot": 217,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
