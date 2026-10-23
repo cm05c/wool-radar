@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-23T01:27:30.719Z",
+  "updatedAt": "2026-10-23T06:28:12.707Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -211,6 +211,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-up7eew",
+      "title": "首发价 3299 → 2171 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力 + 蒸汽热水混洗",
+      "desc": "<h3 data-vmark=\"3c06\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"307e\">石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。</p><p data-vmark=\"dbeb\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2171.75 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1fcf\">领 200",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/016/999.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T06:18:56.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-usi5z2",
+      "title": "2399 → 1223 元国补直降：石头 A30 Pro 2.0 洗地机 5 折新低，25kPa 大吸力、95℃ 高温自清洁",
+      "desc": "<h3 data-vmark=\"3c06\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"e02f\">石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。</p><p data-vmark=\"789f\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1223.93 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fb26\">领 1000-120 元券：点击下方卡片跳转详情页后，系统自动发放。</p></",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/016/993.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T06:11:50.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-olkkea",
+      "title": "雷鸟创新发布 GT Max bilibili 限定版 AR 眼镜，同步开启“BLG 不夺冠 · 全退款”活动",
+      "desc": "<p data-vmark=\"1dd9\">IT之家 10 月 23 日消息，随着 2026《英雄联盟》全球总决赛（S16）瑞士轮赛程推进，BLG 电子竞技俱乐部英雄联盟分部官方合作伙伴雷鸟创新（RayNeo）今日宣布与哔哩哔哩（bilibili）达成联合，正式发布“bilibili 限定版”AR 眼镜。该产品叠加优惠及国家补贴后到手价为 2294 元，官方同步推出了“BLG 不夺冠 · 雷鸟全退款”的活动。</p><p style=\"text-align: center;\" data-vmark=\"d7ae\"><img src=\"https://img.ithome.com/newsuploa",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免单",
+      "url": "https://www.ithome.com/1/016/872.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T03:39:22.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-mrl96y",
+      "title": "特斯拉美国上架 Performance 雨伞：48 英寸黑色伞面，Model 3 Performance 徽标渐变内衬",
+      "desc": "<p data-vmark=\"148e\">IT之家 10 月 23 日消息，消息源 @SawyerMerritt 今天（10 月 23 日）在 X 平台发布推文，爆料称特斯拉美国官网上架了 3 款周边配件产品，<strong>涵盖 2 款背包和 1 把雨伞，起售价为 80 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 535.1 元人民币）</span>。</strong></p><p data-vmark=\"2f8e\">在本次上架的产品中，最值得关注的是 Performance 雨伞，美国官网售价为 95 美元<span class=\"exch-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/836.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T02:07:02.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-fwt8vw",
@@ -2625,23 +2697,6 @@
       "_score": 4
     },
     {
-      "id": "rss-aena6g",
-      "title": "A社推出免费的开源项目扫描器 为符合条件的开源项目免费提供定期漏洞扫描",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127172.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T02:42:58.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-hayhkr",
       "title": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等",
       "desc": "<p data-vmark=\"3bbd\">IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包含 <strong>6 项新增功能、5 项功能优化</strong>。</p><p data-vmark=\"2d03\">本次 OTA 涉及的车型有 2024 款 C01、C10、C11、C16 及 2026 款 C10 530 舒享版、C16 六座 580 尊享版 / 200 尊享版。</p><p style=\"text-align: center;\" data-vmark=\"9c20\"><img src=\"https://img.i",
@@ -3062,114 +3117,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-a0fqm5",
-      "title": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元",
-      "desc": "<p data-vmark=\"ce02\">IT之家 10 月 9 日消息，小米米家石墨烯暖风机 Pro 现已全渠道开售。新品到手价 399 元，补贴到手价 359.1 元。</p><p style=\"text-align: center;\" data-vmark=\"31f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e91cc69d-4aa8-4188-9ddf-4c1d56af7bf2.jpg\" w=\"1080\" h=\"1440\" data-vmark=\"f408\" data-mpos=\"0,0\" data-weibo",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/857.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T03:46:38.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-agdrtm",
-      "title": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元",
-      "desc": "<p data-vmark=\"fda4\">IT之家 10 月 9 日消息，华为官网显示，华为上调了 nova 16 系列手机部分版本价格。</p><p style=\"text-align: center;\" data-vmark=\"2a30\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c891f22e-239d-4552-8650-f8cf934ff4da.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"464\" data-vmark=\"599c\" data-mpos=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/849.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T03:27:36.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-b06d6m",
-      "title": "小米米家体脂秤 4 Pro 开售：升级 USB-C 充电、支持身体数据趋势显示，券后 131.12 元",
-      "desc": "<p data-vmark=\"f393\">IT之家 10 月 9 日消息，小米米家体脂秤 4 Pro 现已开售，新品到手价 149 元，券后 88 折实际到手价 131.12 元。</p><p style=\"text-align: center;\" data-vmark=\"2075\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2db47dfc-61b0-4634-a001-a1eca004e6f0.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1440\" data-m",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "88 折",
-      "url": "https://www.ithome.com/1/010/834.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T02:51:38.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bvin07",
-      "title": "vivo OriginOS 7 正式开启首批升级，按尝鲜申请顺序分批推送",
-      "desc": "<p data-vmark=\"f88d\">IT之家 10 月 9 日消息，vivo OriginOS 原系统官方宣布，<strong>OriginOS 7 今日正式开启首批升级</strong>。</p><p data-vmark=\"1730\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/cc35526f-2ada-4f63-b808-dcca43cab0dd.jpg\" w=\"1440\" h=\"400\" data-mpos=\"2,0\" data-weibo=\"0\" da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/819.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T02:09:34.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-a0zj7i",
-      "title": "苦 Adobe 高价订阅久矣？四人团队借 AI 开发免费开源“平替”ArtCraft 套件",
-      "desc": "<p data-vmark=\"aff4\">IT之家 10 月 9 日消息，多年来，无论是插画师、摄影师，还是设计师和视频剪辑师，都很难摆脱 Adobe 的控制。</p><p data-vmark=\"12b6\">Adobe 旗下的 Creative Suite 软件套装长期因订阅费用高昂而饱受诟病。在后来更名为 Creative Cloud 的过程中，软件也<strong>失去了真正的离线使用能力</strong>。高昂的订阅费和对软件的依赖，让艺术家及其他创意工作者长期难以摆脱 Adobe。</p><p data-vmark=\"ca36\">尽管不少企业曾试图挑战 Adobe，但始终难以撼动 C",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/010/856.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T03:45:21.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-mvei87",
-      "title": "小鹏 P7+ 黑武士套装上市：全新极夜黑车漆，限时优惠价 6000 元",
-      "desc": "<p data-vmark=\"92f5\">IT之家 10 月 9 日消息，小鹏汽车今日宣布，小鹏 P7+ 黑武士套装正式上市，售价 10,000 元，即刻下订可享<strong>限时优惠价 6,000 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"f492\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/71d5ba30-c5c3-4029-a837-d23613c9ee41.jpg?x-bce-process=image/format,f_auto\" w=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/792.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T01:33:05.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
       "verified": true
     }
   ]
