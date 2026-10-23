@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T22:45:16.882Z",
+  "updatedAt": "2026-10-23T01:27:30.719Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -213,6 +213,23 @@
       "_score": 5
     },
     {
+      "id": "rss-fwt8vw",
+      "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gseTBx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as9L3S\" data-iosurl=\"https://u.jd.com/5DscTU1\" data-androidurl=\"https://u.jd.com/5asH03n\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/014/678.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-19T02:10:21.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-8j506e",
       "title": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 22 日消息，Epic 本周送出的游戏是《斯盖尔仪式》（Sker Ritual），《归家》（Home - A Unique Horror Adventure），下周送出的游戏是《Sorry We're Closed》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sker-ritual-aac702\" target=\"_blank\" title=\"《斯盖尔仪式》\">《斯盖尔仪式》</a>，<a href=\"https://stor",
@@ -222,23 +239,6 @@
       "url": "https://www.ithome.com/1/016/744.htm",
       "expiresAt": null,
       "publishedAt": "2026-10-22T15:00:25.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-82n6dk",
-      "title": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
-      "desc": "<p data-vmark=\"e700\">IT之家 10 月 22 日消息，据 TomsHardware 今日报道，日本兵库县警方 10 月 15 日逮捕了一对外国籍夫妇。两人涉嫌利用酒店 Wi-Fi 发送钓鱼邮件，并被指控盗用他人信用卡。</p><p data-vmark=\"72ce\">据日本《神户新闻》、朝日电视台等媒体报道，警方在涉案电脑中发现约 48 万条钓鱼邮件发送记录，以及约 240 万个电子邮件地址。</p><p data-vmark=\"6699\">报道称，涉案男子于 2025 年 5 月 15 日涉嫌伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方，并将其连接至酒店 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/735.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T14:37:44.000Z",
       "hot": 156,
       "tags": [
         "RSS",
@@ -262,6 +262,59 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-av9iyn",
+      "title": "微博官方 11.11 发车：会员年卡 54 元、SVIP 年卡 117 元大促",
+      "desc": "<p data-vmark=\"6d1b\">微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，下单赠送 1 个月，淘金币可抵 0.6 元；</p><p data-vmark=\"31ca\">到手价为 59.4 元 13 个月，折合 54.83 元 / 年，4.56 元 / 月：</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=2150464117927157734467219e0c7f&amp;srItem=1&amp;e=p33mUWBpc7mlhH",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/016/792.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T00:48:04.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9xq2rm",
+      "title": "IT早报 1023：神木交警再回应问界碰撞起火事故；武汉通回应苹果免费开卡安卓端收费 15 元；大模型 MiniMax 港股跌破发行价；微软 Win11 给 8GB 内存电脑减负...",
+      "desc": "<p data-vmark=\"f794\">“IT早报”时间，大家好，现在是 2026 年 10 月 23 日星期五，今天的重要科技资讯有：</p><h2 data-vmark=\"1b77\">1. 陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆</h2><p data-vmark=\"4223\">近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。据新京报报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称，当时车辆起火后将交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正喷漆。>> <a href=\"https://w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/016/773.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T23:55:07.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-82n6dk",
+      "title": "利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑",
+      "desc": "<p data-vmark=\"e700\">IT之家 10 月 22 日消息，据 TomsHardware 今日报道，日本兵库县警方 10 月 15 日逮捕了一对外国籍夫妇。两人涉嫌利用酒店 Wi-Fi 发送钓鱼邮件，并被指控盗用他人信用卡。</p><p data-vmark=\"72ce\">据日本《神户新闻》、朝日电视台等媒体报道，警方在涉案电脑中发现约 48 万条钓鱼邮件发送记录，以及约 240 万个电子邮件地址。</p><p data-vmark=\"6699\">报道称，涉案男子于 2025 年 5 月 15 日涉嫌伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方，并将其连接至酒店 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/016/735.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-22T14:37:44.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-5lgoon",
@@ -349,23 +402,6 @@
       "tags": [
         "RSS",
         "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-fwt8vw",
-      "title": "B站限量发车：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gseTBx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as9L3S\" data-iosurl=\"https://u.jd.com/5DscTU1\" data-androidurl=\"https://u.jd.com/5asH03n\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/678.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T02:10:21.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
       ],
       "_score": 2
     },
@@ -3134,42 +3170,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-o8c71c",
-      "title": "IT早报 1009：苹果“欢迎回家”发布会定档 10 月 13 日；尊界回应“刹车踏板支架断裂”；小米 17 Ultra 全系涨 1000 元；小米澎程上市 30 天锁单已超 7 万台...",
-      "desc": "<p data-vmark=\"a869\">“IT早报”时间，大家好，现在是 2026 年 10 月 9 日星期五，今天的重要科技资讯有：</p><h2 data-vmark=\"11e2\">1. 苹果官宣“欢迎回家”发布会定档 10 月 13 日，暗示首款智能家居中枢产品</h2><p data-vmark=\"e038\">苹果营销高级副总裁 Greg Joswiak 发布预告，官宣“Welcome home（欢迎回家）”发布会定档美国东部时间 10 月 13 日上午 9 点（北京时间 10 月 13 日晚 9 点）。>> <a href=\"https://www.ithome.com/1/010",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/766.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-08T23:54:20.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-p5bun0",
-      "title": "7999 元起，小米 17 Ultra 手机全系涨价 1000 元",
-      "desc": "<p data-vmark=\"3ff8\">IT之家 10 月 9 日消息，据博主 @怕不是小小白 ，今日起小米 17 Ultra 手机<strong>全系涨价 1000 元</strong>。</p><p data-vmark=\"5fd1\"><strong>标准版</strong>：6999 元起 → 7999 元起</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"504a\">12GB+512GB：6999 元 → 7999 元</p></li><li><p data-vmark=\"b294\">16GB+512GB：7499 元 → ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/010/748.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-08T22:48:31.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
