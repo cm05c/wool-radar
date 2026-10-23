@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-23T06:28:12.707Z",
+  "updatedAt": "2026-10-23T12:06:12.387Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -211,6 +211,114 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-p4z8xn",
+      "title": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
+      "desc": "<p data-vmark=\"2d2c\">京东现已开启 iPhone 新品狂促，18 系列支持直降 300 元 + 以旧换新额外补贴 1000 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4rlmBUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41lxtjs\" data-iosurl=\"https://u.jd.com/4glep13\" data-androidurl=\"https://u.jd.com/4GlVoun\" data-hosnexturl=\"https://u.jd.com/41lHFgj\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/017/214.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T10:59:29.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-z0nakd",
+      "title": "中国联通：在联通渠道购买苹果 iPhone Duo 并开通 eSIM 可选“国际漫游券”“国内通用流量”等权益",
+      "desc": "<p data-vmark=\"9fc8\">IT之家 10 月 23 日消息，中国联通发文，宣布用户在中国联通办理 iPhone Duo 购机合约，可享终端最高直降 3240 元优惠。同时用户在联通渠道购买苹果 iPhone Duo、开通联通 eSIM，可获以下权益“五选一”：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"6380\">30GB 境外 eSIM 10 天包</p></li><li><p data-vmark=\"50ec\">300 元国际漫游券</p></li><li><p data-vmark=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/195.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T10:37:57.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-ykp9cw",
+      "title": "华为 MatePad Pro 等平板推送 HarmonyOS 7 花粉 Beta 升级：直升 111 版本，新增远程分享等功能",
+      "desc": "<p data-vmark=\"5ff2\">IT之家 10 月 23 日消息，华为今日开启了 nova Flip / 畅享 70X / MatePad Pro 等机型鸿蒙 HarmonyOS 7 花粉 Beta 版<a target=\"_blank\" href=\"https://www.ithome.com/1/017/066.htm\">尝鲜升级招募</a>。</p><p style=\"text-align: center;\" data-vmark=\"f937\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/00f2f31f-f",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/187.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T10:16:58.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-usw2sp",
+      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/017/108.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T09:06:45.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-keg6ps",
+      "title": "5000mAh 锂电池 + 泄压阀设计：小米米家充气宝 3 国补后 152 元新低",
+      "desc": "<h3 data-vmark=\"abb0\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"64cd\">小米米家充气宝 3 开售于 9 月 22 日，发售价为 199 元。</p><p data-vmark=\"cb03\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 152.54 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"fb49\">PLUS 会员 200-25 元超级补贴：<a href=\"https://u.jd.com/5aAj2Wz\" target",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/099.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T08:43:21.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-v5jcg0",
+      "title": "苹果 iPhone Duo 海南免税价公布：15839~26239 元，比官网便宜 160~260 元",
+      "desc": "<p data-vmark=\"f0f7\">IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 今日正式开售，国行起售价 15999 元，2TB 版本 26499 元，成为苹果迄今定价最高的 iPhone，苹果官网每位顾客限购 2 部。</p><p data-vmark=\"8c3a\">与官网同步公布的还有海南免税渠道的价格，IT之家汇总如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"89c7\">256GB 版 15839 元：官网价 15999 元，便宜 160 元</p></li><li><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/110.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T09:07:54.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-up7eew",
@@ -3012,112 +3120,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-eepg0c",
-      "title": "1299 → 978 元：华为 FreeClip 2 耳夹耳机京东国补后终破千元",
-      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"c742\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d558\">部分城市立减 150 元 + 支持 10% 国补，折后 1034 元。</p></li><li><p data-vmark=\"b36d\">部分城市立减 150 元 + 支持 15% 国补，折后 976.8 元",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/071.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T09:29:29.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ebeog6",
-      "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
-      "desc": "<p data-vmark=\"e078\">IT之家 10 月 9 日消息，懂车帝 10 月 8 日发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。</p><p data-vmark=\"4fd1\"><a href=\"https://www.ithome.com/1/010/703.htm\" target=\"_blank\">尊界汽车官方 10 月 8 日晚发布情况说明</a>，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，<strong>并为已交付用户提供免费升级选择</s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/077.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T09:51:34.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-fr3c84",
-      "title": "华为智能门锁 2 Pro 悦享版开售：支持 AI 3D 人脸识别 3.0，补贴到手价 2124.15 元",
-      "desc": "<p data-vmark=\"5471\">IT之家 10 月 9 日消息，华为智能门锁 2 Pro 悦享版 10 月 9 日 10:08 正式开售，建议零售价 2699 元，补贴到手价 2124.15 元。</p><p style=\"text-align: center;\" data-vmark=\"9c28\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/59fc1a6b-b7ff-4328-bc29-0b493fc2c830.png?x-bce-process=image/format,f_auto\" w=\"642\" h=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/046.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T08:40:58.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-falifa",
-      "title": "支持 iPhone 18 系列 AVS 动态快充：酷态科 CP6 电能充 Mini 79 → 62 元国补直降",
-      "desc": "<p data-vmark=\"0000\">CUKTECH 酷态科 CP6 电能充 Mini 于今年 8 月发布，单体售 79 元。</p><p data-vmark=\"b475\">支持苹果 iPhone 18 Pro / iPhone 17 系列至高 60W AVS 动态充电，15 分钟至高可充至 50% 电量。</p><p data-vmark=\"9aec\">今日京东可叠加政府补贴，实付 71 元包邮<strong>次日达</strong>。</p><p data-vmark=\"0af6\">PLUS 会员可凑单使用 200-25 元超级补贴券，实付 62 元官方好价：</p><ul clas",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/055.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T09:00:21.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-g98jt1",
-      "title": "策略游戏《双点博物馆：失落游乐园》DLC 登陆 Steam，国区首发价 39.60 元",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 9 日消息，由 Two Point Studios 开发、SEGA 发行的《双点博物馆》全新 DLC《双点博物馆：失落游乐园》现已正式登陆 Steam 平台，国区首发特惠价 ¥39.60（原价 ¥44，优惠 10%，活动截止至 10 月 15 日）。该 DLC 需要拥有本体《双点博物馆》才能游玩，完整支持简体中文界面、完全音频与字幕。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4511680/\"><span class=\"link-text-start-with-ht",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/034.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T08:15:20.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ftub6x",
-      "title": "99 → 78 元：小米 · 米家体脂秤 S400 京东直降，25 项指标详尽分析",
-      "desc": "<p data-vmark=\"706a\">米家体脂秤 S400 首发价 99 元，今日京东立减 5 元 + 可领 8.8 折券，实付 82.8 元即可入手。</p><p data-vmark=\"cee5\">晒单 20 字以上 +3 图可赢 5 元京豆（本月限量 500 名，现在名额还有百十来个，签收后需尽快评价），折合仅需 77.8 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/Fr1jv9Q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fa1kYFX\" data-io",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8.8 折",
-      "url": "https://www.ithome.com/1/011/041.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-09T08:30:41.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
