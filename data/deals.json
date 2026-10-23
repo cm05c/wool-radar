@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:02:46.930Z",
+  "updatedAt": "2026-10-23T20:25:55.386Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-ernofn",
+      "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/zcode-1024-free-500-million-tokens/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T15:15:32.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
+    },
     {
       "id": "rss-lgz2r4",
       "title": "CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元",
@@ -213,6 +230,23 @@
       "_score": 5
     },
     {
+      "id": "rss-nag54y",
+      "title": "17999 元开放购买：苹果 iPhone Duo 5 年不限次换电池套装三方开售",
+      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/5OE4Ndv\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51E4Zx0\" data-iosurl=\"https://u.jd.com/5GEmLwl\" data-androidurl=\"https://u.jd.com",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/251.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T12:45:26.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-p4z8xn",
       "title": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
       "desc": "<p data-vmark=\"2d2c\">京东现已开启 iPhone 新品狂促，18 系列支持直降 300 元 + 以旧换新额外补贴 1000 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4rlmBUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41lxtjs\" data-iosurl=\"https://u.jd.com/4glep13\" data-androidurl=\"https://u.jd.com/4GlVoun\" data-hosnexturl=\"https://u.jd.com/41lHFgj\"",
@@ -262,42 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-nag54y",
-      "title": "17999 元开放购买：苹果 iPhone Duo 5 年不限次换电池套装三方开售",
-      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/5OE4Ndv\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51E4Zx0\" data-iosurl=\"https://u.jd.com/5GEmLwl\" data-androidurl=\"https://u.jd.com",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/251.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T12:45:26.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ernofn",
-      "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/zcode-1024-free-500-million-tokens/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T15:15:32.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4,
-      "verified": true
     },
     {
       "id": "rss-usw2sp",
