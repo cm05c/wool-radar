@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-23T23:29:36.251Z",
+  "updatedAt": "2026-10-24T01:57:42.137Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -245,6 +245,42 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ax2sig",
+      "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
+      "desc": "<p data-vmark=\"47f7\">IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户，<strong>推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。</strong></p><p style=\"text-align: center;\" data-vmark=\"eec9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bf6db0e5-fce9-41b6-b8d8-b4a555ee79d5.png?x-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/305.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T01:05:23.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ldpuyt",
+      "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
+      "desc": "<p data-vmark=\"3d62\">IT之家 10 月 24 日消息，科技媒体 MacRumors 昨日（10 月 23 日）发布博文，报道称苹果公司针对其首款折叠 iPhone Duo，<strong>推送仅限于该机型的 iOS 27.1 更新，在官方日志中仅显示“修复 iPhone 上的错误”。</strong></p><p data-vmark=\"3bc4\">原文并未提及本次推送的内部版本号，只是提及苹果公司已于本周四以 IPSW 文件的形式提供下载，在下载链接中显示版本号为 24A94425。</p><p style=\"text-align: center;\" data-vmar",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/292.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T23:54:07.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-p4z8xn",
@@ -3074,60 +3110,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-10T01:58:17.000Z",
       "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-bw0l5",
-      "title": "IT早报 1010：尊界 V800 制动踏板支架底座 11 月免费升级；懂车帝辟谣“开展公司内部整顿”；华为 nova 16 系列涨价；曝中汽中心发制动踏板总成材质问卷...",
-      "desc": "<p data-vmark=\"0f3a\">“IT早报”时间，大家好，现在是 2026 年 10 月 10 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"0168\">1. 尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”</h2><p data-vmark=\"7073\">尊界汽车官方 10 月 8 日晚发布情况说明，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，并为已交付用户提供免费升级选择。>> <a href=\"https://www.ith",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/175.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-10T00:01:29.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bmrrod",
-      "title": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
-      "desc": "<p data-vmark=\"03d3\">IT之家 10 月 10 日消息，据《韩国经济日报》援引一名熟悉台积电内部情况的人士称，埃隆 · 马斯克计划通过 Terafab 项目自主生产芯片，但要实现这一目标，难度可能比把星舰送上火星还大。</p><p data-vmark=\"f7a2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fc73afe7-f480-4089-b1a4-6fdd18a55176.jpg?x-bce-process=image/format,f_a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/201.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-10T01:29:09.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-bof5gg",
-      "title": "联想拯救者 27U-20 显示器开售：27 英寸 4K 180Hz 双模，1699 元",
-      "desc": "<p data-vmark=\"8e07\">IT之家 10 月 10 日消息，联想拯救者今日宣布 27U-20 显示器开售。这款新品售价 1699 元，政府补贴价 1529.1 元。</p><p style=\"text-align: center;\" data-vmark=\"25ae\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/90b7a59b-bf32-42a0-b0c6-9426d0c1b031.jpg\" w=\"1080\" h=\"1387\" data-vmark=\"f973\" data-mpos=\"2,0\" data-w",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/204.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-10T01:38:41.000Z",
-      "hot": 198,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
