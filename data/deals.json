@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-24T07:15:13.390Z",
+  "updatedAt": "2026-10-24T12:13:35.853Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,78 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-56gcw6",
+      "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
+      "desc": "<p data-vmark=\"f2d4\">IT之家 10 月 24 日消息，由独立开发者 DoodleCorp 打造的 2D 平台冒险游戏《Depths Unseen》目前正以免费形式在 Steam 开启抢先体验。</p><p data-vmark=\"acfb\">随着第 3 章内容推出，开发者宣布，为筹集后续开发资金，计划自 10 月 25 日起将游戏改为付费制。玩家可趁游戏尚未调整价格前，前往 Steam 商店页面免费领取并添加至游戏库，IT之家附游戏地址（<a href=\"https://store.steampowered.com/app/3897890/Depths_Unseen/\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/017/435.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T09:46:38.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-53pdxd",
+      "title": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
+      "desc": "<p data-vmark=\"1b34\">IT之家 10 月 24 日消息，今日，华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新。以华为 Mate X7 为例，安装包体积为 7.31GB。</p><p data-vmark=\"6add\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/dea83567-d599-49a7-85f8-70132dd2b0bf.jpg?x-bce-pro",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/430.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T09:23:32.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-4qibop",
+      "title": "32 英寸 AOC OLED 雾面 4K 120Hz 显示器 U32U4D 发售，国补价 5249 元",
+      "desc": "<p data-vmark=\"5f8a\">IT之家 10 月 24 日消息，冠捷新推出了一款 32 英寸的 AOC U4 Graphic Pro 显示器，型号为 U32U4D ，京东价格显示为 6332 元，京东提供 500 元优惠券，再叠加国补后 5248.8 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56c4Lmi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gc4xAO\" data-iosurl=\"https://u.jd.com/5Dc4l5U\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/427.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T08:57:22.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-3tio31",
+      "title": "OPPO / 一加手机 ColorOS“优行卡”新增支持“琴岛通”交通卡，可在山东青岛享公交地铁乘车优惠",
+      "desc": "<p data-vmark=\"a3e2\">IT之家 10 月 24 日消息，OPPO / 一加手机旗下 ColorOS“优行卡”现已支持山东青岛“琴岛通”，可与琴岛通 NFC 卡共存，相应“优行卡”支持 0 元开卡、先乘后付特性，用户无需充值，乘车后车费将从指定账户中代扣。</p><p data-vmark=\"e4ab\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2842251c-acd1-40dc-b2e9-c7a1946b2dcc.jpg?x-bce-proces",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/017/409.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T07:47:13.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-7jk9dn",
