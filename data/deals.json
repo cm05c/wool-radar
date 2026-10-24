@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:14:31.383Z",
+  "updatedAt": "2026-10-24T18:59:34.722Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -230,6 +230,23 @@
       "_score": 5
     },
     {
+      "id": "rss-igtd4c",
+      "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
+      "desc": "<p data-vmark=\"6ee1\">IT之家 10 月 24 日消息，Logitech（罗技）此前推出的双形态鼠标 Pebble Up 现已上市。其<strong>支持便于携带的平卧和提供 35° 人体工学倾角的斜卧双形态</strong>，到手价 251.1 元。</p><p data-vmark=\"7e05\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7b0ce6d2-12d4-46b7-81fe-5278edc233ed.jpg?x-bce-process",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/507.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-24T13:22:37.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-56gcw6",
       "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
       "desc": "<p data-vmark=\"f2d4\">IT之家 10 月 24 日消息，由独立开发者 DoodleCorp 打造的 2D 平台冒险游戏《Depths Unseen》目前正以免费形式在 Steam 开启抢先体验。</p><p data-vmark=\"acfb\">随着第 3 章内容推出，开发者宣布，为筹集后续开发资金，计划自 10 月 25 日起将游戏改为付费制。玩家可趁游戏尚未调整价格前，前往 Steam 商店页面免费领取并添加至游戏库，IT之家附游戏地址（<a href=\"https://store.steampowered.com/app/3897890/Depths_Unseen/\" ",
@@ -279,24 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-igtd4c",
-      "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
-      "desc": "<p data-vmark=\"6ee1\">IT之家 10 月 24 日消息，Logitech（罗技）此前推出的双形态鼠标 Pebble Up 现已上市。其<strong>支持便于携带的平卧和提供 35° 人体工学倾角的斜卧双形态</strong>，到手价 251.1 元。</p><p data-vmark=\"7e05\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7b0ce6d2-12d4-46b7-81fe-5278edc233ed.jpg?x-bce-process",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/507.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T13:22:37.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-3tio31",
