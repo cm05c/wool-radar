@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-25T01:41:25.397Z",
+  "updatedAt": "2026-10-25T06:54:18.137Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,42 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-mo0san",
+      "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
+      "desc": "<p data-vmark=\"5421\">IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在<strong>国内部分区域</strong>出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（<strong>注：仅部分地区能看到</strong>），相对于上市价格便宜约 200-300 元。</p><p style=\"text-align: center;\" data-vmark=\"a29a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7cb106ce-0b1c-495e-abfc-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/593.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-25T06:17:36.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-mq7yo3",
+      "title": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
+      "desc": "<p data-vmark=\"666a\">IT之家 10 月 25 日消息，在最新的特斯拉财报电话会议上，特斯拉副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）宣布，特斯拉正在自研一套基于 AI 的地图导航系统。这套全新地图方案将随 FSD v15 上线，融合车队采集数据、个性化路线规划，同时支持 FSD 语音控制。</p><p style=\"text-align: center;\" data-vmark=\"48c1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dbc62bbb-9883-42b3-bc96-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/597.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-25T06:34:47.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-igtd4c",
@@ -2117,23 +2153,6 @@
       "verified": true
     },
     {
-      "id": "rss-d0ymeb",
-      "title": "苹果隔空投送 AirDrop 已被逆向成功，正在被搬到普通电脑上｜omdrop-owl",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/omdrop-owl/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T03:57:39.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-dxne4g",
       "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9\" target=\"_blank\" title=\"《烂奶酪》\">《烂奶酪》</a>，<a href=\"https://store.epicgames.c",
@@ -3169,24 +3188,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-b0zv44",
-      "title": "JBL 推出 WAVE FLEX 3 半入耳式降噪耳机：12mm 动圈、单耳 4.39g 重，预售价 499 元",
-      "desc": "<p data-vmark=\"fa79\">IT之家 10 月 11 日消息，JBL 推出 WAVE FLEX 3 半入耳式降噪耳机，<strong>预售价 499 元</strong>，焕新补贴到手价 449.1 元。</p><p data-vmark=\"12bb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c0bf16ad-b2b2-4dc5-beef-1a5f9bac7766.jpg\" w=\"1440\" h=\"1440\" data-vmark=\"71e8\" dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/596.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-11T06:25:56.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
