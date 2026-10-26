@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-26T00:18:57.648Z",
+  "updatedAt": "2026-10-26T05:17:13.220Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,59 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-fcuwvr",
+      "title": "终于低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgE5Iw3\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDENlK5\" data-iosu",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/012/491.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-13T09:44:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-6pobkq",
+      "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
+      "desc": "<p data-vmark=\"2c9e\">10 月 26 日中午消息，2026 观猹大会期间，由小米技术委创新产品团队孵化的开源 AI 硬件 <strong>HachimoDock</strong> 亮相 —— 这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。</p><p data-vmark=\"abd9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/716016ac-8e0",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/842.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T04:53:01.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-kxkrzx",
+      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/751.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T01:16:05.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-zgsdj9",
@@ -2030,23 +2083,6 @@
       "_score": 6
     },
     {
-      "id": "rss-sfxlgt",
-      "title": "MicYou for iOS – 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/micyou-for-ios/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T02:38:24.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxcban",
       "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
       "desc": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
@@ -2659,24 +2695,6 @@
       "verified": true
     },
     {
-      "id": "rss-fcuwvr",
-      "title": "终于低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\"><span class=\"font-color-red\"><strong>15 日 0 点</strong></span>起 30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgE5Iw3\" target=\"_bla",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/012/491.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T09:44:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
       "id": "rss-2kx92c",
       "title": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降",
       "desc": "<p data-vmark=\"546d\">海尔 77E 洗烘套装（云溪 4.0 顶配版）定价 9998 元，今日官方旗舰店 11.11 五折仅需 4999 元即可入手。</p><p data-vmark=\"baab\">下单前<strong>需咨询客服“是 4999 元吗”</strong>，客服可能会让下单待支付（选择微信支付<strong>不付款</strong>即可），然后把订单发给客服，客服登记后到货返差价。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGH2NRG\" target=\"_blank\" data-wa",
@@ -3129,78 +3147,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-12T09:26:08.000Z",
       "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-hayhkr",
-      "title": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等",
-      "desc": "<p data-vmark=\"3bbd\">IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包含 <strong>6 项新增功能、5 项功能优化</strong>。</p><p data-vmark=\"2d03\">本次 OTA 涉及的车型有 2024 款 C01、C10、C11、C16 及 2026 款 C10 530 舒享版、C16 六座 580 尊享版 / 200 尊享版。</p><p style=\"text-align: center;\" data-vmark=\"9c20\"><img src=\"https://img.i",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/771.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T02:10:11.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-hd5ny7",
-      "title": "小米推出米家扫拖机器人 7 Max：50℃ 热水喷淋定点拖地，4999 元起",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 12 日消息，小米官方宣布，米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本（下单赠送价值 448 元配件礼包，晒单还可返 20 元京豆）：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0001\">水箱版：4999 元，券后叠加国补 4498.96 元</p></li><li><p data-vmark=\"0002\">薄嵌上下水版：5299 元，券后叠加国补价 4769.01 元</p></li></ul><dir><a co",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/011/775.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T02:22:15.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-gw41k0",
-      "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面",
-      "desc": "<p data-vmark=\"c0d5\">IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，<strong>在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨</strong>。</p><p data-vmark=\"c775\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3bf4a8d4-13",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/011/765.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T01:46:22.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-fyklcz",
-      "title": "越障高度 40mm：小米米家扫拖机器人 6 水箱版 1779 元、上下水版 2089 元",
-      "desc": "<p data-vmark=\"adb5\">小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力，其中水箱版本定价 2699 元、上下水版本定价 3099 元。</p><p data-vmark=\"f11c\">今日按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，水箱版仅需 1779.86 元，上下水版仅需 2089.67 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1809\">点击下方卡片，可领 9 折券。</p></li></ul><dir><a contentedit",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/011/746.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T00:57:20.000Z",
-      "hot": 202,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
