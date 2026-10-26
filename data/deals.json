@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:38:39.798Z",
+  "updatedAt": "2026-10-26T21:51:38.923Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-fcy7zo",
+      "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/agentscope-free-ai-agnet/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T12:37:33.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ernofn",
       "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
@@ -230,41 +247,6 @@
       "_score": 2
     },
     {
-      "id": "rss-1trply",
-      "title": "【19:45~20:15】淘宝 1.68 元 vs 京东 1.1 大红包不限量发放，红米 KPad 电竞平板 1 元抢",
-      "desc": "<p data-vmark=\"f369\">全网 11.11 狂促今晚 20:00 重磅加码，数码家电、日用百货、服装鞋帽皆为年内好价。</p><p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/51xaiXW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5rxumlq\" data-iosurl=\"https://u.jd.com/56xq76y\" data-and",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "1.68 元无门槛",
-      "url": "https://www.ithome.com/1/018/126.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T11:07:21.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
-    },
-    {
-      "id": "rss-fcy7zo",
-      "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/agentscope-free-ai-agnet/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T12:37:33.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-47jm6a",
       "title": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
       "desc": "<p data-vmark=\"9e6c\">IT之家 10 月 26 日消息，苹果官网数据显示，iPad mini （A20 Pro）支持快速充电，使用输出功率为 35W 或更高功率的 USB-C 电源适配器时，约 30 分钟最多可充至 50% 电量。</p><p style=\"text-align: center;\" data-vmark=\"aefd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ff520db3-ce5a-4501-86b0-80e4a45d09f3.png?x-bce-process=image/form",
@@ -279,8 +261,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-36pef3",
@@ -297,8 +278,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
+    },
+    {
+      "id": "rss-1trply",
+      "title": "【19:45~20:15】淘宝 1.68 元 vs 京东 1.1 大红包不限量发放，红米 KPad 电竞平板 1 元抢",
+      "desc": "<p data-vmark=\"f369\">全网 11.11 狂促今晚 20:00 重磅加码，数码家电、日用百货、服装鞋帽皆为年内好价。</p><p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/51xaiXW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5rxumlq\" data-iosurl=\"https://u.jd.com/56xq76y\" data-and",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1.68 元无门槛",
+      "url": "https://www.ithome.com/1/018/126.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T11:07:21.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
     },
     {
       "id": "rss-7h4jnr",
