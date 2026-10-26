@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-26T11:32:12.327Z",
+  "updatedAt": "2026-10-26T17:38:39.798Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -231,7 +231,7 @@
     },
     {
       "id": "rss-1trply",
-      "title": "【20:00~20:15】淘宝 1.68 元 vs 京东 1.1 大红包不限量发放，红米 KPad 电竞平板 1 元抢",
+      "title": "【19:45~20:15】淘宝 1.68 元 vs 京东 1.1 大红包不限量发放，红米 KPad 电竞平板 1 元抢",
       "desc": "<p data-vmark=\"f369\">全网 11.11 狂促今晚 20:00 重磅加码，数码家电、日用百货、服装鞋帽皆为年内好价。</p><p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/51xaiXW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5rxumlq\" data-iosurl=\"https://u.jd.com/56xq76y\" data-and",
       "channel": "IT之家",
       "category": "资讯",
@@ -244,7 +244,60 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 5,
+      "_score": 5
+    },
+    {
+      "id": "rss-fcy7zo",
+      "title": "赛博领鸡蛋：AgentScope 免费 AI Agnet，4G内存，30G硬盘",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/agentscope-free-ai-agnet/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T12:37:33.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-47jm6a",
+      "title": "苹果 iPad mini （A20 Pro）支持 35W 或更高功率充电头，但包装盒内送的头还是 20W",
+      "desc": "<p data-vmark=\"9e6c\">IT之家 10 月 26 日消息，苹果官网数据显示，iPad mini （A20 Pro）支持快速充电，使用输出功率为 35W 或更高功率的 USB-C 电源适配器时，约 30 分钟最多可充至 50% 电量。</p><p style=\"text-align: center;\" data-vmark=\"aefd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ff520db3-ce5a-4501-86b0-80e4a45d09f3.png?x-bce-process=image/form",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/177.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T15:02:32.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-36pef3",
+      "title": "比亚迪方程豹钛 7 第六次 OTA 开启推送，新增一键无痕、智慧寻车等功能",
+      "desc": "<p data-vmark=\"4f28\">IT之家 10 月 26 日消息，比亚迪方程豹钛 7 第六次 OTA 开启推送，车机私密性及用车便利性再提升，<br>全国陆续推送中。</p><p data-vmark=\"7829\">IT之家附主要内容如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b1ff\">新增一键无痕功能，便捷栏中新增一键无痕开关</p></li><li><p data-vmark=\"1933\">新增电话时允许导航播报开关，兼顾出行实用与通话隐私保护</p></li><li><p data-vmark=\"feb8",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/152.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T12:58:18.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -3067,74 +3120,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-vwwbkw",
-      "title": "熊猫“S24Q6A”23.8 英寸显示器发售：2K 180Hz，599 元（国补后 521.1 元）",
-      "desc": "<p data-vmark=\"47df\">IT之家 10 月 12 日消息，熊猫旗下“S24Q6A”23.8 英寸显示器现已在京东发售，该机主打 2K 180Hz，<strong>定价为 599 元</strong>，部分地区国补后低至 521.1 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDTTZ9f\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGTECqa\" data-iosurl=\"https://u.jd.com/FrT90zf\" data-androi",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/126.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T15:27:03.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-wdxxz3",
-      "title": "五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"7e7e\">腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。</p><p data-vmark=\"c859\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 244.36 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"93d4\">领 480-60 元 PLUS 补贴券：<a h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/116.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T14:45:39.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-wvjcyn",
-      "title": "小米 YU7 车型 OTA 推送 1.18.0 版本：新增安全车距提醒、超级小爱专家模式等",
-      "desc": "<p data-vmark=\"1fe7\">IT之家 10 月 12 日消息，小米 YU7 车型今日 OTA 推送 1.18.0 版本，带来多项新增功能，并对领航辅助功能进行优化。</p><p data-vmark=\"41d2\">IT之家整理如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"98d3\">新增 QQ 音乐、网易云音乐歌词翻译，支持翻译的歌曲将在应用内的歌词页面展示翻译按钮，可开启、关闭歌词翻译并记忆状态</p></li><li><p data-vmark=\"fcc6\">新增车外语音音量调节设置项</p></li><l",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/105.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T14:30:45.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-rrolix",
-      "title": "UHD 162Hz / FHD 485Hz：华硕 ROG XG27UCGR 显示器 2499 → 1869 元探新低",
-      "desc": "<p data-vmark=\"af0a\"><strong>【京东活动可能随时变更，需以实付款为准】</strong></p><p data-vmark=\"7235\">华硕于 2026 年 3 月发布了 UHD 162Hz / FHD 485Hz 双模 IPS 显示器 XG27UCGR，官方定价 2499 元。</p><p data-vmark=\"05eb\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1938.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f239\">点击下方卡片，可领 150 元店铺券。</p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/097.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T13:49:13.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
