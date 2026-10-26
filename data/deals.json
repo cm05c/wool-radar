@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-26T05:17:13.220Z",
+  "updatedAt": "2026-10-26T11:32:12.327Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -228,6 +228,42 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-1trply",
+      "title": "【20:00~20:15】淘宝 1.68 元 vs 京东 1.1 大红包不限量发放，红米 KPad 电竞平板 1 元抢",
+      "desc": "<p data-vmark=\"f369\">全网 11.11 狂促今晚 20:00 重磅加码，数码家电、日用百货、服装鞋帽皆为年内好价。</p><p data-vmark=\"105f\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/51xaiXW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5rxumlq\" data-iosurl=\"https://u.jd.com/56xq76y\" data-and",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1.68 元无门槛",
+      "url": "https://www.ithome.com/1/018/126.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T11:07:21.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-7h4jnr",
+      "title": "狼蛛 SC180 磁吸充电三模游戏鼠标 10 月 29 日开售，补贴价 119 元起",
+      "desc": "<p data-vmark=\"861f\">IT之家 10 月 26 日消息，狼蛛 SC180 磁吸充电三模游戏鼠标今日正式开启预约，10 月 29 日 20:00 全平台开售，补贴价 119 元起。</p><p data-vmark=\"7395\">据官方介绍，<strong>磁吸触点充电</strong>，一放即充，自动吸附归位，告别频繁插线充电的麻烦；炫彩 RGB 充电底座，触控切换灯效，兼顾充电便利与电竞桌搭氛围。</p><p data-vmark=\"0ffc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/new",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/017/931.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T07:37:18.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-fcuwvr",
@@ -3099,60 +3135,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-pfk2qo",
-      "title": "20:00 开抢：京东至高 26888 元红包无门槛可用，iPhone 16 Pro 限量 1 元",
-      "desc": "<p data-vmark=\"e598\"><strong><span class=\"font-color-red\">京东无门槛红包</span>至高 26888 元，每天抽 3 次</strong><strong>：<a href=\"https://u.jd.com/FDBbvqH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgB3gVx\" data-iosurl=\"https://u.jd.com/FaB8S7a\" data-androidurl=\"https://u.jd.com/FrBuFEX\" data-hosnexturl=\"htt",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/012/049.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T10:40:56.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-ptaxkp",
-      "title": "【已结束】iPhone 18 Pro 立减千元 9999 → 8959 元支持 12 期免息",
-      "desc": "<p data-vmark=\"a99d\">【21:30 更新：目前补贴已结束】</p><p data-vmark=\"d9f8\">京东 11.11 无门槛红包将在今晚 20:00 开抢，支持即领即用，下单直接当钱花：<a href=\"https://u.jd.com/FaB326C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F6BrXTl\" data-iosurl=\"https://u.jd.com/FgBD4DY\" data-androidurl=\"https://u.jd.com/FrBv557\" data-hosnexturl=\"http",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/012/053.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T10:55:03.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-nhq7dt",
-      "title": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能上线时间公布，预计 10 月底分批推送",
-      "desc": "<p data-vmark=\"e7ba\">IT之家 10 月 12 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。</p><p data-vmark=\"ce58\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/df2ea32c-c4f9-4851-9380-fa897c372b30.jpg?x-bce-process=image/auto-orient,o_1\" w=\"144",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/006.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-12T09:26:08.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
