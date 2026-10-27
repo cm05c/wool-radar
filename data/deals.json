@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T18:41:24.372Z",
+  "updatedAt": "2026-10-27T22:38:29.796Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -213,6 +213,57 @@
       "_score": 2
     },
     {
+      "id": "rss-62tkbr",
+      "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 27 日消息，苹果公司今日宣布为 Apple 创作坊带来重大更新，为创作者带来专业级工具。Mac 版 Final Cut Pro 现内置 MotionVFX，集成视觉特效、插件、转场、模板和运动图形工具等功能。同时 Pixelmator Pro、Keynote 讲演、Pages 文稿和 Numbers 表格推出多项全新 AI 功能 Beta。</p><p data-vmark=\"0003\">Apple 创作坊将于今年 11 月以免费更新的形式通过 App Store 推出。</p><p data-vmark=\"0001\" style",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/666.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T13:19:40.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-6irlj8",
+      "title": "80 名特斯拉韩国车主因非法破解激活 FSD 而被移送检方，查扣 21 台设备",
+      "desc": "<p data-vmark=\"678b\">IT之家 10 月 27 日消息，据韩联社，韩国首尔警察厅今日通报将 80 名涉嫌非法破解从而在原本无法使用 FSD 的特斯拉车型上擅自激活 FSD 功能的车主移送检方，并查扣了 21 台未经授权的激活设备。</p><p data-vmark=\"902e\">警方指控，这些车主涉嫌违反韩国《汽车管理法》，涉案车主通过欧洲、中国等地的渠道购买破解设备，或自行制作相关工具，以绕过特斯拉的软件限制。</p><p data-vmark=\"30f6\">部分媒体报道称，这些车主仅花了约 3 万韩元<span class=\"exch-money-value\">（IT之",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/674.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T13:59:59.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-6166jo",
+      "title": "499 → 378 元：荣耀 Earbuds 耳夹式耳机政府补贴开启，全天候舒适佩戴",
+      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"54c6\">今日开启全国政府补贴，实付仅需 388 元左右。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合<strong>仅需 378 元</strong>），学生可再享 30 元教育优惠。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OmzVoH\" target=\"_blank\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/663.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T13:13:52.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5
+    },
+    {
       "id": "rss-4o8hqj",
       "title": "小米 REDMI Book 2027 笔记本电脑发布：6799 元起，首销赠送 20000mAh 充电宝",
       "desc": "<p data-vmark=\"8def\">IT之家 10 月 27 日消息，小米 REDMI Book 2027 正式发布，11 月 3 日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下：</p><h3 data-vmark=\"a288\">REDMI Book 14</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9a70\">酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元</p></li><li><p data-vmark=\"7b06\">酷睿 7 350、16",
@@ -245,60 +296,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-62tkbr",
-      "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 27 日消息，苹果公司今日宣布为 Apple 创作坊带来重大更新，为创作者带来专业级工具。Mac 版 Final Cut Pro 现内置 MotionVFX，集成视觉特效、插件、转场、模板和运动图形工具等功能。同时 Pixelmator Pro、Keynote 讲演、Pages 文稿和 Numbers 表格推出多项全新 AI 功能 Beta。</p><p data-vmark=\"0003\">Apple 创作坊将于今年 11 月以免费更新的形式通过 App Store 推出。</p><p data-vmark=\"0001\" style",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/018/666.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:19:40.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-6irlj8",
-      "title": "80 名特斯拉韩国车主因非法破解激活 FSD 而被移送检方，查扣 21 台设备",
-      "desc": "<p data-vmark=\"678b\">IT之家 10 月 27 日消息，据韩联社，韩国首尔警察厅今日通报将 80 名涉嫌非法破解从而在原本无法使用 FSD 的特斯拉车型上擅自激活 FSD 功能的车主移送检方，并查扣了 21 台未经授权的激活设备。</p><p data-vmark=\"902e\">警方指控，这些车主涉嫌违反韩国《汽车管理法》，涉案车主通过欧洲、中国等地的渠道购买破解设备，或自行制作相关工具，以绕过特斯拉的软件限制。</p><p data-vmark=\"30f6\">部分媒体报道称，这些车主仅花了约 3 万韩元<span class=\"exch-money-value\">（IT之",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/674.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:59:59.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-6166jo",
-      "title": "499 → 378 元：荣耀 Earbuds 耳夹式耳机政府补贴开启，全天候舒适佩戴",
-      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"54c6\">今日开启全国政府补贴，实付仅需 388 元左右。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合<strong>仅需 378 元</strong>），学生可再享 30 元教育优惠。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OmzVoH\" target=\"_blank\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/018/663.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:13:52.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
-      "verified": true
     },
     {
       "id": "rss-9k7ra1",
@@ -3154,24 +3151,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ui4789",
-      "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 4 发布，同步推送第 3 个公测版",
-      "desc": "<p data-vmark=\"0000\" style=\"text-align: center;\">【<a href=\"#profile-download\">点此直达升级教程</a>】</p><p data-vmark=\"0001\">IT之家 10 月 14 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24B5110a），本次更新距离上次发布 Beta / RC 间隔 7 天。</p><p data-vmark=\"0002\" style=\"text-align: center;\"><img src=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/606.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T22:33:06.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     },
     {
