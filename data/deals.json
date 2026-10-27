@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T06:49:37.887Z",
+  "updatedAt": "2026-10-27T13:10:35.016Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -22,6 +22,23 @@
       "tags": [
         "RSS",
         "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ghwgm6",
+      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
+      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.iplaysoft.com/1111.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-15T12:00:48.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 2
     },
@@ -75,23 +92,6 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-ghwgm6",
-      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.iplaysoft.com/1111.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:00:48.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-5mqs5e",
@@ -196,23 +196,6 @@
       "_score": 8
     },
     {
-      "id": "rss-2ndlq5",
-      "title": "复旦「学术版 Codex」客户端上线！送 1 万积分，还可领会员优惠",
-      "desc": "程序员被 Codex (AI Agent) 彻底改变了，不用一行行敲代码，把需求丢给 AI，让它自己写代码、跑测试、修 Bug、闭环交付。\n那么问题来了：科研人员天天干的活，不也是\"配环境、跑实验、复现代码、查文献、写综述\"这些体力活吗？现在，复旦大学 NLP 团队把这套逻辑搬到了科研上，做出了一个真正意义上…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/qiewenpaper-codex",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T09:27:03.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 5
-    },
-    {
       "id": "rss-kxdgxw",
       "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
       "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114741\" target=\"_blank\">查看全文</a>",
@@ -228,6 +211,114 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-4o8hqj",
+      "title": "小米 REDMI Book 2027 笔记本电脑发布：6799 元起，首销赠送 20000mAh 充电宝",
+      "desc": "<p data-vmark=\"8def\">IT之家 10 月 27 日消息，小米 REDMI Book 2027 正式发布，11 月 3 日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下：</p><h3 data-vmark=\"a288\">REDMI Book 14</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9a70\">酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元</p></li><li><p data-vmark=\"7b06\">酷睿 7 350、16",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/637.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T11:27:28.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-74sgxm",
+      "title": "荷兰计划用 AI 取代 2.5 万个政府工作岗位，目标节省 35 亿欧元",
+      "desc": "<p data-vmark=\"5484\">IT之家 10 月 27 日消息，据彭博社报道，荷兰政府宣布大力布局 AI 提升行政效率，计划逐渐削减 2.5 万个政府工作岗位，裁员规模约占荷兰政府员工总数的 16%，<strong>最终目的是节省 35 亿欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 261.52 亿元人民币）</span></strong>。</p><p data-vmark=\"4e4b\">据报道，荷兰政府希望借助 AI 提高效率，将生产力提高 20%。并计划精简规章制度减少政府工作量，<strong>该国政府已计划每年废除或简化 5",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/599.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T10:42:45.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9k7ra1",
+      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/545.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:35:08.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9krjve",
+      "title": "3299 → 799 元享 25000Pa 超强吸力 +180° 超薄躺平：石头 A30 Max 智能洗地机新品 3 期免息",
+      "desc": "<p data-vmark=\"e857\">石头 A30 Max 智能洗地机官方定价 4299 元，今日按下方步骤下单，仅需 799 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmar",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/544.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:34:47.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-87tv29",
+      "title": "百度网盘 11.11 年内探底：SVIP 超级会员 13 元 / 月、157 元 / 年",
+      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GoY6eY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5ao0kc6\" data-iosurl=\"https://u.jd.com/5",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/570.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:57:50.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-95db9a",
+      "title": "格斗游戏《碧蓝幻想 Versus：崛起》免费版 11 月 1 日终止运营，玩家可限时体验正式版全部 38 个角色",
+      "desc": "<p data-vmark=\"d9e7\">IT之家 10 月 27 日消息，开发商 Cygames 宣布旗下格斗游戏《碧蓝幻想 Versus：崛起》免费版将于 11 月 1 日 23:00 终止运营。</p><p style=\"text-align: center;\" data-vmark=\"4fd6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/343022e7-e4c9-44f8-813b-9e698aae7f18.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"81",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/551.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:51:58.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-iblify",
@@ -367,23 +458,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-fcuwvr",
-      "title": "终于低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FgE5Iw3\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDENlK5\" data-iosu",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/012/491.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T09:44:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-6pobkq",
@@ -3064,76 +3138,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-snrppa",
-      "title": "英伟达 DLSS 5 最新模型 10 月 16 日推送：性能相比 9 月翻倍，4K 显存占用降低 20%",
-      "desc": "<p data-vmark=\"301b\">IT之家 10 月 13 日消息，英伟达官方刚刚宣布，DLSS 5 的 3D 引导神经渲染模型将在本周迎来重大性能更新，新的模型将于 10 月 16 日正式推送。</p><p data-vmark=\"4325\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8e88ee1b-1f79-42e9-9454-ea8f8a17f11d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/564.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T12:57:11.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-rnhajg",
-      "title": "玩家为破解后的索尼 PS5 游戏机开发自制应用商店，可免费下载各大作品",
-      "desc": "<p data-vmark=\"30cf\">IT之家 10 月 13 日消息，随着 PS5 破解方案 Relapse 出炉，目前市面上出现了一批面向破解版 PS5 的自制应用商店，玩家可以从中免费下载各种游戏。</p><p data-vmark=\"cdaa\">综合 Insider Gaming 报道，例如 X 平台用户 Edigax 于 10 月 11 日发布一段演示视频，展示其从一款名为 Overdrive 的应用商店中免费下载了《战地风云 6》《极限竞速：地平线 5》等作品，不过有 Reddit 用户称该 Overdrive 应用商店“制作得非常粗糙”。</p><p data-vmark=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/540.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T11:08:58.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-ehin26",
-      "title": "奥迪史上最省电车型 A2 e-tron 亮相巴黎车展：百公里电耗 12.8 kWh 创品牌能效纪录，德国 3.82 万欧元起",
-      "desc": "<p data-vmark=\"1b34\">IT之家 10 月 13 日消息，2026 巴黎国际车展于当地时间 10 月 12 日开幕，并于 10 月 13 日面向公众开放。奥迪在本届巴黎车展上带来了全新纯电紧凑型车 A2 e-tron。</p><p data-vmark=\"337f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5c3b40ec-858a-43c9-8245-7301ac9f28b1.jpg?x-bce-process=image/format,f_au",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/476.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T08:54:51.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-q40ft",
-      "title": "别克世纪 CENTURY LPGA 限量版上市：53.99 万元，全国限量 66 台",
-      "desc": "<p data-vmark=\"a740\">IT之家 10 月 13 日消息，今日，2026 别克 LPGA 锦标赛在上海佘山国际高尔夫俱乐部正式开杆，别克同步推出世纪 CENTURY LPGA 限量版，官方指导价 53.99 万元，全国限量 66 台。六座版烟波蓝拼云峰白限量 22 台，七座版烟波蓝拼云峰白限量 22 台，七座版赤霞红拼页岩黑限量 22 台。</p><p data-vmark=\"f192\">据介绍，购车用户可享 1.5 万元置换补贴、TaylorMade 定制别克 LPGA 限量球包，以及 3 年内单次车损达到或超过购车价 30% 时由品牌方免费换购同款车型的权益。</p><p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/394.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-13T07:23:54.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
