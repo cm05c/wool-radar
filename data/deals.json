@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T01:27:56.612Z",
+  "updatedAt": "2026-10-27T06:49:37.887Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -24,23 +24,6 @@
         "小众软件·限免频道"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-ernofn",
-      "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/zcode-1024-free-500-million-tokens/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T15:15:32.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-9simgv",
@@ -245,6 +228,41 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-iblify",
+      "title": "2026 款零跑 C 系列 OTA 推送：激光雷达车型支持车位到车位辅助驾驶等",
+      "desc": "<p data-vmark=\"424b\">IT之家 10 月 27 日消息，零跑汽车今天（27 日）上午宣布，<span class=\"js_title_inner\">零跑 C 系 2026 款车型 OTA 于 10 月开始陆续推送。本次涉及的车型包括 <strong>C10（除 530 舒享版外）、C11 全系、C16（除六座 580 尊享版 / 200 尊享版外）</strong>。</span><span id=\"meta_content_hide_info\"></span></p><p data-vmark=\"9cd3\" style=\"text-align: center;\"><img",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/261.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T02:30:31.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ernofn",
+      "title": "赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/zcode-1024-free-500-million-tokens/",
+      "expiresAt": null,
+      "publishedAt": "2026-10-23T15:15:32.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-kxkrzx",
