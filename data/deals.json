@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-28T01:42:47.336Z",
+  "updatedAt": "2026-10-28T07:29:34.430Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -162,38 +162,94 @@
       "_score": 2
     },
     {
-      "id": "rss-1pisrp",
-      "title": "绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载",
-      "desc": "如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。\n\n\n超级会员 SVIP 年卡限时打折优惠：\n除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/quark-svip",
+      "id": "rss-mrmqrz",
+      "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
+      "desc": "<p data-vmark=\"8ce0\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。</p><p data-vmark=\"0dfc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_a",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/929.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-14T07:01:37.000Z",
-      "hot": 149,
+      "publishedAt": "2026-10-28T07:15:05.000Z",
+      "hot": 209,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 4
+      "_score": 4,
+      "verified": true
     },
     {
-      "id": "rss-doiyz4",
-      "title": "金山 WPS 大会员 (含AI + 超会) VIP 必入低价优惠 - 送京东 PLUS / 喜马 / 网易云",
-      "desc": "如果你办公时经常有处理文字、表格、PPT 等文档的需求，那么金山 WPS 软件一定是你不可或缺的工具。作为国产软件的骄傲，相较于微软的 Office 套件，WPS 不仅正版更加便宜实惠，而且自带的各种模板和细节小功能也更贴近国内的场景，更加适合国人使用。\n\n但我们平常使用「免费版」的 WPS 广告实在…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/wps-vip",
+      "id": "rss-navjjm",
+      "title": "华为 Pura90 Plus 手机发布：首发麒麟 9025 芯片，焕新优惠价 5199 元起",
+      "desc": "<p data-vmark=\"a807\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，焕新优惠价 5199 元起。</p><p data-vmark=\"8905\">新机提供霞光紫、晨曦金、曜石黑、雪域白配色，采用弧形金属中框、手感温润一体设计，<strong>6.8 英寸等深四曲屏</strong>。</p><p data-vmark=\"263b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/915.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-14T05:30:56.000Z",
-      "hot": 200,
+      "publishedAt": "2026-10-28T06:54:03.000Z",
+      "hot": 210,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 8
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-y59gu0",
+      "title": "1499 → 840 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯",
+      "desc": "<p data-vmark=\"4849\">小米 · 米家净水器 2（1200G）开售于 2026 年 3 月，该产品主打 7 年长效 RO、母婴级健康水，厂商建议零售价为 1999 元，首发价 1499 元。</p><p data-vmark=\"41cc\">京东 11.11 大促期间，现在支付定金，活动价 1201.87 元；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4f25\">PLUS 会员立减 10.1 元；</p></li><li><p data-vmark=\"5bd9\">领取 8.8 折优惠券；</p></li><li",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/898.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T06:14:02.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7,
+      "verified": true
+    },
+    {
+      "id": "rss-ymuvtk",
+      "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
+      "desc": "<p data-vmark=\"4587\">IT之家 10 月 28 日消息，科技媒体 semiconleadersasia 昨日（10 月 27 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）正通过风投机构 Playground Global，支持内存初创公司 Nagare Labs 开发下一代存储技术 Z2RAM。</p><p style=\"text-align: center;\" data-vmark=\"964f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/74b2591c-6a8",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/018/887.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T05:07:46.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-8vx47k",
+      "title": "Grok Bot X连接器已经取消开发者账号和API额度门槛 即用户可以白嫖X账号操作",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "白嫖",
+      "url": "https://www.landian.news/archives/127752.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T02:00:00.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-kxkrzx",
@@ -2503,40 +2559,6 @@
       "verified": true
     },
     {
-      "id": "rss-kxcwto",
-      "title": "家中、这里、那里——Sonos Play 体验",
-      "desc": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/115382",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T04:10:30.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-dkq17x",
-      "title": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车",
-      "desc": "<p data-vmark=\"8b61\">京东 PLUS + 芒果 TV 联合会员年卡日常活动价 248 元。</p><p data-vmark=\"114a\"><span class=\"font-color-red\"><strong>15 日 0 点</strong></span>开启大促，叠加 10 元平台补贴券，到手价 108 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0f5c\">10 元补贴券：<a href=\"https://u.jd.com/r6A8lNY\" target=\"_blank\" data-wxmpur",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/909.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T07:26:05.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-qno0e9",
       "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
       "desc": "<p data-vmark=\"eb2d\">IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。</p><p data-vmark=\"a1f3\">博主称（Pura X View）鉴定为<strong>今年势头最猛的国产旗舰</strong>，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。</p><p style=\"text-align: center;\" data-vmark=\"d621\"><img src=",
@@ -3074,96 +3096,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-14T08:28:26.000Z",
       "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-15vfdk",
-      "title": "麻省理工学院创企 LNK 研发新技术，可让柴油重卡变身氢动力重卡",
-      "desc": "<p data-vmark=\"60b0\">IT之家 10 月 14 日消息，当地时间 13 日，据外媒 TechCrunch 报道，麻省理工学院初创企业 LNK Energies 研发了一套系统，可以将现有柴油重卡改造成氢动力卡车，减少污染和运营成本，降低油价上涨对运输企业的影响。</p><p data-vmark=\"3706\">LNK 首席技术官亚历克西斯 · 胡因介绍说：“以美国第 8 级重卡为例，采用我们的技术后，总拥有成本比柴油车低 13%。”</p><p data-vmark=\"463b\">IT之家注：第 8 级是美国卡车重量分级中的最高等级，大型半挂牵引车即属于该级。</p><p ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/805.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T04:36:02.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-c1cxuo",
-      "title": "微软 Win10 推送 10 月扩展安全更新：修复文件历史记录备份故障",
-      "desc": "<p data-vmark=\"2391\">IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 10 扩展安全更新（ESU）用户推送 KB5126657 更新，覆盖 Windows 10 22H2 和 21H2，<strong>安装后版本号升至 Build 19045.7807 与 19044.7807。</strong></p><p data-vmark=\"43d8\"><strong>时区与时间规则</strong></p><p data-vmark=\"721e\">本次更新为加拿大不列颠哥伦比亚省、艾伯塔省启用永久夏令时，相关规则将于 20",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/786.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T03:47:49.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-blewn7",
-      "title": "微软推送 Win11 26H1 十月累积更新 28000.3231：任务栏可四边贴靠",
-      "desc": "<p data-vmark=\"168f\">IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 11 26H1 系统推送 KB5127646 累积更新，用户安装后版本号升至 Build 28000.3231。</p><p style=\"text-align: center;\" data-vmark=\"66b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/53a6ec2c-47c8-462a-82af-f4df9566a839.png?x-bce-process=image",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/794.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T03:58:57.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-cxssuz",
-      "title": "雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放",
-      "desc": "<p data-vmark=\"7e97\">IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。</p><p data-vmark=\"ea82\">对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。</p><p data-vmark=\"6299\">此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/769.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T03:36:25.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-czg6n2",
-      "title": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
-      "desc": "<p data-vmark=\"02d9\">IT之家 10 月 14 日消息，Defold 基金会于 10 月 12 日发布公告，发布开源跨平台游戏引擎 Defold 1.14.0，<strong>正式支持 Microsoft XBOX 游戏开发，并向经微软批准的开发者免费提供相关资源。</strong></p><p style=\"text-align: center;\" data-vmark=\"79aa\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a7ae3892-70f0-4c0c-80e9-b60eb62ad077.p",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/766.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T03:32:02.000Z",
-      "hot": 199,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
