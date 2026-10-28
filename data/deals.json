@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T22:38:29.796Z",
+  "updatedAt": "2026-10-28T01:42:47.336Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -194,6 +194,59 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-kxkrzx",
+      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/751.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T01:16:05.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-jskt61",
+      "title": "支持大部分地区：苹果 AirPods Pro 3 京东国补后 1163 元近期好价",
+      "desc": "<p data-vmark=\"43f3\">苹果 <strong>AirPods Pro 第三代</strong>支持升级版主动降噪 + 心率传感功能，国行定价 1899 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"69d5\">今日活动价 1499 元；</p></li><li><p data-vmark=\"c948\">PLUS 会员领取 120 元优惠券：<a href=\"https://u.jd.com/eGtwOsa\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOtKb",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/745.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T01:29:50.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-j8s7t1",
+      "title": "苹果 M6 iMac 细节：2.5Gb 网口藏进电源适配器，标准版选配需加价 200 元",
+      "desc": "<p data-vmark=\"aa4f\">IT之家 10 月 28 日消息，苹果昨日（10 月 27 日）推出搭载 M6 芯片的新款 24 英寸 iMac，起售价为 12,499 元。其中一个值得关注的变化，<strong>就是将 2.5Gb 以太网端口作为可选配置提供。</strong></p><p data-vmark=\"b55b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1fa1ab2-335a-4fbd-86b5-e4e1c02ddfbf.jpg?x-bc",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/018/730.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T00:30:36.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-kxdgxw",
@@ -403,23 +456,6 @@
         "小众软件·限免频道"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-kxkrzx",
-      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/751.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T01:16:05.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-47jm6a",
@@ -3128,42 +3164,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-14T03:32:02.000Z",
       "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-s739mq",
-      "title": "错过后悔等半年：漫步者 S2000MKIII 蓝牙音箱以旧换新后 1058 元补上加补",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"1a83\">漫步者 S2000MKIII 蓝牙音箱发售于 2019 年 6 月，今年日常售价为 1780 元。</p><p data-vmark=\"308d\">京东 11.11 大促期间，按下方步骤下单，叠加 5% 官方直降 + 10% 国补后仅需 1058.93 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"051a\">领 9 折 3C 数码券：<a href=\"https://u.jd.com/FDN",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/012/652.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T00:40:34.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-s86utg",
-      "title": "苹果面向 AirPods 5、AirPods Max 2 等 8 款耳机推送 9B5043a 固件",
-      "desc": "<p data-vmark=\"3a6f\">IT之家 10 月 14 日消息，苹果公司今天面向 AirPods Pro 3、AirPods 5 和 AirPods Max 2 等 8 款机型，<strong>推送开发者版与公开版 Beta 固件，版本号均为 9B5043a。</strong></p><p data-vmark=\"209d\">本次更新和 macOS 27.2/iOS 27.2/iPadOS 27.2 的第 4 个开发者预览版同步推出，IT之家援引博文介绍，本次固件更新覆盖以下机型：</p><ul class=\"medium-size list-paddingleft-2\"><li>",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/650.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T00:23:54.000Z",
-      "hot": 215,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
