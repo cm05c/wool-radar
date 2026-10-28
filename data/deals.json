@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-28T07:29:34.430Z",
+  "updatedAt": "2026-10-28T14:30:23.731Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -162,6 +162,41 @@
       "_score": 2
     },
     {
+      "id": "rss-8vx47k",
+      "title": "Grok Bot X连接器已经取消开发者账号和API额度门槛 即用户可以白嫖X账号操作",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "白嫖",
+      "url": "https://www.landian.news/archives/127752.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T02:00:00.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-p8mdeo",
+      "title": "iQOO 双边拉伸手柄 G1 发布：双霍尔配置、自定义按键，499 元",
+      "desc": "<p data-vmark=\"a653\">IT之家 10 月 28 日消息，iQOO 双边拉伸手柄 G1 今晚发布，售价 499 元，搭配 iQOO 手机、平板组合购立减 100 元，<strong>11 月 4 日开售</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2c3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f1c38e8-d9d6-4813-9150-b8fd8e56ef25.jpg?x-bce-process=image/format,f_",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/019/185.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T12:54:30.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-mrmqrz",
       "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
       "desc": "<p data-vmark=\"8ce0\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。</p><p data-vmark=\"0dfc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_a",
@@ -229,24 +264,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-8vx47k",
-      "title": "Grok Bot X连接器已经取消开发者账号和API额度门槛 即用户可以白嫖X账号操作",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "白嫖",
-      "url": "https://www.landian.news/archives/127752.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T02:00:00.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2,
       "verified": true
@@ -2989,113 +3006,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-15T01:12:02.000Z",
       "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-2kx92c",
-      "title": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降",
-      "desc": "<p data-vmark=\"546d\">海尔 77E 洗烘套装（云溪 4.0 顶配版）定价 9998 元，今日官方旗舰店 11.11 五折仅需 4999 元即可入手。</p><p data-vmark=\"baab\">下单前<strong>需咨询客服“是 4999 元吗”</strong>，客服可能会让下单待支付（选择微信支付<strong>不付款</strong>即可），然后把订单发给客服，客服登记后到货返差价。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FGH2NRG\" target=\"_blank\" data-wa",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/088.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T12:33:23.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-3zibnk",
-      "title": "AOC“U27U4D”显示器开售：26.5 英寸 4K 120Hz QD-OLED，券后到手价 4699 元",
-      "desc": "<p data-vmark=\"8d96\">IT之家 10 月 14 日消息，AOC“U27U4D”显示器现已开售，定价 4999 元，券后到手价 4699 元，政府补贴后到手价 4229 元。</p><p style=\"text-align: center;\" data-vmark=\"6e5f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fd015ee3-64bf-4d3d-9076-3775b22dcd75.jpg\" w=\"1440\" h=\"2026\" data-vmark=\"902f\" data-mpos=\"2,0\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/059.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T10:45:27.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-gs6ttr",
-      "title": "曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 3500 元档",
-      "desc": "<p data-vmark=\"78ed\">IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文，爆料了小米 REDMI K100 标准版外围配置信息。他透露，<strong>新机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬</strong>，属于配置不搞花活的类型。</p><p data-vmark=\"d0e6\">博主称，目前的行情，骁龙 8 至尊版处理器 + 12GB LPDDR5X + 256GB UFS4.1 这套组合光成本就已经干到了 3000 元。他表示，<strong>K100 标准版属于“3.5K 档量大管饱的产品”</strong>。</p><p style",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/012/972.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T09:12:18.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-4zsqte",
-      "title": "荣耀 MagicOS11 系统 10 月更新今晚推送，第二批内测机型报名通道重新开放",
-      "desc": "<p data-vmark=\"73a5\">IT之家 10 月 14 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布推送预告，称 MagicOS11 系统 10 月更新将在今晚开启推送，同时第二批内测报名通道也会重新开放。</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"54e6\"><strong>首批内测机型：</strong>今晚 20 点开始，Magic V6、Magic8 系列等 17 款机型率先推送 10 月版本</p></li><li><p data-vmark=\"e688\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/035.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T10:00:05.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-42t37q",
-      "title": "11.11 今晚 20:00 加码：iPhone 17 Pro Max 折后 7919 元，华为 Pura 80 京东 1 元秒杀",
-      "desc": "<p data-vmark=\"e598\"><span class=\"font-color-red\"><strong>京东 </strong></span>无门槛红包至高 26888 元，每天抽 3 次：<a href=\"https://u.jd.com/FafpqJ7\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfnUgL\" data-iosurl=\"https://u.jd.com/F1fjGzn\" data-androidurl=\"https://u.jd.com/FDBbvqH\" data-hosnexturl=\"https://u.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/053.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T10:26:28.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-fgwisp",
-      "title": "蔚来 firefly 萤火虫 aster 紫菀 2.1.0 开启推送：新增有麦 K 歌，升级 Lumo GPT 体验",
-      "desc": "<p data-vmark=\"25c2\">IT之家 10 月 14 日消息，蔚来 firefly 萤火虫今日宣布，<strong>aster 紫菀 2.1.0</strong> 现已陆续开启推送。</p><p style=\"text-align: center;\" data-vmark=\"a5a9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a243c530-88e4-41ca-9bba-3b4d7fee028f.jpg\" w=\"1080\" h=\"1440\" data-vmark=\"4d0c\" data-mpos=\"0,2",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/012/949.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T08:28:26.000Z",
-      "hot": 202,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
