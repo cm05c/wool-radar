@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-28T14:30:23.731Z",
+  "updatedAt": "2026-10-28T19:52:16.803Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -111,53 +111,19 @@
       "_score": 6
     },
     {
-      "id": "rss-uscov2",
-      "title": "爱奇艺 (电视端) VIP 年卡+送京东 PLUS 会员优惠 (年度低价)",
-      "desc": "看剧基本必备爱奇艺会员，相信不用多做介绍了；而如果你经常会在京东商城买东西，那么自然也知道京东 Plus 会员的各种好处！比如每月免邮、全品类优惠券、Plus 特价商品、专享活动价、免费上门退换货等等特权。\n\n原本爱奇艺 VIP 年卡定价 258 元，电视端更是 488 元，京东 PLUS 会员定价 299 元/年，…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/news/4313",
+      "id": "rss-p8mdeo",
+      "title": "iQOO 双边拉伸手柄 G1 发布：双霍尔配置、自定义按键，499 元",
+      "desc": "<p data-vmark=\"a653\">IT之家 10 月 28 日消息，iQOO 双边拉伸手柄 G1 今晚发布，售价 499 元，搭配 iQOO 手机、平板组合购立减 100 元，<strong>11 月 4 日开售</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2c3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f1c38e8-d9d6-4813-9150-b8fd8e56ef25.jpg?x-bce-process=image/format,f_",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/019/185.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-14T19:20:32.000Z",
-      "hot": 217,
+      "publishedAt": "2026-10-28T12:54:30.000Z",
+      "hot": 212,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 12
-    },
-    {
-      "id": "rss-y06xhn",
-      "title": "腾讯视频 SVIP 超级会员年卡优惠，历史低价！(支持 TV 电视端)",
-      "desc": "「腾讯视频」是腾讯旗下的互联网视频播放服务网站，其收录影视剧内容非常丰富，涵盖了综艺、电影、电视剧、动漫等热播剧。为应对爱奇艺、哔哩哔哩，它的 VIP 也要搞一些活动了。\n\n作为老对手的爱奇艺、BiliBili、优酷视频 都经常为了拉拢新会员，不时开一些 VIP 年卡打折活动，最近除了「哔哩…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/txsp-vip",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T18:20:02.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 5
-    },
-    {
-      "id": "rss-glld9d",
-      "title": "免费开源版 Adobe 全家桶！ArtCraft 像素级复刻 PS / AE / PR / AI 等软件",
-      "desc": "天下苦 Adobe 久矣。只要你做过设计、修图、后期、剪辑过视频，大概率都被 Adobe 的产品“压榨”过。毕竟每个月几百块的订阅费，对很多人来说都是贵到离谱又不得不低头的存在了。\n毕竟像 Photoshop、Premiere、After Effects 等十多年积累的快捷键和操作习惯早刻进骨子里，像 Affinity、GIMP、苹果 Creator Studio 等替代品始终用不顺手。不过最近有人用 AI 把 Adobe 全家桶的生产力工具“1:1 复刻”重写并开源，起名 ArtCraft，而且还在不断迭代……\n「 前往查看原文.... 」异次元还有这些值得一看：Adobe 放大招！Phot",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/artcraft.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T17:37:00.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
@@ -179,21 +145,57 @@
       "_score": 2
     },
     {
-      "id": "rss-p8mdeo",
-      "title": "iQOO 双边拉伸手柄 G1 发布：双霍尔配置、自定义按键，499 元",
-      "desc": "<p data-vmark=\"a653\">IT之家 10 月 28 日消息，iQOO 双边拉伸手柄 G1 今晚发布，售价 499 元，搭配 iQOO 手机、平板组合购立减 100 元，<strong>11 月 4 日开售</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2c3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f1c38e8-d9d6-4813-9150-b8fd8e56ef25.jpg?x-bce-process=image/format,f_",
+      "id": "rss-bzcyd8",
+      "title": "续航未打折扣：苹果首款触控 MacBook Pro 最长连续播放 24 小时视频",
+      "desc": "<p data-vmark=\"e407\">IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>苹果公司发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，不过满电续航并未因此打折扣。</strong></p><p style=\"text-align: center;\" data-vmark=\"2836\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/02083289-",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/019/185.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/255.htm",
       "expiresAt": null,
-      "publishedAt": "2026-10-28T12:54:30.000Z",
-      "hot": 212,
+      "publishedAt": "2026-10-28T19:38:17.000Z",
+      "hot": 198,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-cfus62",
+      "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
+      "desc": "<p data-vmark=\"4518\">IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 80 核 GPU）的顶配机型，<strong>相比较 96GB 版本价格上涨 116,250 元。</strong></p><p data-vmark=\"dca1\">IT之家注：512GB 内存版目前仅适用于 M5 Ultra 芯片（36 核 CPU 与 80 核 GPU）顶配，用户如果选择 M5 Ultra（30 核 CPU 与 64 核 GPU）会跳出相关",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/019/246.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T17:54:05.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-czndj2",
+      "title": "内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上",
+      "desc": "<p data-vmark=\"daef\">IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。</p><p data-vmark=\"a768\">一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨至 4300 至 4400 元区间，回升幅度约 500 元。</p><p data-vmark=\"6282\" style=\"text-al",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/019/231.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-28T15:40:36.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -2869,23 +2871,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-96gbtq",
-      "title": "小米手机 11.11 开启：17 Pro / Max 立减 1500 元，MIX Flip2 折叠屏 5999 → 2719 元新低",
-      "desc": "<p data-vmark=\"d9d3\">小米 17 系列京东 11.11 狂促今日开启，至高享 12 期分期免息，折后均为好价。</p><p data-vmark=\"5878\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/FrRYX2I\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGfrmM8\" data-iosurl=\"https://u.jd.com/F1RvP7h\" data-androidurl=\"https://u.jd.com/FDR6lqq\" data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/123.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-14T14:48:15.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
     },
     {
       "id": "rss-tle8yq",
