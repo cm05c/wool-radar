@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-29T18:26:25.497Z",
+  "updatedAt": "2026-10-29T22:58:22.132Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -77,6 +77,40 @@
       "_score": 3
     },
     {
+      "id": "rss-855jo6",
+      "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sorry-were-closed-724c86\" target=\"_blank\" title=\"《抱歉我们打烊了》\">《抱歉我们打烊了》</a></p><p data-vm",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/019/789.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T15:00:20.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-9nl6ex",
+      "title": "借钱搞 AI：消息称微软计划通过美国债券发行至少筹资 250 亿美元",
+      "desc": "<p data-vmark=\"900c\">IT之家 10 月 29 日消息，据彭博社报道，微软公司计划发行美国投资级债券，至少募资 250 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,670.13 亿元人民币）</span>，这是该公司时隔九年多首次开展这类债券发行。和同行企业一样，微软借债是为了给人工智能领域的大规模投入提供资金。</p><p style=\"text-align: center;\" data-vmark=\"b872\"><img src=\"https://img.ithome.com/newsuploadfiles/202",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T12:29:00.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-lw0bf3",
       "title": "ChatGPT Pro和商业版订阅现在每月可以获得等额API额度 例如200美元版赠送200美元API",
       "desc": "",
@@ -94,37 +128,19 @@
       "_score": 2
     },
     {
-      "id": "rss-855jo6",
-      "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sorry-were-closed-724c86\" target=\"_blank\" title=\"《抱歉我们打烊了》\">《抱歉我们打烊了》</a></p><p data-vm",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/019/789.htm",
+      "id": "rss-8wfae4",
+      "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
+      "desc": "现在 AI 的发展让 Markdown 成为了真正意义上的排版格式之王。一个好用的 Markdown 写作和阅读工具，几乎是所有人都需要的。\n然而大多数 Markdown 工具都是左右分屏布局，写两行字就要看一眼右边预览，即割裂又低效。很容易打断写作思路，所以无数人推荐 Typora 那种畅快流畅的单屏码字爽感！可惜，它要钱。而开源免费轻量的 MarkText 正是填补了“免费版 Typora” 替代品的空缺……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)Typora - ",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/marktext.html",
       "expiresAt": null,
-      "publishedAt": "2026-10-29T15:00:20.000Z",
+      "publishedAt": "2026-10-29T20:51:27.000Z",
       "hot": 156,
       "tags": [
         "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-9nl6ex",
-      "title": "借钱搞 AI：消息称微软计划通过美国债券发行至少筹资 250 亿美元",
-      "desc": "<p data-vmark=\"900c\">IT之家 10 月 29 日消息，据彭博社报道，微软公司计划发行美国投资级债券，至少募资 250 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,670.13 亿元人民币）</span>，这是该公司时隔九年多首次开展这类债券发行。和同行企业一样，微软借债是为了给人工智能领域的大规模投入提供资金。</p><p style=\"text-align: center;\" data-vmark=\"b872\"><img src=\"https://img.ithome.com/newsuploadfiles/202",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/019/753.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-29T12:29:00.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
+        "异次元软件·限免羊毛"
       ],
       "_score": 3,
       "verified": true
