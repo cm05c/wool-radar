@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:47:16.665Z",
+  "updatedAt": "2026-10-29T18:26:25.497Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -9,21 +9,21 @@
   },
   "items": [
     {
-      "id": "rss-ghwgm6",
-      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
+      "id": "rss-usbcm4",
+      "title": "为了低价续费会员，我用 AI 做了个 VIP 年卡降价监控提醒网站",
+      "desc": "最近双 11 大促，众多网盘会员、视频 VIP 等等都大幅优惠促销了。为了能尽可能在更「低价」续费自己的会员，我用 AI 写了一个精选「国内 VIP 会员年卡好价聚合 · 降价监控网站」，每日自动监控记录价格变化，帮你“盯紧”了会员的降价情况。\n\n会员打折情报监控站\n可以非常直观地看到正处于“好…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
       "channel": "异次元",
       "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.iplaysoft.com/1111.html",
+      "value": "",
+      "url": "https://www.iplaysoft.com/news/6636",
       "expiresAt": null,
-      "publishedAt": "2026-10-15T12:00:48.000Z",
-      "hot": 203,
+      "publishedAt": "2026-10-29T09:47:44.000Z",
+      "hot": 217,
       "tags": [
         "RSS",
         "异次元软件·限免羊毛"
       ],
-      "_score": 2
+      "_score": 5
     },
     {
       "id": "rss-9simgv",
@@ -77,21 +77,56 @@
       "_score": 3
     },
     {
-      "id": "rss-usbcm4",
-      "title": "为了低价续费会员，我用 AI 做了个 VIP 年卡降价监控提醒网站",
-      "desc": "最近双 11 大促，众多网盘会员、视频 VIP 等等都大幅优惠促销了。为了能尽可能在最「低价」续费自己的会员，我用 AI 写了一个精选「国内 VIP 会员年卡好价聚合 · 降价监控网站」，每日自动监控记录价格变化，帮你“盯紧”了会员的降价情况。\n\n会员打折情报监控站\n可以非常直观地看到正处于“好…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-lw0bf3",
+      "title": "ChatGPT Pro和商业版订阅现在每月可以获得等额API额度 例如200美元版赠送200美元API",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/news/6636",
+      "url": "https://www.landian.news/archives/127775.html",
       "expiresAt": null,
-      "publishedAt": "2026-10-29T09:47:44.000Z",
-      "hot": 217,
+      "publishedAt": "2026-10-29T06:00:54.000Z",
+      "hot": 208,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "蓝点网·科技资讯"
       ],
-      "_score": 5,
+      "_score": 2
+    },
+    {
+      "id": "rss-855jo6",
+      "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sorry-were-closed-724c86\" target=\"_blank\" title=\"《抱歉我们打烊了》\">《抱歉我们打烊了》</a></p><p data-vm",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/019/789.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T15:00:20.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-9nl6ex",
+      "title": "借钱搞 AI：消息称微软计划通过美国债券发行至少筹资 250 亿美元",
+      "desc": "<p data-vmark=\"900c\">IT之家 10 月 29 日消息，据彭博社报道，微软公司计划发行美国投资级债券，至少募资 250 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,670.13 亿元人民币）</span>，这是该公司时隔九年多首次开展这类债券发行。和同行企业一样，微软借债是为了给人工智能领域的大规模投入提供资金。</p><p style=\"text-align: center;\" data-vmark=\"b872\"><img src=\"https://img.ithome.com/newsuploadfiles/202",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T12:29:00.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -126,24 +161,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-lw0bf3",
-      "title": "ChatGPT Pro和商业版订阅现在每月可以获得等额API额度 例如200美元版赠送200美元API",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127775.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-29T06:00:54.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
       ],
       "_score": 2,
       "verified": true
@@ -2683,159 +2700,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-dxne4g",
-      "title": "Epic 喜加二：《烂奶酪》《Agent A - 伪装游戏》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，Epic 本周送出的游戏是《烂奶酪》和《Agent A - 伪装游戏》，下周送出的游戏是《Sker Ritual》以及《Home - A Unique Horror Adventure》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9\" target=\"_blank\" title=\"《烂奶酪》\">《烂奶酪》</a>，<a href=\"https://store.epicgames.c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/013/675.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T15:00:33.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-ddusrg",
-      "title": "2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低",
-      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9db7\">大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。</p><p data-vmark=\"ac4b\">京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FDkS98h\" target=\"_blank\" data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/660.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T14:00:44.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-d1rbpi",
-      "title": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%",
-      "desc": "<p data-vmark=\"9422\">苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。</p><p data-vmark=\"d4b7\">售价单件装 249 元，四件装 849 元。</p><p data-vmark=\"25ff\">今日京东国补后四件装 763 元，单枚约 191 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9b16\">京东无门槛红包至高 26888 元，支持即领即用：<a href=\"h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/659.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:50:16.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-czk5c2",
-      "title": "首发 2699.1 元，极米 Z7X 4K 激光版光学变焦 4K 投影仪开售",
-      "desc": "<p data-vmark=\"7be3\">IT之家 10 月 15 日消息，极米 Z7X 4K 激光版光学变焦 4K 投影仪现已在京东开售。新品采用轻薄折叠形态，支持 VRR 可变刷新率和杜比音效，首发价 2699.1 元。</p><p style=\"text-align: center;\" data-vmark=\"911e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/401f88ba-ccb1-44a2-ac3f-98edc145bdd8.jpg?x-bce-process=image/format,f_auto\" w=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/655.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:29:38.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-chyqci",
-      "title": "首发 4049.1 元起，极米 RS30 系列投影仪开售",
-      "desc": "<p data-vmark=\"81fe\">IT之家 10 月 15 日消息，极米 RS30 系列投影仪现已在京东开售，新品拥有 RS30、RS30 高亮版、RS30 Pro 旗舰版、RS30 Ultra 高亮版、RS30 Ultra 旗舰版和 RS30 Ultra Max 旗舰版等型号，<strong>首发售价 4,049.1 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b5f1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/61259031-f63c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/644.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T13:04:19.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-bmmgix",
-      "title": "天猫 2026 双 11 品牌参与创纪录：首发新品规模创新高，iPhone 18 Pro 系列确定参加平台优惠",
-      "desc": "<p data-vmark=\"d68b\">IT之家 10 月 15 日消息，真正的双 11 于 10 月 20 日开卖。天猫发布会今日披露，今年天猫双 11 吸引了 100 万全球品牌、7200 万款商品参与，<strong>均创历史新高</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d991\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/42e48ff1-67e6-4836-84ec-2e450124a680.jpg?x-bce-process=image/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/013/629.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:23:25.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-bkz2qu",
-      "title": "【已结束】9999 → 8999 元：苹果 iPhone 18 Pro 国补立减千元 + 国家贴息 12 期免息",
-      "desc": "<p data-vmark=\"d9f8\">【21:10 更新：补贴名额已抢空】</p><p data-vmark=\"ac85\">京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：<a href=\"https://u.jd.com/FOUXNJi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgUSDXk\" data-iosurl=\"https://u.jd.com/FDURMuv\" data-androidurl=\"https://u.jd.com/F6US6U5\" data-hosnexturl=\"https:/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/626.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:19:07.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-bi83s1",
-      "title": "365 天最低价：小米“满分小折”MIX Flip 2 国补到手价 2719.15 元起，搭载骁龙 8 至尊版处理器",
-      "desc": "<p data-vmark=\"f2c7\">IT之家 10 月 15 日消息，小米 MIX Flip 2 小折叠手机迎来双十一优惠。京东显示，<strong>该机现在国补到手价 2719.15 元起（原价 5999 元起）</strong>，属于 365 天最低价。</p><p data-vmark=\"0260\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0bdd5e72-707c-451f-b91e-7fbf6bad6cf5.jpg?x-bce-process=ima",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/013/621.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:02:29.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-b5ku4q",
-      "title": "双十一高性能游戏本大促：雷神猎刃 S 国补最高省 1500 元，i9-13900HX 搭配 RTX 5060",
-      "desc": "<p data-vmark=\"06eb\">IT之家 10 月 15 日消息，双十一到了，游戏本市场照例迎来一波集中促销，正是换机的好时机。</p><p data-vmark=\"22b3\">目前雷神猎刃 S 的双十一活动已经开启，国补立减 15%，最多能省 1500 元。晒单还附赠雷神加速器季卡、休闲背包等权益；愿意再加 299 元的话，可以升级 3 年整机延保，并附上 Microsoft 365 个人版 3 个月订阅和 1TB 云存储空间。</p><p style=\"text-align: center;\" data-vmark=\"b2b7\"><img src=\"https://img.ith",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/619.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T12:01:36.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7
     }
   ]
 }
