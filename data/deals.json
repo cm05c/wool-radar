@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-28T23:59:29.686Z",
+  "updatedAt": "2026-10-29T05:42:08.427Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
     "fetched": 23,
     "linkVerified": true
@@ -92,6 +92,77 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-9k7ra1",
+      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/545.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:35:08.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-fg5jbc",
+      "title": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
+      "desc": "<p data-vmark=\"c5e0\">IT之家 10 月 29 日消息，三星宣布旗下 Galaxy 设备新版睡眠呼吸暂停检测算法已获得韩国食品医药品安全处（MFDS）批准，新版算法相较原版不仅能够检测中重度睡眠呼吸暂停的相关迹象，还可借助 AI 统计用户睡眠期间每小时出现的呼吸中断次数，并根据发生频率划分为轻度、偶发和频繁三个等级。</p><p data-vmark=\"18ab\">IT之家获悉，韩版 Galaxy Watch Ultra2、Galaxy Watch9 和 Galaxy Ring 智能戒指将于今年 11 月率先获得新版算法，随后，运行 Wear OS 7.0 或更高版本系统的",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/413.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T04:29:31.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-1ag99l",
+      "title": "努比亚星云 AIOS 3.0 版本升级计划公布，12 月推送 Z80 Ultra 手机",
+      "desc": "<p data-vmark=\"be04\">IT之家 10 月 29 日消息，努比亚官方今日公布了星云 AIOS 3.0 版本升级计划。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3540\"><strong>2026 年 12 月</strong>：努比亚 Z80 Ultra</p></li><li><p data-vmark=\"9af6\"><strong>2027 年 3 月</strong>：努比亚 Z70 Ultra、努比亚 Z70S Ultra 摄影师版</p></li></ul><p data-vmark=\"f1ee\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/326.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T02:14:45.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ey0bqf",
+      "title": "《无人深空》登陆苹果 iOS 平台售 19.99 美元，游戏全平台同步推送“遗落”万圣节更新",
+      "desc": "<p data-vmark=\"69b3\">IT之家 10 月 29 日消息，开发商 Hello Games 旗下《无人深空》游戏现已登陆苹果 iOS 平台（美区商店地址：<a href=\"https://apps.apple.com/us/app/no-mans-sky/id1615755735\" target=\"_blank\">点此访问</a>），定价 19.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 133.5 元人民币）</span>，官方同步为游戏推出 Forsaken（遗落）万圣节更新。</p><p data-vmark=\"1e8",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/401.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T03:38:30.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-bzcyd8",
@@ -404,24 +475,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-9k7ra1",
-      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
-      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/018/545.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T09:35:08.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-9krjve",
@@ -2418,23 +2471,6 @@
       "_score": 6
     },
     {
-      "id": "rss-kxcban",
-      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-      "desc": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/116193",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T00:31:01.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-5i0lz1",
       "title": "唯卓仕 AF 26mm F2.8 EVO 索尼 FE 卡口镜头新增雾月银、岩月灰配色，券后 1419 元",
       "desc": "<p data-vmark=\"67b3\">IT之家 10 月 17 日消息，唯卓仕 AF 26mm F2.8 EVO 全画幅相机镜头发布于 7 月 15 日，唯卓仕现为索尼 FE 卡口版本新增了雾月银、岩月灰配色，增加全新方形遮光罩（圆形遮光罩保留），售价 1499 元，券后到手价 1419 元。</p><p style=\"text-align: center;\" data-vmark=\"d41e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6ae3a951-e024-44db-bb94-1438131c0ee4.jpg?",
@@ -2889,42 +2925,6 @@
       "verified": true
     },
     {
-      "id": "rss-v3tvph",
-      "title": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 15 日消息，尼康 Z 5II C 全画幅微单相机于今日正式发售，黑色机身（不含镜头）售价为 9999 元。</p><p data-vmark=\"0001\">该机定位新手入门，主打随手出片轻松拍，目前可叠加平台满 6000-780 元神券，券后 9219 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6Veyn9\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F6Vo4qZ\" data-iosurl=\"htt",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/351.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T05:26:20.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ppxift",
-      "title": "小米澎湃 OS 4 首批正式版开启推送，覆盖小米 17 系列、REDMI K100/K90 系列等",
-      "desc": "<p data-vmark=\"6c7e\">IT之家 10 月 15 日消息，小米澎湃 OS 4 正式版今日开启首批推送，覆盖小米 17 系列、REDMI K100/K90 系列、小米平板 8 系列。</p><p data-vmark=\"d1ff\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6aba\">Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版</p></li><li><p data-vmark=\"599e\">Xiaomi 17 Pro Max</p></li",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/261.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T03:11:12.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
       "id": "rss-um8gpx",
       "title": "苹果 AirPods 5 耳机京东 PLUS 加补 100 元：限地区国补后预计仅需 758 元新低",
       "desc": "<p data-vmark=\"43f3\">苹果今年 9 月宣布推出 <strong>AirPods 5</strong>，支持主动降噪，国行定价 999 元起。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d82e\">京东 PLUS 目前可领 <strong>100、125 元</strong>加补券，10 月 20 日可用，券后仅需 889 元起：<a href=\"https://u.jd.com/FaXbWUk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FOX0UEG\" da",
@@ -2935,42 +2935,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-15T06:16:23.000Z",
       "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-cibh6g",
-      "title": "腾讯视频官方 11.11 预售：VIP 会员年卡 138 元、SVIP 会员年卡 238 元",
-      "desc": "<p data-vmark=\"0287\">腾讯视频会员<span class=\"font-color-red\"><strong>连续包年</strong></span>年卡日常售价为 178 元，今日 11 点官方 11.11 预售，活动价 148 元，领取 10 元优惠券，到手价为 138 元，折合每月约 11.5 元：</p><p data-vmark=\"b061\"><span class=\"font-color-red\"><strong>* 此款为连续包年卡，之后 238 元 / 年续费，小伙伴们充值 90 天后记得关闭自动续费！！！</strong></span></p><p styl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/194.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T01:48:20.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-bzmh06",
-      "title": "特斯拉向 HW3 英特尔芯片版老款 Model S/X 推送 FSD v14 Lite",
-      "desc": "<p data-vmark=\"0ece\">IT之家 10 月 15 日消息，北美地区搭载 HW3 硬件的老款 Model S 与 Model X 车主，终于能够收到特斯拉最新的 FSD 版本。特斯拉 X 平台官方账号 Tesla Super Intelligence 宣布，FSD v14 Lite 现已向搭载英特尔芯片的 HW3 版 Model S、Model X 推送，这是这批老车首次获得蒸馏版 FSD 分支系统。</p><p style=\"text-align: center;\" data-vmark=\"cf5d\"><img src=\"https://img.ithome.com/news",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/181.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-15T01:12:02.000Z",
-      "hot": 198,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
