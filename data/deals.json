@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-10-29T22:58:22.132Z",
+  "updatedAt": "2026-10-30T02:34:31.442Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-8wfae4",
+      "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
+      "desc": "现在 AI 的发展让 Markdown 成为了真正意义上的排版格式之王。一个好用的 Markdown 写作和阅读工具，几乎是所有人都需要的。\n然而大多数 Markdown 工具都是左右分屏布局，写两行字就要看一眼右边预览，即割裂又低效。很容易打断写作思路，所以无数人推荐 Typora 那种畅快流畅的单屏码字爽感！可惜，它要钱。而开源免费轻量的 MarkText 正是填补了“免费版 Typora” 替代品的空缺……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)Typora - ",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/marktext.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T20:51:27.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3
+    },
     {
       "id": "rss-usbcm4",
       "title": "为了低价续费会员，我用 AI 做了个 VIP 年卡降价监控提醒网站",
@@ -77,6 +94,129 @@
       "_score": 3
     },
     {
+      "id": "rss-9k7ra1",
+      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/018/545.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-27T09:35:08.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-kxkrzx",
+      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/751.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T01:16:05.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-lw0bf3",
+      "title": "ChatGPT Pro和商业版订阅现在每月可以获得等额API额度 例如200美元版赠送200美元API",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127775.html",
+      "expiresAt": null,
+      "publishedAt": "2026-10-29T06:00:54.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-6vw076",
+      "title": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
+      "desc": "<p data-vmark=\"cc7b\">IT之家 10 月 30 日消息，小米澎湃 OS 官方宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型将从即日起开始陆续推送。</p><p data-vmark=\"362f\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9578\">Xiaomi 17 Max</p></li><li><p data-vmark=\"f270\">Xiaomi 17T Pro</p></li><li><p data-vmark=\"f268\">Xiaomi 17",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/891.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T02:11:45.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5l5hrh",
+      "title": "特斯拉全新金融方案“特从容”上线：Model 3/Y 首付 3.99 万元起 + 五年零息",
+      "desc": "<p data-vmark=\"ee3f\">IT之家 10 月 30 日消息，今天（30 日）上午，特斯拉通过官微宣布：特斯拉全新福利“特从容”金融方案上线。该方案将主打低首付、低月供、低尾款与 0 利息，面向 <strong>10 月 30 日（含）至 11 月 30 日（含）前下单</strong>的用户。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d3ea\">Model 3 后轮驱动版 / 长续航后轮驱动版 / 长续航全轮驱动版：尾款立减 10000 元后首付 3.99 万元起，五年月供最高约 2429 元，尾款 3.99 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/019/869.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T01:21:46.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5iybe1",
+      "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
+      "desc": "<p data-vmark=\"67e7\">IT之家 10 月 30 日消息，当地时间 10 月 29 日，法国公司 Mistral AI 正式开放 Mistral Large 4（简称 ML4，代号 le Chonk）模型权重。</p><p style=\"text-align: center;\" data-vmark=\"4304\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e7d26d9e-8a19-421d-a9e6-29dcf8906d14.jpg?x-bce-process=image/format,f_auto\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/019/865.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T01:09:09.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-5huq7b",
+      "title": "办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标 699 → 287 元破冰新低",
+      "desc": "<p data-vmark=\"0af6\">【<strong>手小慎拍</strong>，此款适合大多数男性手掌握持。】</p><p data-vmark=\"3831\">罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7e96\">今日京东超级补贴直降至 359 元；</p></li><li><p data-vmark=\"bdd3\">领取满 200-20 元优惠券：<a href=\"https://u.jd",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/019/863.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T01:07:00.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
       "id": "rss-855jo6",
       "title": "Epic 喜加一：《抱歉我们打烊了》游戏免费领取",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We're Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sorry-were-closed-724c86\" target=\"_blank\" title=\"《抱歉我们打烊了》\">《抱歉我们打烊了》</a></p><p data-vm",
@@ -109,41 +249,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-lw0bf3",
-      "title": "ChatGPT Pro和商业版订阅现在每月可以获得等额API额度 例如200美元版赠送200美元API",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127775.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-29T06:00:54.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-8wfae4",
-      "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
-      "desc": "现在 AI 的发展让 Markdown 成为了真正意义上的排版格式之王。一个好用的 Markdown 写作和阅读工具，几乎是所有人都需要的。\n然而大多数 Markdown 工具都是左右分屏布局，写两行字就要看一眼右边预览，即割裂又低效。很容易打断写作思路，所以无数人推荐 Typora 那种畅快流畅的单屏码字爽感！可惜，它要钱。而开源免费轻量的 MarkText 正是填补了“免费版 Typora” 替代品的空缺……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)Typora - ",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/marktext.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-29T20:51:27.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-xj5xuw",
@@ -197,23 +302,6 @@
         "小众软件·限免频道"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-9k7ra1",
-      "title": "WPS 赚钱京东花：WPS 京东 PLUS 联合会员 268 元，单个会员 1 年仅需 59 元",
-      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后<strong>实付 268 元</strong>赠 30 元电影券包。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 238 元</strong>。</p><p data-vmark=\"7cb6\">折合<strong>仅需 238 元</strong>，单会员单年折合<strong>仅需 59.5 元</strong>。</p><p data-vmark=\"65e0\">京东 11.11",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/018/545.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T09:35:08.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-fg5jbc",
@@ -425,23 +513,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-kxkrzx",
-      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/751.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T01:16:05.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-jskt61",
@@ -2679,42 +2750,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-qno0e9",
-      "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
-      "desc": "<p data-vmark=\"eb2d\">IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。</p><p data-vmark=\"a1f3\">博主称（Pura X View）鉴定为<strong>今年势头最猛的国产旗舰</strong>，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。</p><p style=\"text-align: center;\" data-vmark=\"d621\"><img src=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/013/731.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T01:16:14.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-rl7gla",
-      "title": "OPPO ColorOS 十月体验升级内容公布：内容传送门新增链接卡片拖拽",
-      "desc": "<p data-vmark=\"f1de\">IT之家 10 月 16 日消息，OPPO 今日公布了 ColorOS 的十月体验升级内容。</p><p data-vmark=\"5994\">IT之家整理如下：</p><h3 data-vmark=\"09e0\">小布记忆</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"377d\">随口记体验优化：支持 AI 总结，快速梳理记录内容</p></li><li><p data-vmark=\"5dce\">新增桌面卡片：支持桌面与速览添加「随口记」、「我的账单」卡片</p></li></ul><h3 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/013/750.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T02:24:51.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
