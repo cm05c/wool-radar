@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30T02:34:31.442Z",
+  "updatedAt": "2026-10-30T08:58:48.396Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,95 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-5huq7b",
+      "title": "办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标 699 → 287 元破冰新低",
+      "desc": "<p data-vmark=\"0af6\">【<strong>手小慎拍</strong>，此款适合大多数男性手掌握持。】</p><p data-vmark=\"3831\">罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7e96\">今日京东超级补贴直降至 359 元；</p></li><li><p data-vmark=\"bdd3\">领取满 200-20 元优惠券：<a href=\"https://u.jd",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/019/863.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T01:07:00.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-qhyg6w",
+      "title": "百度宣布将搜索 API 活动价压至 4.9 元 / 千次，低于 DeepSeek 标准 5 元定价",
+      "desc": "<p data-vmark=\"f83d\">IT之家 10 月 30 日消息，百度今日在北京举办产品升级沟通会，宣布围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用四大方向进行升级，并宣布推出搜索 AI API 优惠价 —— 活动期间最低价 4.9 元 / 千次，低于 DeepSeek 同类产品的 5 元 / 千次。</p><p style=\"text-align: center;\" data-vmark=\"18a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/135cc92a-d872-4c8a-b286-16b97",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/020/165.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T08:19:58.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-cq00z6",
+      "title": "单个会员 1 年仅需 69 元：WPS + QQ 音乐联合会员 11.11 限时加补",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 4 年日常 418 元，今日买超会 4 年送 QQ 音乐 1 年 + 限时加补 50 元，券后价为 368 元。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 20 元京东 E 卡，到手仅需 348 元。</p><p data-vmark=\"7cb6\">折合单会员单年折合仅需 69.6 元。</p><p data-vmark=\"65e0\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/56emoU2\" target=\"_bla",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/020/082.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T06:32:40.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-d8p15g",
+      "title": "在尸体上铺路：Steam 动作解谜新游《Re:Re:Re:Respawn》发售，首发 9 折 ¥26.10",
+      "desc": "<p data-vmark=\"0000\">IT之家 10 月 30 日消息，由“Studio 非”开发、Re³ 发行的 3D 动作解谜游戏《Re:Re:Re:Respawn》现已正式登陆 Steam 平台，国区首发限时 9 折，折后售价 26.10 元（原价 29.00 元），优惠将持续至 11 月 5 日。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4620440/ReReReRespawn/\"><span class=\"link-text-start-with-http\">https://store.steampowered",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/020/095.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T06:38:30.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-bt0ddi",
+      "title": "Steam 喜加一：视觉小说《Autumn’s end (Part 1)》转付费前免费领",
+      "desc": "<p data-vmark=\"53b6\">IT之家 10 月 30 日消息，开发者 countlessbathory 宣布旗下视觉小说《Autumn's end (Part 1)》将于 10 月 31 日结束免费发行，转为付费游戏。开发者希望通过游戏销售收入筹集续作 Part 2 的开发资金，玩家仍可在限时免费期间将游戏添加至 Steam 账号。</p><p style=\"text-align: center;\" data-vmark=\"f67b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0e497e99-a82f-4c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/020/064.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T06:21:18.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-9k7ra1",
@@ -196,24 +285,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-5huq7b",
-      "title": "办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标 699 → 287 元破冰新低",
-      "desc": "<p data-vmark=\"0af6\">【<strong>手小慎拍</strong>，此款适合大多数男性手掌握持。】</p><p data-vmark=\"3831\">罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7e96\">今日京东超级补贴直降至 359 元；</p></li><li><p data-vmark=\"bdd3\">领取满 200-20 元优惠券：<a href=\"https://u.jd",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/019/863.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T01:07:00.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
       "verified": true
     },
     {
@@ -1825,23 +1896,6 @@
       "_score": 4
     },
     {
-      "id": "rss-2c0bsl",
-      "title": "VideoProc Converter AI V7.8 周年庆限时赠送！AI 视频增强、图片修复与 4K/10K 放大工具免费领",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.appinn.com/videoproc-converter-ai-v7-8/",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T06:49:54.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-xhy56o",
       "title": "20:00 速度保价：苹果 AirPods Pro 3 京东 PLUS 1121 元，国补 15% 限地区",
       "desc": "<p data-vmark=\"43f3\">苹果 <strong>AirPods 5</strong> 支持主动降噪，国行定价 999 元起。</p><p data-vmark=\"cddf\">苹果 <strong>AirPods Pro 第三代</strong>支持升级版主动降噪 + 心率传感功能，国行定价 1899 元。</p><p data-vmark=\"69d5\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券，10 月 20 日 20:00 可用：<a href=\"https://u.jd.com/5aOtBds\"",
@@ -2666,23 +2720,6 @@
       "verified": true
     },
     {
-      "id": "rss-v4qf4s",
-      "title": "3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗",
-      "desc": "<p data-vmark=\"5298\">石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"dbeb\">京东 11.11 大促期间，活动价 2592 元；</p></li><li><p data-vmark=\"66de\">下单领取 9 折优惠券；</p></li><li><p data-vmark=\"0ee0\">国家补贴立减 349.92 元；<",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/013/800.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T03:16:49.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
-    },
-    {
       "id": "rss-j8vg01",
       "title": "七彩虹橘宝 R16 游戏本新增 AMD R7 H 255 + 16G + 512G + RTX 5060 配置，9999 元（国补 8499.15 元）",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 16 日消息，七彩虹 MEOW 橘宝 R16 游戏本新增了一款搭载 AMD 锐龙 7 H 255 处理器 + RTX 5060 显卡 +16GB 内存 + 512GB 固态硬盘的版本，京东原价 10299 元，首发立减 300 元，叠加国补后到手价为 8499.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/F6oZn6x\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fao7GBF\" data-iosur",
@@ -2715,24 +2752,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 7
-    },
-    {
-      "id": "rss-yrpsyt",
-      "title": "15999 元起 20:00 蹲点抢：苹果 iPhone Duo 京东 12 期免息 + 至高补贴 700 元",
-      "desc": "<p data-vmark=\"d0dc\"><a href=\"https://www.ithome.com/1/000/511.htm\" target=\"_blank\">iPhone Duo</a> 定价 15999 元起，国行 10 月 16 日晚 8 点接受预购，京东支持 12 期免息，以旧换新至高补贴 700 元：<a href=\"https://u.jd.com/FGebgQ4\" target=\"_blank\" data-wapurl=\"https://u.jd.com/Fr54bNN\" data-iosurl=\"https://u.jd.com/FG545ay\" data-androi",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/008.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-16T08:51:22.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
-      "verified": true
     },
     {
       "id": "rss-z8rfd0",
