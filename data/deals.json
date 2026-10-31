@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:55:20.278Z",
+  "updatedAt": "2026-10-31T21:29:30.206Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -92,6 +92,57 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-qy3j5s",
+      "title": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千",
+      "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，今日京东移动自营直降至 5069.9 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ef0f\">PLUS 会员 1 积分兑换 111-11 元券、2 积分抢兑 800-80 元券：<a href=\"https://u.jd.com/eaD3OoC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egDz8IA\" data-iosurl=\"https://u.jd.com/eaDP",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/020/624.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T14:32:42.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7
+    },
+    {
+      "id": "rss-qwzxz2",
+      "title": "颂拓 RACE 2 智能运动手表 2909 元国补直降：升级 1.5 英寸屏、4PD 心率模组",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cee3\">颂拓 RACE 2 智能手表 2025 年 8 月开售，精钢版定价为 3999 元。</p><p data-vmark=\"89ca\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 2909.12 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5749\">领 8.8 折券：<a href=\"https://u.jd.com/eGDrfM0\" target=\"_blank",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.8 折",
+      "url": "https://www.ithome.com/1/020/622.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T14:13:09.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-qjsvqe",
+      "title": "上市价 4699 元 → 国补后 2800 元：石头扫拖机器人 P20 Max 上下水版新低",
+      "desc": "<p data-vmark=\"e2f1\">【各地补贴力度不同，价格会有小幅波动。】</p><p data-vmark=\"4dc0\">石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。</p><p data-vmark=\"15fb\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，到手价 2800 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f3c3\">下单时选择“以旧换新 → 个护健康 → <strong>电动牙刷</strong>（无需回收）：</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/020/619.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T13:56:49.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-qfybkv",
@@ -194,60 +245,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-qy3j5s",
-      "title": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千",
-      "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，今日京东移动自营直降至 5069.9 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ef0f\">PLUS 会员 1 积分兑换 111-11 元券、2 积分抢兑 800-80 元券：<a href=\"https://u.jd.com/eaD3OoC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egDz8IA\" data-iosurl=\"https://u.jd.com/eaDP",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/624.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-31T14:32:42.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7,
-      "verified": true
-    },
-    {
-      "id": "rss-qwzxz2",
-      "title": "颂拓 RACE 2 智能运动手表 2909 元国补直降：升级 1.5 英寸屏、4PD 心率模组",
-      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cee3\">颂拓 RACE 2 智能手表 2025 年 8 月开售，精钢版定价为 3999 元。</p><p data-vmark=\"89ca\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 2909.12 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5749\">领 8.8 折券：<a href=\"https://u.jd.com/eGDrfM0\" target=\"_blank",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8.8 折",
-      "url": "https://www.ithome.com/1/020/622.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-31T14:13:09.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-qjsvqe",
-      "title": "上市价 4699 元 → 国补后 2800 元：石头扫拖机器人 P20 Max 上下水版新低",
-      "desc": "<p data-vmark=\"e2f1\">【各地补贴力度不同，价格会有小幅波动。】</p><p data-vmark=\"4dc0\">石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。</p><p data-vmark=\"15fb\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，到手价 2800 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f3c3\">下单时选择“以旧换新 → 个护健康 → <strong>电动牙刷</strong>（无需回收）：</p><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/619.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-31T13:56:49.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
     },
     {
       "id": "rss-bc5sqq",
