@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30T20:44:36.350Z",
+  "updatedAt": "2026-10-31T00:44:33.528Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 40,
+    "fetched": 32,
     "linkVerified": true
   },
   "items": [
@@ -279,6 +279,24 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-dqodk8",
+      "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
+      "desc": "<p data-vmark=\"f6b5\">IT之家 10 月 31 日消息，由香港生成式人工智能研发中心（HKGAI）研发的本地 AI 智能助理“港话通”（HKChat）于 10 月 30 日迎来更新，<strong>推出全新 AI 音乐生成功能</strong>。</p><p data-vmark=\"1c1d\">新功能接入由 HKGAI 研发的 <strong>YuE2 音乐大模型（「YuE2」）</strong>，用户随口哼唱或上传图片，再输入对歌曲的构思，AI 便可即时谱写出兼具专业编曲和人声献唱的原创歌曲。</p><p style=\"text-align: center;\" data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/020/396.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-30T23:20:41.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-g3coxu",
