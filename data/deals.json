@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-31T00:44:33.528Z",
+  "updatedAt": "2026-10-31T06:57:19.560Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 32,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,96 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-103yp2",
+      "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
+      "desc": "<p data-vmark=\"ea35\">IT之家 10 月 31 日现场消息，罗技于 10 月 30 日至 31 日在上海 C·PARK 海粟文化广场举办 <strong>2026 罗技创享日创意市集</strong>，开展合作交流、展示多款新品。</p><p data-vmark=\"5830\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4a4a7c9-8034-43c9-a054-ccdf13ac9040.jpg?x-bce-process=image/form",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/020/453.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T04:07:35.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-6ggs",
+      "title": "55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝京东 78.8 元新低",
+      "desc": "<p data-vmark=\"d88d\">酷态科自带线 20000mAh 电能块充电宝开售于 2024 年 5 月 31 日，日常售价为 159 元，首发价为 129 元。</p><p data-vmark=\"b409\">今日京东自营报价 132 元，叠加以下多重优惠，到手仅需 78.76 元。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"05a5\">单品满 1 件享 8.8 折；</p></li><li><p data-vmark=\"2870\">京东潮流配件专区领券享 8 折（<a href=\"https:",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.8 折",
+      "url": "https://www.ithome.com/1/020/477.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T06:47:47.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-2f8tvn",
+      "title": "华为 Pura 90 Plus 手机开售：1 英寸主摄、首发麒麟 9025，焕新优惠价 5199 元起",
+      "desc": "<p data-vmark=\"5003\">IT之家 10 月 31 日消息，华为 Pura 90 Plus 手机将于今日 10:08 正式开售，双十一焕新季 10 月 28 日 - 11 月 30 日限时优惠至高 300 元，<strong>焕新优惠价 5199 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"82c5\">12GB+256GB 版 5499 元，焕新优惠价 5199 元</p></li><li><p data-vmark=\"9a97\">12GB+512GB 版 5999 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/020/423.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T01:26:12.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-2tjhb1",
+      "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
+      "desc": "<p data-vmark=\"96ed\">小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2c92\">京东 11.11 大促期间，活动价 3199 元；</p></li><li><p data-vmark=\"af2c\">PLUS 会员下单立减 160.27 元；</p></li><li><p data-vmark=\"d94f\">领取 160 元优惠券：<a href=\"https://u.jd.co",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/020/418.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T01:10:22.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-1a1ni",
+      "title": "别克至境三车推送 OS2.1 版本：原生支持苹果 CarPlay、华为 HiCar 等",
+      "desc": "<p data-vmark=\"5ff7\">IT之家 10 月 31 日消息，据上汽集团官方，别克至境三车已全部推送 OS2.1，原生支持 Apple CarPlay、华为 HiCar、ICCOA Carlink 三大主流生态。</p><p style=\"text-align: center;\" data-vmark=\"02e9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/96c270a1-980c-4b26-91a4-b0ebeff47b84.jpg?x-bce-process=image/format,f_auto\" w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/020/479.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T06:56:40.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-en48kj",
@@ -3023,42 +3113,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6
-    },
-    {
-      "id": "rss-5i0lz1",
-      "title": "唯卓仕 AF 26mm F2.8 EVO 索尼 FE 卡口镜头新增雾月银、岩月灰配色，券后 1419 元",
-      "desc": "<p data-vmark=\"67b3\">IT之家 10 月 17 日消息，唯卓仕 AF 26mm F2.8 EVO 全画幅相机镜头发布于 7 月 15 日，唯卓仕现为索尼 FE 卡口版本新增了雾月银、岩月灰配色，增加全新方形遮光罩（圆形遮光罩保留），售价 1499 元，券后到手价 1419 元。</p><p style=\"text-align: center;\" data-vmark=\"d41e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6ae3a951-e024-44db-bb94-1438131c0ee4.jpg?",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/237.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T02:02:25.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-6f09kp",
-      "title": "小米米家除螨仪 3 预售：升级 16kPa 吸力、双尘杯设计，券后 224 元",
-      "desc": "<p data-vmark=\"a215\">IT之家 10 月 17 日消息，小米推出米家除螨仪 3，现已开始全款预售，<strong>券后到手价 224 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"21ff\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f25fe139-0016-403c-afc4-0996582e146c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2235\" data-vma",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/219.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T00:46:58.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
