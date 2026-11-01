@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:29:30.206Z",
+  "updatedAt": "2026-11-01T00:26:07.378Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -228,6 +228,24 @@
         "IT之家·资讯线报"
       ],
       "_score": 10
+    },
+    {
+      "id": "rss-rtzlkq",
+      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
+      "desc": "<p data-vmark=\"9e8a\">IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。</p><p data-vmark=\"7635\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c6103964-251e-4f71-9fff-e851c9cded9e.jpg\" w=\"1321\" h=\"991\" data-weibo=\"0\" data-vmark=\"6f",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/020/640.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-31T23:38:59.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-d8w2wv",
@@ -3108,23 +3126,6 @@
       "url": "https://www.ithome.com/1/014/438.htm",
       "expiresAt": null,
       "publishedAt": "2026-10-18T00:29:38.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-nbj5pe",
-      "title": "台积电在日合资企业 JASM 第二晶圆厂转产 3nm 获日本经产省批准",
-      "desc": "<p data-vmark=\"6540\">IT之家 10 月 18 日消息，据日本经济产业省官网公示，台积电控股的在日合资子公司 JASM 第二晶圆厂转产 3nm 的计划已得到批准。</p><p style=\"text-align: center;\" data-vmark=\"cc38\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b75b7662-c343-4a46-87d8-4b43731e2724.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-w",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/423.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-17T23:40:06.000Z",
       "hot": 210,
       "tags": [
         "RSS",
