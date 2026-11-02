@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-01T22:50:04.080Z",
+  "updatedAt": "2026-11-02T02:27:53.514Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 26,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,23 @@
       "_score": 3
     },
     {
+      "id": "rss-kxkrzx",
+      "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元大促",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/017/751.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-10-26T01:16:05.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-eatpr6",
       "title": "上市价 4399 → 2893 元：vivo X300 手机 12GB+256GB 国补直降",
       "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"473e\">vivo X300 手机开售于 2025 年 10 月 17 日，搭载联发科天玑 9500 处理器，12GB+256GB 定价 4399 元。</p><p data-vmark=\"c6a5\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2893.01 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bd43\">领 1200 元直播间券：<a href",
@@ -109,6 +126,41 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-ltvuff",
+      "title": "[双11活动] 腾讯云各种服务器资源新购和续费优惠 美国VPS低至99元/年",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127856.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-01T13:14:54.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-cczueb",
+      "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 2041 元新低",
+      "desc": "<p data-vmark=\"16af\">2022 年 9 月份，小米推出了米家全效空气净化器 Ultra，零售价 5499 元，<span class=\"accentTextColor\">首发价 4799 元</span>。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d154\">京东自营 11.11 大促期间，活动价 2958 元：</p></li><li><p data-vmark=\"5366\">领取 8.8 折优惠券；</p></li><li><p data-vmark=\"dd73\">国补立减 360.18 元；</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/020/874.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-02T01:19:32.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
     },
     {
       "id": "rss-eo0rzu",
@@ -177,23 +229,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-ltvuff",
-      "title": "[双11活动] 腾讯云各种服务器资源新购和续费优惠 美国VPS低至99元/年",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127856.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T13:14:54.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-ryxktd",
@@ -1028,23 +1063,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-kxkrzx",
-      "title": "B站大促继续：京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/751.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T01:16:05.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-lw0bf3",
@@ -2294,23 +2312,6 @@
       "verified": true
     },
     {
-      "id": "rss-fwt8vw",
-      "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元预售",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gseTBx\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as9L3S\" data-iosurl=\"https://u.jd.com/5DscTU1\" data-androidurl=\"https://u.jd.com/5asH03n\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/678.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T02:10:21.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-8j506e",
       "title": "Epic 喜加二：《斯盖尔仪式》《归家》游戏免费领",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 22 日消息，Epic 本周送出的游戏是《斯盖尔仪式》（Sker Ritual），《归家》（Home - A Unique Horror Adventure），下周送出的游戏是《Sorry We're Closed》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/sker-ritual-aac702\" target=\"_blank\" title=\"《斯盖尔仪式》\">《斯盖尔仪式》</a>，<a href=\"https://stor",
@@ -3203,24 +3204,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-4mhae1",
-      "title": "京东自营联通补贴购：iPhone 17 手机国补后 5170 元近期好价",
-      "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，11.11 大促期间，今日联通京东自营旗舰店补贴价 5699 元，国补立减 500 元，PLUS 会员立减 28.49 元，到手价为 5170.51 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56smCQw\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5as71Ud\" data-iosurl=\"https://u.jd.com/51bLtgN\" data-andr",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/703.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T02:23:19.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 8,
       "verified": true
     }
   ]
