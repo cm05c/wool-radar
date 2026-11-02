@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-02T02:27:53.514Z",
+  "updatedAt": "2026-11-02T09:56:40.048Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,41 @@
       "_score": 3
     },
     {
+      "id": "rss-ltvuff",
+      "title": "[双11活动] 腾讯云各种服务器资源新购和续费优惠 美国VPS低至99元/年",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127856.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-01T13:14:54.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-7keplx",
+      "title": "从12月开始ChatGPT聊天与Codex共享使用额度 仅即时聊天继续免费提供",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127928.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-02T03:30:00.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-kxkrzx",
       "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元大促",
       "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
@@ -126,23 +161,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-ltvuff",
-      "title": "[双11活动] 腾讯云各种服务器资源新购和续费优惠 美国VPS低至99元/年",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127856.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T13:14:54.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-cczueb",
@@ -3109,96 +3127,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-19T11:47:23.000Z",
       "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-czhhrc",
-      "title": "魅族 22 手机限量补货开售：至高 3 期免息，16GB+512GB 国补价 3499 元起",
-      "desc": "<p data-vmark=\"69d4\">IT之家 10 月 19 日消息，魅族科技官方今日宣布，京东自营旗舰店，<strong>魅族 22 限量补货开售</strong>，至高享 3 期免息，叠加国补至高立减 500 元。</p><p data-vmark=\"ae13\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dae0acb2-22a3-4536-851d-6b5c12e71305.png?x-bce-process=image/format,f_auto\" w=",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/869.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T08:07:51.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-r56rt3",
-      "title": "马斯克：明年向全美儿童赠送 SpaceX 股票",
-      "desc": "<p data-vmark=\"d889\">IT之家 10 月 19 日消息，埃隆 · 马斯克今日在 X 平台发布置顶消息，<strong>将在明年把自己的 SpaceX 股票送给美国的每个孩子</strong>，而这只是开始。</p><p data-vmark=\"1e51\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fba33e21-52c5-4015-a62a-6518be5ba8c1.png\" w=\"748\" h=\"508\" data-snap-from=\"%7B",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/956.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T09:30:00.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-dfzbk6",
-      "title": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
-      "desc": "<h2 data-vmark=\"9e43\" class=\"v-focus\">此为资源机，介意慎拍！</h2><p data-vmark=\"adc5\">iPhone 17 Pro Max 2TB 美版无锁<strong>权益机</strong>（双 esim）今日“京东数码海外自营旗舰店”裸机（不含数据线 + 京东包装非原封）直降至 9399 元。</p><p data-vmark=\"b7e7\">权益机 / 资源机是由苹果代工厂对苹果官方 7 天无理由退货以及产线上多余的原材料进行生产，经过产品工程师相应功能测试，且确保为 Apple 官方原装部件后，再由苹果全球合作伙伴进行销售。</p><p ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/014/878.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T08:32:42.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-26i7g9",
-      "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
-      "desc": "<p data-vmark=\"1dcd\">IT之家 10 月 19 日消息，一家专注于采集真实世界数据的 AI 实验室计划与房主合作，录制技术工人的作业过程，用来训练 AI 机器人。这家名为 HUMXN 的公司表示，将补贴管道、电工、暖通空调、风道清洁以及地毯清洁服务：有需求的居民可以免费获得这类服务，交换条件是允许佩戴“可穿戴采集设备”的人员进入家中开展录制。</p><p data-vmark=\"77f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6baed4af",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/014/758.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T04:11:18.000Z",
-      "hot": 150,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-2o3mft",
-      "title": "快狗打车拟 1 元出售中国内地业务，并更名“GOGO 科技”",
-      "desc": "<p data-vmark=\"0f55\">IT之家 10 月 19 日消息，快狗打车控股有限公司 10 月 16 日发布公告，<strong>宣布拟以人民币 1.00 元出售全资附属公司 GGEx Holdings Limited 全部已发行股本</strong>，并建议将公司中文名称由“快狗打车控股有限公司”更改为“GOGO 科技”。</p><p data-vmark=\"4c58\">出售完成后，<strong>集团将不再以“快狗打车”品牌在中国内地经营任何业务</strong>，业务将转为专注香港及其他海外市场，并以“GOGOX”品牌经营。</p><p data-vmark=\"5814\" s",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/014/747.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-19T03:39:45.000Z",
-      "hot": 150,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
