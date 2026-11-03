@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-11-02T20:20:17.147Z",
+  "updatedAt": "2026-11-03T02:38:35.308Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-buq7ne",
+      "title": "刚需必入！苹果 iCloud+ 会员订阅 85 折优惠年卡 (2TB 空间/立省 123 元)",
+      "desc": "对于使用 iPhone 或 Mac 的苹果用户来说，iCloud 云存储空间已经是日常必备刚需了。无论是拍照/录视频、同步文档/通讯录/备忘录，或是备份相册/备份手机，iCloud 会员都不可划缺！\n\n但免费 5GB 根本不够用，大家一般都需要开通 200GB 或 2TB 档位。之前为省钱，很多人会切换到低价区订阅 iCloud (比如土耳其…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "5 折",
+      "url": "https://www.iplaysoft.com/p/icloud",
+      "expiresAt": null,
+      "publishedAt": "2026-11-02T17:06:44.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 8
+    },
     {
       "id": "rss-8wfae4",
       "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
@@ -77,21 +94,75 @@
       "_score": 2
     },
     {
-      "id": "rss-buq7ne",
-      "title": "刚需必入！苹果 iCloud+ 会员订阅 85 折优惠年卡 (2TB 空间/立省 123 元)",
-      "desc": "对于使用 iPhone 或 Mac 的苹果用户来说，iCloud 云存储空间已经是日常必备刚需了。无论是拍照/录视频、同步文档/通讯录/备忘录，或是备份相册/备份手机，iCloud 会员都不可划缺！\n\n但免费 5GB 根本不够用，大家一般都需要开通 200GB 或 2TB 档位。之前为省钱，很多人会切换到低价区订阅 iCloud (比如土耳其…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "5 折",
-      "url": "https://www.iplaysoft.com/p/icloud",
+      "id": "rss-oywda2",
+      "title": "苹果为第四代 Apple TV 4K 推送专属 24K154 更新，可启用 Siri AI",
+      "desc": "<p data-vmark=\"a263\">IT之家 11 月 3 日消息，科技媒体 9to5Mac 昨日（11 月 2 日）发布博文，报道称在 Apple TV 4K（第四代）11 月 13 日上市开售之前，<strong>苹果悄然为其推送专属 tvOS 27.2 更新。</strong></p><p data-vmark=\"51c5\">版本号方面，该版本内部代号为 24K154，而<a href=\"https://www.ithome.com/1/018/721.htm\" target=\"_blank\">上周面向现有 Apple TV 设备推出的 tvOS 27.2 版本号为 24K122<",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/021/342.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-02T17:06:44.000Z",
-      "hot": 198,
+      "publishedAt": "2026-11-03T02:07:03.000Z",
+      "hot": 211,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 8,
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-nlyogx",
+      "title": "搭载百度文心大模型：小度 AI 手表 Fit 国补 138 元探底，轻薄大屏无感佩戴",
+      "desc": "<p data-vmark=\"0000\">7 月 27 日小度 AI 智能手表 Fit 正式发布，定价为 198 元，国补价<span class=\"product-price--main\"><span class=\"product-price--value\"> 159.8 元</span></span>。</p><p data-vmark=\"6974\">天猫双 11 狂促报价 233 元，叠加以下多重优惠，到手仅需 138.04 元。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"484c\">官方立减 15%",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/021/316.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T00:57:03.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-cpxdeg",
+      "title": "《GTA 6》发售前索尼回收旧 PS5，光驱版搭配两只手柄以旧换新最高优惠 400 美元",
+      "desc": "<p data-vmark=\"4a53\">IT之家 11 月 3 日消息，大量美国用户反馈称，索尼近期开始通过与二手交易平台 Back Market 合作，为用户提供 PS5 主机以旧换新服务，符合条件的设备完成回收后最高可获得 400 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 2,664 元人民币）</span>。当然，具体回收价格取决于主机型号、成色、配件数量等因素。</p><p style=\"text-align: center;\" data-vmark=\"8a0a\"><img src=\"https://img.ithome.com/n",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/021/296.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-02T23:34:23.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-x4uawf",
+      "title": "微软开始向Windows 10设备推送Windows 11 26H2更新 不过用户可决定是否升级",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/127940.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T01:30:00.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -2995,42 +3066,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-915tkm",
-      "title": "微软 Win11 推送蓝牙升级：与苹果 AirPods 配对时间最多缩短 15 秒",
-      "desc": "<p data-vmark=\"a6fb\">IT之家 10 月 20 日消息，科技媒体 Windows Latest 今天（10 月 20 日）发布博文，报道称 Windows 11 系统安装 10 月累积更新之后，<strong>微软优化耳机重连、音频播放及通话稳定性之外，还缩短 AirPods 配对耗时，最多可以缩短 15 秒。</strong></p><p data-vmark=\"efb5\">微软在 10 月 15 日发布的更新日志中，表示：</p><blockquote><p data-vmark=\"88b1\">我们也在不断改进您日常依赖的交互体验。蓝牙耳机在 Windows 系统上的表",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/015/091.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T00:58:01.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-8neyql",
-      "title": "武汉通上线苹果 Apple Pay：无开卡费，30 元起充",
-      "desc": "<p data-vmark=\"d810\">IT之家 10 月 20 日消息，据IT之家小伙伴反馈，武汉通今日上线<strong>苹果 Apple Pay</strong>，用户可使用 iPhone 或 Apple Watch 乘坐轨道交通和公交车，并支持随时随地为卡片充值。</p><p style=\"text-align: center;\" data-vmark=\"b0bc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/fd965c81-e8ca-4531-acc0-1fe6b1e28f61.jpg?x-bce-proces",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8 折",
-      "url": "https://www.ithome.com/1/015/087.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-20T00:34:38.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
