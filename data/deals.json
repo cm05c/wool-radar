@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T11:34:07.212Z",
+  "updatedAt": "2026-11-04T18:51:51.548Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 29,
+    "fetched": 28,
     "linkVerified": true
   },
   "items": [
@@ -77,6 +77,23 @@
       "_score": 5
     },
     {
+      "id": "rss-kxcta1",
+      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+      "desc": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/115819",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T06:50:48.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-kxb00z",
       "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
       "desc": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
@@ -94,6 +111,23 @@
       "_score": 2
     },
     {
+      "id": "rss-3wx8cj",
+      "title": "3299 → 688 元再三降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
+      "desc": "<p data-vmark=\"e857\">石头 A30 Max 智能洗地机官方定价 3299 元，今日按下方步骤下单，仅需 688 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">点击下方卡片享智能单品补贴 915 元 + 闪电加补 90 元 + 可领 97.49 元淘礼金红包（每日 10~24 点可领）；</p></li><li><p data-vmark=\"6f38\">App 商品价格下方可领 15% 政府补贴；</p></li><li><p data-vmark=\"13f2\">点击下方卡片可享淘金币抵扣",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/366.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T10:30:17.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-6pjkxm",
       "title": "【20:00 开抢】淘宝加抽 50 万个 3 元起大红包，蹲点 1 元抢倍思 PD 45W 充电器",
       "desc": "<p data-vmark=\"e598\">全网 11.11 秒杀狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eDJJk3c\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOJSghC\" data-iosurl=\"https://u.jd.com/e6JOFoo\" data-androidurl",
@@ -108,8 +142,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 6,
-      "verified": true
+      "_score": 6
     },
     {
       "id": "rss-3e8869",
@@ -126,8 +159,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-3imkx5",
@@ -144,7 +176,42 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
+      "_score": 3
+    },
+    {
+      "id": "rss-8e8xwj",
+      "title": "微信鸿蒙电脑版 App 发布 4.1.13.4 版本邀测升级，已支持图片视频发送后可合并展示等功能",
+      "desc": "<p data-vmark=\"84e3\">IT之家 11 月 4 日消息，据用户反馈，微信鸿蒙电脑版 App 在华为应用市场（App Gallery）发布了 <strong>4.1.13.4 (269572)</strong> 版本邀测升级。</p><p data-vmark=\"fd58\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/626a4b57-48b7-49b7-8e36-7548f45b815a.jpg\" w=\"1440\" h=\"899\" data-weibo",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/416.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T12:12:27.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-7yupaf",
+      "title": "支持一键微信通话：小米智能摄像机 4 Pro 329 → 242 元直降，老人小孩轻松使用",
+      "desc": "<p data-vmark=\"0000\">小米智能摄像机 4 Pro 今年 10 月 13 日发售，首发价为 329 元。</p><p data-vmark=\"304f\">今日京东政府补贴后仅需 252 元，支持一键微信通话。</p><p data-vmark=\"8005\">下单晒单再返 10 元京豆（限量 500 份，目前名额还算充裕），折合仅需 242 元刚需好价。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1JoTA2\" target=\"_blank\" data-wapurl=\"https://u.jd.com/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/022/409.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T11:58:58.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -158,24 +225,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-04T08:36:54.000Z",
       "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-3wx8cj",
-      "title": "3299 → 688 元再三降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
-      "desc": "<p data-vmark=\"e857\">石头 A30 Max 智能洗地机官方定价 3299 元，今日按下方步骤下单，仅需 688 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">点击下方卡片享智能单品补贴 915 元 + 闪电加补 90 元 + 可领 97.49 元淘礼金红包（每日 10~24 点可领）；</p></li><li><p data-vmark=\"6f38\">App 商品价格下方可领 15% 政府补贴；</p></li><li><p data-vmark=\"13f2\">点击下方卡片可享淘金币抵扣",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/366.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-04T10:30:17.000Z",
-      "hot": 151,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -217,24 +266,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-kxcta1",
-      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-      "desc": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/115819",
-      "expiresAt": null,
-      "publishedAt": "2026-11-04T06:50:48.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2969,40 +3000,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-8i4n6o",
-      "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
-      "desc": "<p data-vmark=\"c5fc\">IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</p><p style=\"text-align: center;\" data-vmark=\"8eb1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a8efa3d-3873",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/144.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-21T15:10:07.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-kqjugx",
-      "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
-      "desc": "<p data-vmark=\"c381\">IT之家 10 月 21 日消息，老牌终端软件 Xshell 宣布，<strong>正式登陆华为鸿蒙 HarmonyOS 系统</strong>。用户可前往华为应用市场（AppGallery）下载 Xshell 鸿蒙版。</p><p data-vmark=\"8b45\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3698e924-14e1-433a-b6d3-0abcef6ea93b.jpg\" w=\"1440\" h=\"923\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/099.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-21T12:06:57.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
