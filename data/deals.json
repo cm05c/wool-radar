@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T03:14:49.502Z",
+  "updatedAt": "2026-11-04T11:34:07.212Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 28,
+    "fetched": 29,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,150 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-6pjkxm",
+      "title": "【20:00 开抢】淘宝加抽 50 万个 3 元起大红包，蹲点 1 元抢倍思 PD 45W 充电器",
+      "desc": "<p data-vmark=\"e598\">全网 11.11 秒杀狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eDJJk3c\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOJSghC\" data-iosurl=\"https://u.jd.com/e6JOFoo\" data-androidurl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/309.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T09:51:12.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-3e8869",
+      "title": "山西发布全国首个城市停车 AI 智能体“泊邻”：可整合实时数据生成热力图实现车位灵活规划",
+      "desc": "<p data-vmark=\"3883\">IT之家 11 月 4 日消息，据“科技日报”，在近日举行的 2026 中国城市停车产业大会中，山西发布全国首个城市停车 AI 智能体“泊邻”。</p><p data-vmark=\"0c14\">据介绍，该智能体依托山西建投静态交通公司自研智慧停车平台打造，<strong>其主要功能是整合路侧泊位、公共车场、小区共享车位的全量实时数据，自动生成城市停车热力图、停车困难指数</strong>，实现灵活泊位规划、定价策略，主动向业主推送车位共享邀约与预估收益；同时为周边找位车主精准推送可用车位，规划最优行车路线，减少车主绕路找位时间。</p><p style",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/379.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T11:09:33.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-3imkx5",
+      "title": "三星 Galaxy Buds 3 Pro/4 Pro 耳机将获助听器功能：已获美韩批准，明年初推送",
+      "desc": "<p data-vmark=\"c4af\">IT之家 11 月 4 日消息，三星宣布，Galaxy Buds 3 Pro 和 Galaxy Buds 4 Pro 即将获得助听器功能。该功能已在韩国和美国获得监管部门批准，预计将于 2027 年初开始陆续推送。</p><p style=\"text-align: center;\" data-vmark=\"e660\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f538c1a9-ec1e-4326-b03a-df7314dac49c.jpg?x-bce-process=image/f",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/371.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T10:44:20.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-j2wxk4",
+      "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 1974 元新低",
+      "desc": "<p data-vmark=\"16af\">2022 年 9 月份，小米推出了米家全效空气净化器 Ultra，零售价 5499 元，<span class=\"accentTextColor\">首发价 4799 元</span>。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d154\">京东自营 11.11 大促期间，活动价 2958 元：</p></li><li><p data-vmark=\"60f0\"><strong>大部分小伙伴详情页自动弹出 9.6~9.7 折优惠券（若不弹出，可下滑多浏览一会 / 切换收货地址 / 加入购物车",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/022/255.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T08:36:54.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-3wx8cj",
+      "title": "3299 → 688 元再三降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
+      "desc": "<p data-vmark=\"e857\">石头 A30 Max 智能洗地机官方定价 3299 元，今日按下方步骤下单，仅需 688 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">点击下方卡片享智能单品补贴 915 元 + 闪电加补 90 元 + 可领 97.49 元淘礼金红包（每日 10~24 点可领）；</p></li><li><p data-vmark=\"6f38\">App 商品价格下方可领 15% 政府补贴；</p></li><li><p data-vmark=\"13f2\">点击下方卡片可享淘金币抵扣",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/366.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T10:30:17.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-i6h2jt",
+      "title": "小米智能 4G 摄像机 3 开启众筹：500 万像素、免费流量，首发价 199 元",
+      "desc": "<p data-vmark=\"1071\">IT之家 11 月 4 日消息，小米智能 4G 摄像机 3 现已在京东开启众筹（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d185320%26spmref%3dM_H5.9433.389131.1.54789006\" target=\"_blank\">点击前往</a>），首发价 199 元。</p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/272.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T09:12:06.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-imf3ra",
+      "title": "Steam 喜加一：联想拯救者游戏社区将于 12 月 2 日发放免费《辐射：新维加斯》激活码",
+      "desc": "<p data-vmark=\"a681\">IT之家 11 月 4 日消息，联想拯救者游戏社区宣布将于 12 月 2 日美国东部时间 12:00 起限量发放免费《辐射：新维加斯（Fallout: New Vegas）》Steam 激活码，玩家需要按指定流程排队领取，IT之家附活动地址（<a href=\"https://gaming.lenovo.com/fallout-new-vegas-key-drops\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://gaming.lenovo.com/fallout-new-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/264.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T08:57:15.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kxcta1",
+      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+      "desc": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/115819",
+      "expiresAt": null,
+      "publishedAt": "2026-11-04T06:50:48.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-spt0ey",
@@ -2844,23 +2988,6 @@
       "_score": 2
     },
     {
-      "id": "rss-itwlsl",
-      "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
-      "desc": "<p data-vmark=\"43f3\">今晚 21 点起，京东自营 <strong>AirPods 5</strong> 实测开启<strong>全国国补，</strong>国补 15% 后 PLUS 仅需 755 元起破冰新低。</p><p data-vmark=\"2d42\">京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：<a href=\"https://u.jd.com/51ylGcS\" target=\"_blank\" data-wapurl=\"https://u.jd.com/51yAaXs\" data-ios",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/015/827.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-21T06:07:23.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kqjugx",
       "title": "老牌终端软件 Xshell 登陆华为鸿蒙 HarmonyOS 系统：Windows 版开发团队打造，公测阶段免费使用",
       "desc": "<p data-vmark=\"c381\">IT之家 10 月 21 日消息，老牌终端软件 Xshell 宣布，<strong>正式登陆华为鸿蒙 HarmonyOS 系统</strong>。用户可前往华为应用市场（AppGallery）下载 Xshell 鸿蒙版。</p><p data-vmark=\"8b45\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/3698e924-14e1-433a-b6d3-0abcef6ea93b.jpg\" w=\"1440\" h=\"923\" ",
@@ -2876,24 +3003,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-gzdhzw",
-      "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，车速 139.1km/h",
-      "desc": "<p data-vmark=\"c29f\">IT之家 10 月 21 日消息，问界用户服务官方今日（10 月 21 日）发布关于陕西省榆林神木市车辆事故的说明。IT之家附全文如下：</p><blockquote><p data-vmark=\"8510\">2026 年 10 月 17 日 23 点 25 分左右，一辆问界汽车在榆林神木市发生碰撞后起火。碰撞发生后，<strong>车辆紧急呼叫（eCALL）系统即时触发并接通</strong>，同时问界道路救援中心拨打 122 上报事故信息，协助开展救援。对于此次意外事故，我们深表痛心。</p><p data-vmark=\"e4ab\">经初步核实：<",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/015/864.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-21T07:06:15.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
