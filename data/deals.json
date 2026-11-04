@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T23:16:59.094Z",
+  "updatedAt": "2026-11-04T03:14:49.502Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 28,
     "linkVerified": true
   },
   "items": [
@@ -94,21 +94,38 @@
       "_score": 2
     },
     {
-      "id": "rss-qckwfz",
-      "title": "Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 3 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 27 日 - 2026 年 11 月 3 日，无免费游戏），IT之家注意到，《影之刃零》反超此前连冠的《Call of Duty®: Modern Warfare® 4》，同时登顶全球区与国区区榜首，新游《深空当铺：可能是偷的》首次上榜即冲入全球前 5，《足球经理 27》预购版也携 -10% 折扣进入全球榜单。</p><p data-vmark=\"0001\">全球榜单：</p><ul class=\"medium-size list-paddingl",
+      "id": "rss-spt0ey",
+      "title": "苹果向 AirPods 5 等耳机推送 Beta 测试固件 9B5045a 更新",
+      "desc": "<p data-vmark=\"aaaf\">IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称苹果面向开发者和公开测试用户，<strong>推送适用于 AirPods 5 等耳机产品的 Beta 测试版本，固件版本号为 9B5045a。</strong></p><p data-vmark=\"2a9a\">IT之家援引博文介绍，本次 Beta 测试版本固件适用于以下 AirPods 耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ead0\">AirPods P",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/021/820.htm",
+      "url": "https://www.ithome.com/1/021/870.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-03T13:31:28.000Z",
-      "hot": 213,
+      "publishedAt": "2026-11-03T21:05:21.000Z",
+      "hot": 215,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2
+      "_score": 3
+    },
+    {
+      "id": "rss-sc25kx",
+      "title": "苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等",
+      "desc": "<p data-vmark=\"b935\">IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，<strong>报道称在今天推送的 iOS 27.3 首个 Beta 开发者预览版中，苹果公司进一步扩展 Siri AI 在应用内及跨应用执行任务的能力。</strong></p><p data-vmark=\"16b0\">IT之家注：伴随着 iOS 27.3 发布，<a href=\"https://www.ithome.com/1/021/861.htm\" target=\"_blank\">国行“Apple 智能与 Siri”如期上线</a>，但下文介绍的相关",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/021/866.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T20:27:56.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-x4uawf",
@@ -128,16 +145,16 @@
       "_score": 2
     },
     {
-      "id": "rss-spt0ey",
-      "title": "苹果向 AirPods 5 等耳机推送 Beta 测试固件 9B5045a 更新",
-      "desc": "<p data-vmark=\"aaaf\">IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，报道称苹果面向开发者和公开测试用户，<strong>推送适用于 AirPods 5 等耳机产品的 Beta 测试版本，固件版本号为 9B5045a。</strong></p><p data-vmark=\"2a9a\">IT之家援引博文介绍，本次 Beta 测试版本固件适用于以下 AirPods 耳机：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"ead0\">AirPods P",
+      "id": "rss-rlt65f",
+      "title": "7-Eleven 日本公司送货上门服务遭非法访问，超 16 万条客户信息外泄",
+      "desc": "<p data-vmark=\"f965\">IT之家 11 月 4 日消息，据共同社报道，便利店企业 7-Eleven 日本公司 3 日宣布，送货上门服务“7NOW”的配送业务外包方遭遇非法访问，总计逾 16 万条客户信息外泄。</p><p data-vmark=\"ac32\">泄露的信息包括<strong>姓名、住址、电话号码</strong>等，不涉及信用卡信息和密码。据该公司透露，1 日查明外包方遭受非法访问，3 日确认 7-Eleven 部分用户信息外泄。</p><p data-vmark=\"76de\">据悉，7-Eleven 的送货上门服务未因此受到影响，用户仍可照常使用。官方将通过短信",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/021/870.htm",
+      "url": "https://www.ithome.com/1/021/972.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-03T21:05:21.000Z",
-      "hot": 215,
+      "publishedAt": "2026-11-04T02:44:07.000Z",
+      "hot": 214,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -146,22 +163,75 @@
       "verified": true
     },
     {
-      "id": "rss-sc25kx",
-      "title": "苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等",
-      "desc": "<p data-vmark=\"b935\">IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，<strong>报道称在今天推送的 iOS 27.3 首个 Beta 开发者预览版中，苹果公司进一步扩展 Siri AI 在应用内及跨应用执行任务的能力。</strong></p><p data-vmark=\"16b0\">IT之家注：伴随着 iOS 27.3 发布，<a href=\"https://www.ithome.com/1/021/861.htm\" target=\"_blank\">国行“Apple 智能与 Siri”如期上线</a>，但下文介绍的相关",
+      "id": "rss-tb8zk1",
+      "title": "微软推出 Xbox Series X-BITE 特别版主机：塞进 1.5 米长鳄鱼造型外壳，全球仅此一台抽奖送",
+      "desc": "<p data-vmark=\"3c38\">IT之家 11 月 4 日消息，当地时间 11 月 3 日，微软公布了一款名为 Xbox Series X-BITE 的特别版 Xbox Series X 主机，并宣布通过抽奖活动将其免费送出。</p><p style=\"text-align: center;\" data-vmark=\"368c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b69f64f3-25a4-4946-87c8-f75042807974.jpg?x-bce-process=image/format,f_au",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/021/866.htm",
+      "url": "https://www.ithome.com/1/021/888.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-03T20:27:56.000Z",
-      "hot": 215,
+      "publishedAt": "2026-11-03T23:29:21.000Z",
+      "hot": 216,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
+      "_score": 7,
       "verified": true
+    },
+    {
+      "id": "rss-tyojag",
+      "title": "WPS + QQ 音乐联合会员 243 元再降新低，单个会员 1 年仅需 60 元",
+      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 318 元，今日买超会 3 年送 QQ 音乐 1 年 + 限时加补 30 元，首次购买用户叠加 25 元首购礼金，券后价为 263 元。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 20 元京东 E 卡，到手仅需 243 元。</p><p data-vmark=\"7cb6\">折合单会员单年折合仅需 60.75 元。</p><p data-vmark=\"65e0\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/eG",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/021/472.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T03:16:43.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-ta5edb",
+      "title": "微软 Win11 AI PC 路线图曝光：4 档硬件，8GB 内存也有 AI 入场券",
+      "desc": "<p data-vmark=\"5933\">IT之家 11 月 4 日消息，消息源 @9550pro 昨日（11 月 3 日）在 X 平台发布推文，分享了一张题为“Windows 是混合智能之家”的幻灯片，<strong>展示了微软“混合智能”（Hybrid Intelligence）AI PC 路线图。</strong></p><p style=\"text-align: center;\" data-vmark=\"9d85\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3419fce8-e5e0-4095-ad47-29300",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/021/886.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T23:21:17.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-qckwfz",
+      "title": "Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 3 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 27 日 - 2026 年 11 月 3 日，无免费游戏），IT之家注意到，《影之刃零》反超此前连冠的《Call of Duty®: Modern Warfare® 4》，同时登顶全球区与国区区榜首，新游《深空当铺：可能是偷的》首次上榜即冲入全球前 5，《足球经理 27》预购版也携 -10% 折扣进入全球榜单。</p><p data-vmark=\"0001\">全球榜单：</p><ul class=\"medium-size list-paddingl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/021/820.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-03T13:31:28.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-rwnwyt",
