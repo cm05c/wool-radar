@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-05T00:21:12.296Z",
+  "updatedAt": "2026-11-05T07:23:37.169Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,96 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ue5fha",
+      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
+      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/679.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T05:56:55.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-uxy0ua",
+      "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
+      "desc": "<p data-vmark=\"7f33\">IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称索尼已面向 Xperia 10 VIII 与 Xperia 10 VII 推送安卓 17 更新，<strong>但上述两款手机无法完整体验安卓 17 的全部新功能。</strong></p><p data-vmark=\"d3f9\">IT之家附上相关截图如下：</p><p data-vmark=\"ab66\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsu",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/664.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T04:27:42.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ugcluq",
+      "title": "钛合金表圈 + AMOLED 彩色触屏：佳明 Forerunner 965 智能手表 4980 → 2704 元新低",
+      "desc": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"2a00\">Garmin 佳明 Forerunner 965 运动智能手表 2023 年 3 月开售，官方定价 4980 元。</p><p data-vmark=\"6881\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2704.7 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"391d\">领 3000-400 元券：<a href=\"https://u.jd.com/eac5I",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/675.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T05:48:06.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-wtkptp",
+      "title": "暴力熊 Thermal Grizzly 发布 PhaseSheet PTM Pro：导热更强、安装更省心",
+      "desc": "<p data-vmark=\"0f13\">IT之家 11 月 5 日消息，德国散热品牌 Thermal Grizzly（国内俗称暴力熊）宣布推出新一代相变导热垫 PhaseSheet PTM Pro，<strong>在保持相变导热垫易用特性的同时，提升了导热性能，并重点改进了载体膜结构，让装机过程更顺手。</strong></p><p data-vmark=\"be19\">IT之家注：相变导热垫是一种介于传统导热硅脂和普通导热垫之间的散热界面材料。它在常温下是柔软的固体片材，方便直接贴在 CPU / GPU 表面；当芯片运行升温后，材料会“相变”软化，更好地填满芯片顶盖与散热器之间的细微空隙，从",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/022/625.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T04:14:24.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-rx3ww7",
+      "title": "谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128051.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T02:30:00.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-3wx8cj",
@@ -2979,24 +3069,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-6mrgu7",
-      "title": "微软 XBOX 启动云游戏单独付费预览体验，优惠价 50 小时 11.99 美元",
-      "desc": "<p data-vmark=\"d621\">IT之家 10 月 22 日消息，Microsoft（微软）XBOX 当地时间昨日宣布启动云游戏单独付费的预览体验，XBOX Insider 会员有机会在 11 月正式上线前<strong>抢先体验这一无需 Game Pass 订阅即可使用云游戏服务的新机制</strong>。</p><p data-vmark=\"a410\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/6b0d4789-e431-4090-9d2e-14364b",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/253.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T02:39:27.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
