@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:58:13.229Z",
+  "updatedAt": "2026-11-06T02:22:53.816Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,6 +94,94 @@
       "_score": 2
     },
     {
+      "id": "rss-8qxx6s",
+      "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/flotsam-266287\">《浮游世界》</a></p><p data-vmark=\"0002\">IT之家附《浮游世界》游戏简介：</p><p data-vmark=\"0003\" style=\"text-align: center;\"><img src=\"https://img.i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/023/023.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T16:00:08.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-rx3ww7",
+      "title": "谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128051.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T02:30:00.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5vklmw",
+      "title": "酷态科 10 号 / 15 号电能基站第三轮 OTA 陆续推送，新增功率界面主题切换、识别 iPhone 18/Duo 等",
+      "desc": "<p data-vmark=\"7c40\">IT之家 11 月 6 日消息，酷态科今日宣布，10 号 / 15 号电能基站<strong>第三轮 OTA 陆续推送中</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0a16\">新增功率界面主题切换，充电状态尽在掌握</p></li><li><p data-vmark=\"3e5e\">新增 iPhone 18 系列、iPhone Duo 等机型识别</p></li><li><p data-vmark=\"27f5\">其他用户体验优化</p></li></ul><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/085.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T02:10:55.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-6wete3",
+      "title": "随时结束：B站 x 京东 PLUS 联名年卡 140 元、大会员年卡 89 元年内新低",
+      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，</p><p data-vmark=\"95d7\"><span class=\"font-color-red\"><strong>点击详情页【淘金币抵扣】卡片</strong></span>，淘金币可抵 7.33 元，实付为 140.67 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=21504634179",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/060.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T01:15:10.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-7suoee",
+      "title": "蚂蚁百灵大模型 Ling 3.2 Flash 发布：三项基准超越 Claude Opus 5，前两周限时免费",
+      "desc": "<p data-vmark=\"1b4a\">IT之家 11 月 6 日消息，蚂蚁百灵官方团队今日宣布推出原生多模态模型 Ling-3.2-flash，拥有 560B 总参数、25B 激活参数、1M 上下文窗口。</p><p data-vmark=\"aae8\">该模型从架构层面原生融合视觉与语言能力，支持图像、文本与视频输入，重点强化复杂视觉理解、多模态长程 Agent、3D 理解与交互、医疗多模态四大能力。</p><p style=\"text-align: center;\" data-vmark=\"594a\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/043.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T00:00:05.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-94os0t",
       "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
       "desc": "<p data-vmark=\"b3c0\">IT之家 11 月 5 日消息，博主 @WHYLAB 今日分享了荣耀 700 系列手机的盲盒周边。从盲盒可以看出，荣耀 700 系列手机将采用小矩阵背屏设计。博主透露，<strong>背屏尺寸为 1.72 英寸</strong>。</p><p data-vmark=\"d847\">该博主还透露，<strong>荣耀 700 标准版采用骁龙 8s Gen4 处理器，Pro 则搭载骁龙 8 Gen5 处理器</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e8cb\"><img src=\"http",
@@ -143,41 +231,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-rx3ww7",
-      "title": "谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128051.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T02:30:00.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-8qxx6s",
-      "title": "Epic 喜加一：《浮游世界》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/flotsam-266287\">《浮游世界》</a></p><p data-vmark=\"0002\">IT之家附《浮游世界》游戏简介：</p><p data-vmark=\"0003\" style=\"text-align: center;\"><img src=\"https://img.i",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/023/023.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T16:00:08.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-kxb00z",
@@ -2973,60 +3026,6 @@
       "expiresAt": null,
       "publishedAt": "2026-10-23T03:39:22.000Z",
       "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-mrl96y",
-      "title": "特斯拉美国上架 Performance 雨伞：48 英寸黑色伞面，Model 3 Performance 徽标渐变内衬",
-      "desc": "<p data-vmark=\"148e\">IT之家 10 月 23 日消息，消息源 @SawyerMerritt 今天（10 月 23 日）在 X 平台发布推文，爆料称特斯拉美国官网上架了 3 款周边配件产品，<strong>涵盖 2 款背包和 1 把雨伞，起售价为 80 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 535.1 元人民币）</span>。</strong></p><p data-vmark=\"2f8e\">在本次上架的产品中，最值得关注的是 Performance 雨伞，美国官网售价为 95 美元<span class=\"exch-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/016/836.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T02:07:02.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-av9iyn",
-      "title": "微博官方 11.11 发车：会员年卡 54 元、SVIP 年卡 117 元大促",
-      "desc": "<p data-vmark=\"6d1b\">微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，下单赠送 1 个月，淘金币可抵 0.6 元；</p><p data-vmark=\"31ca\">到手价为 59.4 元 13 个月，折合 54.83 元 / 年，4.56 元 / 月：</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=2150464117927157734467219e0c7f&amp;srItem=1&amp;e=p33mUWBpc7mlhH",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/016/792.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T00:48:04.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-9xq2rm",
-      "title": "IT早报 1023：神木交警再回应问界碰撞起火事故；武汉通回应苹果免费开卡安卓端收费 15 元；大模型 MiniMax 港股跌破发行价；微软 Win11 给 8GB 内存电脑减负...",
-      "desc": "<p data-vmark=\"f794\">“IT早报”时间，大家好，现在是 2026 年 10 月 23 日星期五，今天的重要科技资讯有：</p><h2 data-vmark=\"1b77\">1. 陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆</h2><p data-vmark=\"4223\">近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。据新京报报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称，当时车辆起火后将交通灯柱里面的线烧短路了，灯柱被烧得变色，目前正喷漆。>> <a href=\"https://w",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/016/773.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-22T23:55:07.000Z",
-      "hot": 157,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
