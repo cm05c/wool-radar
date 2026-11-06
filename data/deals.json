@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:27:54.358Z",
+  "updatedAt": "2026-11-06T22:22:44.939Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -60,6 +60,57 @@
       "_score": 5
     },
     {
+      "id": "rss-4ydw9t",
+      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eD9PpOu\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e69JlxD\" data-iosu",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/554.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T14:10:23.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-5evq2n",
+      "title": "美团回应“大众点评 V8 用户威胁商家免单”：视频系摆拍，新用户和 Lv8 老用户评价基础流量和权重完全相同",
+      "desc": "<p data-vmark=\"3cad\">IT之家 11 月 6 日消息，近期有网友发布短视频，称有大众点评 V8 用户以差评威胁商家“免单”的情况。</p><p data-vmark=\"ff9d\">美团今日发文表示，11 月 5 日，媒体暗访揭露了这系列视频背后真相，联系相关商家求证，发现此类视频情节高度雷同，<strong>均为摆拍</strong>，部分视频扮演顾客的甚至就是老板。</p><p data-vmark=\"adf8\">与此同时，大众点评客服在社交媒体也尝试联系了上述商家，均未得到任何回复，且根据这些视频透露的信息进行排查，未发现任何点评用户的违规勒索行为。</p><p dat",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免单",
+      "url": "https://www.ithome.com/1/023/545.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T13:23:54.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-6dirge",
+      "title": "《刺客信条：英灵殿》迎来久违更新：引入“新游戏 +”，支持 PSSR 2",
+      "desc": "<p data-vmark=\"4562\">IT之家 11 月 6 日消息，Ubisoft（育碧）当地时间本月 5 日为游戏《刺客信条：英灵殿》推送了“备受期待的”1.8.0 免费大型更新。</p><p data-vmark=\"56de\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d277afab-0964-4df4-9bb7-326eff65af8b.jpg\" w=\"1440\" h=\"810\" class=\"shrinkToFit nowebp no-alt-img\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/524.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T10:57:59.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-iqcbhj",
       "title": "不法分子假借“AITO”名义发送诈骗短信，问界汽车声明并无所谓“气囊召回”事项",
       "desc": "<p data-vmark=\"8bea\">IT之家 11 月 6 日消息，问界汽车账号“问界真探社”今日发文，近日，<strong>有用户收到不法分子假借“AITO”名义发送诈骗短信，谎称车辆涉及气囊召回</strong>，要求用户在限定时间内通过短信附带网址、二维码办理相关手续，并以“取消质保服务”等话术胁迫操作。</p><p data-vmark=\"c43b\">问界汽车郑重声明：<strong>问界汽车并无所谓“气囊召回”事项</strong>，相关短信均非问界官方通知。</p><blockquote><p data-vmark=\"87e4\"><strong>请广大用户提高警惕，谨防诈骗<",
@@ -92,60 +143,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-4ydw9t",
-      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eD9PpOu\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e69JlxD\" data-iosu",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/554.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T14:10:23.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-6dirge",
-      "title": "《刺客信条：英灵殿》迎来久违更新：引入“新游戏 +”，支持 PSSR 2",
-      "desc": "<p data-vmark=\"4562\">IT之家 11 月 6 日消息，Ubisoft（育碧）当地时间本月 5 日为游戏《刺客信条：英灵殿》推送了“备受期待的”1.8.0 免费大型更新。</p><p data-vmark=\"56de\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d277afab-0964-4df4-9bb7-326eff65af8b.jpg\" w=\"1440\" h=\"810\" class=\"shrinkToFit nowebp no-alt-img\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/524.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T10:57:59.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-5evq2n",
-      "title": "美团回应“大众点评 V8 用户威胁商家免单”：视频系摆拍，新用户和 Lv8 老用户评价基础流量和权重完全相同",
-      "desc": "<p data-vmark=\"3cad\">IT之家 11 月 6 日消息，近期有网友发布短视频，称有大众点评 V8 用户以差评威胁商家“免单”的情况。</p><p data-vmark=\"ff9d\">美团今日发文表示，11 月 5 日，媒体暗访揭露了这系列视频背后真相，联系相关商家求证，发现此类视频情节高度雷同，<strong>均为摆拍</strong>，部分视频扮演顾客的甚至就是老板。</p><p data-vmark=\"adf8\">与此同时，大众点评客服在社交媒体也尝试联系了上述商家，均未得到任何回复，且根据这些视频透露的信息进行排查，未发现任何点评用户的违规勒索行为。</p><p dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免单",
-      "url": "https://www.ithome.com/1/023/545.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T13:23:54.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-kxcta1",
