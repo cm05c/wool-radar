@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:22:44.939Z",
+  "updatedAt": "2026-11-07T02:21:21.881Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,77 @@
       "_score": 4
     },
     {
+      "id": "rss-suj09f",
+      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128123.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T05:30:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-8t0qck",
+      "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
+      "desc": "<p data-vmark=\"d2ee\">IT之家 11 月 7 日消息，11 月 6 日，巨星传奇在第九届进博会上首发与宇树科技联合开发的 UNI-DOGGIE 机器狗，售价 43900 元。</p><p data-vmark=\"1855\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/805a0137-f49c-409b-8b56-10e1d5368a14.jpg\" w=\"1280\" h=\"853\" data-weibo=\"0\" class=\"nowebp no-al",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/636.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T01:29:10.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-7udoyt",
+      "title": "三星电子 DX 部门员工抗议奖金分配不公，要求现金补偿及管理层道歉",
+      "desc": "<p data-vmark=\"a4f0\">IT之家 11 月 7 日消息，三星电子负责 Galaxy 手机、平板电脑、电视及家电业务的设备体验（DX）部门员工，因绩效奖金分配问题再次表达不满。</p><p data-vmark=\"593d\">据 Business Korea 当地时间 11 月 5 日报道，三星 DX 部门员工所属的“同行工会”（Donghaeng Union）近日在三星电子水原办公区外举行抗议活动，要求公司向 DX 部门员工提供现金补偿，并就此前的奖金分配争议作出道歉，同时要求建立面向 2027 年薪资谈判的联合协商机制。</p><p data-vmark=\"1cda\">此次",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/615.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T23:46:35.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-8qtjz4",
+      "title": "保时捷推出 911 Carrera RS 2.7 联名咖啡机，单卖 48200 元",
+      "desc": "<p data-vmark=\"1667\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，保时捷宣布与意大利咖啡机制造商 La Marzocco 合作，推出了一款限量版 Linea Micra 意式浓缩咖啡机和 Pico 咖啡磨豆机，以及咖啡杯、咖啡师毛巾、服饰和汽车模型等周边产品。</p><p data-vmark=\"140d\"><strong>其中</strong>，<strong>磨豆机单卖 12800 元，咖啡机为 48200 元，二者组合套装为 61000 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/632.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T01:06:56.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
       "id": "rss-5evq2n",
       "title": "美团回应“大众点评 V8 用户威胁商家免单”：视频系摆拍，新用户和 Lv8 老用户评价基础流量和权重完全相同",
       "desc": "<p data-vmark=\"3cad\">IT之家 11 月 6 日消息，近期有网友发布短视频，称有大众点评 V8 用户以差评威胁商家“免单”的情况。</p><p data-vmark=\"ff9d\">美团今日发文表示，11 月 5 日，媒体暗访揭露了这系列视频背后真相，联系相关商家求证，发现此类视频情节高度雷同，<strong>均为摆拍</strong>，部分视频扮演顾客的甚至就是老板。</p><p data-vmark=\"adf8\">与此同时，大众点评客服在社交媒体也尝试联系了上述商家，均未得到任何回复，且根据这些视频透露的信息进行排查，未发现任何点评用户的违规勒索行为。</p><p dat",
@@ -126,23 +197,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-suj09f",
-      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128123.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-kxcta1",
@@ -2922,42 +2976,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ax2sig",
-      "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
-      "desc": "<p data-vmark=\"47f7\">IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户，<strong>推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。</strong></p><p style=\"text-align: center;\" data-vmark=\"eec9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bf6db0e5-fce9-41b6-b8d8-b4a555ee79d5.png?x-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/305.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T01:05:23.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ldpuyt",
-      "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
-      "desc": "<p data-vmark=\"3d62\">IT之家 10 月 24 日消息，科技媒体 MacRumors 昨日（10 月 23 日）发布博文，报道称苹果公司针对其首款折叠 iPhone Duo，<strong>推送仅限于该机型的 iOS 27.1 更新，在官方日志中仅显示“修复 iPhone 上的错误”。</strong></p><p data-vmark=\"3bc4\">原文并未提及本次推送的内部版本号，只是提及苹果公司已于本周四以 IPSW 文件的形式提供下载，在下载链接中显示版本号为 24A94425。</p><p style=\"text-align: center;\" data-vmar",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/292.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-23T23:54:07.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
