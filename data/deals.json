@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:12:47.269Z",
+  "updatedAt": "2026-11-07T23:38:56.086Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-1pisrp",
+      "title": "绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载",
+      "desc": "如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。\n\n\n超级会员 SVIP 年卡限时打折优惠：\n除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/quark-svip",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T07:01:37.000Z",
+      "hot": 149,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 4
+    },
     {
       "id": "rss-8wfae4",
       "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
@@ -94,23 +111,6 @@
       "_score": 7
     },
     {
-      "id": "rss-oduvkw",
-      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
-      "desc": "<p data-vmark=\"e857\">友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmark=\"1",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/753.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T08:15:48.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-suj09f",
       "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
       "desc": "",
@@ -128,22 +128,39 @@
       "_score": 4
     },
     {
-      "id": "rss-1pisrp",
-      "title": "绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载",
-      "desc": "如今，网盘正在逐渐成为我们日常工作和娱乐 (转存 + 在线看电影看视频) 的重要工具。无论是办公文件、手机电脑的备份，还是图片和视频，都可以通过云端进行存储和转移。\n\n\n超级会员 SVIP 年卡限时打折优惠：\n除了百度网盘、阿里云盘、迅雷云盘之外，最近还有一款网盘“异军突起”——夸克网盘…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-wvujrv",
+      "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+      "desc": "<p data-vmark=\"86de\">IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，<strong>入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件</strong>，<strong>期限为 12 个月</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d407\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/p/quark-svip",
+      "url": "https://www.ithome.com/1/023/835.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-07T07:01:37.000Z",
-      "hot": 149,
+      "publishedAt": "2026-11-07T23:02:43.000Z",
+      "hot": 219,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 4,
+      "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-oduvkw",
+      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
+      "desc": "<p data-vmark=\"e857\">友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmark=\"1",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T08:15:48.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-buq7ne",
