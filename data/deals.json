@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-07T02:21:21.881Z",
+  "updatedAt": "2026-11-07T09:15:02.202Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -60,23 +60,6 @@
       "_score": 5
     },
     {
-      "id": "rss-4ydw9t",
-      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eD9PpOu\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e69JlxD\" data-iosu",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/554.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T14:10:23.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-suj09f",
       "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
       "desc": "",
@@ -90,6 +73,113 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-otswsd",
+      "title": "IT之家 11.11 严选好货：20 点 PLUS DAY 速抢 80 元神券，索尼 PS5 Slim 游戏主机仅 2298 元",
+      "desc": "<p data-vmark=\"e598\">全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eal8R7G\" target=\"_blank\" data-wapurl=\"https://u.jd.com/ealDSqA\" data-iosurl=\"https://u.jd.com/eGl6WEd\" data-androidurl=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/761.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T08:55:41.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7,
+      "verified": true
+    },
+    {
+      "id": "rss-bl3aca",
+      "title": "3378 元：苹果 Apple Watch Ultra 3 教育优惠版直降，钛金属表壳 + 蓝宝石玻璃",
+      "desc": "<p data-vmark=\"7b1d\">苹果 Apple Watch Ultra 3 手表去年 9 月 19 日开售，<strong>国行售价 6499 元，教育优惠价 5799 元。</strong></p><p data-vmark=\"e892\">今日京东<strong>教育优惠版</strong>直降至 3377.51 元，较 4 代划算很多：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDx6Kmq\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6xIvTo\" ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/023/692.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T07:06:41.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-oduvkw",
+      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
+      "desc": "<p data-vmark=\"e857\">友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmark=\"1",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T08:15:48.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-b68ubj",
+      "title": "2598 元 → 1598 元直降千元：大疆 Osmo Action 5 Pro 运动相机破冰新低",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9db7\">大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。</p><p data-vmark=\"ac4b\">京东 11.11 大促期间，领取 100 元优惠券，叠加 15% 国补后仅需 1598 元 xixnd ：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaxK6KF\" target=\"_blank\" data-wapurl",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/023/686.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T06:49:38.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-a7lsxs",
+      "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
+      "desc": "<p data-vmark=\"a54a\">IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。</p><p data-vmark=\"94d4\">10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子<strong>神色紧张，</strong><strong>答题状态异常，</strong><strong>行为举止不自然，</strong>当即对其开展核查。</p><p data-vmark=\"1138\">男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/665.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T03:49:42.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-4ydw9t",
+      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eD9PpOu\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e69JlxD\" data-iosu",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/554.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T14:10:23.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 4
     },
@@ -2852,131 +2942,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-4qibop",
-      "title": "32 英寸 AOC OLED 雾面 4K 120Hz 显示器 U32U4D 发售，国补价 5249 元",
-      "desc": "<p data-vmark=\"5f8a\">IT之家 10 月 24 日消息，冠捷新推出了一款 32 英寸的 AOC U4 Graphic Pro 显示器，型号为 U32U4D ，京东价格显示为 6332 元，京东提供 500 元优惠券，再叠加国补后 5248.8 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56c4Lmi\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gc4xAO\" data-iosurl=\"https://u.jd.com/5Dc4l5U\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/427.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T08:57:22.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-3tio31",
-      "title": "OPPO / 一加手机 ColorOS“优行卡”新增支持“琴岛通”交通卡，可在山东青岛享公交地铁乘车优惠",
-      "desc": "<p data-vmark=\"a3e2\">IT之家 10 月 24 日消息，OPPO / 一加手机旗下 ColorOS“优行卡”现已支持山东青岛“琴岛通”，可与琴岛通 NFC 卡共存，相应“优行卡”支持 0 元开卡、先乘后付特性，用户无需充值，乘车后车费将从指定账户中代扣。</p><p data-vmark=\"e4ab\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2842251c-acd1-40dc-b2e9-c7a1946b2dcc.jpg?x-bce-proces",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/017/409.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T07:47:13.000Z",
-      "hot": 151,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7jk9dn",
-      "title": "Steam 喜加一：第一人称生存恐怖射击游戏《Radiant Exodus》免费领",
-      "desc": "<p data-vmark=\"583d\">IT之家 10 月 24 日消息，开发者宣布 Horrawr 旗下第一人称生存恐怖射击游戏《Radiant Exodus》将于 2026 年 11 月 17 日结束免费游玩，开始付费销售。玩家可以在期限前将游戏免费添加至 Steam 库，即使游戏日后进行收费，仍可继续游玩。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/2920120/Radiant_Exodus/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https:",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/017/379.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T06:34:20.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7netj6",
-      "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
-      "desc": "<p data-vmark=\"5a00\">IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中，<strong>黄金空格键重约 35 克，价值超 4 万元</strong>。</p><p data-vmark=\"35d0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/37644f86-f8ab-429a-8d99-c024123b5275.png\" w=\"1440\" h=\"1920\" da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/372.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T05:58:43.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-7knukd",
-      "title": "1099 → 543 元国补直降：华为 WATCH FIT 5 智能手表 5 折新低，1.82 英寸 AMOLED 屏",
-      "desc": "<p data-vmark=\"41ba\">华为 WATCH FIT 5 智能手表 2026 年 4 月开售，该表主打超轻薄大屏 + 腕上微运动 + 长续航，售价 1099 元起。</p><p data-vmark=\"2c6a\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 543.15 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a341\">领 800-260 元券：点击下方卡片 → 点击宝贝右上角浮窗 → 进入直播间，顶部位置即可领到。</p></li></ul><dir><a contentedi",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/017/377.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T06:28:04.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-815od7",
-      "title": "微软 Win11 26H1 推送 28120.3302 预览版：开始菜单可调大小等",
-      "desc": "<p data-vmark=\"e3fc\">IT之家 10 月 24 日消息，微软昨日（10 月 23 日）发布公告，<strong>邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。</strong></p><p data-vmark=\"5e0d\">IT之家援引博文介绍，本次更新适用于 Experimental 频道 3 个版本：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"cec0\">26H2 版本更新后版本号升至 Build ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/368.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T05:37:32.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-9fqqyf",
-      "title": "华硕 ROG：枪神 7 / 魔霸新锐 (2023) 质量符合国标，仍会为主板边缘受损笔电提供免费保修",
-      "desc": "<p data-vmark=\"a747\">IT之家 10 月 24 日消息，华硕 (ASUS) 玩家国度 (ROG) 本月 19 日发布公告，表示旗下 <strong>ROG 枪神 7 / 魔霸新锐 (2023) 游戏笔记本电脑 </strong>(ROG Strix G16 2023 Series)<strong> 均符合国家标准中的有关环境适应性的相关标准</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2ab1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/339.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T04:06:51.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
