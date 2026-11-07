@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-07T09:15:02.202Z",
+  "updatedAt": "2026-11-07T15:54:49.530Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -60,6 +60,40 @@
       "_score": 5
     },
     {
+      "id": "rss-otswsd",
+      "title": "IT之家 11.11 严选好货：PLUS DAY 0、10、14、20 点速抢 80 元神券，索尼 PS5 Slim 游戏主机仅 2298 元",
+      "desc": "<p data-vmark=\"e598\">全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eD4nSmf\" target=\"_blank\" data-wapurl=\"https://u.jd.com/er4ZgvO\" data-iosurl=\"https://u.jd.com/eal8R7G\" data-androidurl=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/761.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T08:55:41.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7
+    },
+    {
+      "id": "rss-oduvkw",
+      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
+      "desc": "<p data-vmark=\"e857\">友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmark=\"1",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T08:15:48.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-suj09f",
       "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
       "desc": "",
@@ -77,21 +111,39 @@
       "_score": 4
     },
     {
-      "id": "rss-otswsd",
-      "title": "IT之家 11.11 严选好货：20 点 PLUS DAY 速抢 80 元神券，索尼 PS5 Slim 游戏主机仅 2298 元",
-      "desc": "<p data-vmark=\"e598\">全网 11.11 狂促继续，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eal8R7G\" target=\"_blank\" data-wapurl=\"https://u.jd.com/ealDSqA\" data-iosurl=\"https://u.jd.com/eGl6WEd\" data-androidurl=\"",
+      "id": "rss-xdzrcs",
+      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "desc": "<p data-vmark=\"9c50\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，GitHub 发布博文，称上周在 GitHub Universe 大会上，正式公布了全新的 Git 存储架构，代号“Rubicon”。</p><p style=\"text-align: center;\" data-vmark=\"1537\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/12066f19-72f5-46c9-86b6-4343d5cb8997.jpg?x-bce-process=image/format,f_au",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/761.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/823.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-07T08:55:41.000Z",
-      "hot": 211,
+      "publishedAt": "2026-11-07T14:57:23.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 7,
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-qa1d5o",
+      "title": "15980 元起：山灵发布 15 单元耳机 Dynasty「王朝」、无损音乐播放器 M10 等新品",
+      "desc": "<p data-vmark=\"b2ca\">IT之家 11 月 7 日消息，第二届 SSD 蛇口音频节「山海臻音」音乐鉴赏暨新品发布会今日举行。</p><p data-vmark=\"1aaf\">山灵在本次发布会上推出三款新品：M10 超旗舰无损音乐播放器，SM3.3 R2R 电子管流媒体数播一体机，全新 15 单元超旗舰耳机 Dynasty「王朝」。</p><p data-vmark=\"ef76\">IT之家附三款新品介绍如下：</p><h3 data-vmark=\"26f6\">耳机 Dynasty「王朝」</h3><blockquote><ul class=\" list-paddingleft-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/793.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-07T10:41:58.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -110,24 +162,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-oduvkw",
-      "title": "推入式基站更方便：友望云朵 Max 洗地机 2599 → 499 元官方直降新低",
-      "desc": "<p data-vmark=\"e857\">友望云朵 Max 洗地机官方定价 2599 元，今日按下方步骤下单，仅需 499 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4047\">88VIP 需先领 1500-180 元消费券，然后膨胀至 1800-220 元（非 88VIP 前往<a target=\"_blank\" href=\"https://s.click.taobao.com/LuW2QLl\">领券中心</a>可领取不定额消费券，也可膨胀至类似的额度）；</p></li><li><p data-vmark=\"1",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/753.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T08:15:48.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     },
     {
@@ -2891,57 +2925,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-igtd4c",
-      "title": "罗技 Pebble Up 鼠标上市：平卧 + 35° 斜卧双形态，到手价 251.1 元",
-      "desc": "<p data-vmark=\"6ee1\">IT之家 10 月 24 日消息，Logitech（罗技）此前推出的双形态鼠标 Pebble Up 现已上市。其<strong>支持便于携带的平卧和提供 35° 人体工学倾角的斜卧双形态</strong>，到手价 251.1 元。</p><p data-vmark=\"7e05\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7b0ce6d2-12d4-46b7-81fe-5278edc233ed.jpg?x-bce-process",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/507.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T13:22:37.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-56gcw6",
-      "title": "Steam 喜加一：2D 平台冒险游戏《Depths Unseen》转付费前限时免费领",
-      "desc": "<p data-vmark=\"f2d4\">IT之家 10 月 24 日消息，由独立开发者 DoodleCorp 打造的 2D 平台冒险游戏《Depths Unseen》目前正以免费形式在 Steam 开启抢先体验。</p><p data-vmark=\"acfb\">随着第 3 章内容推出，开发者宣布，为筹集后续开发资金，计划自 10 月 25 日起将游戏改为付费制。玩家可趁游戏尚未调整价格前，前往 Steam 商店页面免费领取并添加至游戏库，IT之家附游戏地址（<a href=\"https://store.steampowered.com/app/3897890/Depths_Unseen/\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/017/435.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T09:46:38.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-53pdxd",
-      "title": "华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新：支持 iPhone 互联，实现消息相互流转",
-      "desc": "<p data-vmark=\"1b34\">IT之家 10 月 24 日消息，今日，华为 Mate X7、Mate80、Mate70、Pura80 等机型推送鸿蒙 HarmonyOS 7.0.0.111 SP12 版本更新。以华为 Mate X7 为例，安装包体积为 7.31GB。</p><p data-vmark=\"6add\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/dea83567-d599-49a7-85f8-70132dd2b0bf.jpg?x-bce-pro",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/430.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-24T09:23:32.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
