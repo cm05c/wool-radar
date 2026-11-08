@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-08T02:42:19.431Z",
+  "updatedAt": "2026-11-08T09:30:23.527Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -60,6 +60,113 @@
       "_score": 5
     },
     {
+      "id": "rss-suj09f",
+      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128123.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T05:30:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-i93nbx",
+      "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
+      "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><p data-vmark=\"7a2c\">今日京东 PLUS 超级补贴后直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaofGDo\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1okO0j\" data-iosurl=\"h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/023/932.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:15:25.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-inearb",
+      "title": "网传大疆将于 11 月 18 日调涨 Osmo Pocket 4/4P/Nano 价格，据称“单台最高涨 500 元”",
+      "desc": "<p data-vmark=\"831c\">IT之家 11 月 8 日消息，从 11 月 6 日开始，许多用户在各大平台发帖，称大疆将于 11 月 18 日上调 Osmo Pocket 4/4P/Nano 价格，据称“最高涨幅达 13%，单台最高涨 500 元”，评论区也有用户称“自己给大疆打了电话说消息属实”，但也有用户称“销售尚未收到通知”。</p><p style=\"text-align: center;\" data-vmark=\"0568\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f4b6e1fd-eb2d-422",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/927.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T08:59:12.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-imui5y",
+      "title": "续航增强版京东破 800：苹果 AirPods 5 无线充电盒版 1149 → 793.8 元国补新低",
+      "desc": "<p data-vmark=\"43f3\">今日京东自营 AirPods 大促加码，AirPods 5 无线充电盒版支持使用 800-80 元神券。</p><p data-vmark=\"87c8\">官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元（本次国补<strong>限地区</strong>）。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/e6okLqV\" target=\"_blank\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/928.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:03:15.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-j8ahb1",
+      "title": "“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆",
+      "desc": "<p data-vmark=\"6f9d\">IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。</p><p data-vmark=\"f661\">当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，<strong>里程表读数刚超过 1600km</strong>，据称车内外都保持着极佳状",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/910.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T07:31:03.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-sxbmo9",
+      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128130.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:12:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-wvujrv",
       "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
       "desc": "<p data-vmark=\"86de\">IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，<strong>入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件</strong>，<strong>期限为 12 个月</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d407\"><img src=\"https://img.ithome.com/newsupload",
@@ -92,23 +199,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-suj09f",
-      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128123.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-wdpc6y",
@@ -2593,23 +2683,6 @@
       "verified": true
     },
     {
-      "id": "rss-kxdgxw",
-      "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
-      "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114741\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "0 元",
-      "url": "https://sspai.com/post/114741",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T06:30:31.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-62tkbr",
       "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
       "desc": "<p data-vmark=\"0000\">IT之家 10 月 27 日消息，苹果公司今日宣布为 Apple 创作坊带来重大更新，为创作者带来专业级工具。Mac 版 Final Cut Pro 现内置 MotionVFX，集成视觉特效、插件、转场、模板和运动图形工具等功能。同时 Pixelmator Pro、Keynote 讲演、Pages 文稿和 Numbers 表格推出多项全新 AI 功能 Beta。</p><p data-vmark=\"0003\">Apple 创作坊将于今年 11 月以免费更新的形式通过 App Store 推出。</p><p data-vmark=\"0001\" style",
@@ -2921,78 +2994,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-y13prb",
-      "title": "台电推出星耀 NAT 高速固态 U 盘，491 元起",
-      "desc": "<p data-vmark=\"e9f2\">IT之家 10 月 25 日消息，台电现已推出星耀 NAT 高速固态 U 盘，<strong>新品采用 Type-C、Type-A 双接头设计</strong>，读取速度可达 1060MB/s，<strong>售价 491 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0c33\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e5eaf069-7a4f-4e15-8a0e-52c1be30e26f.jpg?x-bc",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/623.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T08:02:15.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-y0jx5y",
-      "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
-      "desc": "<p data-vmark=\"27ef\">IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求<strong>仍将在 2028 年前保持快速增长</strong>。</p><p data-vmark=\"0bd2\">野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票，<strong>均给予“买入”评级</strong>，目标股价分别为 67 万韩元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,380 元人民",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/622.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T07:57:49.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-mo0san",
-      "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
-      "desc": "<p data-vmark=\"5421\">IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在<strong>国内部分区域</strong>出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（<strong>注：仅部分地区能看到</strong>），相对于上市价格便宜约 200-300 元。</p><p style=\"text-align: center;\" data-vmark=\"a29a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7cb106ce-0b1c-495e-abfc-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/593.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T06:17:36.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-mq7yo3",
-      "title": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
-      "desc": "<p data-vmark=\"666a\">IT之家 10 月 25 日消息，在最新的特斯拉财报电话会议上，特斯拉副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）宣布，特斯拉正在自研一套基于 AI 的地图导航系统。这套全新地图方案将随 FSD v15 上线，融合车队采集数据、个性化路线规划，同时支持 FSD 语音控制。</p><p style=\"text-align: center;\" data-vmark=\"48c1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dbc62bbb-9883-42b3-bc96-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/597.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T06:34:47.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
