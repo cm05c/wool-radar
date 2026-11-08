@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-08T09:30:23.527Z",
+  "updatedAt": "2026-11-08T16:19:06.610Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -60,6 +60,74 @@
       "_score": 5
     },
     {
+      "id": "rss-i93nbx",
+      "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
+      "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><p data-vmark=\"7a2c\">今日京东 PLUS 超级补贴后直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaofGDo\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1okO0j\" data-iosurl=\"h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/023/932.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:15:25.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-imui5y",
+      "title": "续航增强版京东破 800：苹果 AirPods 5 无线充电盒版 1149 → 793.8 元国补新低",
+      "desc": "<p data-vmark=\"43f3\">今日京东自营 AirPods 大促加码，AirPods 5 无线充电盒版支持使用 800-80 元神券。</p><p data-vmark=\"87c8\">官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元（本次国补<strong>限地区</strong>）。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/e6okLqV\" target=\"_blank\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/928.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:03:15.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-j8ahb1",
+      "title": "“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆",
+      "desc": "<p data-vmark=\"6f9d\">IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。</p><p data-vmark=\"f661\">当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，<strong>里程表读数刚超过 1600km</strong>，据称车内外都保持着极佳状",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/910.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T07:31:03.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-sxbmo9",
+      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128130.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:12:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-suj09f",
       "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
       "desc": "",
@@ -77,16 +145,52 @@
       "_score": 4
     },
     {
-      "id": "rss-i93nbx",
-      "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
-      "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><p data-vmark=\"7a2c\">今日京东 PLUS 超级补贴后直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaofGDo\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1okO0j\" data-iosurl=\"h",
+      "id": "rss-fetwyr",
+      "title": "日本富士电视台将在所有真人剧集制作中使用 AI，可省七至八成特效制作工序",
+      "desc": "<p data-vmark=\"3050\">IT之家 11 月 8 日消息，据日经亚洲当地时间 6 日报道，富士电视台计划从 2027 年 10 月起，将生成式 AI 应用于<strong>所有真人电视剧的制作</strong>，大幅缩短制作周期。由此，富士电视台将成为日本首家全面引入 AI 参与节目制作的大型商业电视台。</p><p data-vmark=\"983f\">富士电视台<strong>每年制作 16 部电视剧</strong>，计划使用谷歌 AI 图像生成和编辑工具 Nano Banana。AI 制作工作将交给富士电视台 9 月成立的内部实验室 AI Sandbox，主要由东京制作公",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/023/932.htm",
+      "value": "",
+      "url": "https://www.ithome.com/1/023/992.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-08T09:15:25.000Z",
-      "hot": 205,
+      "publishedAt": "2026-11-08T12:20:20.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ffxi5h",
+      "title": "Epic 喜加一：游戏《GMH - Good Morning Human》免费领",
+      "desc": "<p data-vmark=\"5581\">IT之家 11 月 8 日消息，由独立游戏团队 W-9000 Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。</p><p data-vmark=\"8c91\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/good-morning-human-6d0b45\" t",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/023/990.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T11:56:43.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-gq47zt",
+      "title": "首发 999 → 788 元：酷派 COOL X Wide 阔直板手机今日开售，搭载联发科曦力 G99 芯片",
+      "desc": "<p data-vmark=\"3e86\">酷派首款阔直板手机 Cool X Wide 今日正式开售，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。</p><p data-vmark=\"8c2b\">今日京东首发可叠加 PLUS 800-80 元神券，国补后低至 788 元起：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"85e7\">PLUS 会员 20:00 2 积分抢 800-80 元：<a href=\"https://u.jd.com/egoXuQ4\" t",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/023/969.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T10:09:39.000Z",
+      "hot": 203,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -110,60 +214,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-imui5y",
-      "title": "续航增强版京东破 800：苹果 AirPods 5 无线充电盒版 1149 → 793.8 元国补新低",
-      "desc": "<p data-vmark=\"43f3\">今日京东自营 AirPods 大促加码，AirPods 5 无线充电盒版支持使用 800-80 元神券。</p><p data-vmark=\"87c8\">官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元（本次国补<strong>限地区</strong>）。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/e6okLqV\" target=\"_blank\" da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/928.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:03:15.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-j8ahb1",
-      "title": "“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆",
-      "desc": "<p data-vmark=\"6f9d\">IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。</p><p data-vmark=\"f661\">当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，<strong>里程表读数刚超过 1600km</strong>，据称车内外都保持着极佳状",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/910.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T07:31:03.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-sxbmo9",
-      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128130.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:12:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2943,57 +2993,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-zgsdj9",
-      "title": "vivo OriginOS 7 近期升级计划公布：悬浮控件、相机界面，本月起分批推送",
-      "desc": "<p data-vmark=\"e3d5\">IT之家 10 月 25 日消息，vivo 公布 OriginOS 7 近期升级计划，包括相机色彩风格、悬浮控件视觉适配、相机界面升级、相册编辑升级、相机调色盘等。</p><p data-vmark=\"d11c\">IT之家整理如下：</p><p data-vmark=\"66ef\"><strong>十月：29 日版本陆续升级</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e675\">相机色彩风格：新增追光、浓郁、冷白、人文街头、人文肖像、人文生活色彩风格。适配机型：X300 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/654.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T10:07:21.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-z0ajqf",
-      "title": "苹果 iPhone Duo 京东原价开放购买，15999 元次日送货上门",
-      "desc": "<p data-vmark=\"d0dc\">【京东每天 10:00~17:55 开售，小伙伴们可等明天 10:00 开抢哦。】</p><p data-vmark=\"bee9\">京东自营部分地区 iPhone Duo 已支持开放购买次日达，实付 15999 元起 + 12 期免息 *。</p><p data-vmark=\"137b\">* 12 期免息需每天 20:00 蹲点抢券：<a href=\"https://u.jd.com/5O7FOPz\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5gVdnUc\" data-iosurl=\"https://",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/017/645.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T09:46:31.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-yy3dcz",
-      "title": "美运营商 Verizon 为苹果 iPhone Duo 预购延迟发货致歉，向受影响顾客赠送 100 美元礼品卡",
-      "desc": "<p data-vmark=\"5fb0\">IT之家 10 月 25 日消息，据科技媒体 macrumors 昨天报道，美国运营商 Verizon 最近向部分客户表示，<strong>由于意外的运输延误</strong>，<strong>部分客户可能需要等多一会儿才能收到苹果 iPhone Duo 手机</strong>。</p><p style=\"text-align: center;\" data-vmark=\"125b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e2a7454b-e1bc-409b-861b-2be7e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/641.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-25T09:30:34.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
