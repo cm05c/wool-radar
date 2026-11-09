@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-09T00:49:44.556Z",
+  "updatedAt": "2026-11-09T07:54:42.126Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -58,6 +58,166 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 5
+    },
+    {
+      "id": "rss-sxbmo9",
+      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128130.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-08T09:12:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-suj09f",
+      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128123.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T05:30:00.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-5xufl2",
+      "title": "8999 → 6835 元：vivo X Fold6 折叠屏手机 12+512GB 国补新低，2 亿像素 1/1.4\" 主摄、天玑 9500 超能版",
+      "desc": "<p data-vmark=\"8e17\">vivo X Fold6 折叠屏手机 2026 年 6 月开售，12GB+512GB 定价 8999 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"90ba\">京东 11.11 大促期间，PLUS 立减 400.46 元；</p></li><li><p data-vmark=\"d183\">下单立减 4 元；</p></li><li><p data-vmark=\"7f27\">国补立减 759.45 元；</p></li><li><p data-vmark=\"c4a0\">领取 1000 元",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "6 折",
+      "url": "https://www.ithome.com/1/024/295.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T07:11:32.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-8b2jk1",
+      "title": "京东自营全球购 2296 元速度保价：索尼 PS5 Slim 游戏主机版日本版新低",
+      "desc": "<p data-vmark=\"15ce\">索尼 PS5 Slim 日本市场限定定价为 55000 日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2317 元人民币）</span>，今日京东自营狂促开启，仅需 2298 元即可入手。</p><p data-vmark=\"2bd8\">目前大部分小伙伴买到的系统版本都是 12.00~13.4（接近一半是 12.00~12.2），本次不到 2300 元，性价比真真不错。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"11fe\">PLUS 会员立减",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/024/245.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T06:23:55.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-8bmc5e",
+      "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2271 元新低",
+      "desc": "<p data-vmark=\"96ed\">小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2c92\">京东 11.11 大促期间，活动价 3199 元；</p></li><li><p data-vmark=\"af2c\">PLUS 会员下单立减 15.99 元；</p></li><li><p data-vmark=\"d94f\">领取 9 折优惠券：<a href=\"https://u.jd.com/o",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/024/244.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T06:23:26.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-6tqi00",
+      "title": "全空间保鲜 + EPP 超净系统：海尔云溪 503L 法式多门冰箱 7999 → 3499 元国补探新低",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"61a0\">海尔 · 云溪 503L 法式多门冰箱（型号：BCD-503WGHFD1CYXU1）官方定价 7999 元。</p><p data-vmark=\"9b0f\">京东 11.11 大促期间，按下方步骤下单，今晚 20 点叠加 15% 国补后仅需 3499 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"25ed\">领 4000-500 元券：<a href=\"https://coupon.m.jd.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/024/279.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T06:55:59.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-6uaald",
+      "title": "16G + 1T 4058 元：机械革命 · 无界 14 2026 笔记本刚需好价，搭载酷睿 Ultra 5 226V",
+      "desc": "<p data-vmark=\"1c5a\">机械革命 · 无界 14 2026 笔记本 4 月发布，搭载英特尔酷睿 Ultra 5-226V 处理器 + 2.8K 120Hz 屏幕 + 16GB LPDDR5X + 1TB 存储。</p><p data-vmark=\"7103\">首发价 4999 元，今日京东仅需 4058 元即可入手：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f3c5\">点击下方卡片 → 点击右上方“<strong>直播浮窗</strong>” → 直播间领 5000-400 元券</p></li></ul><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/024/278.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T06:54:12.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-8trjqb",
+      "title": "16+512G + 骁龙 8 至尊版： REDMI K90 至尊版手机 2584 元近期好价",
+      "desc": "<p data-vmark=\"d83d\">小米 REDMI K90 至尊版手机今年 7 月发布，16+512G 首销到手价 3499 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"59a8\">京东 618 大促期间，活动价 3609 元；</p></li><li><p data-vmark=\"782f\">下单立减 550 元；</p></li><li><p data-vmark=\"3907\">PLUS 会员立减 18.04 元；</p></li><li><p data-vmark=\"9d19\">国补立减 456.14 元；</",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/024/232.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T06:08:41.000Z",
+      "hot": 156,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kxaxt1",
+      "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+      "desc": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "5 折",
+      "url": "https://sspai.com/post/118612",
+      "expiresAt": null,
+      "publishedAt": "2026-11-09T03:00:00.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-fetwyr",
@@ -126,40 +286,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-sxbmo9",
-      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128130.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:12:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-suj09f",
-      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128123.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4
     },
     {
       "id": "rss-wf5p6n",
@@ -1387,23 +1513,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-kxkrzx",
-      "title": "今日结束：B站 x 京东 PLUS 联名年卡 148 元、大会员 97 元、超级大会员 151 元大促",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5D9GxYd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5g9v3X2\" data-iosurl=\"https://u.jd.com/569nvl1\" data-androidurl=\"https://u.jd.com/5a9Id1r\" data-hosnexturl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/751.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T01:16:05.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-eatpr6",
@@ -2972,42 +3081,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-7h4jnr",
-      "title": "狼蛛 SC180 磁吸充电三模游戏鼠标 10 月 29 日开售，补贴价 119 元起",
-      "desc": "<p data-vmark=\"861f\">IT之家 10 月 26 日消息，狼蛛 SC180 磁吸充电三模游戏鼠标今日正式开启预约，10 月 29 日 20:00 全平台开售，补贴价 119 元起。</p><p data-vmark=\"7395\">据官方介绍，<strong>磁吸触点充电</strong>，一放即充，自动吸附归位，告别频繁插线充电的麻烦；炫彩 RGB 充电底座，触控切换灯效，兼顾充电便利与电竞桌搭氛围。</p><p data-vmark=\"0ffc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/new",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/017/931.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T07:37:18.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-6pobkq",
-      "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
-      "desc": "<p data-vmark=\"2c9e\">10 月 26 日中午消息，2026 观猹大会期间，由小米技术委创新产品团队孵化的开源 AI 硬件 <strong>HachimoDock</strong> 亮相 —— 这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。</p><p data-vmark=\"abd9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/716016ac-8e0",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/017/842.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-26T04:53:01.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
