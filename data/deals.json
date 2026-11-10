@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:18:56.980Z",
+  "updatedAt": "2026-11-10T22:31:01.138Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -159,8 +159,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-j32nlo",
@@ -177,44 +176,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-7qgh8k",
-      "title": "不到三月 1199 → 638 元：小米米家学习大路灯 2C 新低，11000lm 高光通量 + 双光源设计",
-      "desc": "<p data-vmark=\"3a85\">小米旗下米家立式学习灯 2C 今年 8 月末上市，该产品官方定价为 1199 元。</p><p data-vmark=\"1b6d\">今日京东国补后直降至 751 元，PLUS 会员 733 元。</p><p data-vmark=\"4550\">下单返 20 元 E 卡（详见赠品），晒单返 20 元京豆，折合仅需 693 元近期好价。</p><dir><a href=\"https://u.jd.com/ogiPWvk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o6i8qEW\" data-iosurl=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/822.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T06:37:59.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-j1z2ey",
-      "title": "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
-      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d500\">iQOO Z11 Turbo 发布于 2026 年 1 月，12GB+256GB 首发价 2399 元。</p><p data-vmark=\"9dae\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2054.93 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bae3\">领 9.5 折券：商品详情页价格处下拉可领。</p></li><li><p d",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/025/162.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T13:43:30.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
+      "_score": 5
     },
     {
       "id": "rss-j2iv0b",
@@ -231,8 +193,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
+    },
+    {
+      "id": "rss-j1z2ey",
+      "title": "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d500\">iQOO Z11 Turbo 发布于 2026 年 1 月，12GB+256GB 首发价 2399 元。</p><p data-vmark=\"9dae\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2054.93 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bae3\">领 9.5 折券：商品详情页价格处下拉可领。</p></li><li><p d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/162.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:43:30.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-io87kx",
@@ -249,8 +227,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 7,
-      "verified": true
+      "_score": 7
     },
     {
       "id": "rss-imktsu",
@@ -267,26 +244,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
-      "id": "rss-h93cec",
-      "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
-      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"b5e1\">友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。</p><p data-vmark=\"1724\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"63d0\">领 200-20 元券：<a href=\"https://u.jd.com/o1uh7ms\" target=\"_blank\" da",
+      "id": "rss-7qgh8k",
+      "title": "不到三月 1199 → 638 元：小米米家学习大路灯 2C 新低，11000lm 高光通量 + 双光源设计",
+      "desc": "<p data-vmark=\"3a85\">小米旗下米家立式学习灯 2C 今年 8 月末上市，该产品官方定价为 1199 元。</p><p data-vmark=\"1b6d\">今日京东国补后直降至 751 元，PLUS 会员 733 元。</p><p data-vmark=\"4550\">下单返 20 元 E 卡（详见赠品），晒单返 20 元京豆，折合仅需 693 元近期好价。</p><dir><a href=\"https://u.jd.com/ogiPWvk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o6i8qEW\" data-iosurl=\"",
       "channel": "IT之家",
       "category": "资讯",
       "value": "0 元",
-      "url": "https://www.ithome.com/1/025/128.htm",
+      "url": "https://www.ithome.com/1/024/822.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-10T11:46:27.000Z",
-      "hot": 204,
+      "publishedAt": "2026-11-10T06:37:59.000Z",
+      "hot": 155,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-ikxg0r",
@@ -303,26 +278,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-i4fm7x",
-      "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9ccd\">京东 11.11 大促期间，按下方步骤下单，叠加当贝 X9 Ultra 投影仪 2026 年 9 月开售，该投影仪提供 5600CVIA 亮度，定价为 7999 元。</p><p data-vmark=\"1337\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6542.35 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"04dc\">领 9.5 折券",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/025/143.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T12:33:54.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-ijtuu1",
@@ -339,8 +295,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
+    },
+    {
+      "id": "rss-i4fm7x",
+      "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
+      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9ccd\">京东 11.11 大促期间，按下方步骤下单，叠加当贝 X9 Ultra 投影仪 2026 年 9 月开售，该投影仪提供 5600CVIA 亮度，定价为 7999 元。</p><p data-vmark=\"1337\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6542.35 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"04dc\">领 9.5 折券",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/143.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T12:33:54.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-hp1dlt",
@@ -357,8 +329,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
+    },
+    {
+      "id": "rss-h93cec",
+      "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"b5e1\">友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。</p><p data-vmark=\"1724\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"63d0\">领 200-20 元券：<a href=\"https://u.jd.com/o1uh7ms\" target=\"_blank\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/128.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T11:46:27.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-h7zr7m",
@@ -375,8 +363,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
       "id": "rss-a7j5d2",
