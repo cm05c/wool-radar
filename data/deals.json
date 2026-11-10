@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-11-10T09:43:04.138Z",
+  "updatedAt": "2026-11-10T17:18:56.980Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 35,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-cg241f",
+      "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/qiewenpaper-1111/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T06:46:27.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-1pisrp",
       "title": "绝对值！夸克网盘 SVIP 会员优惠年卡打折！6TB 大空间 / 不限速 / 离线下载",
@@ -24,6 +41,23 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 4
+    },
+    {
+      "id": "rss-buq7ne",
+      "title": "刚需必入！苹果 iCloud+ 会员订阅 85 折优惠年卡 (2TB 空间/立省 123 元)",
+      "desc": "对于使用 iPhone 或 Mac 的苹果用户来说，iCloud 云存储空间已经是日常必备刚需了。无论是拍照/录视频、同步文档/通讯录/备忘录，或是备份相册/备份手机，iCloud 会员都不可划缺！\n\n但免费 5GB 根本不够用，大家一般都需要开通 200GB 或 2TB 档位。之前为省钱，很多人会切换到低价区订阅 iCloud (比如土耳其…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "5 折",
+      "url": "https://www.iplaysoft.com/p/icloud",
+      "expiresAt": null,
+      "publishedAt": "2026-11-06T17:06:44.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 8
     },
     {
       "id": "rss-8wfae4",
@@ -94,21 +128,254 @@
       "_score": 2
     },
     {
-      "id": "rss-cg241f",
-      "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/qiewenpaper-1111/",
+      "id": "rss-ue5fha",
+      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
+      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/679.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-10T06:46:27.000Z",
-      "hot": 199,
+      "publishedAt": "2026-11-05T05:56:55.000Z",
+      "hot": 217,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-j3mg71",
+      "title": "大疆 DJI Mic Mini 2 迷你无线麦克风 599 → 220 元国补新低：三种音色预设、两级降噪、续航 48 小时",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"ff0b\">DJI Mic Mini 2 开售于 2026 年 4 月，<strong>这款轻量化无线麦克风主打多彩磁吸前盖设计和轻量化专业收音功能</strong>，起售价为 599 元。</p><p data-vmark=\"a19f\">京东 11.11 大促期间，叠加 10% 国补后仅需 220.5 元：</p><dir><a href=\"https://u.jd.com/o6bK96H\" target=\"_blank\" data-wapurl=\"https://u.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/165.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:52:30.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-j32nlo",
+      "title": "11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元",
+      "desc": "<p data-vmark=\"e598\">全网 11.11 高潮狂促 11 月 11 日巅峰 24 小时，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/orbK83u\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oGbwCQH\" data-iosurl=\"https://u.jd.com/oGbwvY7\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/164.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:46:06.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-7qgh8k",
+      "title": "不到三月 1199 → 638 元：小米米家学习大路灯 2C 新低，11000lm 高光通量 + 双光源设计",
+      "desc": "<p data-vmark=\"3a85\">小米旗下米家立式学习灯 2C 今年 8 月末上市，该产品官方定价为 1199 元。</p><p data-vmark=\"1b6d\">今日京东国补后直降至 751 元，PLUS 会员 733 元。</p><p data-vmark=\"4550\">下单返 20 元 E 卡（详见赠品），晒单返 20 元京豆，折合仅需 693 元近期好价。</p><dir><a href=\"https://u.jd.com/ogiPWvk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o6i8qEW\" data-iosurl=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/024/822.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T06:37:59.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-j1z2ey",
+      "title": "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d500\">iQOO Z11 Turbo 发布于 2026 年 1 月，12GB+256GB 首发价 2399 元。</p><p data-vmark=\"9dae\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2054.93 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"bae3\">领 9.5 折券：商品详情页价格处下拉可领。</p></li><li><p d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/162.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:43:30.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-j2iv0b",
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对",
+      "desc": "<p data-vmark=\"107e\">IT之家 11 月 10 日消息，华为今日面向 Mate 70、Mate 80 等机型推送了 HarmonyOS 7.0.0.111SP12 Patch22 补丁包。更新内容显示，优化了部分场景系统稳定性。</p><p data-vmark=\"27a8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/18d47651-7c94-464b-9e5f-33bdb61ed2eb.jpg\" w=\"1276\" h=\"2592\" data-m",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/163.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:44:35.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-io87kx",
+      "title": "iPhone 18 Pro / Max 京东焕新 8499 元起 12 期免息，旧机估值满 1000 补贴 1200 元",
+      "desc": "<p data-vmark=\"1b75\"><strong>【各地补贴金额需以实际下单为准】</strong></p><p data-vmark=\"095d\">京东 11.11 现已开启，iPhone 18 Pro/ Max <strong>直降 300 元</strong>，可享 <strong>12 期免息</strong>。</p><p data-vmark=\"0e48\">先领京东 11.11 iPhone 加补券：<a href=\"https://u.jd.com/oDb8IX4\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oabuCLr",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/158.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:28:51.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 7,
+      "verified": true
+    },
+    {
+      "id": "rss-imktsu",
+      "title": "京东自营 6799 → 5068 元：苹果 iPhone 17 国补好价，A19 芯片 + 256GB 储存",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元。</p><p data-vmark=\"1e33\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5067.87 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"33cd\">点击下方卡片，可领 200 元券。</p></li><li><p data-vmark=\"ed50\">领 800-80",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/155.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:22:56.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-h93cec",
+      "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
+      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"b5e1\">友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。</p><p data-vmark=\"1724\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"63d0\">领 200-20 元券：<a href=\"https://u.jd.com/o1uh7ms\" target=\"_blank\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/128.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T11:46:27.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-ikxg0r",
+      "title": "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"5af6\">小米智能门锁 4 Pro 双摄版 2025 年 10 月开售，主打“AI 掌静脉识别技术、天地双摄大屏猫眼”，定价为 2899 元。</p><p data-vmark=\"e087\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1084.5 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"48a6\">领 2500-370 元店铺券：<a href=\"h",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/152.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:14:43.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-i4fm7x",
+      "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
+      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"9ccd\">京东 11.11 大促期间，按下方步骤下单，叠加当贝 X9 Ultra 投影仪 2026 年 9 月开售，该投影仪提供 5600CVIA 亮度，定价为 7999 元。</p><p data-vmark=\"1337\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6542.35 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"04dc\">领 9.5 折券",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/143.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T12:33:54.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ijtuu1",
+      "title": "35kg 承重 + 自带 LED 照明：小米米家智能晾衣机 1S 国补后 949 → 435 元",
+      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"4a0d\">小米 · 米家智能晾衣机 1S 开售于 2023 年 4 月，官方上市价为 949 元。</p><p data-vmark=\"335e\">京东 11.11 大促期间，按下方步骤下单，叠加 20% 国补后仅需 434.72 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"592a\">领 800-110 元券：<a href=\"https://u.jd.com/oGsF5tV\" target=\"_b",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/150.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T13:03:18.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-hp1dlt",
+      "title": "FE 28-60mm F4-5.6 套装 8693 元：索尼 Alpha 7C II 全画幅微单 11.11 国补直降",
+      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"0329\">索尼 Alpha 7C II 全画幅微单发布于 2023 年 8 月份，单机身首发价 13999 元。</p><p data-vmark=\"691b\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 8693.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d4e2\">领 9.5 折 PLUS 券：<a href=\"https://u.jd.com",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/136.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T12:21:36.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-h7zr7m",
+      "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
+      "desc": "<p data-vmark=\"f469\">IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。</p><p style=\"text-align: center;\" data-vmark=\"f51f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/54272993-93c7-48ce-aff",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/126.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T11:38:34.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -981,23 +1248,6 @@
       "_score": 3
     },
     {
-      "id": "rss-buq7ne",
-      "title": "刚需必入！苹果 iCloud+ 会员订阅 85 折优惠年卡 (2TB 空间/立省 123 元)",
-      "desc": "对于使用 iPhone 或 Mac 的苹果用户来说，iCloud 云存储空间已经是日常必备刚需了。无论是拍照/录视频、同步文档/通讯录/备忘录，或是备份相册/备份手机，iCloud 会员都不可划缺！\n\n但免费 5GB 根本不够用，大家一般都需要开通 200GB 或 2TB 档位。之前为省钱，很多人会切换到低价区订阅 iCloud (比如土耳其…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "5 折",
-      "url": "https://www.iplaysoft.com/p/icloud",
-      "expiresAt": null,
-      "publishedAt": "2026-11-02T17:06:44.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 8
-    },
-    {
       "id": "rss-bl3aca",
       "title": "3378 元：苹果 Apple Watch Ultra 3 教育优惠版直降，钛金属表壳 + 蓝宝石玻璃",
       "desc": "<p data-vmark=\"7b1d\">苹果 Apple Watch Ultra 3 手表去年 9 月 19 日开售，<strong>国行售价 6499 元，教育优惠价 5799 元。</strong></p><p data-vmark=\"e892\">今日京东<strong>教育优惠版</strong>直降至 3377.51 元，较 4 代划算很多：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDx6Kmq\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e6xIvTo\" ",
@@ -1397,24 +1647,6 @@
         "少数派·RSS"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-ue5fha",
-      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
-      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/679.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T05:56:55.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-uxy0ua",
@@ -3322,127 +3554,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-62tkbr",
-      "title": "苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 27 日消息，苹果公司今日宣布为 Apple 创作坊带来重大更新，为创作者带来专业级工具。Mac 版 Final Cut Pro 现内置 MotionVFX，集成视觉特效、插件、转场、模板和运动图形工具等功能。同时 Pixelmator Pro、Keynote 讲演、Pages 文稿和 Numbers 表格推出多项全新 AI 功能 Beta。</p><p data-vmark=\"0003\">Apple 创作坊将于今年 11 月以免费更新的形式通过 App Store 推出。</p><p data-vmark=\"0001\" style",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/018/666.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:19:40.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-6irlj8",
-      "title": "80 名特斯拉韩国车主因非法破解激活 FSD 而被移送检方，查扣 21 台设备",
-      "desc": "<p data-vmark=\"678b\">IT之家 10 月 27 日消息，据韩联社，韩国首尔警察厅今日通报将 80 名涉嫌非法破解从而在原本无法使用 FSD 的特斯拉车型上擅自激活 FSD 功能的车主移送检方，并查扣了 21 台未经授权的激活设备。</p><p data-vmark=\"902e\">警方指控，这些车主涉嫌违反韩国《汽车管理法》，涉案车主通过欧洲、中国等地的渠道购买破解设备，或自行制作相关工具，以绕过特斯拉的软件限制。</p><p data-vmark=\"30f6\">部分媒体报道称，这些车主仅花了约 3 万韩元<span class=\"exch-money-value\">（IT之",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/674.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:59:59.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-6166jo",
-      "title": "499 → 378 元：荣耀 Earbuds 耳夹式耳机政府补贴开启，全天候舒适佩戴",
-      "desc": "<p data-vmark=\"6b77\">荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发<strong>到手价 449 元</strong>。</p><p data-vmark=\"54c6\">今日开启全国政府补贴，实付仅需 388 元左右。</p><p data-vmark=\"2843\">评价返 10 元 E 卡（折合<strong>仅需 378 元</strong>），学生可再享 30 元教育优惠。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OmzVoH\" target=\"_blank\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/018/663.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T13:13:52.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
-    },
-    {
-      "id": "rss-4o8hqj",
-      "title": "小米 REDMI Book 2027 笔记本电脑发布：6799 元起，首销赠送 20000mAh 充电宝",
-      "desc": "<p data-vmark=\"8def\">IT之家 10 月 27 日消息，小米 REDMI Book 2027 正式发布，11 月 3 日 10:00 正式开售，首销赠送 20000mAh 充电宝。IT之家汇总价格如下：</p><h3 data-vmark=\"a288\">REDMI Book 14</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9a70\">酷睿 5 320、16GB+512GB 版本：6799 元，国补价 5779.15 元</p></li><li><p data-vmark=\"7b06\">酷睿 7 350、16",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/637.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T11:27:28.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-74sgxm",
-      "title": "荷兰计划用 AI 取代 2.5 万个政府工作岗位，目标节省 35 亿欧元",
-      "desc": "<p data-vmark=\"5484\">IT之家 10 月 27 日消息，据彭博社报道，荷兰政府宣布大力布局 AI 提升行政效率，计划逐渐削减 2.5 万个政府工作岗位，裁员规模约占荷兰政府员工总数的 16%，<strong>最终目的是节省 35 亿欧元<span class=\"exch-money-value\">（IT之家注：现汇率约合 261.52 亿元人民币）</span></strong>。</p><p data-vmark=\"4e4b\">据报道，荷兰政府希望借助 AI 提高效率，将生产力提高 20%。并计划精简规章制度减少政府工作量，<strong>该国政府已计划每年废除或简化 5",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/599.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T10:42:45.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-87tv29",
-      "title": "百度网盘 11.11 年内探底：SVIP 超级会员 13 元 / 月、157 元 / 年",
-      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5GoY6eY\" target=\"_blank\" data-wapurl=\"https://u.jd.com/5ao0kc6\" data-iosurl=\"https://u.jd.com/5",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/018/570.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T09:57:50.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-95db9a",
-      "title": "格斗游戏《碧蓝幻想 Versus：崛起》免费版 11 月 1 日终止运营，玩家可限时体验正式版全部 38 个角色",
-      "desc": "<p data-vmark=\"d9e7\">IT之家 10 月 27 日消息，开发商 Cygames 宣布旗下格斗游戏《碧蓝幻想 Versus：崛起》免费版将于 11 月 1 日 23:00 终止运营。</p><p style=\"text-align: center;\" data-vmark=\"4fd6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/343022e7-e4c9-44f8-813b-9e698aae7f18.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"81",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/551.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-27T09:51:58.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
