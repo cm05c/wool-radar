@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T02:14:40.673Z",
+  "updatedAt": "2026-11-11T09:50:12.382Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 28,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -22,6 +22,23 @@
       "tags": [
         "RSS",
         "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ghwgm6",
+      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
+      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.iplaysoft.com/1111.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T21:00:48.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
       ],
       "_score": 2
     },
@@ -111,6 +128,59 @@
       "_score": 2
     },
     {
+      "id": "rss-ue5fha",
+      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
+      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/022/679.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-05T05:56:55.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-6cpahx",
+      "title": "苹果 AirPods 京东 11.11 补贴释放：AirPods Pro 3 国补后 1088 元 1 小时达",
+      "desc": "<p data-vmark=\"5721\">AirPods Pro 3 定价 1899 元，京东今日再降价，PLUS 折后仅需 1279 元。</p><p data-vmark=\"fb16\">支持国补地区折后 <strong>1088 元</strong>，今日下单时可见预计送达时间，大多数地区 1 小时左右即可送达：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/o18giNZ\" target=\"_blank\" data-wapurl=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/558.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T07:54:19.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-l6z3ar",
+      "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128299.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T08:00:15.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
       "id": "rss-kxaxt1",
       "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
       "desc": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
@@ -126,24 +196,6 @@
         "少数派·RSS"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-ghwgm6",
-      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.iplaysoft.com/1111.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T21:00:48.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-z5i7tk",
@@ -270,23 +322,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-ue5fha",
-      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
-      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/679.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T05:56:55.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-j3mg71",
@@ -3561,78 +3596,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-mrmqrz",
-      "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
-      "desc": "<p data-vmark=\"8ce0\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。</p><p data-vmark=\"0dfc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/018/929.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T07:15:05.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-navjjm",
-      "title": "华为 Pura90 Plus 手机发布：首发麒麟 9025 芯片，焕新优惠价 5199 元起",
-      "desc": "<p data-vmark=\"a807\">IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，焕新优惠价 5199 元起。</p><p data-vmark=\"8905\">新机提供霞光紫、晨曦金、曜石黑、雪域白配色，采用弧形金属中框、手感温润一体设计，<strong>6.8 英寸等深四曲屏</strong>。</p><p data-vmark=\"263b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/018/915.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T06:54:03.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-y59gu0",
-      "title": "1499 → 840 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯",
-      "desc": "<p data-vmark=\"4849\">小米 · 米家净水器 2（1200G）开售于 2026 年 3 月，该产品主打 7 年长效 RO、母婴级健康水，厂商建议零售价为 1999 元，首发价 1499 元。</p><p data-vmark=\"41cc\">京东 11.11 大促期间，现在支付定金，活动价 1201.87 元；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4f25\">PLUS 会员立减 10.1 元；</p></li><li><p data-vmark=\"5bd9\">领取 8.8 折优惠券；</p></li><li",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/018/898.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T06:14:02.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 7,
-      "verified": true
-    },
-    {
-      "id": "rss-ymuvtk",
-      "title": "前英特尔 CEO 基辛格押注新 AI 内存：Z2RAM 拟绕开 EUV 光刻，4 年内送样",
-      "desc": "<p data-vmark=\"4587\">IT之家 10 月 28 日消息，科技媒体 semiconleadersasia 昨日（10 月 27 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）正通过风投机构 Playground Global，支持内存初创公司 Nagare Labs 开发下一代存储技术 Z2RAM。</p><p style=\"text-align: center;\" data-vmark=\"964f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/74b2591c-6a8",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/018/887.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T05:07:46.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
