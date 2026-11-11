@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T09:50:12.382Z",
+  "updatedAt": "2026-11-11T17:52:28.265Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 31,
     "linkVerified": true
   },
   "items": [
@@ -128,6 +128,203 @@
       "_score": 2
     },
     {
+      "id": "rss-l6z3ar",
+      "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128299.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T08:00:15.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-miulsj",
+      "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
+      "desc": "<p data-vmark=\"b983\">卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。</p><p data-vmark=\"05ea\">日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"252e\">领 8.5 折洗衣机券：<a href=\"https://u.jd.com/o1OZkpQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oGO1xti\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/025/819.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T14:55:17.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-mjeedw",
+      "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
+      "desc": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"0000\">小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。</p><p data-vmark=\"a080\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2291 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"15c4\">领 8.7 折券：<a href=\"https://u.jd.com/o6O0QmP\" targ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.7 折",
+      "url": "https://www.ithome.com/1/025/818.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T14:49:11.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-xffpgd",
+      "title": "国补后 2299 → 1609 元：华硕 ROG“XG27UCSR”27 英寸显示器直降，4K 162Hz / FHD 485Hz 双模",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"3b6d\">华硕旗下 ROG“XG27UCSR”27 英寸显示器 2026 年 3 月开售，该显示器主打 4K 162Hz / 1080P 485Hz，定价为 2299 元。</p><p data-vmark=\"94f5\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1609 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7c4\">点击下方卡片，可领 190 元券。</p></li></ul>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/798.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:21:41.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-n0g0s3",
+      "title": "骁龙 8 至尊 + 165Hz 高刷：一加 Ace 6 手机 12+256G 国补后 2363 元",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d05c\">一加 Ace 6 发布于 2025 年 10 月 30 日，搭载骁龙 8 至尊版处理器、配备 165Hz 高刷屏，12GB+256GB 定价 2599 元。</p><p data-vmark=\"e651\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2363.06 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"62b0\">领 3000-690 元直",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/025/808.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:50:48.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-xiqh0j",
+      "title": "小屏旗舰：一加 15T 手机 16GB+512GB 版国补后 5199 → 3520 元",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"41f0\">一加 15T 小屏旗舰机发布于 2026 年 3 月 24 日，拥有 6.32 英寸小机身，搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，16GB+512GB 版发售价为 5199 元。</p><p data-vmark=\"3a6b\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 3520.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4df6\">",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/025/792.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:09:51.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-mm5dcp",
+      "title": "11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便",
+      "desc": "<p data-vmark=\"b5e1\">友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。</p><p data-vmark=\"1724\">今日京东直降至 491 元（点击下方卡片，系统自动弹出 8.8 折券，需<strong>手动领券</strong>），晒单返 100 元 E 卡。</p><p data-vmark=\"2371\">售价下方可选“<strong>京东组合购</strong>”，选择任意电器一起下单（凑单品付款后可立即退款），洗地机<strong>实付 475 元</strong>，返卡后折合 375 元。</p><dir><a href=\"https",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8.8 折",
+      "url": "https://www.ithome.com/1/025/813.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T14:21:28.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-xh338g",
+      "title": "华为通报 WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展：待充分测试验证后，将尽快分批推送",
+      "desc": "<p data-vmark=\"19f8\">IT之家 11 月 11 日消息，华为花粉俱乐部官方团队账号“智能穿戴”今日发布《HUAWEI WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展通报》。</p><blockquote><p data-vmark=\"5f21\">针对大家反馈的高端精致类、特性体验优化类、系统稳定性等问题，我们已收到，<strong>研发团队正在紧急攻关打磨质量</strong>，力求为大家呈现更优质的使用体验。</p><p data-vmark=\"e847\">处于审核中的用户，请您耐心等待。<strong>待版本充分测试验证后，我们将尽快分批推送",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/795.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:13:58.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-xgjan3",
+      "title": "12+256G 版 2099 → 1695 元：一加 Turbo 6 国补直降，骁龙 8s / 7s Gen4 芯片、9000mAh 电池",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"bff8\">一加 Turbo 6 发布于 2026 年 1 月，12GB+256GB 首发价 2099 元。</p><p data-vmark=\"366f\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1695.22 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"46f4\">领 100 元立打 9 折券：商品详情页价格处下拉可领。</p></li><li><p",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/025/796.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:17:18.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-xwhbuk",
+      "title": "4T 京东 1098 元近期好价：西部数据红盘秒杀 2 小时，CMR 垂直技术",
+      "desc": "<p data-vmark=\"bb1b\">西部数据 · 红盘 4T 机械硬盘<strong>今年日常 1469 元</strong>，今晚 11.11 秒杀 1114.99 元。</p><p data-vmark=\"c09f\">晒单返 20 元 E 卡，折合仅需 1094.99 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o66OXAc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o66Z7Yq\" data-iosurl=\"https://u.jd.com/o66Ja",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "26888 元无门槛",
+      "url": "https://www.ithome.com/1/025/788.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:05:25.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-xzs3eq",
+      "title": "仅面向开发者开放：华为鸿蒙 HarmonyOS 7 (API 26.0.1) Developer Beta 版本推送",
+      "desc": "<p data-vmark=\"0b1d\">IT之家 11 月 11 日消息，华为开发者联盟今日开启了 <strong>HarmonyOS 7 (API 26.0.1) Developer Beta</strong> 定向招募。目前新版本已开启推送，包体大小约 5.55GB，此次更新供开发者开发调测新版本 API 应用使用。</p><p style=\"text-align: center;\" data-vmark=\"2ce5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/97d97b8e-03b5-41c5-8fbc-64d5",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/782.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T12:41:48.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-ue5fha",
       "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
       "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
@@ -160,24 +357,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-l6z3ar",
-      "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128299.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T08:00:15.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -3562,40 +3741,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-czndj2",
-      "title": "内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上",
-      "desc": "<p data-vmark=\"daef\">IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。</p><p data-vmark=\"a768\">一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨至 4300 至 4400 元区间，回升幅度约 500 元。</p><p data-vmark=\"6282\" style=\"text-al",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/019/231.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T15:40:36.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-p8mdeo",
-      "title": "iQOO 双边拉伸手柄 G1 发布：双霍尔配置、自定义按键，499 元",
-      "desc": "<p data-vmark=\"a653\">IT之家 10 月 28 日消息，iQOO 双边拉伸手柄 G1 今晚发布，售价 499 元，搭配 iQOO 手机、平板组合购立减 100 元，<strong>11 月 4 日开售</strong>。</p><p style=\"text-align: center;\" data-vmark=\"2c3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1f1c38e8-d9d6-4813-9150-b8fd8e56ef25.jpg?x-bce-process=image/format,f_",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/019/185.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T12:54:30.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
