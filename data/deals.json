@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-12T16:18:52.605Z",
+  "updatedAt": "2026-11-12T22:26:51.798Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -77,23 +77,6 @@
       "_score": 8
     },
     {
-      "id": "rss-8wfae4",
-      "title": "MarkText - 开源轻量流畅极简的 Markdown 编辑器 (免费 Typora 平替)",
-      "desc": "现在 AI 的发展让 Markdown 成为了真正意义上的排版格式之王。一个好用的 Markdown 写作和阅读工具，几乎是所有人都需要的。\n然而大多数 Markdown 工具都是左右分屏布局，写两行字就要看一眼右边预览，即割裂又低效。很容易打断写作思路，所以无数人推荐 Typora 那种畅快流畅的单屏码字爽感！可惜，它要钱。而开源免费轻量的 MarkText 正是填补了“免费版 Typora” 替代品的空缺……\n「 前往查看原文.... 」异次元还有这些值得一看：思源笔记 - 开源免费支持自建服务器的 Markdown 笔记应用 (替代 Notion 印象笔记 / 可离线)Typora - ",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/marktext.html",
-      "expiresAt": null,
-      "publishedAt": "2026-10-29T20:51:27.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-1qcuz2",
       "title": "等待这么多年后，Google Voice终于有望支持RCS富媒体消息，可发送更多富媒体内容",
       "desc": "",
@@ -126,6 +109,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-w7v2bi",
+      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/026/440.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-12T16:05:20.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-kxb0qt",
