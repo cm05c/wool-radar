@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T17:52:28.265Z",
+  "updatedAt": "2026-11-12T00:37:07.136Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 31,
+    "fetched": 30,
     "linkVerified": true
   },
   "items": [
@@ -128,23 +128,6 @@
       "_score": 2
     },
     {
-      "id": "rss-l6z3ar",
-      "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128299.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T08:00:15.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-miulsj",
       "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
       "desc": "<p data-vmark=\"b983\">卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。</p><p data-vmark=\"05ea\">日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"252e\">领 8.5 折洗衣机券：<a href=\"https://u.jd.com/o1OZkpQ\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oGO1xti\"",
@@ -159,8 +142,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
-      "verified": true
+      "_score": 4
     },
     {
       "id": "rss-mjeedw",
@@ -177,62 +159,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 5,
-      "verified": true
-    },
-    {
-      "id": "rss-xffpgd",
-      "title": "国补后 2299 → 1609 元：华硕 ROG“XG27UCSR”27 英寸显示器直降，4K 162Hz / FHD 485Hz 双模",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"3b6d\">华硕旗下 ROG“XG27UCSR”27 英寸显示器 2026 年 3 月开售，该显示器主打 4K 162Hz / 1080P 485Hz，定价为 2299 元。</p><p data-vmark=\"94f5\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1609 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7c4\">点击下方卡片，可领 190 元券。</p></li></ul>",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/025/798.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T13:21:41.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-n0g0s3",
-      "title": "骁龙 8 至尊 + 165Hz 高刷：一加 Ace 6 手机 12+256G 国补后 2363 元",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d05c\">一加 Ace 6 发布于 2025 年 10 月 30 日，搭载骁龙 8 至尊版处理器、配备 165Hz 高刷屏，12GB+256GB 定价 2599 元。</p><p data-vmark=\"e651\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2363.06 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"62b0\">领 3000-690 元直",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/025/808.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T13:50:48.000Z",
-      "hot": 210,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xiqh0j",
-      "title": "小屏旗舰：一加 15T 手机 16GB+512GB 版国补后 5199 → 3520 元",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"41f0\">一加 15T 小屏旗舰机发布于 2026 年 3 月 24 日，拥有 6.32 英寸小机身，搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，16GB+512GB 版发售价为 5199 元。</p><p data-vmark=\"3a6b\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 3520.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4df6\">",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/025/792.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T13:09:51.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
+      "_score": 5
     },
     {
       "id": "rss-mm5dcp",
@@ -249,26 +176,41 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
     },
     {
-      "id": "rss-xh338g",
-      "title": "华为通报 WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展：待充分测试验证后，将尽快分批推送",
-      "desc": "<p data-vmark=\"19f8\">IT之家 11 月 11 日消息，华为花粉俱乐部官方团队账号“智能穿戴”今日发布《HUAWEI WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展通报》。</p><blockquote><p data-vmark=\"5f21\">针对大家反馈的高端精致类、特性体验优化类、系统稳定性等问题，我们已收到，<strong>研发团队正在紧急攻关打磨质量</strong>，力求为大家呈现更优质的使用体验。</p><p data-vmark=\"e847\">处于审核中的用户，请您耐心等待。<strong>待版本充分测试验证后，我们将尽快分批推送",
+      "id": "rss-n0g0s3",
+      "title": "骁龙 8 至尊 + 165Hz 高刷：一加 Ace 6 手机 12+256G 国补后 2363 元",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d05c\">一加 Ace 6 发布于 2025 年 10 月 30 日，搭载骁龙 8 至尊版处理器、配备 165Hz 高刷屏，12GB+256GB 定价 2599 元。</p><p data-vmark=\"e651\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2363.06 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"62b0\">领 3000-690 元直",
       "channel": "IT之家",
       "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/795.htm",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/025/808.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-11T13:13:58.000Z",
+      "publishedAt": "2026-11-11T13:50:48.000Z",
+      "hot": 210,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-xffpgd",
+      "title": "国补后 2299 → 1609 元：华硕 ROG“XG27UCSR”27 英寸显示器直降，4K 162Hz / FHD 485Hz 双模",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"3b6d\">华硕旗下 ROG“XG27UCSR”27 英寸显示器 2026 年 3 月开售，该显示器主打 4K 162Hz / 1080P 485Hz，定价为 2299 元。</p><p data-vmark=\"94f5\">京东 11.11 大促期间，按下方步骤下单，实付仅需 1609 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7c4\">点击下方卡片，可领 190 元券。</p></li></ul>",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/025/798.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:21:41.000Z",
       "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-xgjan3",
@@ -285,8 +227,41 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
+      "_score": 3
+    },
+    {
+      "id": "rss-xh338g",
+      "title": "华为通报 WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展：待充分测试验证后，将尽快分批推送",
+      "desc": "<p data-vmark=\"19f8\">IT之家 11 月 11 日消息，华为花粉俱乐部官方团队账号“智能穿戴”今日发布《HUAWEI WATCH 5 系列 HarmonyOS 7 花粉 Beta 版本升级进展通报》。</p><blockquote><p data-vmark=\"5f21\">针对大家反馈的高端精致类、特性体验优化类、系统稳定性等问题，我们已收到，<strong>研发团队正在紧急攻关打磨质量</strong>，力求为大家呈现更优质的使用体验。</p><p data-vmark=\"e847\">处于审核中的用户，请您耐心等待。<strong>待版本充分测试验证后，我们将尽快分批推送",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/025/795.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:13:58.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-xiqh0j",
+      "title": "小屏旗舰：一加 15T 手机 16GB+512GB 版国补后 5199 → 3520 元",
+      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"41f0\">一加 15T 小屏旗舰机发布于 2026 年 3 月 24 日，拥有 6.32 英寸小机身，搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，16GB+512GB 版发售价为 5199 元。</p><p data-vmark=\"3a6b\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 3520.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4df6\">",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "9 折",
+      "url": "https://www.ithome.com/1/025/792.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T13:09:51.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-xwhbuk",
@@ -303,8 +278,24 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 4,
-      "verified": true
+      "_score": 4
+    },
+    {
+      "id": "rss-l6z3ar",
+      "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128299.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-11T08:00:15.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-xzs3eq",
@@ -3707,40 +3698,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-bzcyd8",
-      "title": "续航未打折扣：苹果首款触控 MacBook Pro 最长连续播放 24 小时视频",
-      "desc": "<p data-vmark=\"e407\">IT之家 10 月 29 日消息，太平洋时间 10 月 28 日上午 10 点（北京时间 10 月 29 日凌晨 1 点）在洛杉矶举行的“Pro and Tell”体验活动中，<strong>苹果公司发布配备 PROLED XDR 显示屏的首款触控 MacBook Pro，不过满电续航并未因此打折扣。</strong></p><p style=\"text-align: center;\" data-vmark=\"2836\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/02083289-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/019/255.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T19:38:17.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-cfus62",
-      "title": "苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元",
-      "desc": "<p data-vmark=\"4518\">IT之家 10 月 29 日消息，苹果今天（10 月 29 日）正式公布配备 512GB 统一内存的 Mac Studio 售价。该配置仅面向搭载 M5 Ultra 芯片（ 36 核 CPU 与 80 核 GPU）的顶配机型，<strong>相比较 96GB 版本价格上涨 116,250 元。</strong></p><p data-vmark=\"dca1\">IT之家注：512GB 内存版目前仅适用于 M5 Ultra 芯片（36 核 CPU 与 80 核 GPU）顶配，用户如果选择 M5 Ultra（30 核 CPU 与 64 核 GPU）会跳出相关",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/019/246.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-28T17:54:05.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     }
   ]
 }
