@@ -1,30 +1,13 @@
 {
-  "updatedAt": "2026-11-13T02:54:04.814Z",
+  "updatedAt": "2026-11-13T10:53:40.894Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-cg241f",
-      "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/qiewenpaper-1111/",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T06:46:27.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
     {
       "id": "rss-ghwgm6",
       "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
@@ -77,23 +60,6 @@
       "_score": 8
     },
     {
-      "id": "rss-w7v2bi",
-      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/026/440.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-12T16:05:20.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-1qcuz2",
       "title": "等待这么多年后，Google Voice终于有望支持RCS富媒体消息，可发送更多富媒体内容",
       "desc": "",
@@ -109,6 +75,130 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-q6urpl",
+      "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.appinn.com/egg-instabox/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T06:41:06.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-mdylyd",
+      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
+      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/898.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T10:19:19.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kibwyy",
+      "title": "微软 XBOX 面向内测频道推送主页动态背景轮播等测试功能",
+      "desc": "<p data-vmark=\"adb7\">IT之家 11 月 13 日消息，Microsoft（微软）XBOX 当地时间昨日宣布向 Insider 计划中的 Alpha Skip-Ahead 内测频道用户<strong>推送三项新的测试性功能</strong>。</p><p data-vmark=\"e28e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4d371911-e595-4e6d-8ce4-8799921ff443.png?x-bce-process=imag",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/859.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T09:01:46.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-7nwxy9",
+      "title": "游戏《巴士模拟器 27》上新免费 DLC，内含比亚迪 K9UD、K11U 两款电动车型",
+      "desc": "<p data-vmark=\"cd5c\">IT之家 11 月 13 日消息，驾驶模拟游戏《巴士模拟器 27》本月 12 日宣布<strong>以免费形式推出比亚迪巴士包</strong>。这一 DLC 包含 2 款比亚迪面向海外市场开发的纯电动客车：一般结构的 K9UD 和铰链式的 K11U。</p><p data-vmark=\"f05b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e6f07de9-d189-4b81-8ace-9c61a6c1c5cf.jpg\" w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/795.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T07:49:05.000Z",
+      "hot": 155,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5qmv6r",
+      "title": "山灵 SM 3.3 数播解码一体机将于 11 月 14 日发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
+      "desc": "<p data-vmark=\"da88\">IT之家 11 月 13 日消息，山灵音响发文，宣布旗下 SM 3.3 数播解码一体机将于 11 月 14 日发售，定价为 23980 元。</p><p style=\"text-align: center;\" data-vmark=\"d45d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/105236a5-f719-479c-b860-430e16eba473.png\" w=\"1334\" h=\"928\" data-weibo=\"0\" class=\"nowebp no-alt-img\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/026/753.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T06:55:32.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-cg241f",
+      "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/qiewenpaper-1111/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-10T06:46:27.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-w7v2bi",
+      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/026/440.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-12T16:05:20.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-xqap29",
@@ -3432,78 +3522,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 5
-    },
-    {
-      "id": "rss-qhyg6w",
-      "title": "百度宣布将搜索 API 活动价压至 4.9 元 / 千次，低于 DeepSeek 标准 5 元定价",
-      "desc": "<p data-vmark=\"f83d\">IT之家 10 月 30 日消息，百度今日在北京举办产品升级沟通会，宣布围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用四大方向进行升级，并宣布推出搜索 AI API 优惠价 —— 活动期间最低价 4.9 元 / 千次，低于 DeepSeek 同类产品的 5 元 / 千次。</p><p style=\"text-align: center;\" data-vmark=\"18a3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/135cc92a-d872-4c8a-b286-16b97",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/165.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T08:19:58.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-cq00z6",
-      "title": "单个会员 1 年仅需 69 元：WPS + QQ 音乐联合会员 11.11 限时加补",
-      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 4 年日常 418 元，今日买超会 4 年送 QQ 音乐 1 年 + 限时加补 50 元，券后价为 368 元。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 20 元京东 E 卡，到手仅需 348 元。</p><p data-vmark=\"7cb6\">折合单会员单年折合仅需 69.6 元。</p><p data-vmark=\"65e0\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<a href=\"https://u.jd.com/56emoU2\" target=\"_bla",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/082.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T06:32:40.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-d8p15g",
-      "title": "在尸体上铺路：Steam 动作解谜新游《Re:Re:Re:Respawn》发售，首发 9 折 ¥26.10",
-      "desc": "<p data-vmark=\"0000\">IT之家 10 月 30 日消息，由“Studio 非”开发、Re³ 发行的 3D 动作解谜游戏《Re:Re:Re:Respawn》现已正式登陆 Steam 平台，国区首发限时 9 折，折后售价 26.10 元（原价 29.00 元），优惠将持续至 11 月 5 日。IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4620440/ReReReRespawn/\"><span class=\"link-text-start-with-http\">https://store.steampowered",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/020/095.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T06:38:30.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-bt0ddi",
-      "title": "Steam 喜加一：视觉小说《Autumn’s end (Part 1)》转付费前免费领",
-      "desc": "<p data-vmark=\"53b6\">IT之家 10 月 30 日消息，开发者 countlessbathory 宣布旗下视觉小说《Autumn's end (Part 1)》将于 10 月 31 日结束免费发行，转为付费游戏。开发者希望通过游戏销售收入筹集续作 Part 2 的开发资金，玩家仍可在限时免费期间将游戏添加至 Steam 账号。</p><p style=\"text-align: center;\" data-vmark=\"f67b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0e497e99-a82f-4c",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/020/064.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T06:21:18.000Z",
-      "hot": 198,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
