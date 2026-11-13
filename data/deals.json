@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:26:51.798Z",
+  "updatedAt": "2026-11-13T02:54:04.814Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -77,6 +77,23 @@
       "_score": 8
     },
     {
+      "id": "rss-w7v2bi",
+      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/026/440.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-12T16:05:20.000Z",
+      "hot": 219,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-1qcuz2",
       "title": "等待这么多年后，Google Voice终于有望支持RCS富媒体消息，可发送更多富媒体内容",
       "desc": "",
@@ -94,6 +111,24 @@
       "_score": 2
     },
     {
+      "id": "rss-xqap29",
+      "title": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
+      "desc": "<p data-vmark=\"45a6\">IT之家 11 月 13 日消息，苹果 HomeView 于当地时间 11 月 13 日正式开售。由于时区的原因，澳大利亚和新西兰首批预购用户的订单已率先送达。</p><p data-vmark=\"a8b9\">另外，由于新西兰没有 Apple 零售店，澳大利亚消费者成为首批能在 Apple Store 内直接购买该设备的用户。</p><p data-vmark=\"ea62\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/23273",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/476.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T00:46:32.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-l6z3ar",
       "title": "ColoCrossing部分老独服续费涨价50%：活动价99美元/年 续费涨价至149美元/年",
       "desc": "",
@@ -109,24 +144,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-w7v2bi",
-      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/026/440.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-12T16:05:20.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-kxb0qt",
@@ -3212,23 +3229,6 @@
       "_score": 4
     },
     {
-      "id": "rss-5huq7b",
-      "title": "699 → 288 元限今日：罗技 MX Master 3S Lite 鼠标破冰新低，办公人用过就回不去了",
-      "desc": "<p data-vmark=\"0af6\">【<strong>手小慎拍</strong>，此款适合大多数男性手掌握持。】</p><p data-vmark=\"3831\">罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7e96\">今日京东超级补贴直降至 359 元；</p></li><li><p data-vmark=\"bdd3\">领取满 200-20 元优惠券：<a href=\"https://u.jd",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/019/863.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T01:07:00.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-fplu3t",
       "title": "2999 → 1588 元：KTC 显示器 M27P6S 国补直降，4K 160Hz/1080P 320Hz 双模 Mini LED",
       "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d0f2\">KTC 27 英寸显示器 M27P6S 开售于 2026 年 4 月，该机主打 4K 160Hz/1080P 320Hz 双模，定价 2999 元。</p><p data-vmark=\"35fc\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 1588.27 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7475\">点击下方卡片，可领 190 元券。</p></li><",
@@ -3503,60 +3503,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-6vw076",
-      "title": "小米澎湃 OS 4 第二批正式版开启推送，覆盖小米 17 Max、17T 系列等机型",
-      "desc": "<p data-vmark=\"cc7b\">IT之家 10 月 30 日消息，小米澎湃 OS 官方宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型将从即日起开始陆续推送。</p><p data-vmark=\"362f\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9578\">Xiaomi 17 Max</p></li><li><p data-vmark=\"f270\">Xiaomi 17T Pro</p></li><li><p data-vmark=\"f268\">Xiaomi 17",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/019/891.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T02:11:45.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-5l5hrh",
-      "title": "特斯拉全新金融方案“特从容”上线：Model 3/Y 首付 3.99 万元起 + 五年零息",
-      "desc": "<p data-vmark=\"ee3f\">IT之家 10 月 30 日消息，今天（30 日）上午，特斯拉通过官微宣布：特斯拉全新福利“特从容”金融方案上线。该方案将主打低首付、低月供、低尾款与 0 利息，面向 <strong>10 月 30 日（含）至 11 月 30 日（含）前下单</strong>的用户。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d3ea\">Model 3 后轮驱动版 / 长续航后轮驱动版 / 长续航全轮驱动版：尾款立减 10000 元后首付 3.99 万元起，五年月供最高约 2429 元，尾款 3.99 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/019/869.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T01:21:46.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-5iybe1",
-      "title": "Mistral AI 开放 Large 4 模型权重：1T 参数，编程智能体更省 Token",
-      "desc": "<p data-vmark=\"67e7\">IT之家 10 月 30 日消息，当地时间 10 月 29 日，法国公司 Mistral AI 正式开放 Mistral Large 4（简称 ML4，代号 le Chonk）模型权重。</p><p style=\"text-align: center;\" data-vmark=\"4304\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e7d26d9e-8a19-421d-a9e6-29dcf8906d14.jpg?x-bce-process=image/format,f_auto\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/019/865.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T01:09:09.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
