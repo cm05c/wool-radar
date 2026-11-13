@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-13T18:30:04.309Z",
+  "updatedAt": "2026-11-13T23:52:02.920Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -77,16 +77,50 @@
       "_score": 8
     },
     {
-      "id": "rss-mdylyd",
-      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
-      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
+      "id": "rss-z4j0tj",
+      "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
+      "desc": "<p data-vmark=\"6777\" style=\"text-align: start;\">IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新，<strong>版本号为 1.002.000</strong>。</p><p style=\"text-align: center;\" data-vmark=\"4ac7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c655e78d-444f-4bde-814c-ef4f818577",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/026/898.htm",
+      "url": "https://www.ithome.com/1/026/955.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-13T10:19:19.000Z",
-      "hot": 209,
+      "publishedAt": "2026-11-13T13:53:31.000Z",
+      "hot": 222,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-y835t8",
+      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+      "desc": "<p data-vmark=\"0594\">IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\" data-vmark=\"8cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/242de68b-e16d-4295-9c72-e782fd855552.png\" w=\"1440\" h=\"837\" data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/938.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T12:02:41.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-y5vzfs",
+      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+      "desc": "<p data-vmark=\"5a09\">IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align: center;\" data-vmark=\"38a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/934.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T11:40:10.000Z",
+      "hot": 221,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -111,34 +145,16 @@
       "_score": 2
     },
     {
-      "id": "rss-z4j0tj",
-      "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
-      "desc": "<p data-vmark=\"6777\" style=\"text-align: start;\">IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新，<strong>版本号为 1.002.000</strong>。</p><p style=\"text-align: center;\" data-vmark=\"4ac7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c655e78d-444f-4bde-814c-ef4f818577",
+      "id": "rss-d853fi",
+      "title": "SpaceX 洽购发射场周边约 526.19 万平方米土地，拟将一半永久用于保护",
+      "desc": "<p data-vmark=\"e707\">IT之家 11 月 14 日消息，科技媒体 tipranks 于 11 月 12 日发布博文，<strong>报道称 SpaceX 正与美国得克萨斯州公园与野生动物管理局商谈，拟收购环绕其发射设施的约 1,300 英亩土地（IT之家注：约合 <strong>526.19 万平方米）</strong>。</strong>博卡奇卡海滩不在拟出售范围内，目前相关交易仍处于商谈阶段。</p><p style=\"text-align: center;\" data-vmark=\"1168\"><img src=\"https://img.ithome.com/news",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/026/955.htm",
+      "url": "https://www.ithome.com/1/027/010.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-13T13:53:31.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-y835t8",
-      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
-      "desc": "<p data-vmark=\"0594\">IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\" data-vmark=\"8cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/242de68b-e16d-4295-9c72-e782fd855552.png\" w=\"1440\" h=\"837\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/938.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T12:02:41.000Z",
-      "hot": 221,
+      "publishedAt": "2026-11-13T23:39:33.000Z",
+      "hot": 200,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -147,22 +163,39 @@
       "verified": true
     },
     {
-      "id": "rss-y5vzfs",
-      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
-      "desc": "<p data-vmark=\"5a09\">IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align: center;\" data-vmark=\"38a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
+      "id": "rss-xzaye3",
+      "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。</p><p data-vmark=\"0001\">其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0002\">Beta（26H1",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/026/934.htm",
+      "url": "https://www.ithome.com/1/026/997.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-13T11:40:10.000Z",
-      "hot": 221,
+      "publishedAt": "2026-11-13T18:07:19.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
       "_score": 3,
       "verified": true
+    },
+    {
+      "id": "rss-mdylyd",
+      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
+      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/898.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T10:19:19.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-kibwyy",
@@ -3232,24 +3265,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-dqodk8",
-      "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
-      "desc": "<p data-vmark=\"f6b5\">IT之家 10 月 31 日消息，由香港生成式人工智能研发中心（HKGAI）研发的本地 AI 智能助理“港话通”（HKChat）于 10 月 30 日迎来更新，<strong>推出全新 AI 音乐生成功能</strong>。</p><p data-vmark=\"1c1d\">新功能接入由 HKGAI 研发的 <strong>YuE2 音乐大模型（「YuE2」）</strong>，用户随口哼唱或上传图片，再输入对歌曲的构思，AI 便可即时谱写出兼具专业编曲和人声献唱的原创歌曲。</p><p style=\"text-align: center;\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/396.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T23:20:41.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
