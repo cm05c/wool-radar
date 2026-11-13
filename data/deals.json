@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:53:40.894Z",
+  "updatedAt": "2026-11-13T18:30:04.309Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-q6urpl",
+      "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "免费领",
+      "url": "https://www.appinn.com/egg-instabox/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T06:41:06.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ghwgm6",
       "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
@@ -60,6 +77,23 @@
       "_score": 8
     },
     {
+      "id": "rss-mdylyd",
+      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
+      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/898.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T10:19:19.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-1qcuz2",
       "title": "等待这么多年后，Google Voice终于有望支持RCS富媒体消息，可发送更多富媒体内容",
       "desc": "",
@@ -77,34 +111,52 @@
       "_score": 2
     },
     {
-      "id": "rss-q6urpl",
-      "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.appinn.com/egg-instabox/",
+      "id": "rss-z4j0tj",
+      "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
+      "desc": "<p data-vmark=\"6777\" style=\"text-align: start;\">IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新，<strong>版本号为 1.002.000</strong>。</p><p style=\"text-align: center;\" data-vmark=\"4ac7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c655e78d-444f-4bde-814c-ef4f818577",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/955.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-13T06:41:06.000Z",
-      "hot": 213,
+      "publishedAt": "2026-11-13T13:53:31.000Z",
+      "hot": 222,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-y835t8",
+      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
+      "desc": "<p data-vmark=\"0594\">IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\" data-vmark=\"8cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/242de68b-e16d-4295-9c72-e782fd855552.png\" w=\"1440\" h=\"837\" data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/026/938.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-13T12:02:41.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
     },
     {
-      "id": "rss-mdylyd",
-      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
-      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
+      "id": "rss-y5vzfs",
+      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
+      "desc": "<p data-vmark=\"5a09\">IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align: center;\" data-vmark=\"38a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/026/898.htm",
+      "url": "https://www.ithome.com/1/026/934.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-13T10:19:19.000Z",
-      "hot": 209,
+      "publishedAt": "2026-11-13T11:40:10.000Z",
+      "hot": 221,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -3183,176 +3235,6 @@
       "verified": true
     },
     {
-      "id": "rss-en48kj",
-      "title": "5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元",
-      "desc": "<p data-vmark=\"af21\">安克 Air 磁吸充电宝 5000mAh 今年 6 月 1 日发售，<strong>定价为 329 元</strong>。</p><p data-vmark=\"a9fe\">支持<strong>苹果 iPhone 15W 磁吸快充</strong>，符合 2026 新国标测试（非新国标认证），电池温度实时可监测。</p><p data-vmark=\"012a\">今日京东直降至 248 元近期新低，<strong>重量 118g，厚度 8.6mm</strong>：</p><dir><a contenteditable=\"false\" href=\"http",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/379.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T15:07:20.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-eqysq2",
-      "title": "华为 Mate 60 Pro 处理器型号官方首次“揭秘”，搭载麒麟 9000S 与 30、40、50、90“同台竞技”",
-      "desc": "<p data-vmark=\"8610\">IT之家 10 月 30 日消息，<a target=\"_blank\" href=\"https://www.ithome.com/1/018/979.htm\">华为官方公众号今日发文，再次介绍了 Mate 90 系列手机近期优惠活动</a>，包括以旧换新至高 800 元补贴、24 期免息和一年期 200GB 云空间等。</p><p style=\"text-align: center;\" data-vmark=\"a60f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c74ce1db-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/372.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T14:38:31.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-f4pnk3",
-      "title": "Keychron 三模键盘 K8 Ultra 8K 国行发售：原生 macOS 键位，721 元",
-      "desc": "<p data-vmark=\"d964\">IT之家 10 月 30 日消息，Keychron（渴创）现已开始在中国大陆电商平台销售 K8 Ultra 8K 机械键盘。其拥有铝合金 + 塑料机身，采用 80% (TKL) 配列，拥有原生 macOS 键位（随附 Windows 键帽），售价 721 元。</p><p data-vmark=\"8302\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/b48b88e7-8d08-4704-88bc-1d5c6a957a11.jp",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/368.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T14:21:47.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-f6d1c6",
-      "title": "HKC“天启”27U240B 电竞显示器 4799 → 3805 元：4K 240Hz 三星四代 QD-OLED、配 DP 2.1 + 90W USB-C",
-      "desc": "<p data-vmark=\"fe1c\">HKC 27 英寸显示器“天启”27U240B 开售于 2026 年 6 月，该机主打 4K 240Hz QD-OLED，提供了 DP 2.1 和 USB-C 90W 接口，首发价 4799 元。</p><p data-vmark=\"ef43\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 3805.91 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b96b\">领 3000-400 元券：<a href=\"https://u.jd.com/e6GOMKw\" t",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/365.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T14:02:49.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-f7gmiw",
-      "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
-      "desc": "<p data-vmark=\"fc2d\">IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。</p><p data-vmark=\"e708\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/19b1107b-1ed6-4c48-a54f-8bd497f7f5b7.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/363.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:55:10.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-fl7hcx",
-      "title": "12mm 动圈 + 36 小时续航：森海塞尔 ACCENTUM Clip 耳夹式耳机 1499 → 1091 元国补新低",
-      "desc": "<p data-vmark=\"3641\">森海塞尔旗下首款耳夹式耳机 ACCENTUM Clip 开售于 2026 年 6 月，首发价 1499 元。</p><p data-vmark=\"eb28\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 1091.7 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7138\">领 9.5 折券：<a href=\"https://u.jd.com/egGbyeh\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eD84e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/020/359.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:44:40.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-fmuv50",
-      "title": "国补后 1499 → 1049 元：小米米家净水器 2 Pro 双出水 1200G 官方新低",
-      "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"1bc6\">小米米家净水器 2 Pro 双出水 1200G 开售于 2026 年 4 月，配 8 年 RO 膜，官方定价 2899 元。</p><p data-vmark=\"2ea4\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1049.01 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b975\">领 8.8 折券：<a href=\"https://u.jd.com/eGGt",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8.8 折",
-      "url": "https://www.ithome.com/1/020/356.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:36:36.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-foi8x3",
-      "title": "双 2.5G 网口 + 支持 WiFi 7：中兴问天 BE7200 Pro + 路由器 599 → 348 元国补新低",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"57ff\">中兴 · 问天 BE7200 Pro + 路由器开售于 2023 年 12 月 28 日，首发价为 599 元。</p><p data-vmark=\"a299\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 348.33 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"26cd\">领 300-30 元惊喜优惠券：宝贝详情页领取。</p></li><li",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/353.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:30:12.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-fplu3t",
-      "title": "2999 → 1588 元：KTC 显示器 M27P6S 国补直降，4K 160Hz/1080P 320Hz 双模 Mini LED",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"d0f2\">KTC 27 英寸显示器 M27P6S 开售于 2026 年 4 月，该机主打 4K 160Hz/1080P 320Hz 双模，定价 2999 元。</p><p data-vmark=\"35fc\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 1588.27 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7475\">点击下方卡片，可领 190 元券。</p></li><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "8.8 折",
-      "url": "https://www.ithome.com/1/020/351.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:22:58.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-fq5mp6",
-      "title": "WPS 京东 PLUS 联合会员 212 元年内新低，单个会员 1 年仅需 53 元",
-      "desc": "<p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年。</p><p data-vmark=\"358d\">下单前加入店铺会员，付款后可兑换 30 元京东 E 卡，折合<strong>仅需 212 元</strong>，单会员单年折合<strong>仅需 55.5 元</strong>。</p><p data-vmark=\"47e9\">联合会员可选：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d450\">京东 PLUS 会员年卡</p></li><li><p dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/350.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:20:16.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-dqodk8",
       "title": "可免费生成粤语歌，香港自研 AI 助手“港话通”推出 AI 音乐功能",
       "desc": "<p data-vmark=\"f6b5\">IT之家 10 月 31 日消息，由香港生成式人工智能研发中心（HKGAI）研发的本地 AI 智能助理“港话通”（HKChat）于 10 月 30 日迎来更新，<strong>推出全新 AI 音乐生成功能</strong>。</p><p data-vmark=\"1c1d\">新功能接入由 HKGAI 研发的 <strong>YuE2 音乐大模型（「YuE2」）</strong>，用户随口哼唱或上传图片，再输入对歌曲的构思，AI 便可即时谱写出兼具专业编曲和人声献唱的原创歌曲。</p><p style=\"text-align: center;\" data-",
@@ -3369,159 +3251,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-g3coxu",
-      "title": "2999 → 2343 元：技嘉 27 英寸显示器 GO27Q32 国补新低，2K 320Hz QD-OLED",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"858e\">技嘉 27 英寸显示器 GO27Q32 开售于 2026 年 9 月，该机主打 2K 320Hz QD-OLED，定价为 2999 元，提供 3 年质保。</p><p data-vmark=\"144b\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 2434.51 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4347\">领 800-80 元 PLUS 专享券（需 2 ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/347.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:16:11.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-g63nwn",
-      "title": "16+512GB 3797 元：小米 15 Ultra 国补直降，骁龙 8 至尊 + 徕卡 2 亿长焦",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"ca92\">小米 15 Ultra 于 2025 年 3 月开售，16GB + 512GB 定价 6999 元。</p><p data-vmark=\"4961\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 3797.01 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2cbb\">领 800-80 元 PLUS 专享券（需 2 积分兑换）：<a href=\"h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/342.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:06:02.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-gjaq5b",
-      "title": "错过后悔等半年：漫步者 S2000MKIII 蓝牙音箱 1163 元无套路国补直降",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"1a83\">漫步者 S2000MKIII 蓝牙音箱发售于 2019 年 6 月，今年日常售价为 1780 元。</p><p data-vmark=\"308d\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 1163.63 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0637\">点击下方卡片，可领 9 折券。</p></li></ul><dir><a contenteditable",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/020/339.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T13:00:15.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-glhwir",
-      "title": "8499 → 6788 元：OPPO Find X9 Ultra 手机 16+512G 直降，搭载骁龙 8E Gen5 旗舰处理器",
-      "desc": "<p data-vmark=\"c18a\">OPPO Find X9 Ultra 今年 4 月发布，16+512G 定价 8499 元。</p><p data-vmark=\"7c0c\">今日京东直降至<strong> 6788 元</strong>，<strong>加赠 OPPO 蓝牙耳机</strong>，还可叠加京东 PLUS 80 元券更划算：<a href=\"https://u.jd.com/eD8gVYm\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eazuaNL\" data-iosurl=\"https://u.jd.com/eD81y",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/335.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T12:37:42.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-gm1p44",
-      "title": "16GB+512GB 卫星通信版：vivo X300 Pro 国补后 5999 → 4385 元",
-      "desc": "<h3 data-vmark=\"c193\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"0825\">vivo X300 Pro 卫星通信版开售于 2026 年 3 月，搭载联发科天玑 9500 处理器，16GB+512GB 版本 5999 元。</p><p data-vmark=\"965c\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 4385.52 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5f29\">领 3000-1200 元券：点击宝贝",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/334.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T12:37:21.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-go8vhk",
-      "title": "电竞娱乐双旗舰：小米 REDMI MiniLED 显示器 G Pro 27U 2026 国补后 2087 元",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"f5a3\">小米 REDMI 显示器 G Pro 27U 2026 款，支持 4K 160Hz / 1080P 320Hz 双模显示，搭载小米澎湃 OS2 系统，官方定价 2699 元。</p><p data-vmark=\"08da\">京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 2087.1 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"781c\">领 1500-150 元 PL",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/330.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T12:25:11.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-h2jiwy",
-      "title": "消息称 B 社《上古卷轴 6》下月公布，游戏以落锤省为背景",
-      "desc": "<p data-vmark=\"44ca\">IT之家 10 月 30 日消息，据外媒 The Verge 报道，B 社可能在下月公布《上古卷轴 6》，本作副标题为“Sentinel”，以落锤省为背景。</p><p style=\"text-align: center;\" data-vmark=\"1cac\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2e7c2582-4e2e-48b8-b94c-03284594b235.png\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"810b\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/325.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T12:06:20.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-hhdyxp",
-      "title": "苹果 AirPods 全国国补开启：AirPods Pro 3 京东 1121 元，AirPods 5 低至 764 元",
-      "desc": "<p data-vmark=\"43f3\">今日京东自营 AirPods 实测开启全国国补，国补 15% 后 PLUS 仅需直降新低。</p><p data-vmark=\"fed4\">如果有哪个地区的小伙伴发现本地无国补，可在评论区留言哦。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/egzyaFn\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1zKh8Q\" data-iosurl=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/319.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T11:49:41.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-hhxrj2",
-      "title": "极空间 Z4Air 四盘位 NAS 发售：搭载海思 Hi3781V730 八核芯片，首发 1899 元",
-      "desc": "<p data-vmark=\"18a0\">IT之家 10 月 30 日消息，极空间官方今日宣布推出全新四盘位 AI NAS 产品 Z4Air，将于 20:00 正式开售，京东显示为 2099 元，首发立减 200 元，叠加京东 PLUS 超级补贴券 + 国补后不超过 1486.01 元。</p><p style=\"text-align: center;\" data-vmark=\"f1d5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/53ee9b2d-d8c7-4183-af63-fc4d904b50a6.jpg\" w=\"1",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/318.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-30T11:45:56.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 5
     }
   ]
 }
