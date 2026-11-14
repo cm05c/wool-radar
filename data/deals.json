@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:07:29.348Z",
+  "updatedAt": "2026-11-14T22:57:05.020Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -75,6 +75,23 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-rd4zyx",
+      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
+      "desc": "<p data-vmark=\"1010\">IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅<span class=\"exch-unit-value \">（IT之家注：约 2.3 千克）</span>以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。</p><p data-vmark=\"cf38\">在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。</p><p data-vmark=\"dad9\">“刚推出时，这",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/239.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-14T14:09:32.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-sbs1co",
@@ -160,24 +177,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-rd4zyx",
-      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-      "desc": "<p data-vmark=\"1010\">IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅<span class=\"exch-unit-value \">（IT之家注：约 2.3 千克）</span>以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。</p><p data-vmark=\"cf38\">在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。</p><p data-vmark=\"dad9\">“刚推出时，这",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/027/239.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-14T14:09:32.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     },
     {
       "id": "rss-tvgu74",
