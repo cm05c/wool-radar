@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:03:36.130Z",
+  "updatedAt": "2026-11-15T21:44:42.356Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -91,8 +91,7 @@
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
     },
     {
       "id": "rss-bty8io",
