@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-15T02:37:16.076Z",
+  "updatedAt": "2026-11-15T09:54:20.890Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -75,6 +75,42 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-bty8io",
+      "title": "免费犯罪沙盒游戏《ROB RUN》Steam 在线峰值破 41 万，玩家评价褒贬不一",
+      "desc": "<p data-vmark=\"be4b\">IT之家 11 月 15 日消息，据 4Gamers 报道，开发团队 Kefir 推出的免费犯罪题材沙盒游戏《ROB RUN》<a href=\"https://www.ithome.com/1/024/451.htm\" target=\"_blank\">自 11 月 5 日以免费游戏形式登陆 Steam 抢先体验以来</a>，迅速吸引大量玩家涌入，如今本作在线玩家峰值已达 418,021 人，创下历史新高，Steam 玩家评价数量也累计达到 41,127 条。不过，由于游戏平衡性等问题，目前整体评价为“褒贬不一”。</p><p style=\"text-a",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/353.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-15T07:47:24.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-cqxw4c",
+      "title": "苹果为老款 Apple Watch 机型推送 watchOS 26.6.1 版本，聚焦修复安全漏洞",
+      "desc": "<p data-vmark=\"6d88\">IT之家 11 月 15 日消息，苹果于当地时间 11 月 9 日为 Apple Watch Series 6、Series 7、Series 8、Apple Watch SE（第二代）和 Apple Watch Ultra 机型发布 watchOS 26.6.1 系统更新（版本号 23U95），主要修复了多项安全漏洞。</p><p style=\"text-align: center;\" data-vmark=\"abd5\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bbf29a05",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/335.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-15T07:00:45.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-rd4zyx",
@@ -3071,113 +3107,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4
-    },
-    {
-      "id": "rss-qlg3ev",
-      "title": "Epic 喜加一：中世纪冷兵器格斗游戏《Gladiator：Blades of Fury》免费领",
-      "desc": "<p data-vmark=\"94b4\">IT之家 11 月 1 日消息，由独立开发团队 Yash Future Tech Solutions 开发的中世纪冷兵器格斗游戏《Gladiator：Blades of Fury》目前正在 Epic 游戏商城进行限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日前领取。</p><p data-vmark=\"7f1a\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/gladiator-blades-of-fur",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/020/782.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T09:52:26.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-ryxktd",
-      "title": "创维推出“F24G25F”23.8 英寸显示器：1080P 180Hz 超频，510 元",
-      "desc": "<p data-vmark=\"6493\">IT之家 11 月 1 日消息，创维现已在京东上架“F24G25F”23.8 英寸显示器，该机主打 1080P 180Hz 超频，定价 510 元，部分地区国补后低至 459 元。</p><p data-vmark=\"99ff\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/93cf6239-64ea-47fb-a07a-7df26fb0bc66.png\" w=\"664\" h=\"1436\" data-weibo=\"0\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/755.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T08:09:21.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-tcyut8",
-      "title": "Steam 喜加一：益智游戏《Colleccct》转付费前免费领",
-      "desc": "<p data-vmark=\"e5ee\">IT之家 11 月 1 日消息，开发者 middlepattern 宣布旗下游戏《Colleccct》将改为付费销售，计划定价 1 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6.7 元人民币）</span>。目前开发者正在与 Valve 确认价格调整事宜，具体生效时间尚未确定，感兴趣的玩家可以趁免费期间将游戏添加至 Steam 游戏库，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4471060/Colleccct/\" target=\"_b",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/020/727.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T06:35:13.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-sz7zz7",
-      "title": "Steam 喜加一：原价 42 元心理恐怖冒险游戏《Asleep：Act 1》免费领",
-      "desc": "<p data-vmark=\"95e1\">IT之家 11 月 1 日消息，由独立游戏团队 Black Hole Games 开发的像素风心理恐怖冒险游戏《Asleep: Act 1》现已在 Steam 平台开启限时免费“喜加一”活动，<strong>本作在国区定价为 42 元，玩家可以在北京时间 11 月 3 日凌晨 2 点前免费领取</strong>，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/1583850/Asleep_%E6%B2%89%E7%9D%A1_Ato_1/\" target=\"_blank\"><span cla",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/020/731.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T06:49:28.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-te2fzy",
-      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">11.11 大促期间，30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eD23gzs\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e12sEXG\" data-iosu",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/725.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T06:31:10.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-tf616o",
-      "title": "10000mAh 青海湖电池：荣耀 WIN RT 手机 12GB+256GB 国补后 2139 元",
-      "desc": "<p data-vmark=\"fcdb\">荣耀 WIN RT 发布于 2025 年 12 月，12GB+256GB 定价 2699 元。</p><p data-vmark=\"a2de\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2139.89 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"102f\">领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：<a href=\"https://u.jd.com/eD2KP2Y\" target=\"_blank\" d",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/020/723.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T06:17:20.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
     }
   ]
 }
