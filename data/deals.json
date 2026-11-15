@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-14T22:57:05.020Z",
+  "updatedAt": "2026-11-15T02:37:16.076Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,60 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-q2ya4l",
+      "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+      "desc": "<p data-vmark=\"7965\">IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，<a target=\"_blank\" href=\"https://www.ithome.com/1/027/258.htm\">来自 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队</a>，“一穿四”LCK 赛区，勇夺《英雄联盟》S16 冠军。</p><p data-vmark=\"330a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsu",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/027/260.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-15T00:34:09.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-qgp4ym",
+      "title": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
+      "desc": "<p data-vmark=\"8f4f\">IT之家 11 月 15 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 系统大规模界面改版的一阶段已开始推送，首个改造的功能是自动播放（AutoPlay）。原本 Win8 时代的直角边框弹窗，现在变成了更加现代的样式。</p><p style=\"text-align: center;\" data-vmark=\"9ae6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3948984c-e275-4724-8efd-49a4be581593.jpg\" w=",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/256.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-14T23:49:35.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-qh8xjz",
+      "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
+      "desc": "<p data-vmark=\"fc02\">IT之家 11 月 15 日消息，深交所上市审核委员会本月 12 日召开 2026 年第 61 次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发）<strong>符合发行条件、上市条件和信息披露要求</strong>。</p><p data-vmark=\"3d26\">在深圳证券交易所上市审核委员会的会议现场，问询超聚变的主要问题包括：结合算力需求变化、下游客户资本开支、技术先进性、经营性现金流量净额状况、客户和供应商集中度等情况，说明超聚变毛利率变动趋势，以及经营业绩增长是否具有可持续性，相关风险揭示是否充分。</p><p da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/255.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-14T23:38:56.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-v9i46z",
@@ -3108,24 +3162,6 @@
       "verified": true
     },
     {
-      "id": "rss-sfzdb6",
-      "title": "9 月首发 4499 元起 → 11 月国补 3675 元起，雷鸟鹤 6 Ultra 27 款 QD-Mini LED 电视京东 11.11 组合购",
-      "desc": "<p data-vmark=\"74ed\">9 月 27 日，雷鸟鹤 6 系列 27 款电视正式开售，鹤 6 Ultra 27 款定价 5528 元起、首发 4499 元起。</p><p data-vmark=\"bc8e\"><strong>鹤 6 Ultra 27 款</strong></p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"8eb5\">65 英寸：5528 元，券后补贴价 4499 元</p></li><li><p data-vmark=\"863b\">75 英寸：6705 元，券后补贴价 5499 元</",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/659.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-01T01:17:58.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-tf616o",
       "title": "10000mAh 青海湖电池：荣耀 WIN RT 手机 12GB+256GB 国补后 2139 元",
       "desc": "<p data-vmark=\"fcdb\">荣耀 WIN RT 发布于 2025 年 12 月，12GB+256GB 定价 2699 元。</p><p data-vmark=\"a2de\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2139.89 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"102f\">领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：<a href=\"https://u.jd.com/eD2KP2Y\" target=\"_blank\" d",
@@ -3136,24 +3172,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-01T06:17:20.000Z",
       "hot": 216,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-rtzlkq",
-      "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分",
-      "desc": "<p data-vmark=\"9e8a\">IT之家 11 月 1 日消息，特斯拉最近在海外市场推出全新推荐奖励计划，车主可邀请朋友（也得是特斯拉车主）体验一个月 FSD 监督版，最终双方都能拿到免费权益。</p><p data-vmark=\"7635\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c6103964-251e-4f71-9fff-e851c9cded9e.jpg\" w=\"1321\" h=\"991\" data-weibo=\"0\" data-vmark=\"6f",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/020/640.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-10-31T23:38:59.000Z",
-      "hot": 214,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
