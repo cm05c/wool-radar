@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-15T21:44:42.356Z",
+  "updatedAt": "2026-11-16T01:59:27.804Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 20,
+    "fetched": 21,
     "linkVerified": true
   },
   "items": [
@@ -75,6 +75,42 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-3t3334",
+      "title": "微软为 XBOX Series X|S、XBOX One 主机推送初代 XBOX / XBOX 360 开机动画",
+      "desc": "<p data-vmark=\"2ddf\">IT之家 11 月 16 日消息，微软 XBOX 今天宣布，<strong>公司将从今天起陆续为所有 XBOX Series X|S 和 XBOX One 主机推送初代 XBOX 开机动画</strong>，<strong>以及两款不同年代的 XBOX 360 开机动画</strong>。</p><p style=\"text-align: center;\" data-vmark=\"6ea2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/16645975-0c0c-4dd6-b0d9-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/474.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-15T23:43:50.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-3e8n2d",
+      "title": "R 星联手 Twitch、Kick 送出《GTA 6》兑换码：每天需观看直播 3 小时抽奖，包含 100 美元终极版",
+      "desc": "<p data-vmark=\"0e20\">IT之家 11 月 16 日消息，Rockstar Games 为即将发售的《侠盗猎车手 6》（GTA 6）安排了两个平台的游戏兑换码赠送活动，奖品适用于 PS5 和 Xbox Series X|S。</p><p data-vmark=\"468a\">Kick 的“Sunset Reward”活动将持续至 12 月 7 日，共提供 1 万份游戏终极版兑换码。用户登录账号后，每天观看平台任意直播累计达到 180 分钟，即可获得一次开箱（抽奖）机会。</p><p style=\"text-align: center;\" data-vmark=\"d17b\"><i",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/468.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-15T23:16:45.000Z",
+      "hot": 151,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
     },
     {
       "id": "rss-10gqi1",
@@ -3020,24 +3056,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-cczueb",
-      "title": "千分位甲醛数显：小米米家全效空气净化器 Ultra 国补后 2041 元新低",
-      "desc": "<p data-vmark=\"16af\">2022 年 9 月份，小米推出了米家全效空气净化器 Ultra，零售价 5499 元，<span class=\"accentTextColor\">首发价 4799 元</span>。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d154\">京东自营 11.11 大促期间，活动价 2958 元：</p></li><li><p data-vmark=\"5366\">领取 8.8 折优惠券；</p></li><li><p data-vmark=\"dd73\">国补立减 360.18 元；</p><",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/020/874.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-02T01:19:32.000Z",
-      "hot": 199,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
       "verified": true
     }
   ]
