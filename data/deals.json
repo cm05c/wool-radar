@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-16T09:34:13.749Z",
+  "updatedAt": "2026-11-16T19:51:31.771Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -75,6 +75,132 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-tmq72a",
+      "title": "比 IDM 快 5 倍的平替？免费开源下载器 MDM (支持 BT 磁力/视频嗅探/跨平台Mac)",
+      "desc": "相信 IDM 在下载软件的地位上已经无需多言了，很多人都用上七八年了。但它有三个大缺点：要付费、不支持 BT 或磁力链接、只有 Windows 版。像咱 Mac 和 Linux 用户根本没得选。\nMister Download Manager (简称 MDM) 下载管理器，完全打破了这僵局。首次打开它，大概率会以为就是 IDM！界面布局一模一样，功能几乎全覆盖，甚至下载速度更快、性能更强！但它并不是“破解版”，而用 Rust 从零重写的免费开源版！还解决了跨平台、BT 下载等痛点……\n「 前往查看原文.... 」异次元还有这些值得一看：Motrix 2 Turbo - 清爽开源免费下载工具 (",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/mdm.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T09:45:08.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-5q0f0o",
+      "title": "5499 → 4499 元：苹果 iPad mini（A20 Pro）国补后立减 1000 元",
+      "desc": "<p data-vmark=\"2fdf\">苹果 iPad mini（A20 Pro）搭载 8.5 英寸 OLED 屏幕，比上一代薄了 14%，采用 A20 Pro 芯片，今年 11 月 6 日发售，定价 5499 元起。</p><p data-vmark=\"58a6\">京东即日起发放 500 元叠加券，国补后低至 4499 元起：<a href=\"https://u.jd.com/oDBYLVz\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oaB7sdB\" data-iosurl=\"https://u.jd.com/oDBTFNd\" data-",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/027/966.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T14:07:22.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-9ebweu",
+      "title": "限时返场：WPS 京东 PLUS 联合会员 191 元随缘发车，单个会员 1 年仅需 47 元",
+      "desc": "<p data-vmark=\"faef\"><span class=\"font-color-red\"><strong>点击下方卡片加入购物车后，需回到京东 App 首页搜索“WPS 会员”直接下单（不要去购物车）。</strong></span></p><p data-vmark=\"0fbc\">WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS 会员 1 年，首次购买用户叠加 25 元首购礼金，返场限时补贴 30 元；</p><p data-vmark=\"626d\"><span class=\"font-color-red\"><strong>部分用户可叠加京东平台 52 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/027/858.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T09:23:31.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-56rm91",
+      "title": "R 星再次向《GTA6》推送游戏更新补丁：版本号 1.002.001，体积 602.5MB",
+      "desc": "<p data-vmark=\"0899\">IT之家 11 月 16 日消息，Rockstar 今天（16 日）再次向 PS5 和 XBOX Series X 平台推送了《GTA 6》更新补丁，<strong>版本号为 1.002.001</strong>。</p><p data-vmark=\"3064\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e661e61f-3f8c-418c-a98a-ce86634f3cc5.jpg\" w=\"1196\" h=\"1412\" da",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/952.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T12:28:04.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-4ppzuu",
+      "title": "苹果首款折叠屏手机 iPhone Duo 中国官网送货上门时间更新，从明年 1 月提前至 12 月交付",
+      "desc": "<p data-vmark=\"46ba\">IT之家 11 月 16 日消息，苹果中国官网现已更新 iPhone Duo 手机送货上门时间，从 2027 年 1 月 23 日提前至 2026 年 12 月 15 日至 2026 年 12 月 22 日。</p><p style=\"text-align: center;\" data-vmark=\"90cd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2fbb61c0-bb3c-4292-b011-1e98cfa4c07e.jpg\" w=\"1440\" h=\"993\" data-w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/942.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T11:57:32.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-57v7fr",
+      "title": "OPPO Enco Clip2 耳夹式耳机新增“粉黛海”配色，首销优惠价 719.1 元",
+      "desc": "<p data-vmark=\"f0d7\">IT之家 11 月 16 日消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 为旗下 Enco Clip2 耳夹式耳机新增“粉黛海”全新配色，定价为 799 元，首销优惠价 719.1 元。</p><dir><a href=\"https://u.jd.com/oGB1lBC\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oDBDYs2\" data-iosurl=\"https://u.jd.com/oaB3ZRv\" data-androidurl=\"https://u.jd.com/o",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/027/954.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T12:34:21.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-9evp07",
+      "title": "46mm 教育优惠 2379 元：苹果 Apple Watch Series 12 国补京东探底",
+      "desc": "<p data-vmark=\"2ea8\">苹果 Apple Watch Series 12 开售于 2026 年 9 月，GPS 款 46mm 定价 3399 元，教育优惠价 3099 元。</p><p data-vmark=\"4492\">京东今日教育优惠版直降至 2379 元，需使用搭载 iOS27 系统的 iPhone 激活签收哦：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/or0cMoH\" target=\"_blank\" data-wapurl=\"https://u.jd.com/or0khZN\" data-ios",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/027/857.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T09:19:04.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-9i6gkd",
@@ -3057,42 +3183,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-9scvh4",
-      "title": "谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心",
-      "desc": "<p data-vmark=\"a747\">IT之家 11 月 2 日消息，Alphabet 启动了今年第二笔欧元债券发行，再次测试投资者需求。不到一周前，该公司不及预期的第三季度财报引发股价创纪录大跌，并推高整个科技板块的债券利差。</p><p style=\"text-align: center;\" data-vmark=\"4a25\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/2d16eb63-477a-41a8-9dd4-bfe3df5771fa.png?x-bce-process=image/format,f_auto\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/230.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-02T10:18:03.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-9cymv0",
-      "title": "华硕 ROG 斯巴达 X 65K 鼠标上架预约：补贴到手价 1199 元起，11 月 9 日开售",
-      "desc": "<p data-vmark=\"a857\">IT之家 11 月 2 日消息，华硕 (ASUS) 现已在电商平台上架 ROG 斯巴达 (Spatha) X 65K 鼠标。这一型号采用人体工学模具，<strong>补贴到手价 1199 元起</strong>，11 月 9 日 20:00 开售。</p><p data-vmark=\"19b0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f3ee43f0-e988-49f7-b92d-814ebcb0320a.jpg?x-bc",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/223.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-02T10:05:22.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
