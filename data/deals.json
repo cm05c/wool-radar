@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-16T01:59:27.804Z",
+  "updatedAt": "2026-11-16T09:34:13.749Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 21,
+    "fetched": 22,
     "linkVerified": true
   },
   "items": [
@@ -75,6 +75,60 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 8
+    },
+    {
+      "id": "rss-9i6gkd",
+      "title": "2027 款极狐阿尔法 S5 上市：增加激光雷达，限时补贴价 11.58 万元起",
+      "desc": "<p data-vmark=\"cb46\">IT之家 11 月 16 日消息，ARCFOX 极狐旗下中型轿车 2027 款极狐阿尔法 S5 已上市，新车共推出 3 款配置，限时补贴价为 11.58 万至 13.88 万元。作为年度改款车型，新车在外观、内饰、动力等细节上均有优化升级，并加入了激光雷达和前备厢等配置。</p><p style=\"text-align: center;\" data-vmark=\"f39d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/42ab4f05-b190-4486-b22d-effdc3aa8",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/851.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T09:11:34.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-qfyalu",
+      "title": "iQOO 自带线数显移动电源 20000 66W 开售，首销优惠价 229 元",
+      "desc": "<p data-vmark=\"53a3\">IT之家 11 月 16 日消息，iQOO 自带线数显移动电源 20000 66W 今日开售，首销优惠价 229 元，组合购买任意 vivo、iQOO 手机叠加立减 10 元。</p><p data-vmark=\"581b\">据介绍，新品通过<strong>新国标 3C</strong> 安全认证，可上飞机高铁；<strong>20000mAh 超大容量</strong>、至高 66W 疾速闪充，可为笔记本充电；跨品牌快充兼容，支持 AVS、PD3.2、QC2.0、PPS 等主流快充协议。</p><p data-vmark=\"7db4\" style=\"",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/027/708.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T06:56:22.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-y662p0",
+      "title": "2026 APEC 会议期间深圳地铁公交开启优惠，今起至 11 月 20 日 24 时乘车全程五折",
+      "desc": "<p data-vmark=\"f9f6\">IT之家 11 月 16 日消息，据“深圳发布”公众号，2026 APEC 会议期间（11 月 16 日运营开始至 20 日 24 时），全市地铁、公交票价实行五折优惠。民众不用申请、不用领券，刷卡进站自动生效。因计费规则不同，日票、次票、骑行票不在本次折扣优惠范围，持有此类票种乘客可选择其他方式享受乘车优惠。</p><p data-vmark=\"314c\">此外，11 月 16 日至 19 日，深圳全市地铁延长运营 1 小时，末班车延长至约 24:00。</p><p style=\"text-align: center;\" data-vmark=\"96",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/027/698.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-16T06:54:13.000Z",
+      "hot": 221,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 5,
+      "verified": true
     },
     {
       "id": "rss-3t3334",
@@ -2950,23 +3004,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-7keplx",
-      "title": "从12月开始ChatGPT聊天与Codex共享使用额度 仅即时聊天继续免费提供",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/127928.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-02T03:30:00.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-oywda2",
