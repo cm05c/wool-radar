@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-17T11:45:13.942Z",
+  "updatedAt": "2026-11-17T20:51:11.002Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -94,6 +94,23 @@
       "_score": 8
     },
     {
+      "id": "rss-kxaecw",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119184\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/119184",
+      "expiresAt": null,
+      "publishedAt": "2026-11-17T09:02:00.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-es56m3",
       "title": "为防《GTA 6》被破解移植，索尼紧急推送 PS5 固件 14.23 封堵漏洞",
       "desc": "<p data-vmark=\"b5f5\">IT之家 11 月 17 日消息，过去几周，索尼与 PlayStation 5 破解者之间爆发了一场固件攻防战。为了防止用户提前提取《侠盗猎车手 6》（GTA 6）的游戏文件，进而通过模拟器运行或将其移植到 PC 平台，索尼不得不连续推出多次小型固件更新。随着游戏正式发售日期临近，双方的较量也愈发激烈。</p><p style=\"text-align: center;\" data-vmark=\"3d72\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f13c5149-6a00-409",
@@ -104,6 +121,76 @@
       "expiresAt": null,
       "publishedAt": "2026-11-17T11:11:56.000Z",
       "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-owrnx4",
+      "title": "腾讯WorkBuddy上线混元HY4 Flash模型且免费使用 活动到11月30日结束",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128508.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-17T03:00:00.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-bu0w3e",
+      "title": "大疆多款产品“如期”涨价：涉 Osmo Pocket 4/4P/Nano，最高涨 560 元",
+      "desc": "<p data-vmark=\"bd06\">IT之家 11 月 18 日消息，不久前，大疆通过官网发布《关于 DJI 大疆部分产品建议零售价调整的说明》，受全球半导体、存储等多项关键零部件成本持续大幅上涨影响，经审慎评估，大疆决定自 2026 年 11 月 18 日 00:00 起，<a href=\"https://www.ithome.com/1/026/670.htm\" target=\"_blank\">对部分产品的建议零售价进行调整</a>。</p><p data-vmark=\"7b42\">时间来到今天（18 日）零时过后，大疆 Osmo Pocket 4P 标准套装、Osmo Pocket",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/028/567.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-17T16:46:49.000Z",
+      "hot": 198,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-cvyp1b",
+      "title": "Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月 17 日，无免费游戏），《欧洲卡车模拟 2》以 75% 折扣强势登顶全球榜，其全新 DLC《欧洲卡车模拟 2 - Coaches》与《欧洲卡车模拟 2 - Iceland》双双首次进入榜单，国区方面《影之刃零》继续蝉联榜首。</p><p data-vmark=\"0001\">全球榜单：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/028/540.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-17T14:31:07.000Z",
+      "hot": 199,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-dbwq8s",
+      "title": "黄仁勋卸任英伟达 CEO 后 X 账号企业徽章等被移除，马斯克回应免费恢复蓝标",
+      "desc": "<p data-vmark=\"9a9c\">IT之家 11 月 17 日消息，英伟达前 CEO 黄仁勋的官方 X 账号 @JensenHuang 今天（11 月 17 日）更新，在个人账号中移除了原本标注的“CEO”职务头衔和企业徽标等，账号简介仅保留“Founder of NVIDIA”（英伟达创始人）。</p><p data-vmark=\"1210\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/faa8a9ce-1665-466c-b513-dc87c4e2de90.",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/028/532.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-17T13:38:17.000Z",
+      "hot": 200,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -125,42 +212,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-owrnx4",
-      "title": "腾讯WorkBuddy上线混元HY4 Flash模型且免费使用 活动到11月30日结束",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128508.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-kxaecw",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119184\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/119184",
-      "expiresAt": null,
-      "publishedAt": "2026-11-17T09:02:00.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
       ],
       "_score": 2,
       "verified": true
@@ -2626,23 +2677,6 @@
       "verified": true
     },
     {
-      "id": "rss-tsw9iv",
-      "title": "赛博领鸡蛋加餐：E 宝一口气送 13 款小游戏，11 月 9 日凌晨截止",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/eggs-261103/",
-      "expiresAt": null,
-      "publishedAt": "2026-11-03T13:14:01.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-8qxx6s",
       "title": "Epic 喜加一：《浮游世界》游戏免费领取",
       "desc": "<p data-vmark=\"0000\">IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/flotsam-266287\">《浮游世界》</a></p><p data-vmark=\"0002\">IT之家附《浮游世界》游戏简介：</p><p data-vmark=\"0003\" style=\"text-align: center;\"><img src=\"https://img.i",
@@ -2991,23 +3025,6 @@
       "_score": 3
     },
     {
-      "id": "rss-sc25kx",
-      "title": "苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等",
-      "desc": "<p data-vmark=\"b935\">IT之家 11 月 4 日消息，科技媒体 MacRumors 今天（11 月 4 日）发布博文，<strong>报道称在今天推送的 iOS 27.3 首个 Beta 开发者预览版中，苹果公司进一步扩展 Siri AI 在应用内及跨应用执行任务的能力。</strong></p><p data-vmark=\"16b0\">IT之家注：伴随着 iOS 27.3 发布，<a href=\"https://www.ithome.com/1/021/861.htm\" target=\"_blank\">国行“Apple 智能与 Siri”如期上线</a>，但下文介绍的相关",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/866.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-03T20:27:56.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-rlt65f",
       "title": "7-Eleven 日本公司送货上门服务遭非法访问，超 16 万条客户信息外泄",
       "desc": "<p data-vmark=\"f965\">IT之家 11 月 4 日消息，据共同社报道，便利店企业 7-Eleven 日本公司 3 日宣布，送货上门服务“7NOW”的配送业务外包方遭遇非法访问，总计逾 16 万条客户信息外泄。</p><p data-vmark=\"ac32\">泄露的信息包括<strong>姓名、住址、电话号码</strong>等，不涉及信用卡信息和密码。据该公司透露，1 日查明外包方遭受非法访问，3 日确认 7-Eleven 部分用户信息外泄。</p><p data-vmark=\"76de\">据悉，7-Eleven 的送货上门服务未因此受到影响，用户仍可照常使用。官方将通过短信",
@@ -3059,59 +3076,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-qckwfz",
-      "title": "Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 3 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 27 日 - 2026 年 11 月 3 日，无免费游戏），IT之家注意到，《影之刃零》反超此前连冠的《Call of Duty®: Modern Warfare® 4》，同时登顶全球区与国区区榜首，新游《深空当铺：可能是偷的》首次上榜即冲入全球前 5，《足球经理 27》预购版也携 -10% 折扣进入全球榜单。</p><p data-vmark=\"0001\">全球榜单：</p><ul class=\"medium-size list-paddingl",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/820.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-03T13:31:28.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-rwnwyt",
-      "title": "iOS 27.3 首个开发者预览版推送，国行 iPhone 苹果 Apple 智能将至",
-      "desc": "<p data-vmark=\"5a7f\">IT之家 11 月 4 日闪讯速报，苹果今日凌晨面向 iPhone 推送了 iOS 27.3 系统首个测试版本。</p><p data-vmark=\"f987\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a20745f9-18da-449b-9098-fb698098e273.jpg\" w=\"1320\" h=\"2110\" data-vmark=\"4f1f\" data-mpos=\"2,0\" data-weibo=\"0\"  cla",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/859.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-03T18:14:39.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-s9uz7h",
-      "title": "苹果推送 macOS 27.3 首个开发者预览版：Siri AI 有望扩展支持繁体中文",
-      "desc": "<p data-vmark=\"0f6a\">IT之家 11 月 4 日消息，苹果公司今天推送 macOS 27.3 Golden Gate 首个开发者测试版，内部版本号为 26C5035r，距离上周推出 macOS 27.2 仅约一周。</p><p data-vmark=\"5e86\">科技媒体 9to5Mac 称本次更新主要亮点在于扩展 Siri AI 语言支持，不过目前该信息依然有待验证。苹果 Siri AI 上线初期仅支持英语，<a href=\"https://www.ithome.com/1/018/229.htm\" target=\"_blank\">在 macOS 27.2 更新中上线法语",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/021/862.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-03T19:17:04.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
