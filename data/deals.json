@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-18T11:33:11.000Z",
+  "updatedAt": "2026-11-18T19:34:51.669Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -109,6 +109,60 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-s9xvkp",
+      "title": "英国一学校出招对抗“GTA 流感”，用抽奖鼓励学生按时上课",
+      "desc": "<p data-vmark=\"450d\">IT之家 11 月 18 日消息，今天（18 日）晚间开始，全球各地纷纷进入《GTA 6》时间，全球预计会有不少上班族打算请假，争取第一时间玩上游戏。</p><p data-vmark=\"faba\">有学校也担心学生会为了玩《GTA 6》而逃课，甚至想出了一些不同寻常的办法来保证出勤率。</p><p data-vmark=\"aa1f\">据英国 BBC 报道，北爱尔兰贝尔法斯特男子模范学校决定用抽奖鼓励学生 11 月 19 日按时上课。只要周四和周五连续两天到校，就有机会赢得 XBOX 或 PlayStation 礼品卡。</p><p data-vmar",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/091.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-18T13:58:12.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-s9e2zc",
+      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">今日 30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a href=\"https://u.jd.com/oDJWcqb\" target=\"_blank\" contenteditable=\"false\" data-wapurl=\"https://u.jd.com/oOJk1md\" data-iosurl=\"http",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/029/090.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-18T13:56:12.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-re1t5r",
+      "title": "防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi",
+      "desc": "<p data-vmark=\"a7e2\">IT之家 11 月 18 日消息，据韩联社报道，韩国 2027 学年度大学修学能力考试（高考）开考在即，为防范考生利用人工智能技术作弊，自当地时间 18 日下午 6 时起，全国高考考点及周边地区临时屏蔽公共 WiFi 信号。</p><p data-vmark=\"e3d7\">据韩国政府和通信业界消息，应政府要求，韩国三大移动运营商（SK 电信、KT、LG U+）从 18 日下午 6 时至高考当日的 19 日下午 6 时，<strong>暂停全国各考场和周边 100 米内的公共 WiFi 和移动运营商提供的 WiFi 服务</strong>。此举旨在最大限",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/075.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-18T13:23:33.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
     },
     {
       "id": "rss-v92psb",
@@ -2922,40 +2976,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-8e8xwj",
-      "title": "微信鸿蒙电脑版 App 发布 4.1.13.4 版本邀测升级，已支持图片视频发送后可合并展示等功能",
-      "desc": "<p data-vmark=\"84e3\">IT之家 11 月 4 日消息，据用户反馈，微信鸿蒙电脑版 App 在华为应用市场（App Gallery）发布了 <strong>4.1.13.4 (269572)</strong> 版本邀测升级。</p><p data-vmark=\"fd58\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/626a4b57-48b7-49b7-8e36-7548f45b815a.jpg\" w=\"1440\" h=\"899\" data-weibo",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/022/416.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-04T12:12:27.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-7yupaf",
-      "title": "支持一键微信通话：小米智能摄像机 4 Pro 329 → 242 元直降，老人小孩轻松使用",
-      "desc": "<p data-vmark=\"0000\">小米智能摄像机 4 Pro 今年 10 月 13 日发售，首发价为 329 元。</p><p data-vmark=\"304f\">今日京东政府补贴后仅需 252 元，支持一键微信通话。</p><p data-vmark=\"8005\">下单晒单再返 10 元京豆（限量 500 份，目前名额还算充裕），折合仅需 242 元刚需好价。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1JoTA2\" target=\"_blank\" data-wapurl=\"https://u.jd.com/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/022/409.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-04T11:58:58.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
