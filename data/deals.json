@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:29:23.180Z",
+  "updatedAt": "2026-11-19T18:39:38.417Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -8,6 +8,23 @@
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-ot6xi9",
+      "title": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/uu-remote-vip-pricing/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T04:23:31.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-tmq72a",
       "title": "比 IDM 快 5 倍的平替？免费开源下载器 MDM (支持 BT 磁力/视频嗅探/跨平台Mac)",
@@ -77,6 +94,146 @@
       "_score": 8
     },
     {
+      "id": "rss-thaefl",
+      "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128620.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T06:30:52.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-hn5ukq",
+      "title": "[领取方法] 谷歌继续加码AI Ultra订阅福利：赠送YouTube Premium家庭版 可6人共享福利",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128616.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T04:30:49.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-fqzczy",
+      "title": "收费17天后重新免费：深度求索取消DS模型联网搜索和抓取内容费用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128612.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T02:30:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-esw47k",
+      "title": "Google AI套餐隐藏福利：每月赠送API额度最高可积累1200美元 但必须激活领取",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128610.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T01:30:00.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-f6sn3f",
+      "title": "全新微软中文输入法 - 免费极简无广告，最大特点是无 AI，清爽新设计！",
+      "desc": "输入法本来只是用来打字的，但现在各大输入法越做越臃肿：皮肤商城、热词推荐、弹窗广告、AI 助手、表情包，各种花里胡哨。想认真写作办公，还要一直忍受它们带来的各种干扰。\n微软最近上架了一款全新的「中文输入法」！它没有大张旗鼓地宣传，名字也直白得有点可爱，但卖点很明确：界面超级干净！简洁轻量！无广告无弹窗、词库丰富，支持个人词库迁移。新版「微软中文输入法」还有个最大特色是没有 AI 噱头，界面简约，回归最纯粹的输入法……\n「 前往查看原文.... 」异次元还有这些值得一看：RIME (小狼毫 / 鼠须管 / 中州韵) 输入法 - 开源跨平台流畅纯净无广告/拼音/五笔豆包输入法 - 免费清爽无广告手",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/weiruanshurufa.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T10:21:54.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-euf0k9",
+      "title": "Epic 喜加一：《深渊之印》免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08\">《Mark of the Deep》</a></p><p data-vmark=\"0002\">IT之家附游戏简介：</p><p data-vmark=\"0d30\" style=\"text-alig",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/029/710.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T16:05:21.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-q4qz24",
+      "title": "政府补贴 1000 元：iPhone 18 Pro Max 京东 10999 → 9745 元随时结束",
+      "desc": "<p data-vmark=\"095d\">京东自营 iPhone 18 Pro/ Max 直降 300 元，今日大多数地区可叠加 1000 元政府补贴，实付金额如下：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o6ckFhF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oajILhA\" data-iosurl=\"https://u.jd.com/oGcx8T2\" data-androidurl=\"https://u.jd.com/orjID7u\" data-hosnext",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/029/685.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T13:35:59.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-qlslgb",
+      "title": "iCAR V25 增程方盒子 SUV 上市，限时超级红包价 11.98 万元起",
+      "desc": "<p data-vmark=\"f76b\">IT之家 11 月 19 日消息，今日 iCAR 旗下全新车型 V25 正式上市，新车共推出 4 款配置，官方指导价为 12.98 万 —15.98 万元，限时超级红包价 11.98 万 —14.98 万元。作为一款搭载增程动力系统的方盒子 SUV，iCAR V25 同时提供两驱与四驱版本，最高 CLTC 纯电续航可达 210 公里，综合续航突破 1200 公里。</p><p data-vmark=\"22ac\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/675.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T12:53:01.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-kxaecw",
       "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
       "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119184\" target=\"_blank\">查看全文</a>",
@@ -92,24 +249,6 @@
         "少数派·RSS"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-ot6xi9",
-      "title": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/uu-remote-vip-pricing/",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T04:23:31.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-rbhvyd",
@@ -145,78 +284,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-thaefl",
-      "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128620.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T06:30:52.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-hn5ukq",
-      "title": "[领取方法] 谷歌继续加码AI Ultra订阅福利：赠送YouTube Premium家庭版 可6人共享福利",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128616.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T04:30:49.000Z",
-      "hot": 204,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-fqzczy",
-      "title": "收费17天后重新免费：深度求索取消DS模型联网搜索和抓取内容费用",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128612.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T02:30:00.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-esw47k",
-      "title": "Google AI套餐隐藏福利：每月赠送API额度最高可积累1200美元 但必须激活领取",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128610.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T01:30:00.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4,
       "verified": true
     },
     {
@@ -2928,23 +2995,6 @@
       "verified": true
     },
     {
-      "id": "rss-8qxx6s",
-      "title": "Epic 喜加一：《浮游世界》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/flotsam-266287\">《浮游世界》</a></p><p data-vmark=\"0002\">IT之家附《浮游世界》游戏简介：</p><p data-vmark=\"0003\" style=\"text-align: center;\"><img src=\"https://img.i",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/023/023.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T16:00:08.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-5vklmw",
       "title": "酷态科 10 号 / 15 号电能基站第三轮 OTA 陆续推送，新增功率界面主题切换、识别 iPhone 18/Duo 等",
       "desc": "<p data-vmark=\"7c40\">IT之家 11 月 6 日消息，酷态科今日宣布，10 号 / 15 号电能基站<strong>第三轮 OTA 陆续推送中</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0a16\">新增功率界面主题切换，充电状态尽在掌握</p></li><li><p data-vmark=\"3e5e\">新增 iPhone 18 系列、iPhone Duo 等机型识别</p></li><li><p data-vmark=\"27f5\">其他用户体验优化</p></li></ul><p data",
@@ -2979,57 +3029,6 @@
       ],
       "_score": 2,
       "verified": true
-    },
-    {
-      "id": "rss-94os0t",
-      "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
-      "desc": "<p data-vmark=\"b3c0\">IT之家 11 月 5 日消息，博主 @WHYLAB 今日分享了荣耀 700 系列手机的盲盒周边。从盲盒可以看出，荣耀 700 系列手机将采用小矩阵背屏设计。博主透露，<strong>背屏尺寸为 1.72 英寸</strong>。</p><p data-vmark=\"d847\">该博主还透露，<strong>荣耀 700 标准版采用骁龙 8s Gen4 处理器，Pro 则搭载骁龙 8 Gen5 处理器</strong>。</p><p style=\"text-align: center;\" data-vmark=\"e8cb\"><img src=\"http",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/019.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T15:46:20.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-9qojr9",
-      "title": "Linux 内核新补丁进入审核：为 T2 芯片的 Intel Mac 电脑提供隔空投送支持",
-      "desc": "<p data-vmark=\"f986\">IT之家 11 月 5 日消息，据科技媒体 Phoronix 今天报道，开发者 Andre Eikmeyer 日前将一组 Linux 内核补丁提交审核，<strong>如果最终能够合并到主线内核</strong>，<strong>搭载 T2 芯片的 Intel Mac 电脑将能够在 Linux 下实现隔空投送（AirDrop）</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ce73\"><img src=\"https://img.ithome.com/newsuploadfiles/202",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/000.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T14:14:07.000Z",
-      "hot": 157,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-e2zgea",
-      "title": "等径八齿嵌合设计边刷：科沃斯擦窗机器人 W2S PLUS 基站款 1553 元国补新低",
-      "desc": "<p data-vmark=\"f0cb\">科沃斯 · 窗宝 W2S PLUS 擦窗机器人基站款 2026 年 5 月开售，官方定价 1799 元。</p><p data-vmark=\"9536\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1553.5 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"73f4\">下单时选择“以旧换新 → 个护健康 → <strong>电动牙刷</strong>（无需回收）”补贴 30 元。</p></li><li><p data-vmark=\"8f4f\">晒单再返 20",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/987.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T13:29:55.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     }
   ]
 }
