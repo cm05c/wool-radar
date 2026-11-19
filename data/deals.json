@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T19:34:51.669Z",
+  "updatedAt": "2026-11-19T01:28:41.742Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,6 +94,40 @@
       "_score": 2
     },
     {
+      "id": "rss-s9xvkp",
+      "title": "英国一学校出招对抗“GTA 流感”，用抽奖鼓励学生按时上课",
+      "desc": "<p data-vmark=\"450d\">IT之家 11 月 18 日消息，今天（18 日）晚间开始，全球各地纷纷进入《GTA 6》时间，全球预计会有不少上班族打算请假，争取第一时间玩上游戏。</p><p data-vmark=\"faba\">有学校也担心学生会为了玩《GTA 6》而逃课，甚至想出了一些不同寻常的办法来保证出勤率。</p><p data-vmark=\"aa1f\">据英国 BBC 报道，北爱尔兰贝尔法斯特男子模范学校决定用抽奖鼓励学生 11 月 19 日按时上课。只要周四和周五连续两天到校，就有机会赢得 XBOX 或 PlayStation 礼品卡。</p><p data-vmar",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/091.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-18T13:58:12.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-s9e2zc",
+      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
+      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">今日 30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a href=\"https://u.jd.com/oDJWcqb\" target=\"_blank\" contenteditable=\"false\" data-wapurl=\"https://u.jd.com/oOJk1md\" data-iosurl=\"http",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/029/090.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-18T13:56:12.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-9rbraw",
       "title": "潜伏11年：发送TCP数据包就能导致服务器崩溃 Linux Kernel NoisyTCP漏洞曝光",
       "desc": "",
@@ -111,39 +145,21 @@
       "_score": 2
     },
     {
-      "id": "rss-s9xvkp",
-      "title": "英国一学校出招对抗“GTA 流感”，用抽奖鼓励学生按时上课",
-      "desc": "<p data-vmark=\"450d\">IT之家 11 月 18 日消息，今天（18 日）晚间开始，全球各地纷纷进入《GTA 6》时间，全球预计会有不少上班族打算请假，争取第一时间玩上游戏。</p><p data-vmark=\"faba\">有学校也担心学生会为了玩《GTA 6》而逃课，甚至想出了一些不同寻常的办法来保证出勤率。</p><p data-vmark=\"aa1f\">据英国 BBC 报道，北爱尔兰贝尔法斯特男子模范学校决定用抽奖鼓励学生 11 月 19 日按时上课。只要周四和周五连续两天到校，就有机会赢得 XBOX 或 PlayStation 礼品卡。</p><p data-vmar",
+      "id": "rss-tzi6cj",
+      "title": "美军把《GTA 6》变成留人福利：可 4 天畅玩游戏，43 名士兵已续签兵役合同",
+      "desc": "<p data-vmark=\"7a07\">IT之家 11 月 19 日消息，华盛顿邮报今天（11 月 19 日）发布博文，报道称美国陆军佐治亚州斯图尔特堡第 9 旅工兵营推出特殊留队激励：士兵若在规定期限内重新入伍、续签兵役合同，即可获得 4 天特别假期，让其畅玩《侠盗猎车手 6》（GTA6）游戏。<strong>最终，该营 130 名符合条件的士兵中，有 43 人选择签约，续期从 2 年到 6 年不等。</strong></p><p data-vmark=\"0dc7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/n",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/029/091.htm",
+      "url": "https://www.ithome.com/1/029/150.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-18T13:58:12.000Z",
-      "hot": 215,
+      "publishedAt": "2026-11-19T00:28:29.000Z",
+      "hot": 216,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-s9e2zc",
-      "title": "低过 10 元 / 月：迅雷超级会员 11.11 直降，12T 网盘 + 每天 1000 次云添加",
-      "desc": "<p data-vmark=\"0f52\">迅雷<span class=\"accentTextColor\">超级会员</span>年卡日常售价 360 元，连续包年为 264 元（22 元 / 月）。</p><p data-vmark=\"e72c\">今日 30 个月券后直降至 298 元，单月约合 9.93 元官方好价：</p><dir><a href=\"https://u.jd.com/oDJWcqb\" target=\"_blank\" contenteditable=\"false\" data-wapurl=\"https://u.jd.com/oOJk1md\" data-iosurl=\"http",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/029/090.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-18T13:56:12.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
+      "_score": 2,
       "verified": true
     },
     {
