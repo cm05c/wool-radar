@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-19T01:28:41.742Z",
+  "updatedAt": "2026-11-19T09:29:23.180Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 27,
     "linkVerified": true
   },
   "items": [
@@ -92,6 +92,132 @@
         "少数派·RSS"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-ot6xi9",
+      "title": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/uu-remote-vip-pricing/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T04:23:31.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-rbhvyd",
+      "title": "联力宣布限量活动：Edge V2 电源用户可免费领取短款主板、12V-2×6 供电线",
+      "desc": "<p data-vmark=\"9d65\">IT之家 11 月 19 日消息，联力 (LIAN LI) 昨日宣布一项限量活动：购买了其近期推出的 Edge 刃界 Gold / Platinum 电源的用户可<strong>免费申请领取短款的主板和 12V-2×6 供电线</strong>。</p><p data-vmark=\"78ce\">截至本文发稿时，本活动还剩余 773 个参与名额。</p><p data-vmark=\"5ff4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/029/521.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T08:20:40.000Z",
+      "hot": 214,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-fj0pvl",
+      "title": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”",
+      "desc": "<p data-vmark=\"25b6\">IT之家 11 月 19 日消息，科技媒体 Windows Central 今天（11 月 19 日）发布博文，报道称《侠盗猎车手 VI》（GTA 6）游戏上线首日，玩家没有急着执行任务、抢车或与警方周旋，<strong>反而将大量时间花在了各种离谱又治愈的“生活玩法”上。</strong></p><p data-vmark=\"18ac\">社交平台上，最火的一段视频来自被困公海的玩家：等待片刻后，一只戴着墨镜的救援犬会驾驶水上摩托赶来，把玩家送往“狗岛”，还能获取现金和食物等补给。这段“酷狗救援”视频迅速走红，成为游戏发售首日最具传播力的片段之一。</",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/484.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T07:19:43.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-thaefl",
+      "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128620.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T06:30:52.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-hn5ukq",
+      "title": "[领取方法] 谷歌继续加码AI Ultra订阅福利：赠送YouTube Premium家庭版 可6人共享福利",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128616.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T04:30:49.000Z",
+      "hot": 204,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-fqzczy",
+      "title": "收费17天后重新免费：深度求索取消DS模型联网搜索和抓取内容费用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128612.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T02:30:00.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-esw47k",
+      "title": "Google AI套餐隐藏福利：每月赠送API额度最高可积累1200美元 但必须激活领取",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128610.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T01:30:00.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4,
+      "verified": true
     },
     {
       "id": "rss-s9xvkp",
@@ -1320,23 +1446,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-ue5fha",
-      "title": "百度网盘 11.11 年内探底再来：SVIP 超级会员 13 元 / 月、157 元 / 年",
-      "desc": "<p data-vmark=\"afeb\">百度网盘超级会员年卡官方售价 298 元，今日券后直降至 196 元年内好价，限时加赠 3 个月。</p><p data-vmark=\"18ac\">到手共 15 个月，折合 13.1 元 / 月、157 元 / 年<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e1jwu4C\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOjqLNr\" data-iosurl=\"https://u.jd.com/e",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/679.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T05:56:55.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-6cpahx",
@@ -2836,23 +2945,6 @@
       "_score": 3
     },
     {
-      "id": "rss-rx3ww7",
-      "title": "谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128051.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T02:30:00.000Z",
-      "hot": 214,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-5vklmw",
       "title": "酷态科 10 号 / 15 号电能基站第三轮 OTA 陆续推送，新增功率界面主题切换、识别 iPhone 18/Duo 等",
       "desc": "<p data-vmark=\"7c40\">IT之家 11 月 6 日消息，酷态科今日宣布，10 号 / 15 号电能基站<strong>第三轮 OTA 陆续推送中</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0a16\">新增功率界面主题切换，充电状态尽在掌握</p></li><li><p data-vmark=\"3e5e\">新增 iPhone 18 系列、iPhone Duo 等机型识别</p></li><li><p data-vmark=\"27f5\">其他用户体验优化</p></li></ul><p data",
@@ -2938,60 +3030,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-uxy0ua",
-      "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
-      "desc": "<p data-vmark=\"7f33\">IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称索尼已面向 Xperia 10 VIII 与 Xperia 10 VII 推送安卓 17 更新，<strong>但上述两款手机无法完整体验安卓 17 的全部新功能。</strong></p><p data-vmark=\"d3f9\">IT之家附上相关截图如下：</p><p data-vmark=\"ab66\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsu",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/022/664.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T04:27:42.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-ugcluq",
-      "title": "钛合金表圈 + AMOLED 彩色触屏：佳明 Forerunner 965 智能手表 4980 → 2704 元新低",
-      "desc": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"2a00\">Garmin 佳明 Forerunner 965 运动智能手表 2023 年 3 月开售，官方定价 4980 元。</p><p data-vmark=\"6881\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2704.7 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"391d\">领 3000-400 元券：<a href=\"https://u.jd.com/eac5I",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/022/675.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T05:48:06.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-wtkptp",
-      "title": "暴力熊 Thermal Grizzly 发布 PhaseSheet PTM Pro：导热更强、安装更省心",
-      "desc": "<p data-vmark=\"0f13\">IT之家 11 月 5 日消息，德国散热品牌 Thermal Grizzly（国内俗称暴力熊）宣布推出新一代相变导热垫 PhaseSheet PTM Pro，<strong>在保持相变导热垫易用特性的同时，提升了导热性能，并重点改进了载体膜结构，让装机过程更顺手。</strong></p><p data-vmark=\"be19\">IT之家注：相变导热垫是一种介于传统导热硅脂和普通导热垫之间的散热界面材料。它在常温下是柔软的固体片材，方便直接贴在 CPU / GPU 表面；当芯片运行升温后，材料会“相变”软化，更好地填满芯片顶盖与散热器之间的细微空隙，从",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/022/625.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-05T04:14:24.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
     }
   ]
 }
