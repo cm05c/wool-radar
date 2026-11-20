@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T17:16:15.460Z",
+  "updatedAt": "2026-11-20T23:20:21.219Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 22,
+    "fetched": 23,
     "linkVerified": true
   },
   "items": [
@@ -126,6 +126,24 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-doy1eu",
+      "title": "RackNerd 性价比 VPS 服务器「黑五特价」促销中！终身续费同价",
+      "desc": "很多人都需要用到「国外的 VPS 主机」，省钱省事，用来学习 Linux、编程开发、跑外贸网站、博客，或者用 Docker 自建网盘或各种各样的私有网络服务都非常实用。\n\n最近除推荐的 DMIT、板佤工高端 CN2 GIA 线路、HostDare、VirMarch 等 VPS 服务器主机补货之外，不断被网友推荐的“白菜价”性价比主机品牌 RackN…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/racknerd",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T19:05:24.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 4,
+      "verified": true
     },
     {
       "id": "rss-5pqo7v",
