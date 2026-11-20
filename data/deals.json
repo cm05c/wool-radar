@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T00:55:04.805Z",
+  "updatedAt": "2026-11-20T08:29:46.713Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 29,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -111,6 +111,112 @@
       "_score": 8
     },
     {
+      "id": "rss-uwf9m6",
+      "title": "微软扩大Windows 11 26H2版自动推送范围 更多设备将自动升级到新版本",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128623.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T00:30:00.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-thaefl",
+      "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128620.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T06:30:52.000Z",
+      "hot": 216,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-5pqo7v",
+      "title": "谷歌确认原生“应用锁”功能无法通过 Google Play 推送至旧版安卓设备，需升级至安卓 17 QPR3",
+      "desc": "<p data-vmark=\"19c9\">IT之家 11 月 20 日消息，随着谷歌近年来逐渐通过独立更新向用户推送 Android 新功能，部分用户希望无需升级至最新版 Android，也能通过更新 Google Play 获得最新“应用锁”功能。</p><p data-vmark=\"58cb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d0c16421-77a6-4518-92a5-5437e84c0afc.png\" w=\"1280\" h=\"720\" data-w",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/030/004.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T07:32:59.000Z",
+      "hot": 153,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-f39qfj",
+      "title": "Epic 喜加一：重型机械模拟游戏《Contractor：The Clean Up Part II》免费领",
+      "desc": "<p data-vmark=\"e90c\">IT之家 11 月 20 日消息，独立游戏团队 Vault Games 开发的重型机械清理模拟游戏《Contractor：The Clean Up Part II》目前正在 Epic 游戏商城开启限时免费“喜加一”活动，本作原价为 29.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 200.7 元人民币）</span>，玩家需要将商店地区切换至美区后领取。</p><p data-vmark=\"d62d\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，限免将于 12 ",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/029/927.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T06:52:21.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-e2fioc",
+      "title": "Steam 喜加一：动作冒险游戏《The Ghost Of Solaris》转付费前免费领",
+      "desc": "<p data-vmark=\"a21d\">IT之家 11 月 20 日消息，由 MSP Universe、GAZA Games 开发，MR SAQLAIN PRODUCTIONS 发行的动作冒险游戏《The Ghost Of Solaris》宣布即将由免费游玩模式转为付费销售，未来售价定为 49.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 334.5 元人民币）</span>。</p><p data-vmark=\"6852\" style=\"text-align: center;\"><img src=\"https://img.ithome.c",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/029/902.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T06:44:34.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-2qzyzr",
+      "title": "漫步者花再 Sona Clip 耳夹耳机开售：支持杜比音效、44 小时综合续航，券后 397.8 元",
+      "desc": "<p data-vmark=\"869b\">IT之家 11 月 20 日消息，漫步者花再 Sona Clip 耳夹耳机今日开售，到手价 468 元，可领 8.5 折券，券后 397.8 元。</p><p data-vmark=\"627e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ce0abc76-4a16-4375-b17f-c783931c80d0.png\" w=\"667\" h=\"628\" data-weibo=\"0\" class=\"nowebp no-alt-im",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/029/875.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T05:48:01.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-euf0k9",
       "title": "Epic 喜加一：《深渊之印》免费领取",
       "desc": "<p data-vmark=\"0000\">IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08\">《Mark of the Deep》</a></p><p data-vmark=\"0002\">IT之家附游戏简介：</p><p data-vmark=\"0d30\" style=\"text-alig",
@@ -160,23 +266,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-thaefl",
-      "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128620.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T06:30:52.000Z",
-      "hot": 216,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-hn5ukq",
@@ -245,24 +334,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-uwf9m6",
-      "title": "微软扩大Windows 11 26H2版自动推送范围 更多设备将自动升级到新版本",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128623.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-20T00:30:00.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -2054,23 +2125,6 @@
       "_score": 2
     },
     {
-      "id": "rss-suj09f",
-      "title": "免费教育福利再缩水：微软将取消 Office 365 A1 学生福利和 100TB 共享存储池",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128123.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T05:30:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4
-    },
-    {
       "id": "rss-mi85mg",
       "title": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
       "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7a2c\">京东 11.11 大促期间，活动价 3549 元；</p></li><li><p data-vmark=\"c2e6\">PLUS 会员自动领取 9 折优惠券，可抵 300 元；</p></li><li><p data-vmark=\"baae\">PLUS 会员立减 17.74 元；</p></li><li",
@@ -2974,23 +3028,6 @@
       "_score": 3
     },
     {
-      "id": "rss-6wete3",
-      "title": "随时结束：B站 x 京东 PLUS 联名年卡 140 元、大会员年卡 89 元年内新低",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，</p><p data-vmark=\"95d7\"><span class=\"font-color-red\"><strong>点击详情页【淘金币抵扣】卡片</strong></span>，淘金币可抵 7.33 元，实付为 140.67 元，到手双会员各一年：</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=21504634179",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/060.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T01:15:10.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-lxt43d",
       "title": "小米米家扫拖机器人 6 Max 国补探新低：水箱版 2800 元、上下水版 2981 元",
       "desc": "<p data-vmark=\"cbbb\">小米 · 米家扫拖机器人 6 Max 开售于 2026 年 3 月，支持 AI 识别全景避障，“水箱版”官方定价 6599 元，“上下水版”官方定价 6999 元。</p><p data-vmark=\"a257\">按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，“水箱版”仅需 2800.46 元、“上下水版”仅需 2981.26 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"48ce\">领 8.2 折券：<a href=\"https://coupon.m.jd.com/cou",
@@ -3006,42 +3043,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-ytvgw5",
-      "title": "荣耀预告：MagicOS 11 新版本今日率先向 Magic V6 等机型推送",
-      "desc": "<p data-vmark=\"d645\">IT之家 11 月 6 日消息，荣耀产品维护与升级 @荣耀小芳哥 发布预告，今天 16 点开始，MagicOS 11 新版本将率先向 Magic V6、Magic8 RSR 保时捷设计、Magic8 Pro、Magic8 Pro Air、Magic8 推送；明天推送 Magic V5、Magic7 系列等机型。</p><p data-vmark=\"f842\">据其透露，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/28/16568fbc-46c9-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/341.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T07:05:10.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-5vklmw",
-      "title": "酷态科 10 号 / 15 号电能基站第三轮 OTA 陆续推送，新增功率界面主题切换、识别 iPhone 18/Duo 等",
-      "desc": "<p data-vmark=\"7c40\">IT之家 11 月 6 日消息，酷态科今日宣布，10 号 / 15 号电能基站<strong>第三轮 OTA 陆续推送中</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0a16\">新增功率界面主题切换，充电状态尽在掌握</p></li><li><p data-vmark=\"3e5e\">新增 iPhone 18 系列、iPhone Duo 等机型识别</p></li><li><p data-vmark=\"27f5\">其他用户体验优化</p></li></ul><p data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/085.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T02:10:55.000Z",
-      "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
       "verified": true
     }
   ]
