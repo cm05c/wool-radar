@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-19T18:39:38.417Z",
+  "updatedAt": "2026-11-20T00:55:04.805Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 29,
     "linkVerified": true
   },
   "items": [
@@ -24,6 +24,23 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-f6sn3f",
+      "title": "全新微软中文输入法 - 免费极简无广告，最大特点是无 AI，清爽新设计！",
+      "desc": "输入法本来只是用来打字的，但现在各大输入法越做越臃肿：皮肤商城、热词推荐、弹窗广告、AI 助手、表情包，各种花里胡哨。想认真写作办公，还要一直忍受它们带来的各种干扰。\n微软最近上架了一款全新的「中文输入法」！它没有大张旗鼓地宣传，名字也直白得有点可爱，但卖点很明确：界面超级干净！简洁轻量！无广告无弹窗、词库丰富，支持个人词库迁移。新版「微软中文输入法」还有个最大特色是没有 AI 噱头，界面简约，回归最纯粹的输入法……\n「 前往查看原文.... 」异次元还有这些值得一看：RIME (小狼毫 / 鼠须管 / 中州韵) 输入法 - 开源跨平台流畅纯净无广告/拼音/五笔豆包输入法 - 免费清爽无广告手",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/weiruanshurufa.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T10:21:54.000Z",
+      "hot": 202,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-tmq72a",
@@ -94,6 +111,57 @@
       "_score": 8
     },
     {
+      "id": "rss-euf0k9",
+      "title": "Epic 喜加一：《深渊之印》免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08\">《Mark of the Deep》</a></p><p data-vmark=\"0002\">IT之家附游戏简介：</p><p data-vmark=\"0d30\" style=\"text-alig",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/029/710.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T16:05:21.000Z",
+      "hot": 201,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
+      "id": "rss-q4qz24",
+      "title": "政府补贴 1000 元：iPhone 18 Pro Max 京东 10999 → 9745 元随时结束",
+      "desc": "<p data-vmark=\"095d\">京东自营 iPhone 18 Pro/ Max 直降 300 元，今日大多数地区可叠加 1000 元政府补贴，实付金额如下：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o6ckFhF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oajILhA\" data-iosurl=\"https://u.jd.com/oGcx8T2\" data-androidurl=\"https://u.jd.com/orjID7u\" data-hosnext",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/029/685.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T13:35:59.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 6
+    },
+    {
+      "id": "rss-qlslgb",
+      "title": "iCAR V25 增程方盒子 SUV 上市，限时超级红包价 11.98 万元起",
+      "desc": "<p data-vmark=\"f76b\">IT之家 11 月 19 日消息，今日 iCAR 旗下全新车型 V25 正式上市，新车共推出 4 款配置，官方指导价为 12.98 万 —15.98 万元，限时超级红包价 11.98 万 —14.98 万元。作为一款搭载增程动力系统的方盒子 SUV，iCAR V25 同时提供两驱与四驱版本，最高 CLTC 纯电续航可达 210 公里，综合续航突破 1200 公里。</p><p data-vmark=\"22ac\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/029/675.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T12:53:01.000Z",
+      "hot": 213,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-thaefl",
       "title": "口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能",
       "desc": "",
@@ -162,75 +230,39 @@
       "_score": 4
     },
     {
-      "id": "rss-f6sn3f",
-      "title": "全新微软中文输入法 - 免费极简无广告，最大特点是无 AI，清爽新设计！",
-      "desc": "输入法本来只是用来打字的，但现在各大输入法越做越臃肿：皮肤商城、热词推荐、弹窗广告、AI 助手、表情包，各种花里胡哨。想认真写作办公，还要一直忍受它们带来的各种干扰。\n微软最近上架了一款全新的「中文输入法」！它没有大张旗鼓地宣传，名字也直白得有点可爱，但卖点很明确：界面超级干净！简洁轻量！无广告无弹窗、词库丰富，支持个人词库迁移。新版「微软中文输入法」还有个最大特色是没有 AI 噱头，界面简约，回归最纯粹的输入法……\n「 前往查看原文.... 」异次元还有这些值得一看：RIME (小狼毫 / 鼠须管 / 中州韵) 输入法 - 开源跨平台流畅纯净无广告/拼音/五笔豆包输入法 - 免费清爽无广告手",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/weiruanshurufa.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T10:21:54.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-euf0k9",
-      "title": "Epic 喜加一：《深渊之印》免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08\">《Mark of the Deep》</a></p><p data-vmark=\"0002\">IT之家附游戏简介：</p><p data-vmark=\"0d30\" style=\"text-alig",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/029/710.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T16:05:21.000Z",
-      "hot": 201,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-q4qz24",
-      "title": "政府补贴 1000 元：iPhone 18 Pro Max 京东 10999 → 9745 元随时结束",
-      "desc": "<p data-vmark=\"095d\">京东自营 iPhone 18 Pro/ Max 直降 300 元，今日大多数地区可叠加 1000 元政府补贴，实付金额如下：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o6ckFhF\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oajILhA\" data-iosurl=\"https://u.jd.com/oGcx8T2\" data-androidurl=\"https://u.jd.com/orjID7u\" data-hosnext",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/029/685.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-19T13:35:59.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-qlslgb",
-      "title": "iCAR V25 增程方盒子 SUV 上市，限时超级红包价 11.98 万元起",
-      "desc": "<p data-vmark=\"f76b\">IT之家 11 月 19 日消息，今日 iCAR 旗下全新车型 V25 正式上市，新车共推出 4 款配置，官方指导价为 12.98 万 —15.98 万元，限时超级红包价 11.98 万 —14.98 万元。作为一款搭载增程动力系统的方盒子 SUV，iCAR V25 同时提供两驱与四驱版本，最高 CLTC 纯电续航可达 210 公里，综合续航突破 1200 公里。</p><p data-vmark=\"22ac\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "id": "rss-bz1p0d",
+      "title": "最高 6% 返现：苹果启动 Apple Card 拉新活动，首年最多可拿 1000 美元",
+      "desc": "<p data-vmark=\"0b96\">IT之家 11 月 20 日消息，科技媒体 MacRumors 昨日（11 月 19 日）发布博文，报道称苹果启动新一轮 Apple Card 拉新活动，凡在 12 月 10 日前通过活动页面申请并开通 Apple Card 的 iPhone 用户，开户后首年可享受“每日现金”（Daily Cash）最高 6% 返现翻倍，最高可累计获得 1,000 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6,692 元人民币）</span>奖励。</p><p data-vmark=\"dbb6\">根据官方公告内容，通",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/029/675.htm",
+      "url": "https://www.ithome.com/1/029/772.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-19T12:53:01.000Z",
-      "hot": 213,
+      "publishedAt": "2026-11-20T00:38:07.000Z",
+      "hot": 198,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
       ],
-      "_score": 3,
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-uwf9m6",
+      "title": "微软扩大Windows 11 26H2版自动推送范围 更多设备将自动升级到新版本",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128623.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T00:30:00.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
       "verified": true
     },
     {
@@ -3010,24 +3042,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7suoee",
-      "title": "蚂蚁百灵大模型 Ling 3.2 Flash 发布：三项基准超越 Claude Opus 5，前两周限时免费",
-      "desc": "<p data-vmark=\"1b4a\">IT之家 11 月 6 日消息，蚂蚁百灵官方团队今日宣布推出原生多模态模型 Ling-3.2-flash，拥有 560B 总参数、25B 激活参数、1M 上下文窗口。</p><p data-vmark=\"aae8\">该模型从架构层面原生融合视觉与语言能力，支持图像、文本与视频输入，重点强化复杂视觉理解、多模态长程 Agent、3D 理解与交互、医疗多模态四大能力。</p><p style=\"text-align: center;\" data-vmark=\"594a\"><img src=\"https://img.ithome.com/newsupload",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/043.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T00:00:05.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
