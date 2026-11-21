@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T23:20:21.219Z",
+  "updatedAt": "2026-11-21T04:16:07.743Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 23,
+    "fetched": 24,
     "linkVerified": true
   },
   "items": [
@@ -24,6 +24,23 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-doy1eu",
+      "title": "RackNerd 性价比 VPS 服务器「黑五特价」促销中！终身续费同价",
+      "desc": "很多人都需要用到「国外的 VPS 主机」，省钱省事，用来学习 Linux、编程开发、跑外贸网站、博客，或者用 Docker 自建网盘或各种各样的私有网络服务都非常实用。\n\n最近除推荐的 DMIT、板佤工高端 CN2 GIA 线路、HostDare、VirMarch 等 VPS 服务器主机补货之外，不断被网友推荐的“白菜价”性价比主机品牌 RackN…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/racknerd",
+      "expiresAt": null,
+      "publishedAt": "2026-11-20T19:05:24.000Z",
+      "hot": 200,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-f6sn3f",
@@ -128,21 +145,21 @@
       "_score": 2
     },
     {
-      "id": "rss-doy1eu",
-      "title": "RackNerd 性价比 VPS 服务器「黑五特价」促销中！终身续费同价",
-      "desc": "很多人都需要用到「国外的 VPS 主机」，省钱省事，用来学习 Linux、编程开发、跑外贸网站、博客，或者用 Docker 自建网盘或各种各样的私有网络服务都非常实用。\n\n最近除推荐的 DMIT、板佤工高端 CN2 GIA 线路、HostDare、VirMarch 等 VPS 服务器主机补货之外，不断被网友推荐的“白菜价”性价比主机品牌 RackN…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-l8j5b3",
+      "title": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
+      "desc": "<p data-vmark=\"1d76\">IT之家 11 月 21 日消息，Reddit 用户 @xw1y 昨日发帖称，自己送修的一张 NVIDIA GeForce RTX 5090 Founders Edition 显卡，疑似在欧洲零售商 Proshop 的维修合作方手中被销毁或丢弃。</p><p data-vmark=\"e98e\">据该用户披露，这张 RTX 5090 Founders Edition 32GB 于 2025 年 2 月以为 2,369 欧元<span class=\"exch-money-value \">（IT之家注：现汇率约合 17,394 元人民币）</span>的价格",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/p/racknerd",
+      "url": "https://www.ithome.com/1/030/307.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-20T19:05:24.000Z",
-      "hot": 200,
+      "publishedAt": "2026-11-21T00:44:56.000Z",
+      "hot": 208,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 4,
+      "_score": 3,
       "verified": true
     },
     {
@@ -2886,78 +2903,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-a7lsxs",
-      "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
-      "desc": "<p data-vmark=\"a54a\">IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。</p><p data-vmark=\"94d4\">10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子<strong>神色紧张，</strong><strong>答题状态异常，</strong><strong>行为举止不自然，</strong>当即对其开展核查。</p><p data-vmark=\"1138\">男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/665.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T03:49:42.000Z",
-      "hot": 197,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-8t0qck",
-      "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
-      "desc": "<p data-vmark=\"d2ee\">IT之家 11 月 7 日消息，11 月 6 日，巨星传奇在第九届进博会上首发与宇树科技联合开发的 UNI-DOGGIE 机器狗，售价 43900 元。</p><p data-vmark=\"1855\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/805a0137-f49c-409b-8b56-10e1d5368a14.jpg\" w=\"1280\" h=\"853\" data-weibo=\"0\" class=\"nowebp no-al",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/636.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T01:29:10.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7udoyt",
-      "title": "三星电子 DX 部门员工抗议奖金分配不公，要求现金补偿及管理层道歉",
-      "desc": "<p data-vmark=\"a4f0\">IT之家 11 月 7 日消息，三星电子负责 Galaxy 手机、平板电脑、电视及家电业务的设备体验（DX）部门员工，因绩效奖金分配问题再次表达不满。</p><p data-vmark=\"593d\">据 Business Korea 当地时间 11 月 5 日报道，三星 DX 部门员工所属的“同行工会”（Donghaeng Union）近日在三星电子水原办公区外举行抗议活动，要求公司向 DX 部门员工提供现金补偿，并就此前的奖金分配争议作出道歉，同时要求建立面向 2027 年薪资谈判的联合协商机制。</p><p data-vmark=\"1cda\">此次",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/615.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-06T23:46:35.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-8qtjz4",
-      "title": "保时捷推出 911 Carrera RS 2.7 联名咖啡机，单卖 48200 元",
-      "desc": "<p data-vmark=\"1667\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，保时捷宣布与意大利咖啡机制造商 La Marzocco 合作，推出了一款限量版 Linea Micra 意式浓缩咖啡机和 Pico 咖啡磨豆机，以及咖啡杯、咖啡师毛巾、服饰和汽车模型等周边产品。</p><p data-vmark=\"140d\"><strong>其中</strong>，<strong>磨豆机单卖 12800 元，咖啡机为 48200 元，二者组合套装为 61000 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/632.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T01:06:56.000Z",
-      "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
       "verified": true
     }
   ]
