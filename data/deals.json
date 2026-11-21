@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:00:02.400Z",
+  "updatedAt": "2026-11-21T20:04:00.339Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -94,6 +94,40 @@
       "_score": 2
     },
     {
+      "id": "rss-61zni5",
+      "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
+      "desc": "<p data-vmark=\"50c3\">IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。</p><p data-vmark=\"68d0\">具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识别用户早晨何时起床、何时开始通勤，当系统检测到用户离开家或工作地点时，天气应用便会向用户自动弹出天气预报卡片。</p><p style=\"text-al",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/030/419.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-21T08:53:47.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-sy4b1q",
+      "title": "谷歌AI订阅开启黑五半价促销活动 仅限Plus和Pro订阅 其中Pro订阅首年99.99美元",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "半价",
+      "url": "https://www.landian.news/archives/128700.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-21T05:21:06.000Z",
+      "hot": 215,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-uwf9m6",
       "title": "微软扩大Windows 11 26H2版自动推送范围 更多设备将自动升级到新版本",
       "desc": "",
@@ -126,42 +160,6 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
-    },
-    {
-      "id": "rss-61zni5",
-      "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
-      "desc": "<p data-vmark=\"50c3\">IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。</p><p data-vmark=\"68d0\">具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识别用户早晨何时起床、何时开始通勤，当系统检测到用户离开家或工作地点时，天气应用便会向用户自动弹出天气预报卡片。</p><p style=\"text-al",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/030/419.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-21T08:53:47.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-sy4b1q",
-      "title": "谷歌AI订阅开启黑五半价促销活动 仅限Plus和Pro订阅 其中Pro订阅首年99.99美元",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "半价",
-      "url": "https://www.landian.news/archives/128700.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-21T05:21:06.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
     },
     {
       "id": "rss-l8j5b3",
@@ -2783,23 +2781,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-xdzrcs",
-      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
-      "desc": "<p data-vmark=\"9c50\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，GitHub 发布博文，称上周在 GitHub Universe 大会上，正式公布了全新的 Git 存储架构，代号“Rubicon”。</p><p style=\"text-align: center;\" data-vmark=\"1537\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/12066f19-72f5-46c9-86b6-4343d5cb8997.jpg?x-bce-process=image/format,f_au",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/823.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T14:57:23.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-wdpc6y",
