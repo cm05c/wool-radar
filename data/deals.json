@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:04:00.339Z",
+  "updatedAt": "2026-11-22T00:18:35.770Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -2763,59 +2763,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-wvujrv",
-      "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
-      "desc": "<p data-vmark=\"86de\">IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，<strong>入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件</strong>，<strong>期限为 12 个月</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d407\"><img src=\"https://img.ithome.com/newsupload",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/835.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T23:02:43.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-wdpc6y",
-      "title": "庆祝《霍格沃茨之遗》上线 DLSS 5，英伟达推出定制版 RTX 5090 显卡抽奖活动",
-      "desc": "<p data-vmark=\"70c1\">IT之家 11 月 8 日消息，为庆祝 DLSS 5 于 11 月 5 日登陆《霍格沃茨之遗》，英伟达正在举办抽奖活动，送出一张采用《霍格沃茨之遗》定制主题外观的 GeForce RTX 5090 Founders Edition 显卡。</p><p data-vmark=\"7d7d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f93d921a-241e-4046-a853-8057fdc04484.jpg\" w=\"1440\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/847.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T23:57:55.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-wggb5r",
-      "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
-      "desc": "<p data-vmark=\"0f31\">IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。</p><p style=\"text-align: center;\" data-vmark=\"ade8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f8036356-b9b4-4bcf-8480-37aef7596cb3.jpg\" w=\"1440\" h=\"1440\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/842.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-07T23:40:01.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
       "verified": true
     }
   ]
