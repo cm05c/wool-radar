@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-22T07:26:59.975Z",
+  "updatedAt": "2026-11-22T15:40:33.831Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 26,
+    "fetched": 28,
     "linkVerified": true
   },
   "items": [
     {
-      "id": "rss-ot6xi9",
-      "title": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
-      "desc": "",
-      "channel": "小众软件",
+      "id": "rss-usbckj",
+      "title": "2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选",
+      "desc": "今年的黑色星期五，除了 RackNerd 的 VPS 打折外，还有 BundleHunt 2026 Black Friday Bundle 应用促销！和传统“打包盲盒”完全不同——它是一辆自助购物车，不是一个打包好套餐的箱子，你可以按需购买。\n\n传送门：立即去挑选 APP\nRackNerd 黑五 VPS 促销\n\n共 44 款 App 参与，其中 40 款支持 macOS、10 款支持 Windows（部…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
       "category": "白嫖",
       "value": "",
-      "url": "https://www.appinn.com/uu-remote-vip-pricing/",
+      "url": "https://www.iplaysoft.com/news/6651",
       "expiresAt": null,
-      "publishedAt": "2026-11-19T04:23:31.000Z",
-      "hot": 211,
+      "publishedAt": "2026-11-22T03:46:08.000Z",
+      "hot": 217,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "异次元软件·限免羊毛"
       ],
       "_score": 2
     },
@@ -145,22 +145,93 @@
       "_score": 2
     },
     {
-      "id": "rss-usbckj",
-      "title": "2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选",
-      "desc": "今年的黑色星期五，除了 RackNerd 的 VPS 打折外，还有 BundleHunt 2026 Black Friday Bundle 应用促销！和传统“打包盲盒”完全不同——它是一辆自助购物车，不是一个打包好套餐的箱子，你可以按需购买。\n\n传送门：立即去挑选 APP\nRackNerd 黑五 VPS 促销\n\n共 44 款 App 参与，其中 40 款支持 macOS、10 款支持 Windows（部…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-x6v05f",
+      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+      "desc": "<p data-vmark=\"61af\">IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。</p><p style=\"text-align: center;\" data-vmark=\"b5f4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/278208a0-551e-4812-aa6b-f0e11cb7656d.",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/news/6651",
+      "url": "https://www.ithome.com/1/030/710.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-22T03:46:08.000Z",
-      "hot": 217,
+      "publishedAt": "2026-11-22T13:17:56.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
+      ],
+      "_score": 6,
+      "verified": true
+    },
+    {
+      "id": "rss-xncty9",
+      "title": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价",
+      "desc": "<p data-vmark=\"0af6\">【<strong>手小慎拍</strong>，此款适合大多数男性手掌握持。】</p><p data-vmark=\"3831\">罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。</p><p data-vmark=\"7e96\">今日京东 PLUS 会员国补后低至 323 元，大多数小伙伴点击下方卡片后，京东 App 上部会自动<strong>弹出 51-50 元加码券</strong>，<strong>手动点击“领券”后</strong>仅需 278 元破冰新低：</p><",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "0 元",
+      "url": "https://www.ithome.com/1/030/701.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T11:28:24.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-om37yz",
+      "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
+      "desc": "<p data-vmark=\"6a30\">IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，引发部分玩家不满。肯德基西班牙近日推出名为“Replace the Disc”（替换光盘）的营销活动，玩家只需带上 GTA 6 实体版包装盒，即可免费领取一块制作成光盘形状的炸鸡，借此调侃游戏实体光盘逐渐消失的现状。</p><p data-vmark=\"38ee\">根据肯德基西班牙公布的信息，此次活动将于 12 月 19 日至 20 日举行，每天下午 16:00 至 20:00 开放，参与门店覆盖马德里、巴塞罗那、瓦伦西亚等西班牙城市。玩家只需",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/030/642.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T08:54:52.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-pnh8bj",
+      "title": "Steam 国区 16.8 元起，育碧体育游戏《极限国度》迎 1 折史低",
+      "desc": "<p data-vmark=\"b296\">IT之家 11 月 22 日消息，育碧宣布旗下运动类游戏《极限国度（Riders Republic）》于 Steam 平台开启 1 折史低折扣，本作原价 168 元起，现 1 折后 16.8 元起，优惠将于 12 月 3 日结束，IT之家附 Steam 页面如下（<a href=\"https://store.steampowered.com/app/2290180/Riders_Republic/\" target=\"_blank\">点此访问</a>）。</p><p style=\"text-align: center;\" data-vmark=\"2e99",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1 折",
+      "url": "https://www.ithome.com/1/030/668.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T09:04:32.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
+    },
+    {
+      "id": "rss-ot6xi9",
+      "title": "UU远程开始收费：24元/月起，免费版只剩1080P 30帧",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/uu-remote-vip-pricing/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-19T04:23:31.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-awvrq2",
@@ -2179,23 +2250,6 @@
       "verified": true
     },
     {
-      "id": "rss-sxbmo9",
-      "title": "ChatGPT封号风波：OpenAI的新目标是跨低价区订阅？菲区和土区被封情况也比较严重",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128130.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:12:00.000Z",
-      "hot": 215,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-mi85mg",
       "title": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
       "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7a2c\">京东 11.11 大促期间，活动价 3549 元；</p></li><li><p data-vmark=\"c2e6\">PLUS 会员自动领取 9 折优惠券，可抵 300 元；</p></li><li><p data-vmark=\"baae\">PLUS 会员立减 17.74 元；</p></li><li",
@@ -2664,74 +2718,6 @@
       "verified": true
     },
     {
-      "id": "rss-fetwyr",
-      "title": "日本富士电视台将在所有真人剧集制作中使用 AI，可省七至八成特效制作工序",
-      "desc": "<p data-vmark=\"3050\">IT之家 11 月 8 日消息，据日经亚洲当地时间 6 日报道，富士电视台计划从 2027 年 10 月起，将生成式 AI 应用于<strong>所有真人电视剧的制作</strong>，大幅缩短制作周期。由此，富士电视台将成为日本首家全面引入 AI 参与节目制作的大型商业电视台。</p><p data-vmark=\"983f\">富士电视台<strong>每年制作 16 部电视剧</strong>，计划使用谷歌 AI 图像生成和编辑工具 Nano Banana。AI 制作工作将交给富士电视台 9 月成立的内部实验室 AI Sandbox，主要由东京制作公",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/992.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T12:20:20.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-ffxi5h",
-      "title": "Epic 喜加一：游戏《GMH - Good Morning Human》免费领",
-      "desc": "<p data-vmark=\"5581\">IT之家 11 月 8 日消息，由独立游戏团队 W-9000 Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。</p><p data-vmark=\"8c91\">需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（<a href=\"https://store.epicgames.com/p/good-morning-human-6d0b45\" t",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/023/990.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T11:56:43.000Z",
-      "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4
-    },
-    {
-      "id": "rss-gq47zt",
-      "title": "首发 999 → 788 元：酷派 COOL X Wide 阔直板手机今日开售，搭载联发科曦力 G99 芯片",
-      "desc": "<p data-vmark=\"3e86\">酷派首款阔直板手机 Cool X Wide 今日正式开售，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。</p><p data-vmark=\"8c2b\">今日京东首发可叠加 PLUS 800-80 元神券，国补后低至 788 元起：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"85e7\">PLUS 会员 20:00 2 积分抢 800-80 元：<a href=\"https://u.jd.com/egoXuQ4\" t",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/969.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T10:09:39.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-i93nbx",
-      "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
-      "desc": "<p data-vmark=\"9bff\">‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。</p><p data-vmark=\"7a2c\">今日京东 PLUS 超级补贴后直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eaofGDo\" target=\"_blank\" data-wapurl=\"https://u.jd.com/e1okO0j\" data-iosurl=\"h",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/023/932.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:15:25.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-wf5p6n",
       "title": "腾讯 Workbuddy 致歉：未及时公告优惠活动调整，DeepSeek-V4.1 Flash 积分消耗 5 折结算返还",
       "desc": "<p data-vmark=\"8ef7\">IT之家 11 月 9 日消息，腾讯 Workbuddy 昨晚发布公告，对 DeepSeek-V4.1 Flash 折扣活动进行了说明。</p><p style=\"text-align: center;\" data-vmark=\"3e47\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/43cb18f3-d2b8-4de8-bb80-2b374b7e0715.jpg\" w=\"1280\" h=\"1707\" data-weibo=\"0\" class=\"nowebp no-alt-img\" ",
@@ -2742,58 +2728,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-08T23:26:34.000Z",
       "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-imui5y",
-      "title": "续航增强版京东破 800：苹果 AirPods 5 无线充电盒版 1149 → 793.8 元国补新低",
-      "desc": "<p data-vmark=\"43f3\">今日京东自营 AirPods 大促加码，AirPods 5 无线充电盒版支持使用 800-80 元神券。</p><p data-vmark=\"87c8\">官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元（本次国补<strong>限地区</strong>）。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5c27\">京东 11.11 苹果新品加补券：<a href=\"https://u.jd.com/e6okLqV\" target=\"_blank\" da",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/928.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T09:03:15.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-j8ahb1",
-      "title": "“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆",
-      "desc": "<p data-vmark=\"6f9d\">IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。</p><p data-vmark=\"f661\">当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，<strong>里程表读数刚超过 1600km</strong>，据称车内外都保持着极佳状",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/023/910.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T07:31:03.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-inearb",
-      "title": "网传大疆将于 11 月 18 日调涨 Osmo Pocket 4/4P/Nano 价格，据称“单台最高涨 500 元”",
-      "desc": "<p data-vmark=\"831c\">IT之家 11 月 8 日消息，从 11 月 6 日开始，许多用户在各大平台发帖，称大疆将于 11 月 18 日上调 Osmo Pocket 4/4P/Nano 价格，据称“最高涨幅达 13%，单台最高涨 500 元”，评论区也有用户称“自己给大疆打了电话说消息属实”，但也有用户称“销售尚未收到通知”。</p><p style=\"text-align: center;\" data-vmark=\"0568\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f4b6e1fd-eb2d-422",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/023/927.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T08:59:12.000Z",
-      "hot": 205,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
