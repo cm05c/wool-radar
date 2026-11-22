@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-22T00:18:35.770Z",
+  "updatedAt": "2026-11-22T07:26:59.975Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 25,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -94,23 +94,6 @@
       "_score": 2
     },
     {
-      "id": "rss-61zni5",
-      "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
-      "desc": "<p data-vmark=\"50c3\">IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。</p><p data-vmark=\"68d0\">具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识别用户早晨何时起床、何时开始通勤，当系统检测到用户离开家或工作地点时，天气应用便会向用户自动弹出天气预报卡片。</p><p style=\"text-al",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/030/419.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-21T08:53:47.000Z",
-      "hot": 154,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-sy4b1q",
       "title": "谷歌AI订阅开启黑五半价促销活动 仅限Plus和Pro订阅 其中Pro订阅首年99.99美元",
       "desc": "",
@@ -158,6 +141,59 @@
       "tags": [
         "RSS",
         "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-usbckj",
+      "title": "2026 黑五 Mac 软件大促：BundleHunt 44 款 App 全场任选",
+      "desc": "今年的黑色星期五，除了 RackNerd 的 VPS 打折外，还有 BundleHunt 2026 Black Friday Bundle 应用促销！和传统“打包盲盒”完全不同——它是一辆自助购物车，不是一个打包好套餐的箱子，你可以按需购买。\n\n传送门：立即去挑选 APP\nRackNerd 黑五 VPS 促销\n\n共 44 款 App 参与，其中 40 款支持 macOS、10 款支持 Windows（部…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/news/6651",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T03:46:08.000Z",
+      "hot": 217,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-awvrq2",
+      "title": "33.99 万元起：全新雷克萨斯 ES 纯电版上市",
+      "desc": "<p data-vmark=\"f269\">IT之家 11 月 22 日消息，全新雷克萨斯 ES 纯电版今日正式上市，提供 2 种车型，<strong>定价 33.99 万元起。该车采用宁德时代三元锂离子电芯</strong>，具备“交互式模拟手动换挡系统 IMD”。现阶段订车可享 5 年 0 息、8 年 / 16 万公里内电池免费保修、10 年三电保修、赠送充电桩等权益。</p><p style=\"text-align: center;\" data-vmark=\"0b2f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f2d",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/030/564.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T04:29:56.000Z",
+      "hot": 197,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-61zni5",
+      "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
+      "desc": "<p data-vmark=\"50c3\">IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。</p><p data-vmark=\"68d0\">具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识别用户早晨何时起床、何时开始通勤，当系统检测到用户离开家或工作地点时，天气应用便会向用户自动弹出天气预报卡片。</p><p style=\"text-al",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/030/419.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-21T08:53:47.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2
     },
