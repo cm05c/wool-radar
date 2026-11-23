@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-22T21:16:19.761Z",
+  "updatedAt": "2026-11-23T01:58:15.042Z",
   "source": "fetcher",
   "stats": {
-    "sourcesOk": 5,
+    "sourcesOk": 4,
     "sourcesTotal": 5,
-    "fetched": 29,
+    "fetched": 25,
     "linkVerified": true
   },
   "items": [
@@ -128,40 +128,6 @@
       "_score": 4
     },
     {
-      "id": "rss-pnh8bj",
-      "title": "Steam 国区 16.8 元起，育碧体育游戏《极限国度》迎 1 折史低",
-      "desc": "<p data-vmark=\"b296\">IT之家 11 月 22 日消息，育碧宣布旗下运动类游戏《极限国度（Riders Republic）》于 Steam 平台开启 1 折史低折扣，本作原价 168 元起，现 1 折后 16.8 元起，优惠将于 12 月 3 日结束，IT之家附 Steam 页面如下（<a href=\"https://store.steampowered.com/app/2290180/Riders_Republic/\" target=\"_blank\">点此访问</a>）。</p><p style=\"text-align: center;\" data-vmark=\"2e99",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "1 折",
-      "url": "https://www.ithome.com/1/030/668.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-22T09:04:32.000Z",
-      "hot": 212,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-om37yz",
-      "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
-      "desc": "<p data-vmark=\"6a30\">IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，引发部分玩家不满。肯德基西班牙近日推出名为“Replace the Disc”（替换光盘）的营销活动，玩家只需带上 GTA 6 实体版包装盒，即可免费领取一块制作成光盘形状的炸鸡，借此调侃游戏实体光盘逐渐消失的现状。</p><p data-vmark=\"38ee\">根据肯德基西班牙公布的信息，此次活动将于 12 月 19 日至 20 日举行，每天下午 16:00 至 20:00 开放，参与门店覆盖马德里、巴塞罗那、瓦伦西亚等西班牙城市。玩家只需",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/030/642.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-22T08:54:52.000Z",
-      "hot": 211,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-sy4b1q",
       "title": "谷歌AI订阅开启黑五半价促销活动 仅限Plus和Pro订阅 其中Pro订阅首年99.99美元",
       "desc": "",
@@ -194,6 +160,40 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-pnh8bj",
+      "title": "Steam 国区 16.8 元起，育碧体育游戏《极限国度》迎 1 折史低",
+      "desc": "<p data-vmark=\"b296\">IT之家 11 月 22 日消息，育碧宣布旗下运动类游戏《极限国度（Riders Republic）》于 Steam 平台开启 1 折史低折扣，本作原价 168 元起，现 1 折后 16.8 元起，优惠将于 12 月 3 日结束，IT之家附 Steam 页面如下（<a href=\"https://store.steampowered.com/app/2290180/Riders_Republic/\" target=\"_blank\">点此访问</a>）。</p><p style=\"text-align: center;\" data-vmark=\"2e99",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "1 折",
+      "url": "https://www.ithome.com/1/030/668.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T09:04:32.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-om37yz",
+      "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
+      "desc": "<p data-vmark=\"6a30\">IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，引发部分玩家不满。肯德基西班牙近日推出名为“Replace the Disc”（替换光盘）的营销活动，玩家只需带上 GTA 6 实体版包装盒，即可免费领取一块制作成光盘形状的炸鸡，借此调侃游戏实体光盘逐渐消失的现状。</p><p data-vmark=\"38ee\">根据肯德基西班牙公布的信息，此次活动将于 12 月 19 日至 20 日举行，每天下午 16:00 至 20:00 开放，参与门店覆盖马德里、巴塞罗那、瓦伦西亚等西班牙城市。玩家只需",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/030/642.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-22T08:54:52.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
     },
     {
       "id": "rss-thaefl",
@@ -1881,24 +1881,6 @@
       "verified": true
     },
     {
-      "id": "rss-xc5csb",
-      "title": "今日结束：B站 x 京东 PLUS 联名年卡 141 元、大会员年卡 89 元大促",
-      "desc": "<p data-vmark=\"4631\">B站大会员年卡 + 京东 PLUS 年卡日常售价 258 元，现 11.11 大促价为 148 元，</p><p data-vmark=\"95d7\"><span class=\"font-color-red\"><strong>点击详情页【淘金币抵扣】卡片</strong></span>，淘金币可抵 6.99 元，实付为 141.01 元，到手双会员各一年：</p><dir><a href=\"https://uland.taobao.com/coupon/edetail?traceId=215046d217941863831871845e0bed&amp;",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/043.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T01:07:39.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
       "id": "rss-wr6inv",
       "title": "终于低过 5000 元：iPhone 17 手机双重补贴后 4990 元近期好价",
       "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，11.11 大促期间，今日移动京东自营旗舰店补贴价 5799 元；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4e0b\">下单领取 200 元优惠券；</p></li><li><p data-vmark=\"7394\">国补立减 500 元；</p></li><li><p data-vmark=\"65d5\">PLUS 会员立减 28.99 元；</p></li><li><p data-vmark=\"05ac\">PLUS 会员领取",
@@ -2724,24 +2706,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-09T06:08:41.000Z",
       "hot": 156,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-wf5p6n",
-      "title": "腾讯 Workbuddy 致歉：未及时公告优惠活动调整，DeepSeek-V4.1 Flash 积分消耗 5 折结算返还",
-      "desc": "<p data-vmark=\"8ef7\">IT之家 11 月 9 日消息，腾讯 Workbuddy 昨晚发布公告，对 DeepSeek-V4.1 Flash 折扣活动进行了说明。</p><p style=\"text-align: center;\" data-vmark=\"3e47\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/43cb18f3-d2b8-4de8-bb80-2b374b7e0715.jpg\" w=\"1280\" h=\"1707\" data-weibo=\"0\" class=\"nowebp no-alt-img\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "5 折",
-      "url": "https://www.ithome.com/1/024/025.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-08T23:26:34.000Z",
-      "hot": 219,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
