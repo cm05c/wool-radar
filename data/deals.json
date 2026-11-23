@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-11-23T10:41:45.426Z",
+  "updatedAt": "2026-11-23T22:14:58.203Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-9qag96",
+      "title": "Parallels Desktop 27 最新优惠，黑五史低 249元/年，：在 Mac 上运行多个操作系统",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/parallels-desktop-27/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-23T02:50:33.000Z",
+      "hot": 157,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ls8abh",
       "title": "RackNerd 2026 黑五特价 15.98 刀/年，高性价比（廉价）VPS 提供商，支持支付宝、银联卡[2026.11.22]",
@@ -111,21 +128,73 @@
       "_score": 2
     },
     {
-      "id": "rss-9qag96",
-      "title": "Parallels Desktop 27 最新优惠，黑五史低 249元/年，：在 Mac 上运行多个操作系统",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
+      "id": "rss-kxaf8s",
+      "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+      "desc": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
       "value": "",
-      "url": "https://www.appinn.com/parallels-desktop-27/",
+      "url": "https://sspai.com/post/119023",
       "expiresAt": null,
-      "publishedAt": "2026-11-23T02:50:33.000Z",
-      "hot": 157,
+      "publishedAt": "2026-11-23T07:12:24.000Z",
+      "hot": 207,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "少数派·RSS"
       ],
-      "_score": 2,
+      "_score": 2
+    },
+    {
+      "id": "rss-vbcf0p",
+      "title": "你发给AI的数据不存在保密说法：研究员向AI服务发送近200万条诱饵提示词后发现泄露情况",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128705.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-23T02:30:00.000Z",
+      "hot": 218,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-2wiha3",
+      "title": "DediRock 白菜低价 VPS 黑五促销开启！主打便宜/大硬盘的美国服务器",
+      "desc": "说到美国低价 VPS，大家都会想到「Racknerd」，在业内算比较让人放心。而其他低价商家实在是鱼龙混杂，跑路、超售、机器三天两头失联的比比皆是。所以每次遇到有白菜价格、但口碑在线、用心在经营的商家，都值得上安利一波。今天要推荐的，就是「DediRock」！\n\n前往：DediRock 官网\nDediRock 优惠码：1…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/dedirock",
+      "expiresAt": null,
+      "publishedAt": "2026-11-23T12:41:30.000Z",
+      "hot": 150,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 5,
+      "verified": true
+    },
+    {
+      "id": "rss-6m1y7a",
+      "title": "《GTA 6》上市以来首个游戏更新补丁 1.002.002 开始陆续推送：PS5 版 603MB、XBOX 版 1.6 GB",
+      "desc": "<p data-vmark=\"5a9b\">IT之家 11 月 23 日消息，Rockstar Games 现已开始为《GTA 6》推送上市以来的首个更新补丁，版本号为 1.002.002，PS5 版本包体积为 603 MB，XBOX Series X|S 版本包体积为 1.60 GB。</p><p style=\"text-align: center;\" data-vmark=\"dfc0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c374a28e-10c5-4e2b-954c-bc68b3c2f04d.jpg\" w=\"79",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/031/167.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-23T11:23:53.000Z",
+      "hot": 154,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
       "verified": true
     },
     {
@@ -160,42 +229,6 @@
       "tags": [
         "RSS",
         "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-vbcf0p",
-      "title": "你发给AI的数据不存在保密说法：研究员向AI服务发送近200万条诱饵提示词后发现泄露情况",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128705.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-23T02:30:00.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-kxaf8s",
-      "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-      "desc": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/119023",
-      "expiresAt": null,
-      "publishedAt": "2026-11-23T07:12:24.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
       ],
       "_score": 2,
       "verified": true
@@ -2352,312 +2385,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-zbjjgf",
-      "title": "国补后 1899 → 1387 元：HKC 猎鹰“27U165A”27 英寸显示器新低，4K 165Hz/1080P 320Hz 双模",
-      "desc": "<p data-vmark=\"0000\">HKC 旗下猎鹰“27U165A”27 英寸双模显示器开售于 2026 年 7 月，官方定价 1899 元。</p><p data-vmark=\"c46f\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 1387.67 元：</p><p data-vmark=\"447b\">领 1500-180 元券：<a href=\"https://u.jd.com/orMfypV\" target=\"_blank\" data-wapurl=\"https://u.jd.com/oGMZFTR\" data-iosurl=\"htt",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/544.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T13:36:38.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-zc3c1s",
-      "title": "5999 → 1458 元：石头 H1 分子筛洗烘一体机 12kg 新低，毛絮滤网全清洁免动手",
-      "desc": "<p data-vmark=\"ab23\">石头分子筛洗烘一体机 H1 12kg，上市定价 5999 元，今年日常标价 4299 元。</p><p data-vmark=\"8c11\">京东今日按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 <strong>1519 元</strong>。</p><p data-vmark=\"0df6\">京东 PLUS 会员 2 积分兑换 800-80 元神券：<a href=\"https://u.jd.com/oOMyDBk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o1M2d2e\" data-i",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/024/543.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T13:33:35.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-zd6x8i",
-      "title": "3199 → 2685 元：HKC“天启 27Q320B”26.5 英寸显示器新低，搭三星 2K 320Hz QD-OLED Penta Tandem 面板",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"97a1\">惠科旗下“天启 27Q320B”26.5 英寸显示器 2026 年 9 月开售，首发价 3199 元：</p><p data-vmark=\"997b\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 2684.8 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0462\">领 1500-180 元券：<a href=\"https://u.jd.com/o",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/541.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T13:28:12.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-z7z3j5",
-      "title": "8499 → 6548 元：OPPO Find X9 Ultra 手机 16+512G 新低，搭载骁龙 8E Gen5 旗舰处理器",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"c18a\">OPPO Find X9 Ultra 开售于 2026 年 4 月，16GB+512GB 定价 8499 元。</p><p data-vmark=\"7c0c\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 6548.86 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"33f7\">领 860 元券：<a href=\"https://u.jd.com/oDMCR",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/533.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T13:02:08.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-yu88p4",
-      "title": "国补后 599 → 405 元：漫步者 R1700BT+ 蓝牙音箱 11.11 探新低",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cf56\">漫步者 R1700BT+ 蓝牙音箱发布于 2023 年 6 月，官方上市价为 599 元。</p><p data-vmark=\"1b4c\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 404.68 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3891\">领 9 折音频券：<a href=\"https://u.jd.com/o6C5t1N\" tar",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/024/529.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:54:45.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-z92opv",
-      "title": "799 → 505 元：小米耳夹式耳机京东新低，单只耳机重 5.5g + 高性能记忆钛丝",
-      "desc": "<p data-vmark=\"8999\">【本次国补<strong>限地区</strong>，小伙伴们可点击下方卡片，测试本地是否支持国补。】</p><p data-vmark=\"6910\">小米耳夹式耳机今年 5 月正式发布，首销价<strong> 799 元</strong>。</p><p data-vmark=\"58ec\">大部分地区支持 15% 政府补贴，国补后<strong>仅需 570 元</strong>官方好价：</p><dir><a href=\"https://u.jd.com/orMDsPM\" target=\"_blank\" contenteditable=\"false\" ",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/535.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T13:05:12.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-ytog3r",
-      "title": "国补后 8449 → 4780 元：尼康 Z 6II 全画幅微单京东 11.11 破冰新低",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"46f2\">尼康 Z 6II 全画幅微单相机发售于 2020 年 10 月 14 日，今年日常价为 8449 元。</p><p data-vmark=\"5329\">京东 11.11 大促期间，叠加 PLUS 立减 + 15% 国补后仅需 4780.05 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d65e\">领 200-25 元券：<a href=\"https://u.jd.com/o1CFBAx\" t",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/024/528.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:50:03.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-yt4nie",
-      "title": "Meta 为 Quest 系列头显推送 Horizon OS 2.10 公测版：全新虚拟影院环境、小改系统启动器布局...",
-      "desc": "<p data-vmark=\"a11c\">IT之家 11 月 9 日消息，Meta 近日开始向 Quest 系列头显推送 Horizon OS 2.10（v210）系统的公开测试频道（PTC）版本，带来全新的 Theater 虚拟影院环境，并重新设计系统启动器 Navigator 界面，同步改进了窗口缩放体验，IT之家整理具体更新内容如下：</p><p data-vmark=\"2a18\">Horizon OS 2.10 PTC 最大的特性是新增了名为 Theater 的虚拟影院环境，采用大型家庭影院风格设计，并配备高分辨率纹理。与传统 VR Home 家庭环境不同，用户无需将其设置为默认主页，",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/024/527.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:46:34.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-yqxh4y",
-      "title": "京东自营 499 → 309 元：漫步者 MR4 监听音箱 11.11 国补新低",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"5722\">漫步者 MR4 有源 2.0 监听音箱日常售价 499 元。</p><p data-vmark=\"180b\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 309.35 元</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"e0de\">领 9 折音频券：<a href=\"https://u.jd.com/oOCUcaW\" target=\"_blank\" dat",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/024/523.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:38:59.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-yptvy8",
-      "title": "以旧换新后 1843 元：漫步者 S3000MKII 蓝牙音响 11.11 国补新低",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"6d8b\">漫步者 S3000MKII 蓝牙音响发售于 2022 年 3 月，今年日常价为 2680 元。</p><p data-vmark=\"b209\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1843.14 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"7095\">领 9 折音频券：<a href=\"https://u.jd.com/orCcPnS\" target=\"_b",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/024/521.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:32:20.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-yc3147",
-      "title": "16GB+512GB 版 7999 → 6726 元：小米 17 Ultra 徕卡版国补直降",
-      "desc": "<h3 data-vmark=\"93fd\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"c14e\">小米 17 Ultra 徕卡版开售于 2025 年 12 月 25 日，16GB + 512GB 定价 7999 元。</p><p data-vmark=\"84c8\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6726.61 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f29a\">领 1180 元券：<a href=\"https://u.jd.",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/024/517.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:20:50.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-ybj8iu",
-      "title": "1299 → 879~931 元：华为 FreeClip 2 耳夹耳机国补后京东 PLUS 新低",
-      "desc": "<p data-vmark=\"8999\">华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营 PLUS 会员可享：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b36d\">多城支持立减 150 元 + 支持 15% 国补，折后 879 元。</p></li><li><p data-vmark=\"d558\">多城支持立减 150 元 + 支持 10% 国补，折后 931 元。</p></li><li><p data-vmark=\"f1f7\">京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：<",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/024/516.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:17:49.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 6,
-      "verified": true
-    },
-    {
-      "id": "rss-yafnc4",
-      "title": "1298 → 699 元：韶音 OpenDots 2 耳夹耳机闭眼囤，支持 IP57+ 杜比音效",
-      "desc": "<p data-vmark=\"7b4b\">韶音 OpenDots 2 耳夹耳机 2026 年 5 月开售，首发价 1298 元。</p><p data-vmark=\"cf98\">今日京东旗舰店直降至 <strong>859 元</strong>，京东 PLUS 会员可用 2 积分抢 800-80 元神券，券后仅需 779 元。</p><p data-vmark=\"1547\">11 月 9 日 20~24 点下单返 50 元 E 卡，晒单再返 30 元 E 卡 + 小米 2 万毫安充电宝 + 韶音保温杯 + 绿联无线充电器。</p><p data-vmark=\"b2b8\">返卡后折合仅需 699",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9.3 折",
-      "url": "https://www.ithome.com/1/024/514.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:14:39.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-yskux1",
-      "title": "66W 大功率：漫步者 N300 有源桌面音箱 749 → 491 元国补探新低",
-      "desc": "<h3 data-vmark=\"eb82\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"f0d3\">漫步者 N300 有源桌面音箱发售于 2024 年 5 月中旬，<span class=\"accentTextColor\">主打“</span><span class=\"accentTextColor\">双 Hi-Res（Hi-Res 和 Hi-Res 无线）认证”</span>，首发价 749 元。</p><p data-vmark=\"64ea\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 491.33 元：</",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "9 折",
-      "url": "https://www.ithome.com/1/024/526.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T12:44:54.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-xsu8ck",
-      "title": "创维 F22B21F 显示器开售：21.45 英寸 1080P 120Hz，到手价 379 元",
-      "desc": "<p data-vmark=\"274c\">IT之家 11 月 9 日消息，创维 F22B21F 显示器今晚 20:00 开售，标价 421 元，<strong>补贴到手价 379 元</strong>。</p><p data-vmark=\"d15c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7145c473-1933-41d5-8fd3-0bb5830fd301.jpg\" w=\"1440\" h=\"2013\" data-vmark=\"c807\" data-mpos=\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/024/503.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T11:44:04.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xuhm4n",
-      "title": "600° 近视调节 + 等效 188 英寸索尼屏：魅族 AR 智能眼镜 2399 → 755 元新低",
-      "desc": "<p data-vmark=\"aaa9\">魅族 AR 智能眼镜 StarV View 于 2024 年 9 月开售，该款眼镜拥有 700nit 峰值亮度，支持 120Hz 高刷，首发价 2499 元。</p><p data-vmark=\"8969\">今日京东直降至 835 元，支持 6 期免息。</p><p data-vmark=\"8404\">京东 PLUS 会员 11 月 9 日 20:00 可 2 积分抢 800-80 元神券：<a href=\"https://u.jd.com/orC1dEc\" target=\"_blank\" data-wapurl=\"https://u.jd.com/o",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/024/506.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T11:49:12.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-xrqn5u",
-      "title": "8 年杜邦陶氏 RO 膜：京东京造 1400 通量净水器 1899 → 939 元直降，赠 189 元 PPC 滤芯",
-      "desc": "<p data-vmark=\"216b\">京东京造 · 飞跃 1400 通量 * 1200G 净水器定价 1899 元，今日 20:00 直降至 1199 元，另外再返 200 元红包，折合仅需 <strong>999 元</strong>即可入手，加赠 <strong>189 元 PPC 滤芯</strong>。</p><p data-vmark=\"25bd\">京东 PLUS 会员 11 月 9 日 20:00 可 2 积分抢 800-80 元神券：<a href=\"https://u.jd.com/orC1dEc\" target=\"_blank\" data-wapurl=\"https://",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/024/501.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-09T11:40:13.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
       "verified": true
     }
   ]
