@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-24T18:18:29.329Z",
+  "updatedAt": "2026-11-25T02:46:09.558Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 27,
+    "fetched": 28,
     "linkVerified": true
   },
   "items": [
@@ -41,6 +41,40 @@
         "小众软件·限免频道"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-o22gjf",
+      "title": "最新 Parallels Desktop 27 虚拟机激活码史低！在 Mac 上流畅运行 Win11 系统和软件",
+      "desc": "买了 Mac 之后，你是不是也遇到过这种抓狂时刻：公司指定的软件只有 Windows 版，券商看盘软件不支持 Mac，财务软件死活装不上，好不容易在 Epic 领个免费游戏，压根没 Mac 版。\n就为了这偶尔的需求再添一台 PC？钱包和桌面都受不了。其实真不用纠结，在 Mac 上装一个 Parallels Desktop 27 虚拟机，就能让 Win+Mac 两套系统同时运行！不用重启、不用来回切换，直接在 macOS 上运行 Win 应用软件。 PD27 升级后跑得更流畅，AI 计算也搬上了本地……\n「 前往查看原文.... 」异次元还有这些值得一看：Parallels Desktop 27",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/pd27.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-24T08:35:23.000Z",
+      "hot": 211,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-pjtatf",
+      "title": "永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)",
+      "desc": "最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。\n\n最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV 连接以及 rclone 数据同…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
+      "channel": "异次元",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.iplaysoft.com/p/koofr",
+      "expiresAt": null,
+      "publishedAt": "2026-11-24T07:30:05.000Z",
+      "hot": 212,
+      "tags": [
+        "RSS",
+        "异次元软件·限免羊毛"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-2wiha3",
@@ -128,23 +162,6 @@
       "_score": 3
     },
     {
-      "id": "rss-ghwgm6",
-      "title": "双 11 打折好价整理！全网视频 VIP / 网盘会员 / 软件打折都在这了…",
-      "desc": "又是一年一度「双十一大促」了！无论是京东、天猫，还是「腾讯云、阿里云」等商家都会发力，这对买买党来说肯定特别幸福了。不过对于咱们而言，软件、游戏的促销同样值得关注！\n异次元特意收集了最近双 11 精选软件/会员等促销活动， 力度诚意都不错。包括百度网盘、哔哩哔哩、WPS会员、腾讯视频、爱奇艺、网易云；还有正版软件打折比如数码荔枝、ApsGo软购 等；另外还会收集一些值得入手的好价数码产品或 VPS 服务器优惠等等……\n「 前往查看原文.... 」异次元还有这些值得一看：618 必看汇总！这些 VIP 会员打折直接“巅峰”好价！闭眼入就对了……免费领取 Apple Music 苹果音乐 3 个月",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.iplaysoft.com/1111.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T21:00:48.000Z",
-      "hot": 203,
-      "tags": [
-        "RSS",
-        "异次元软件·限免羊毛"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-kxaf8s",
       "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
       "desc": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
@@ -162,37 +179,55 @@
       "_score": 2
     },
     {
-      "id": "rss-pjtatf",
-      "title": "永久 1TB 空间！Koofr - 支持 WebDAV 的终身免费 10G 网盘 (Rclone / 挂载 OneDrive)",
-      "desc": "最近一直在为几台 VPS 服务器数据备份在烦恼，还有考虑到 NAS、电脑文件的异地备份，想找一台大硬盘的 VPS 或用 S3 云存储，但找了一圈，大空间的 VPS 年费实在都太贵了。\n\n最近挖到了一款“冷门”的宝藏云网盘 Koofr，它不仅有永久免费不限速 10G 空间，最关键是完美支持 WebDAV 连接以及 rclone 数据同…… 「 前往查看原文.... 」异次元首页  |  微信公众号  |  关注微博  |  软件精选  |  软件激活码折扣]]>",
-      "channel": "异次元",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.iplaysoft.com/p/koofr",
+      "id": "rss-vtg6bn",
+      "title": "APF 5.3 新一级能效：海信 E291 大 1.5 匹空调挂机天猫自营 1372 元国补新低",
+      "desc": "<p data-vmark=\"eb55\">海信 E291 大 1.5 匹挂机 KFR-35GW/E291-X1 日常售价 1999 元。</p><p data-vmark=\"2755\">天猫官方自营报价 3799 元，叠加下方多重优惠后，仅需 1371.9 元 + 整机 6 年质保 +180 天延保：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c7ef\">自营补贴 1600 元 + 限时补贴 555 元；</p></li><li><p class=\"p1\" data-vmark=\"8511\" style=\"text-align:",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "5 折",
+      "url": "https://www.ithome.com/1/031/951.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-24T07:30:05.000Z",
-      "hot": 212,
+      "publishedAt": "2026-11-25T01:45:00.000Z",
+      "hot": 218,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
       ],
-      "_score": 4,
+      "_score": 3,
       "verified": true
     },
     {
-      "id": "rss-o22gjf",
-      "title": "最新 Parallels Desktop 27 虚拟机激活码史低！在 Mac 上流畅运行 Win11 系统和软件",
-      "desc": "买了 Mac 之后，你是不是也遇到过这种抓狂时刻：公司指定的软件只有 Windows 版，券商看盘软件不支持 Mac，财务软件死活装不上，好不容易在 Epic 领个免费游戏，压根没 Mac 版。\n就为了这偶尔的需求再添一台 PC？钱包和桌面都受不了。其实真不用纠结，在 Mac 上装一个 Parallels Desktop 27 虚拟机，就能让 Win+Mac 两套系统同时运行！不用重启、不用来回切换，直接在 macOS 上运行 Win 应用软件。 PD27 升级后跑得更流畅，AI 计算也搬上了本地……\n「 前往查看原文.... 」异次元还有这些值得一看：Parallels Desktop 27",
-      "channel": "异次元",
-      "category": "白嫖",
+      "id": "rss-xmvoxm",
+      "title": "Meta 将 Muse 智能体引入 Instagram 私信，省去来回切换 App 麻烦",
+      "desc": "<p data-vmark=\"7abb\">IT之家 11 月 25 日消息，Meta 现已将 Muse 引入 Instagram 私信，让用户可以直接在 IG 与这款 AI 智能体对话。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场。</p><p style=\"text-align: center;\" data-vmark=\"c17d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a8825530-84f1-427e-9efc-cf603af6c7ea.jpg\" w=\"1440\" h=\"810\" data-weibo",
+      "channel": "IT之家",
+      "category": "资讯",
       "value": "",
-      "url": "https://www.iplaysoft.com/pd27.html",
+      "url": "https://www.ithome.com/1/031/916.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-24T08:35:23.000Z",
-      "hot": 211,
+      "publishedAt": "2026-11-24T23:44:22.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
-        "异次元软件·限免羊毛"
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-xp2vb2",
+      "title": "IT早报 1125：最高 883 元用一天鸿蒙奖 1 元；黄仁勋承认多段婚外情并向英伟达董事会致歉；12999 元起华为 Mate X8 折叠屏发布；曝豆包灰测购物一级入口...",
+      "desc": "<p data-vmark=\"6d6d\">“IT早报”时间，大家好，现在是 2026 年 11 月 25 日星期三，今天的重要科技资讯有：</p><h2 data-vmark=\"a8e9\">1. 华为“发钱”了：鸿蒙一亿感恩有礼活动细则公开，设备使用一天 = 100 积分，最高价值 883 元</h2><p data-vmark=\"7e5a\">在 11 月 24 日的 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/11/24/13ec0662-800e-4bc0-b509-a973c5d12e3",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "8 折",
+      "url": "https://www.ithome.com/1/031/912.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-24T23:20:31.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
       ],
       "_score": 2,
       "verified": true
@@ -2001,114 +2036,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-z5i7tk",
-      "title": "Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展",
-      "desc": "<p data-vmark=\"0e8e\">IT之家 11 月 11 日消息，Anthropic 今日宣布修复了一项小 Bug，并为 Claude Pro、Max、Ultra 和 Team 用户提供一次免费的完整额度重置，覆盖所有模型及使用限制。</p><p data-vmark=\"526c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9972b8b4-115c-436d-a913-802e7009e14a.png\" w=\"898\" h=\"1011\" data-snap",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/292.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T01:51:02.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-wuha81",
-      "title": "微软正式发布 .NET 11：开发更省时，AI 工具更齐全",
-      "desc": "<p data-vmark=\"e0da\">IT之家 11 月 11 日消息，昨日（11 月 10 日）召开的.NET Conf 2026 线上大会上，<strong>微软正式发布 .NET 11，围绕运行性能、开发效率及 AI 应用构建推出一系列更新，覆盖网页、移动端和桌面应用开发。</strong></p><p style=\"text-align: center;\" data-vmark=\"2904\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/41da59a0-3009-44b7-9f32-a9dfea7f004a.pn",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/246.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T01:23:02.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-xd6aeb",
-      "title": "微软 Win11 推送 11 月累积更新：更新自动播放对话框、修复部分 USB 音频“代码 10”错误",
-      "desc": "<p data-vmark=\"03fa\">IT之家 11 月 11 日消息，在本月补丁星期二活动日（11 月 10 日），<strong>微软面向 Windows 11 26H2/25H2/24H2 系统，推送累积安全更新 KB5132061</strong>，安装后系统版本号分别升至 26300.9974、26200.9974 和 26100.9974。<strong>其中，24H2 此次仅覆盖企业版和教育版。</strong></p><p data-vmark=\"b8eb\">此次更新重点解决多项影响日常使用的问题，<a href=\"https://www.ithome.com/1/001/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/259.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T01:35:26.000Z",
-      "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-uzedtz",
-      "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
-      "desc": "<p data-vmark=\"c915\">IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。</p><p data-vmark=\"dc7d\">谷歌 Google Store 与 Google Fi 副总裁 Mauria Finley 在官方博客中介绍称，该功能将面向符合条件的 Google Fi 用户免费提供。</p><p style=\"text-align:",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/208.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T23:01:30.000Z",
-      "hot": 217,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-wr6inv",
-      "title": "终于低过 5000 元：iPhone 17 手机双重补贴后 4990 元近期好价",
-      "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，11.11 大促期间，今日移动京东自营旗舰店补贴价 5799 元；</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"4e0b\">下单领取 200 元优惠券；</p></li><li><p data-vmark=\"7394\">国补立减 500 元；</p></li><li><p data-vmark=\"65d5\">PLUS 会员立减 28.99 元；</p></li><li><p data-vmark=\"05ac\">PLUS 会员领取",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "26888 元无门槛",
-      "url": "https://www.ithome.com/1/025/240.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-11T01:08:47.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 9,
-      "verified": true
-    },
-    {
-      "id": "rss-vc1nha",
-      "title": "苹果为 AirPods 5/AirPods Pro 3 等耳机推送 9B47 固件更新",
-      "desc": "<p data-vmark=\"7820\">IT之家 11 月 11 日消息，据科技媒体 MacRumors 今天报道，苹果现已为 AirPods Pro 2/Pro 3、AirPods 4/AirPods 5 以及 AirPods Max 2 耳机发布新固件，<strong>版本号为 9B47</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9938\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/55c079c4-5428-4fb1-954c-8df00f12a",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/025/210.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-10T23:11:25.000Z",
-      "hot": 218,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2,
       "verified": true
     }
   ]
