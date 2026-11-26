@@ -1,30 +1,13 @@
 {
-  "updatedAt": "2026-11-26T04:22:22.774Z",
+  "updatedAt": "2026-11-26T14:27:40.801Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 26,
+    "fetched": 28,
     "linkVerified": true
   },
   "items": [
-    {
-      "id": "rss-4euc5o",
-      "title": "Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129.9美元【再次】",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "",
-      "url": "https://www.appinn.com/koofr-1tb/",
-      "expiresAt": null,
-      "publishedAt": "2026-11-24T03:24:23.000Z",
-      "hot": 152,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 4
-    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 终身免费 速度爆快的 AI 语音输入法 (说错能改口/去口头禅/无广告)",
@@ -162,24 +145,6 @@
       "_score": 3
     },
     {
-      "id": "rss-jvfiwh",
-      "title": "微软继续优化Windows 11内存占用 减少Microsoft Defender等内存占用 节省500MB内存",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128873.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-26T03:00:00.000Z",
-      "hot": 206,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-x4oxxx",
       "title": "OpenAI向全体ChatGPT订阅用户赠送1张重置卡 后续Codex部分模型配额消耗会更快",
       "desc": "",
@@ -194,8 +159,24 @@
         "RSS",
         "蓝点网·科技资讯"
       ],
-      "_score": 2,
-      "verified": true
+      "_score": 2
+    },
+    {
+      "id": "rss-jvfiwh",
+      "title": "微软继续优化Windows 11内存占用 减少Microsoft Defender等内存占用 节省500MB内存",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128873.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
     },
     {
       "id": "rss-ixca43",
@@ -212,8 +193,78 @@
         "RSS",
         "蓝点网·科技资讯"
       ],
+      "_score": 2
+    },
+    {
+      "id": "rss-mpp99n",
+      "title": "GTA6非官方PC移植项目被删除 R星发送DMCA侵权通知函后GitHub删除3007个仓库",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128879.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T06:30:07.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
       "_score": 2,
       "verified": true
+    },
+    {
+      "id": "rss-lake32",
+      "title": "赛博菩萨！Cloudflare宣布免费开放邮件发送功能 支持SMTP和API 但不能当普通邮箱用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128876.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T05:30:21.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-kxabfv",
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "desc": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/119563",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T07:00:00.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-4euc5o",
+      "title": "Koofr 云存储：免费 10GB 空间，支持 WebDAV、Rclone｜终身订阅 1TB 特价129.9美元【再次】",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/koofr-1tb/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-24T03:24:23.000Z",
+      "hot": 152,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 4
     },
     {
       "id": "rss-71z9a7",
@@ -1796,23 +1847,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3
-    },
-    {
-      "id": "rss-1qcuz2",
-      "title": "等待这么多年后，Google Voice终于有望支持RCS富媒体消息，可发送更多富媒体内容",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128315.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-12T07:00:29.000Z",
-      "hot": 149,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2
     },
     {
       "id": "rss-xzaye3",
