@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-26T14:27:40.801Z",
+  "updatedAt": "2026-11-26T23:17:53.843Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 28,
+    "fetched": 29,
     "linkVerified": true
   },
   "items": [
@@ -145,6 +145,57 @@
       "_score": 3
     },
     {
+      "id": "rss-kxabfv",
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "desc": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/119563",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T07:00:00.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-mpp99n",
+      "title": "GTA6非官方PC移植项目被删除 R星发送DMCA侵权通知函后GitHub删除3007个仓库",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128879.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T06:30:07.000Z",
+      "hot": 209,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-lake32",
+      "title": "赛博菩萨！Cloudflare宣布免费开放邮件发送功能 支持SMTP和API 但不能当普通邮箱用",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128876.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T05:30:21.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 4
+    },
+    {
       "id": "rss-x4oxxx",
       "title": "OpenAI向全体ChatGPT订阅用户赠送1张重置卡 后续Codex部分模型配额消耗会更快",
       "desc": "",
@@ -196,57 +247,21 @@
       "_score": 2
     },
     {
-      "id": "rss-mpp99n",
-      "title": "GTA6非官方PC移植项目被删除 R星发送DMCA侵权通知函后GitHub删除3007个仓库",
-      "desc": "",
-      "channel": "蓝点网",
+      "id": "rss-34y81m",
+      "title": "Epic 喜加一：《Bread and Fred》游戏免费领取",
+      "desc": "<p data-vmark=\"0000\">IT之家 11 月 27 日消息，Epic 本周送出的游戏是《Bread and Fred》，下周送出的游戏是《Strange Antiquities》。</p><p data-vmark=\"0001\"><strong>领取链接</strong>：<a href=\"https://store.epicgames.com/zh-CN/p/bread-and-fred-1db362\">《Bread and Fred》</a></p><p data-vmark=\"0002\">IT之家附《Bread and Fred》游戏简介：</p><p style=\"te",
+      "channel": "IT之家",
       "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128879.html",
+      "value": "免费领",
+      "url": "https://www.ithome.com/1/033/132.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-26T06:30:07.000Z",
-      "hot": 209,
+      "publishedAt": "2026-11-26T16:05:21.000Z",
+      "hot": 151,
       "tags": [
         "RSS",
-        "蓝点网·科技资讯"
+        "IT之家·资讯线报"
       ],
-      "_score": 2,
-      "verified": true
-    },
-    {
-      "id": "rss-lake32",
-      "title": "赛博菩萨！Cloudflare宣布免费开放邮件发送功能 支持SMTP和API 但不能当普通邮箱用",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128876.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-26T05:30:21.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-kxabfv",
-      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
-      "desc": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/119563",
-      "expiresAt": null,
-      "publishedAt": "2026-11-26T07:00:00.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2,
+      "_score": 3,
       "verified": true
     },
     {
@@ -1936,23 +1951,6 @@
       ],
       "_score": 3,
       "verified": true
-    },
-    {
-      "id": "rss-w7v2bi",
-      "title": "Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。</p><p data-vmark=\"0001\">领取链接：<a href=\"https://store.epicgames.com/zh-CN/p/knightica-3be45c\">《斗阵骑士 Knightica》</a></p><p data-vmark=\"0002\">IT之家附《斗阵骑士 Knightica》游戏简介：</p><p style=\"text-ali",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "免费领",
-      "url": "https://www.ithome.com/1/026/440.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-12T16:05:20.000Z",
-      "hot": 219,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
     },
     {
       "id": "rss-xqap29",
