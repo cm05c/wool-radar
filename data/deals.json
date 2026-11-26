@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-25T22:28:24.550Z",
+  "updatedAt": "2026-11-26T04:22:22.774Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 24,
+    "fetched": 26,
     "linkVerified": true
   },
   "items": [
@@ -160,6 +160,60 @@
         "异次元软件·限免羊毛"
       ],
       "_score": 3
+    },
+    {
+      "id": "rss-jvfiwh",
+      "title": "微软继续优化Windows 11内存占用 减少Microsoft Defender等内存占用 节省500MB内存",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128873.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-x4oxxx",
+      "title": "OpenAI向全体ChatGPT订阅用户赠送1张重置卡 后续Codex部分模型配额消耗会更快",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128880.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T03:42:26.000Z",
+      "hot": 220,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ixca43",
+      "title": "谷歌向所有用户开放邮件/网盘/日历等MCP和命令行工具 无需付费每天免费调用5000次",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128871.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-26T02:00:00.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-71z9a7",
