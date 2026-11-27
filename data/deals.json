@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:20:46.136Z",
+  "updatedAt": "2026-11-27T15:35:03.971Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
@@ -145,6 +145,23 @@
       "_score": 3
     },
     {
+      "id": "rss-kxaaue",
+      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+      "desc": "先预祝大家买得愉快、用得舒心。<a href=\"https://sspai.com/post/119601\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/119601",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T03:48:17.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
       "id": "rss-kxabfv",
       "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
       "desc": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
@@ -158,6 +175,23 @@
       "tags": [
         "RSS",
         "少数派·RSS"
+      ],
+      "_score": 2
+    },
+    {
+      "id": "rss-ie66q8",
+      "title": "苹果下架拥有1100万名用户的MiniMax Talkie 调查显示其AI角色向儿童发送不当内容",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128951.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
       ],
       "_score": 2
     },
@@ -196,6 +230,60 @@
       "_score": 4
     },
     {
+      "id": "rss-lmgbrz",
+      "title": "美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性",
+      "desc": "<p data-vmark=\"e313\">IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号：<strong>客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显</strong>。这些变化都有利于真正具备经营实力的平台。</p><p data-vmark=\"c423\">王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/764.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T14:24:51.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4,
+      "verified": true
+    },
+    {
+      "id": "rss-jf57li",
+      "title": "NodeWarden – 不用服务器，在 Cloudflare 上免费自建密码管理器【续】",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/nodewarden-update-1/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T09:12:11.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-kq0gro",
+      "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
+      "desc": "<p data-vmark=\"6550\">IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。</p><p data-vmark=\"d3d4\">IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。</p><p data-vmark=\"c6df\"><strong>城区领航辅助安全里程门槛由 300 公里降低至",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/747.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T13:02:20.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
       "id": "rss-x4oxxx",
       "title": "OpenAI向全体ChatGPT订阅用户赠送1张重置卡 后续Codex部分模型配额消耗会更快",
       "desc": "",
@@ -231,24 +319,6 @@
       "verified": true
     },
     {
-      "id": "rss-ie66q8",
-      "title": "苹果下架拥有1100万名用户的MiniMax Talkie 调查显示其AI角色向儿童发送不当内容",
-      "desc": "",
-      "channel": "蓝点网",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.landian.news/archives/128951.html",
-      "expiresAt": null,
-      "publishedAt": "2026-11-27T03:00:00.000Z",
-      "hot": 205,
-      "tags": [
-        "RSS",
-        "蓝点网·科技资讯"
-      ],
-      "_score": 2,
-      "verified": true
-    },
-    {
       "id": "rss-gyk11f",
       "title": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
       "desc": "<p data-vmark=\"51a3\">IT之家 11 月 27 日消息，科技媒体 BornCity 昨日（11 月 26 日）发布博文，报道称微软通过 Windows Update 更新通道，<strong>面向部分运行 Windows 11 系统的英特尔迷你主机用户推送问题驱动更新，引发 Windows Defender 高风险警报。</strong></p><p data-vmark=\"0b02\">IT之家援引博文介绍，微软面向部分英特尔 NUC 迷你主机产品，推送 1.0.0.38 版本 Intel Performance Driver Extension，该驱动属于 Intel N",
@@ -264,24 +334,6 @@
         "IT之家·资讯线报"
       ],
       "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-kxaaue",
-      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
-      "desc": "先预祝大家买得愉快、用得舒心。<a href=\"https://sspai.com/post/119601\" target=\"_blank\">查看全文</a>",
-      "channel": "少数派",
-      "category": "办公",
-      "value": "",
-      "url": "https://sspai.com/post/119601",
-      "expiresAt": null,
-      "publishedAt": "2026-11-27T03:48:17.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "少数派·RSS"
-      ],
-      "_score": 2,
       "verified": true
     },
     {
@@ -1194,23 +1246,6 @@
       "verified": true
     },
     {
-      "id": "rss-q6urpl",
-      "title": "赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent",
-      "desc": "",
-      "channel": "小众软件",
-      "category": "白嫖",
-      "value": "免费领",
-      "url": "https://www.appinn.com/egg-instabox/",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T06:41:06.000Z",
-      "hot": 213,
-      "tags": [
-        "RSS",
-        "小众软件·限免频道"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-owrnx4",
       "title": "腾讯WorkBuddy上线混元HY4 Flash模型且免费使用 活动到11月30日结束",
       "desc": "",
@@ -1885,57 +1920,6 @@
       "verified": true
     },
     {
-      "id": "rss-z4j0tj",
-      "title": "发售六天前，R 星推送约 1GB 的首个《GTA 6》官方更新",
-      "desc": "<p data-vmark=\"6777\" style=\"text-align: start;\">IT之家 11 月 13 日消息，Rockstar 今天（13 日）向 PS5 和 XBOX Series X 平台推送了《GTA 6》的首个官方更新，<strong>版本号为 1.002.000</strong>。</p><p style=\"text-align: center;\" data-vmark=\"4ac7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/c655e78d-444f-4bde-814c-ef4f818577",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/955.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T13:53:31.000Z",
-      "hot": 222,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-y835t8",
-      "title": "消息称抖音向主播发送发布《GTA6》游戏直播规范：大尺度内容要遮挡",
-      "desc": "<p data-vmark=\"0594\">IT之家 11 月 13 日消息，据游民星空报道，随着《GTA6》发售临近，抖音平台向主播发布了一份《GTA6 抖音开播合规引导》，相应文档内容从抖音官方主播群流出，并未公开发布，主要是帮助为主播划定开播规则。</p><p style=\"text-align: center;\" data-vmark=\"8cf9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/242de68b-e16d-4295-9c72-e782fd855552.png\" w=\"1440\" h=\"837\" data-",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/938.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T12:02:41.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
-      "id": "rss-y5vzfs",
-      "title": "太空模拟游戏《星际公民》开启“IAE 2956”活动，玩家可免费试玩游戏半个月",
-      "desc": "<p data-vmark=\"5a09\">IT之家 11 月 13 日消息，Cloud Imperium Games（CIG）宣布，旗下太空模拟游戏《星际公民》（Star Citizen）将于 11 月 13 日至 11 月 27 日开启“2956 年星际航空博览会（IAE 2956）”，玩家可以免费试玩游戏半个月，还能够在博览会展区的自助终端自由租赁超过 200 款飞船和地面载具。</p><p style=\"text-align: center;\" data-vmark=\"38a1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/934.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T11:40:10.000Z",
-      "hot": 221,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
       "id": "rss-xzaye3",
       "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
       "desc": "<p data-vmark=\"0000\">IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。</p><p data-vmark=\"0001\">其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0002\">Beta（26H1",
@@ -1946,77 +1930,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-13T18:07:19.000Z",
       "hot": 220,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-mdylyd",
-      "title": "小米澎湃 OS 4 第三批正式版开启推送，覆盖小米 15 系列手机、Pad 7 系列平板等",
-      "desc": "<p data-vmark=\"7acf\">IT之家 11 月 13 日消息，小米澎湃 OS 官方今日宣布，小米澎湃 OS 4 正式版覆盖更多机型，本次升级覆盖机型已开始陆续推送。</p><p data-vmark=\"bae8\"><strong>手机</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a7f3\">Xiaomi 15 Ultra / Xiaomi 15 Ultra 双卫星版</p></li><li><p data-vmark=\"fcf0\">Xiaomi 15S Pro</p></li><li><p data",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/898.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T10:19:19.000Z",
-      "hot": 209,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3
-    },
-    {
-      "id": "rss-kibwyy",
-      "title": "微软 XBOX 面向内测频道推送主页动态背景轮播等测试功能",
-      "desc": "<p data-vmark=\"adb7\">IT之家 11 月 13 日消息，Microsoft（微软）XBOX 当地时间昨日宣布向 Insider 计划中的 Alpha Skip-Ahead 内测频道用户<strong>推送三项新的测试性功能</strong>。</p><p data-vmark=\"e28e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4d371911-e595-4e6d-8ce4-8799921ff443.png?x-bce-process=imag",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/859.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T09:01:46.000Z",
-      "hot": 207,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-7nwxy9",
-      "title": "游戏《巴士模拟器 27》上新免费 DLC，内含比亚迪 K9UD、K11U 两款电动车型",
-      "desc": "<p data-vmark=\"cd5c\">IT之家 11 月 13 日消息，驾驶模拟游戏《巴士模拟器 27》本月 12 日宣布<strong>以免费形式推出比亚迪巴士包</strong>。这一 DLC 包含 2 款比亚迪面向海外市场开发的纯电动客车：一般结构的 K9UD 和铰链式的 K11U。</p><p data-vmark=\"f05b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e6f07de9-d189-4b81-8ace-9c61a6c1c5cf.jpg\" w",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/795.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T07:49:05.000Z",
-      "hot": 155,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-5qmv6r",
-      "title": "山灵 SM 3.3 数播解码一体机将于 11 月 14 日发售：双「昆仑 Pro」R2R 解码阵列，23980 元",
-      "desc": "<p data-vmark=\"da88\">IT之家 11 月 13 日消息，山灵音响发文，宣布旗下 SM 3.3 数播解码一体机将于 11 月 14 日发售，定价为 23980 元。</p><p style=\"text-align: center;\" data-vmark=\"d45d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/105236a5-f719-479c-b860-430e16eba473.png\" w=\"1334\" h=\"928\" data-weibo=\"0\" class=\"nowebp no-alt-img\"",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "0 元",
-      "url": "https://www.ithome.com/1/026/753.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T06:55:32.000Z",
-      "hot": 153,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
