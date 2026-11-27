@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-26T23:17:53.843Z",
+  "updatedAt": "2026-11-27T05:20:46.136Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 29,
+    "fetched": 30,
     "linkVerified": true
   },
   "items": [
@@ -211,6 +211,78 @@
         "蓝点网·科技资讯"
       ],
       "_score": 2
+    },
+    {
+      "id": "rss-k5h11w",
+      "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
+      "desc": "<p data-vmark=\"99ff\">IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上，<a href=\"https://www.ithome.com/1/033/066.htm\" target=\"_blank\">华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统</a>。</p><p data-vmark=\"6e52\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9ca27508-d561-4d5",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/280.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T03:39:17.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-ie66q8",
+      "title": "苹果下架拥有1100万名用户的MiniMax Talkie 调查显示其AI角色向儿童发送不当内容",
+      "desc": "",
+      "channel": "蓝点网",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.landian.news/archives/128951.html",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "hot": 205,
+      "tags": [
+        "RSS",
+        "蓝点网·科技资讯"
+      ],
+      "_score": 2,
+      "verified": true
+    },
+    {
+      "id": "rss-gyk11f",
+      "title": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
+      "desc": "<p data-vmark=\"51a3\">IT之家 11 月 27 日消息，科技媒体 BornCity 昨日（11 月 26 日）发布博文，报道称微软通过 Windows Update 更新通道，<strong>面向部分运行 Windows 11 系统的英特尔迷你主机用户推送问题驱动更新，引发 Windows Defender 高风险警报。</strong></p><p data-vmark=\"0b02\">IT之家援引博文介绍，微软面向部分英特尔 NUC 迷你主机产品，推送 1.0.0.38 版本 Intel Performance Driver Extension，该驱动属于 Intel N",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/218.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T02:54:01.000Z",
+      "hot": 203,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3,
+      "verified": true
+    },
+    {
+      "id": "rss-kxaaue",
+      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+      "desc": "先预祝大家买得愉快、用得舒心。<a href=\"https://sspai.com/post/119601\" target=\"_blank\">查看全文</a>",
+      "channel": "少数派",
+      "category": "办公",
+      "value": "",
+      "url": "https://sspai.com/post/119601",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T03:48:17.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "少数派·RSS"
+      ],
+      "_score": 2,
+      "verified": true
     },
     {
       "id": "rss-jvfiwh",
@@ -1945,24 +2017,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-13T06:55:32.000Z",
       "hot": 153,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-xqap29",
-      "title": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
-      "desc": "<p data-vmark=\"45a6\">IT之家 11 月 13 日消息，苹果 HomeView 于当地时间 11 月 13 日正式开售。由于时区的原因，澳大利亚和新西兰首批预购用户的订单已率先送达。</p><p data-vmark=\"a8b9\">另外，由于新西兰没有 Apple 零售店，澳大利亚消费者成为首批能在 Apple Store 内直接购买该设备的用户。</p><p data-vmark=\"ea62\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/23273",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/476.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T00:46:32.000Z",
-      "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
