@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-11-27T15:35:03.971Z",
+  "updatedAt": "2026-11-27T23:43:46.804Z",
   "source": "fetcher",
   "stats": {
     "sourcesOk": 5,
     "sourcesTotal": 5,
-    "fetched": 30,
+    "fetched": 32,
     "linkVerified": true
   },
   "items": [
+    {
+      "id": "rss-jf57li",
+      "title": "NodeWarden – 不用服务器，在 Cloudflare 上免费自建密码管理器【续】",
+      "desc": "",
+      "channel": "小众软件",
+      "category": "白嫖",
+      "value": "",
+      "url": "https://www.appinn.com/nodewarden-update-1/",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T09:12:11.000Z",
+      "hot": 206,
+      "tags": [
+        "RSS",
+        "小众软件·限免频道"
+      ],
+      "_score": 2
+    },
     {
       "id": "rss-ynfp3m",
       "title": "网易叭哥说 - 终身免费 速度爆快的 AI 语音输入法 (说错能改口/去口头禅/无广告)",
@@ -179,6 +196,40 @@
       "_score": 2
     },
     {
+      "id": "rss-lmgbrz",
+      "title": "美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性",
+      "desc": "<p data-vmark=\"e313\">IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号：<strong>客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显</strong>。这些变化都有利于真正具备经营实力的平台。</p><p data-vmark=\"c423\">王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/764.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T14:24:51.000Z",
+      "hot": 208,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 4
+    },
+    {
+      "id": "rss-kq0gro",
+      "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
+      "desc": "<p data-vmark=\"6550\">IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。</p><p data-vmark=\"d3d4\">IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。</p><p data-vmark=\"c6df\"><strong>城区领航辅助安全里程门槛由 300 公里降低至",
+      "channel": "IT之家",
+      "category": "资讯",
+      "value": "",
+      "url": "https://www.ithome.com/1/033/747.htm",
+      "expiresAt": null,
+      "publishedAt": "2026-11-27T13:02:20.000Z",
+      "hot": 207,
+      "tags": [
+        "RSS",
+        "IT之家·资讯线报"
+      ],
+      "_score": 3
+    },
+    {
       "id": "rss-ie66q8",
       "title": "苹果下架拥有1100万名用户的MiniMax Talkie 调查显示其AI角色向儿童发送不当内容",
       "desc": "",
@@ -230,52 +281,34 @@
       "_score": 4
     },
     {
-      "id": "rss-lmgbrz",
-      "title": "美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性",
-      "desc": "<p data-vmark=\"e313\">IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号：<strong>客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显</strong>。这些变化都有利于真正具备经营实力的平台。</p><p data-vmark=\"c423\">王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/033/764.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-27T14:24:51.000Z",
-      "hot": 208,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 4,
-      "verified": true
-    },
-    {
-      "id": "rss-jf57li",
-      "title": "NodeWarden – 不用服务器，在 Cloudflare 上免费自建密码管理器【续】",
-      "desc": "",
-      "channel": "小众软件",
+      "id": "rss-x4h52t",
+      "title": "PVE 9.3 (Proxmox VE) 虚拟机系统 - 开源免费！同时安装运行多个不同操作系统",
+      "desc": "玩软路由、NAS、迷你主机等的朋友，如果希望能在一台机器上安装运行多个不同操作系统 (俗称 All in One)，一定都喜欢折腾「虚拟化系统」，其中最主流的就有 ESXi、PVE、Unraid 三者。\nPVE (全称 Proxmox Virtual Environment) 是一个既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台。它基于 Debian 和 KVM 技术开发，完全开源免费！通过 PVE 你可以随时创建管理多台虚拟机，在一台 PC 或服务器上同时运行各种 Linux、OpenWRT、Windows 等操作系统……\n「 前往查看原文.... 」异次元还有这些值得一看：VM",
+      "channel": "异次元",
       "category": "白嫖",
       "value": "",
-      "url": "https://www.appinn.com/nodewarden-update-1/",
+      "url": "https://www.iplaysoft.com/pve.html",
       "expiresAt": null,
-      "publishedAt": "2026-11-27T09:12:11.000Z",
-      "hot": 206,
+      "publishedAt": "2026-11-27T20:10:22.000Z",
+      "hot": 220,
       "tags": [
         "RSS",
-        "小众软件·限免频道"
+        "异次元软件·限免羊毛"
       ],
-      "_score": 2,
+      "_score": 3,
       "verified": true
     },
     {
-      "id": "rss-kq0gro",
-      "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
-      "desc": "<p data-vmark=\"6550\">IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。</p><p data-vmark=\"d3d4\">IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。</p><p data-vmark=\"c6df\"><strong>城区领航辅助安全里程门槛由 300 公里降低至",
+      "id": "rss-m55by9",
+      "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
+      "desc": "<p data-vmark=\"069e\">IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。</p><p data-vmark=\"0079\">OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 667.5 元人民币）</span>的优惠额度。</p><",
       "channel": "IT之家",
       "category": "资讯",
       "value": "",
-      "url": "https://www.ithome.com/1/033/747.htm",
+      "url": "https://www.ithome.com/1/033/777.htm",
       "expiresAt": null,
-      "publishedAt": "2026-11-27T13:02:20.000Z",
-      "hot": 207,
+      "publishedAt": "2026-11-27T23:04:37.000Z",
+      "hot": 209,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
@@ -1867,23 +1900,6 @@
       "verified": true
     },
     {
-      "id": "rss-d853fi",
-      "title": "SpaceX 洽购发射场周边约 526.19 万平方米土地，拟将一半永久用于保护",
-      "desc": "<p data-vmark=\"e707\">IT之家 11 月 14 日消息，科技媒体 tipranks 于 11 月 12 日发布博文，<strong>报道称 SpaceX 正与美国得克萨斯州公园与野生动物管理局商谈，拟收购环绕其发射设施的约 1,300 英亩土地（IT之家注：约合 <strong>526.19 万平方米）</strong>。</strong>博卡奇卡海滩不在拟出售范围内，目前相关交易仍处于商谈阶段。</p><p style=\"text-align: center;\" data-vmark=\"1168\"><img src=\"https://img.ithome.com/news",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/027/010.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T23:39:33.000Z",
-      "hot": 200,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 2
-    },
-    {
       "id": "rss-sdl01q",
       "title": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
       "desc": "<p data-vmark=\"61d5\">IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 S3 535Ultra+ 激光换电版在国内上市，限时补贴价 7.88 万元起（电池租用）。</p><p data-vmark=\"3ead\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7cca331b-2e00-4b76-a41f-33f2ad7999e6.png\" w=\"651\" h=\"459\" data-weibo=\"0\" class=\"nowebp no-al",
@@ -1912,24 +1928,6 @@
       "expiresAt": null,
       "publishedAt": "2026-11-14T02:11:43.000Z",
       "hot": 202,
-      "tags": [
-        "RSS",
-        "IT之家·资讯线报"
-      ],
-      "_score": 3,
-      "verified": true
-    },
-    {
-      "id": "rss-xzaye3",
-      "title": "微软发布 Win11 Beta / Experimental / RP 多版本预览版：含 28020.3532 等多版本推送",
-      "desc": "<p data-vmark=\"0000\">IT之家 11 月 14 日消息，微软昨天（11 月 13 日）发布博文，邀请 Beta、Experimental、Release Preview 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的预览版更新。</p><p data-vmark=\"0001\">其中常规 Beta、Experimental 主通道本周暂不推送更新，相关常规更新将在下周正式发布，本次推送的版本分别为：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0002\">Beta（26H1",
-      "channel": "IT之家",
-      "category": "资讯",
-      "value": "",
-      "url": "https://www.ithome.com/1/026/997.htm",
-      "expiresAt": null,
-      "publishedAt": "2026-11-13T18:07:19.000Z",
-      "hot": 220,
       "tags": [
         "RSS",
         "IT之家·资讯线报"
